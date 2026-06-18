@@ -1,0 +1,68 @@
+[
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "Press Release & Webcast",
+    "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "Press Release & Webcast",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "Webcast",
+    "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "",
+    "url": "http://www.facebook.com/sharer.php?u=https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "",
+    "url": "http://www.linkedin.com/shareArticle?url=https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "source": "scraper",
+    "ir_page_scraped": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "title": "",
+    "url": "mailto:?subject=Microsoft%20Investor%20Relations%20%20Link&body=Here%20is%20some%20information%20from%20the%20Microsoft%20Investor%20Relations%20website%20that%20I%20thought%20you%27d%20be%20interested%20in:%20%0A%0Ahttps://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  }
+]

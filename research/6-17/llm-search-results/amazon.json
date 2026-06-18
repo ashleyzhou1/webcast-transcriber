@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "fiscal_period": "Q1 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "text",
+    "title": "Q1 2026 Financial Results",
+    "url": "https://ir.aboutamazon.com",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML"
+  },
+  {
+    "company": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "fiscal_period": "Q1 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "audio",
+    "title": "Q1 2026 Earnings Conference Call Webcast",
+    "url": "https://ir.aboutamazon.com",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming player"
+  }
+]

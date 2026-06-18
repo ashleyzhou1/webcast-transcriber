@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "fiscal_period": "Q2 FY2026",
+    "quarter_end_date": "2026-03-28",
+    "asset_type": "text",
+    "title": "Q2 FY2026 Earnings Release",
+    "url": "https://investor.apple.com",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML"
+  },
+  {
+    "company": "Apple Inc.",
+    "ticker": "AAPL",
+    "fiscal_period": "Q2 FY2026",
+    "quarter_end_date": "2026-03-28",
+    "asset_type": "audio",
+    "title": "Q2 FY2026 Earnings Call Webcast",
+    "url": "https://investor.apple.com",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming webcast"
+  }
+]

@@ -1,0 +1,12 @@
+# Python dependencies for stockfan-webcast-transcriber
+# Install with: pip install -r requirements.txt
+#
+# Also requires ffmpeg (system install, not pip):
+#   Mac:   brew install ffmpeg
+#   Linux: sudo apt install ffmpeg
+#   Windows: https://ffmpeg.org/download.html
+
+openai-whisper==20250625
+requests==2.33.1
+beautifulsoup4==4.14.3
+pypdf==5.9.0

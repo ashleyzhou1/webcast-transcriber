@@ -1,0 +1,1054 @@
+[00:00] Good day and welcome to the fiscal 2026 second-corner Huylut Packard Enterprise Earnings Conference
+[00:07] call.
+[00:08] All participants will be in a listen-only mode.
+[00:10] Should you need assistance, please signal a conference specialist by pressing the star
+[00:14] key followed by zero.
+[00:16] After today's presentation, there will be an opportunity to ask questions.
+
+[00:19] To ask a question, you may press star, then one on a touchdown phone.
+[00:23] To withdraw your question, please press star, and then two.
+[00:27] Please note this event is being recorded.
+[00:29] I would now like to turn the conference over to Paul Glaser, Head of Investor Relations.
+[00:33] Please go ahead, sir.
+[00:36] Good afternoon.
+
+[00:37] I am Paul Glaser, Head of Investor Relations for Huylut Packard Enterprise.
+[00:41] I would like to welcome you to our fiscal 2026 second quarter earnings conference call
+[00:46] with Antonio Nery, HPE's President and Chief Executive Officer, and Marie Myers, HPE's
+[00:51] Chief Financial Officer.
+[00:54] Before handing the call to Antonio, let me remind you that this call is being webcast.
+[00:58] A replay of the webcast will be available shortly after the call concludes.
+
+[01:02] We have posted the press release and the slide presentation accompanying the release on our
+[01:07] HPE Investor Relations webpage.
+[01:09] Elements of the financial information referenced on this call are forward-looking and are based
+[01:14] on our best view of our business and the external factors affecting us as we see them today.
+[01:20] HPE assumes no obligation and does not intend to update any such forward-looking statements.
+[01:26] We also note that the financial information discussed on this call reflects estimates
+
+[01:30] based on information available at this time and could differ materially from the amounts
+[01:35] ultimately reported in HPE's quarterly report on Form 10Q for the fiscal quarter ended April
+[01:41] 30, 2026.
+[01:43] Diggers used in verbal remarks are rounded for ease of discussion.
+[01:47] For more detailed information, please see the earnings materials, as well as disclaimers
+[01:51] relating to forward-looking statements that involve risks, uncertainties, and assumptions.
+
+[01:56] Please refer to HPE's filings with SEC for more detailed discussion of these risks.
+[02:02] For financial information that we are showing on a non-GAP basis, we have provided reconciliations
+[02:07] to the comparable GAP information on our website.
+[02:11] Please refer to the tables and slide presentation accompanying today's earnings release on our
+[02:15] website for details.
+[02:17] Off this conference call, all revenue growth rates, unless noted otherwise, are presented
+
+[02:21] on a year-over-year basis.
+[02:24] Unless otherwise noted, all financial metrics and growth rates discussed today are non-GAP
+[02:28] and EPS refers to non-GAP diluted net earnings per share.
+[02:33] Certain financial information featured in the presentation today has been normalized
+[02:37] to include Juniper Networks results as of the beginning of HPE's fiscal 2025.
+[02:43] Antonio Murray will reference our earnings presentation in their prepared comments.
+
+[02:48] With that, let me turn it over to Antonio.
+[02:51] Thank you, Paul.
+[02:53] Good afternoon, everyone.
+[02:56] HPE delivered an exceptional quarter with record-breaking results, disciplined execution,
+[03:03] and clear proof that our strategy is working.
+[03:06] We made excellent progress in our Juniper integration and in our catalyst initiative
+
+[03:11] with both running ahead of schedule.
+[03:15] Revenue in the quarter reached $10.7 billion, up 40%.
+[03:21] Non-GAP earnings per share of 79 cents increased 108%, significantly above the high-end mobile
+[03:29] outlook.
+[03:31] We generated $915 million in free cash flow, an improvement of $1.8 billion, driven by
+[03:38] strong cash form operations and improved cash-conversal cycle performance.
+
+[03:44] Demand was even stronger than revenue growth.
+[03:48] Orders more than doubled, significantly outpacing revenue, resulting in a record company backlog.
+[03:56] Customer investments in Agentec AI and AI inferencing accelerated.
+[04:02] We also saw broad-based demand strength across the portfolio, driven by ongoing investment
+[04:07] in computing infrastructure modernization, unstructured storage data growth, and private
+[04:13] cloud adoption for AI.
+
+[04:16] Last year, other security analysts meted in New York.
+[04:19] We let out our strategy in fiscal 2028 financial commitments.
+[04:24] Based on our strong first half, 2026 results, our record backlog and our visibility into
+[04:31] the second half demand, we now expect to deliver $3.40 in non-GAP earnings per share
+[04:37] at the midpoint and at least $3.5 billion in free cash flow in fiscal 2026.
+[04:45] That is two years ahead of our committed long-term plan.
+
+[04:50] Marie will provide more detail on our third quarter and in full-year fiscal 2026 outlook,
+[04:56] as well as our fiscal 2027 framework, which is grounded on durable customer demand and
+[05:03] the profitability of both business segments.
+[05:07] Now let me turn to our business segment highlights, starting with networking.
+[05:13] I am particularly pleased with the progress we are making on the Juniper integration.
+[05:18] We are ahead of our integration milestones and synergies commitments, and the unified
+
+[05:24] portfolio and Salesforce are already strengthening our market position and growth momentum.
+[05:31] The combined networking portfolio and vision for self-driving networks is resonating with
+[05:37] customers and that enthusiasm together with strong go-to market execution is reflected
+[05:43] in our results.
+[05:46] Networking delivered revenue of $2.7 billion up double digits on a normalized basis with
+[05:52] orders growing significantly faster than revenue.
+
+[05:56] We saw increased demand in Campus and Branch, networks for AI and security.
+[06:04] I am pleased with the strong demand we saw from enterprise customers for our networking
+[06:09] portfolio.
+[06:11] Campus and Branch orders reach a new record high growing in the upper 20% range on a normalized
+[06:18] basis.
+[06:20] We want multi-million dollar deals across multiple verticals, including retail, automotive,
+
+[06:26] government and technology.
+[06:28] Wi-Fi 7 access points increased more than seven times, reflecting a clear shift toward
+[06:36] network modernization.
+[06:38] HPE for the 20th time in a row was named a leader in the Garner Magic Quadrant for enterprise
+[06:46] wire and wireless LAN infrastructure.
+[06:49] We believe this independent industry analyst validation reinforces how far ahead we are
+
+[06:55] in enterprise networking beyond even incumbents.
+[07:01] Customers trust us with their most critical networking infrastructure decisions as they
+[07:05] expand their digital initiatives and AI investments.
+[07:10] One customer taking advantage of the power of our combined Campus and Branch networking
+[07:15] portfolio is Lowe's.
+[07:18] With over 1,750 stores across North America, Lowe's chose HPE to deliver the Netoor Foundation
+
+[07:26] for a major technology transformation to support its digital on-ramp and AI enabled operations.
+[07:34] The solution is built on our HPE Mist AI platform for wiring wireless networking infrastructure
+[07:40] alongside our HPE Edge Connect SD1 solution.
+[07:46] Last month we reached a milestone with the launch of new autonomous agents powered by
+[07:52] Agentic AI for optimizing networking performance.
+[07:56] The self-driving network is no longer a concept.
+
+[07:59] It is a reality.
+[08:01] The UK Ministry of Justice is an early adopter example.
+[08:06] It was able to reduce the number of incidents seen by its network operation center by approximately
+[08:12] 75% after deploying a suite of solutions that included our new HPE self-driving network
+[08:19] capabilities.
+[08:22] In enterprise data center switching orders increase nearly 20% on a normalized basis.
+
+[08:29] Our data center switching pipeline remains strong.
+[08:32] Cross-portfolio product integration in cells across server, storage and networking are driving
+[08:38] deeper customer engagement and larger deals.
+[08:42] Security orders grew in the mid-teens on a normalized basis.
+[08:47] We continue to make the network a first line of defense that responds to threats in real
+[08:53] time.
+
+[08:55] This quarter we launched the HP Juniper SRX 400 series bringing career-grade firewall
+[09:01] protection to the branch for large distributed environments.
+[09:06] We see significant runway as more customers consolidate networking and security with a
+[09:12] single vendor forcing convergence all the way to the silicon layer of the stack where
+[09:17] HPE will have further differentiation.
+[09:22] In our service provider customer segment revenue increased double digits on a normalized basis.
+
+[09:29] We're routing orders growing significantly faster than revenue.
+[09:34] Routing orders increased nearly 30% on a normalized basis driven by data center interconnect
+[09:41] deployments in large cloud service providers.
+[09:45] Customers are choosing HPE because we help them scale in every dimension.
+[09:51] Scale up by increasing the performance and density of individual platforms for the most
+[09:56] demanding AI workloads.
+
+[09:59] Scale out by expanding the networking fabric to connect thousands of GPUs and accelerators
+[10:05] within a single data center.
+[10:08] And scale across by extending high bandwidth interconnectivity between data centers across
+[10:14] campuses and into the wide area network so AI services can run whatever they are needed.
+[10:21] HPE is developing a scale up ether and switch and software designed specifically for the
+[10:27] AMD Helios AI RAC scale architecture which we expect will be introduced in the fall.
+
+[10:35] In scale out we lead with our AI driven QFX switching fabric.
+[10:41] HPE is the first OEM to productize a Tomahar 6 based 100% liquid cooled switch with industry
+[10:49] leading performance and power efficient for AI infrastructure.
+[10:54] In addition our leading fabric management and AI ops capabilities reduce congestion, latency
+[11:01] as well as operational complexity.
+[11:04] We expect a roadmap to extend this leadership through co-packaged optics resulting in lower
+
+[11:10] overall power consumption.
+[11:13] In scale across the Juniper PTX series delivers 800 gigabit density with exceptional power
+[11:19] efficiency leveraging our distinct expressed silicon and simplified AI native automation.
+[11:27] Because of our leading innovation and market momentum in networks for AI we are raising
+[11:33] our cumulative fiscal 2026 networks for AI order target to at least $2 billion.
+[11:42] We are laser focused on building the best networking business in the industry.
+
+[11:47] Our priorities are clear, extend AI driven automation across the portfolio, help customer
+[11:53] scale modern AI infrastructure with secure high performance networking and lead in the
+[11:59] convergence of networking and security.
+[12:02] We have the team, the capabilities and the momentum to convert the opportunity in this
+[12:07] segment into durable shareholder value.
+[12:12] In our cloud and AI business segment we executed with strong discipline across all business
+
+[12:17] lines.
+[12:19] Revenue was $7.7 billion at 23% driven by exceptional traditional servers orders and
+[12:27] very strong demand in AI systems.
+[12:30] Alettra MP Storage, private cloud and GreenLake software and services.
+[12:36] Traditional server orders increased triple digits as customers continued to modernize
+[12:41] their compute infrastructure and invest in AI inferencing.
+
+[12:46] We are working very closely with our silicon and memory partners to continue to secure supply
+[12:51] which we factor into a new fiscal 2026 guide.
+[12:57] We are also engaging customers and channel partners on lead times and configuration
+[13:01] options to help them plan effectively.
+[13:05] We saw strong demand in AI training throughout the quarter.
+[13:09] We booked $1.8 billion in UAI systems orders bringing community AI systems bookings to
+
+[13:16] $16.4 billion.
+[13:20] We entered Q3 with $5.9 billion in backlog primarily composed of enterprise and sovereign
+[13:27] orders.
+[13:28] We are seeing a broad pattern across industries.
+[13:32] Enterprise is one the flexibility of choosing multiple AI models with the governance and
+[13:37] control of on-premises.
+
+[13:40] We will continue to manage AI systems opportunities with a focus on profitable growth and prudent
+[13:46] working capital management.
+[13:50] Storage had an outstanding order.
+[13:52] Our LATRMP storage orders increased triple digits, the sixth consecutive quarter of strong growth.
+[14:00] Several weeks ago we expanded the platform with new file storage and agentic AI ops capabilities.
+[14:07] This extends our LATRMP into the growing unstructured data market.
+
+[14:13] Our HPE Morpheus Enterprise and HPE VM Essential Software offerings continue to build momentum.
+[14:20] Revenue grew sequentially for the fourth consecutive quarter.
+[14:25] VM Essentials customer count increased 43% in the first half with another more rise in
+[14:31] net new logos.
+[14:33] Private Cloud AI orders increased again this quarter with a growing base of new customer
+[14:39] widths.
+
+[14:41] We recently launched our second generation PC AI offering designed for enterprise AI
+[14:47] inferencing and cloud gap to sovereign environments which position us for continued growth.
+[14:54] More broadly we are embedding agentic AI capabilities across our storage and data protection portfolio
+[15:00] to help customers automate AI data pipelines and operations.
+[15:06] We continue to add new cloud AI agentic services to our GreenLake Cloud platform, acquiring
+[15:11] new customers and increasing the net retention rates for our GreenLake services business which
+
+[15:18] remains near 110%.
+[15:22] We exit a Q2 with approximately 50,000 customers operating their IT in our GreenLake Cloud managing
+[15:29] more than 6.7 million systems up from 5.3 million a year ago.
+[15:36] One win that brings the power of the full HP portfolio together is the Dallas Cowboys,
+[15:42] the most valuable sports franchise in the world.
+[15:45] They came to HPE with a clear objective, modernize their infrastructure, simplify operations and
+
+[15:52] build the right secure foundation for AI.
+[15:56] We delivered a comprehensive solution anchored on our HPE GreenLake Private Cloud offering,
+[16:01] spanning ProLion servers, Aliter MP storage and HPE Morpheus Enterprise.
+[16:07] The Cowboys are also adopting HPE VM Essentials as their preferred virtualization layer.
+[16:14] This is a strong example of the value customers can unlock when they choose HPE as an end-to-end
+[16:21] technology partner.
+
+[16:23] Lastly, HPE Financial Services delivered another outstanding quarter with record return on
+[16:29] equity.
+[16:31] The services deepens customer relationships, supports our GreenLake Cloud adoption and
+[16:36] remains a meaningful competitive advantage as customers ramp their investment in AI.
+[16:44] Before I close, I want to highlight two important upcoming events.
+[16:49] In two weeks, we are hosting HP Discover in Las Vegas.
+
+[16:54] We will share updates on our networking cloud, NEI strategies, including major product announcements
+[17:00] along with a live Q&A for investors and analysts.
+[17:04] I hope to see you there.
+[17:06] Then later this fall, we will host a dedicated networking investor today.
+[17:12] In closing, HPE delivered an exceptional quarter.
+[17:16] Our results demonstrate that our strategy continues to pay off.
+
+[17:21] We now expect to significantly exceed our original fiscal 2028 non-gap Earnest Per Share target
+[17:29] and generate at least $3.5 billion in free cash flow in fiscal 2026, two years ahead
+[17:38] the plan.
+[17:40] The market trends driving our performance remain strong and well aligned to our strategy.
+[17:46] We expect demand strength to continue into fiscal 2027 and beyond, which will accelerate
+[17:52] durable shareholder value as we continue to scale profitably.
+
+[17:58] We are executing with strong discipline, creating meaningful value from the Juniper
+[18:02] acquisition and strengthening our position at the intersection of networking cloud and
+[18:08] AI.
+[18:09] With a combined strength of HP and Juniper, we have the portfolio, the talent, and the
+[18:14] go-to market scale to lead in the market.
+[18:18] I want to thank our team members for their focus and strong execution.
+
+[18:24] Thank you, Antonio, and good afternoon, everyone.
+[18:29] I am pleased with our outstanding second quarter results.
+[18:33] We exceeded our commitments delivering record revenue and EPS, driven by disciplined execution
+[18:40] and a strong demand environment.
+[18:43] Our large backlog, favorable industry tailwinds, and improved demand and improved demand
+[18:49] visibility support a higher growth outlook.
+
+[18:53] In addition, we are achieving catalyst cost savings and Juniper synergies ahead of schedule.
+[18:59] As a result, we are increasing our fiscal 26 EPS outlook by over 40%.
+[19:06] I will address the drivers behind the strong EPS and free cash flow outlook shortly, but
+[19:11] first, let's take a look at our Q2 performance.
+[19:16] But first, let's take a look at our Q2 performance.
+[19:21] Revenue of 10.7 billion was above the high end of our guidance range, led by a traditional
+
+[19:26] server as customers' accelerated investments in a genetic AI and AI inferencing, and by
+[19:31] networking where we saw broad-based growth across the portfolio.
+[19:37] Sequentially, revenue grew 15% reflecting higher average selling prices within our server business,
+[19:43] driven by ongoing DRAM and NAND inflationary costs and supply constraints.
+[19:48] We continue to work with our partners to secure long-term agreements while executing the pricing
+[19:53] actions we discussed last quarter.
+
+[19:56] Groups margin improved to 36.9%, driven by mix as we shape demand to higher margin products.
+[20:04] Catalyst savings and Juniper related synergies also contribute into improvement on a year-over-year
+[20:09] basis.
+[20:10] Guiding profit was 1.4 billion above our expectations representing a 13.3% operating margin.
+[20:18] As the company scales and we continue to capture accelerated catalyst cost savings and Juniper
+[20:23] synergies, we expect operating profit growth to continue to outpace our top line.
+
+[20:30] EPS was 79 cents, well above the high end of our guidance.
+[20:35] Gap EPS was 44 cents.
+[20:38] We delivered Q2 free cash flow of $915 million fueled by strong operating profit.
+[20:46] Now let's turn to our segment results.
+[20:49] Networking delivered another solid quarter.
+[20:52] Revenue of 2.7 billion was up 10% on a normalized basis as growth accelerated.
+
+[20:58] Our backlog continues to grow given elevated demand and supply constraints and this is
+[21:02] reflected in the greater than 40% sequential growth we saw in our purchase commitments.
+[21:08] We continue to see strong demand for our networks for AI portfolio and now expect cumulative
+[21:14] orders to reach at least 2 billion by fiscal year-end 26.
+[21:19] Within our product categories, campus and branch normalized revenue growth accelerated
+[21:22] to 10% and gained by large deals across multiple industries.
+
+[21:28] Security growth infected positively to 18% benefiting from improved backlog conversion
+[21:33] and solid in-quarter demand.
+[21:36] Data center networking and routing grew 6% and 9% respectively, reflecting robust networks
+[21:41] for AI demand.
+[21:43] We are optimistic about the demand momentum we are seeing based on our growing pipeline.
+[21:49] Across customer verticals, service provider revenue grew 13% and enterprise grew 9% on
+
+[21:54] a normalized basis.
+[21:56] Our AI native self-driving network solution is clearly resonating as customers prioritize
+[22:02] AI use cases and simplify their network operations.
+[22:07] Network operating margin of 21.6% was in line with guidance, reflecting improved operating
+[22:13] leverage as gender percentages continued to ramp.
+[22:17] The sequential decline in margin reflected two factors.
+
+[22:20] First, Q1 benefited from certain one-time items and second, Q2 absorbed higher variable
+[22:27] compensation expense.
+[22:30] We remain focused on disciplined execution, operational efficiencies and synergy realization
+[22:35] to improve profitability and expand margins in the second half and beyond.
+[22:42] Moving to cloud and AI, we delivered revenue of 7.7 billion, up 23%, as strong owner activity
+[22:50] and pass through of high costs of new orders of traditional server and storage drove the
+
+[22:54] upside, partially offset by supply constraints and timing of AI service shipments.
+[23:01] Financial services continues to perform well.
+[23:04] Scale benefits drove operating profit of nearly $1 billion, up 48% sequentially and triple
+[23:10] digits year over year, pushing operating margin to 12.4% up 220 basis points sequentially.
+[23:18] Server revenue increased 33% as ASP grows in traditional server more than offset supply
+[23:23] constrained unit volumes.
+
+[23:26] Demand remained broad-based, as orders more than doubled year over year and increased
+[23:32] strong double digits sequentially.
+[23:35] We see accelerating demand in high-memory configured servers targeted at agent AI workloads, supporting
+[23:41] our expectation of sustainable growth.
+[23:44] AI systems orders of 1.8 billion were more balanced and broad-based this quarter.
+[23:51] Demand is expanding beyond AI server factories into broader AI workloads like orchestration,
+
+[23:57] data movement and agent AI.
+[24:00] Service provider orders exceeded the combined total of its prior four quarters, underscoring
+[24:05] the inherently lumpy nature of our large-scale AI deals.
+[24:09] A backlog increased nearly 20% sequentially to a new high and our pipeline remains multiples
+[24:15] of our backlog.
+[24:17] We continue to expect AI revenue to improve in the back half of the year, now peaking
+
+[24:22] in Q4.
+[24:24] Storage revenue grew 2% driven by strong orders, the ongoing mix shift towards high value-owned
+[24:29] IP and disciplined pricing execution.
+[24:32] Electra MP customer migration momentum accelerated sequentially, driving triple digit year over
+[24:38] year growth in both orders and revenue.
+[24:41] Continued demand strings in private cloud and our expanding backlog are driving improved
+
+[24:46] revenue visibility.
+[24:47] Lastly, financial services revenue was up 6% and generated an all-time high in return
+[24:53] on equity exceeding 30%.
+[24:57] Turning to our catalyst initiatives and judder percentages, I'm pleased that we are running
+[25:02] ahead of plan as we work on a range of programs to reduce cost of sales and optics across
+[25:07] our business.
+
+[25:08] As a result of these programs, a quarter-end we reported an employee base of just over
+[25:13] 65,000, the lowest level at which we have operated as a combined company and reflecting
+[25:18] an over 9% decline since both programs began.
+[25:23] Within judder percentages, we continue to focus on the four pillars we laid out at SAM.
+[25:27] Phase one of the integration, which we completed in January, focused on reducing overlap in
+[25:31] corporate functions and optimizing sales and service organizations.
+
+[25:36] As our missed and aruba portfolios converge, we expect to optimize our R&D spend.
+[25:42] In addition, we plan to continue to leverage overall HPE scale to improve commodity prices
+[25:47] and consolidate our vendor footprint to drive savings through supply chain integration.
+[25:52] Finally, regarding customer support, we intend to leverage scale and digital capabilities
+[25:57] inherited from judder per to further improve efficiency and the customer experience.
+[26:03] We expect to exceed our annual target of $200 million by the end of fiscal year 26.
+
+[26:11] We are pleased with our progress on Catalyst and we are ahead of plan.
+[26:15] Workforce transformation continues to drive the majority of our savings and Gen AI enabled
+[26:20] process simplification now represents nearly 20% of our fiscal 26 initiative savings.
+[26:26] We are leaning into Gen AI to increase productivity and reduce costs across the organization,
+[26:32] including customer support, HR and marketing.
+[26:36] Our teams are driving greater automation, redefining work management and reducing costs.
+
+[26:41] We are also rationalizing our global lab footprint by more than two thirds and reducing our contractor
+[26:48] base since the supply chain customer service by over 90% through targeted consolidation.
+[26:54] Taken together, we are building a LINA, more efficient organization and delivering meaningful
+[26:59] benefit to our operating margin.
+[27:03] According to free cash flow, we delivered operating cash flow of $1.4 billion.
+[27:08] Free cash flow totaled $950 million in Q2, bringing our first half fiscal 26 total to
+
+[27:15] $1.6 billion, about 75% above our prior comparable period high reported in fiscal 21.
+[27:23] Our cash conversion cycle improved by two days from Q1, driven primarily by an increase
+[27:28] in days payable due to higher purchases to support future shipments.
+[27:33] This was offset by an increase in days of inventory due to higher inventory and anticipation
+[27:38] of second half AI service shipments.
+[27:41] Days receivable increased by five days from the prior quarter due to strong revenue performance
+
+[27:46] towards the end of the quarter.
+[27:48] Inventory ended the quarter at $9 billion up year over year, sequentially supporting
+[27:52] second half AI installations and targeted commodity purchases.
+[27:58] We remain committed to our capital allocation strategy.
+[28:01] In Q2, we returned $343 million to shareholders, including 189 million in common dividends
+[28:09] and 154 million via share repurchases.
+
+[28:13] We refinance $2 billion of debt, received gross proceeds of approximately $1.4 billion
+[28:19] after closing our previously announced H3C transactions last month and used cash on hand
+[28:25] to retire our term load.
+[28:28] We expect that that impact will reduce annual net interest expense by approximately $75
+[28:33] million.
+[28:34] Importantly, we improved our proformal net leverage ratio to 2.3 times a quarter end,
+
+[28:41] down from 2.6 last quarter.
+[28:44] Turning to guidance, we are taking up our outlook on the back of Q2 results and greater
+[28:50] visibility into the second half demand environment.
+[28:54] Starting with Q3, we expect total revenue will be between $11.5 and $12.1 billion driven
+[29:00] by strong demand.
+[29:02] For networking, we expect revenue to grow 73 to 78 percent year over year and on a reported
+
+[29:07] basis or approaching 10 percent on a normalized basis.
+[29:12] We expect revenue performance and synergy realization to help offset the impact of inflationary
+[29:16] component costs driving an operating margin rate in line with our full year guidance.
+[29:22] In cloud and AI, we expect revenue to grow in the high teens reflecting demand durability,
+[29:27] elevated pricing and improved AI systems revenue.
+[29:31] We expect operating margins to be in the low to mid teens.
+
+[29:34] On a consolidated basis, we expect Q3 total operating expense to increase sequentially,
+[29:40] supporting seasonal marketing expense and networking R&D investments.
+[29:45] We expect our operating margin rate to be up on a sequential basis driven by improved
+[29:50] operating leverage.
+[29:52] Consequently, we expect EPS between 88 and 93 cents and gap EPS between 84 and 89 cents.
+[30:00] For fiscal year 26, we are raising our EPS outlook range to $3.35 to $3.45.
+
+[30:10] We are also raising our gap EPS range to $2.42 to $2.52.
+[30:18] We are making the following updates to our outlook.
+[30:22] We are raising our full year consolidated revenue growth to 29 to 33 percent on a reported
+[30:28] basis or high teens on a normalized basis.
+[30:32] We are also raising our full year consolidated operating profit growth outlook to 80 to 85
+[30:37] percent on a reported basis.
+
+[30:39] For cloud and AI, we expect server demand and pricing to remain durable driving sustainable
+[30:44] revenue growth.
+[30:46] Consequently, we are raising our full year cloud and AI revenue growth to the low 20
+[30:50] percent range from our prior mid to high single digit range driven by higher ASPs and our
+[30:55] traditional server business and improved AI systems revenue.
+[31:00] We are also raising our operating margin rate outlook to low to mid teens.
+
+[31:05] We are raising our full year networking revenue growth to 72 to 75 percent on a reported basis
+[31:11] or approaching 10 percent on a normalized basis, reflecting accelerated business performance
+[31:16] as our integration efforts take hold.
+[31:19] We are lowering our OIAD outlook to a range of 420 to 460 million, reflecting lower net
+[31:26] interest expense expectations.
+[31:28] Lastly, we are increasing our free cash flow outlook to at least $3.5 billion up from our
+
+[31:35] prior outlook of at least $2 billion.
+[31:38] We are confident in our new fiscal 26 outlook as we see continued order momentum in the
+[31:43] business thus far in Q3.
+[31:46] Based on the durability of demand, we are seeing in our results we are providing an
+[31:50] initial framework for fiscal 27.
+[31:53] We see sustained secular tailwinds driving consolidated revenue growth of 8 to 12 percent
+
+[31:58] with a similar range for both of our networking and cloud and AI segments.
+[32:03] Our outlook assumes that acceleration in AI systems revenue growth.
+[32:08] We see improved operating margins of 12 to 16 percent for the company and expect to
+[32:13] see a year-of-a-year reduction in operating expense.
+[32:17] We forecast networking margin in the mid to high 20 percent range, driven by scale mix
+[32:22] and synergies with cloud and AI operating margin in the range of 10 to 15 percent, depending
+
+[32:28] on the mix of AI business and the pace of catalyst savings.
+[32:32] We expect revenue growth at operating leverage to deliver EPS growth of 12 to 16 percent
+[32:37] and free cash flow of at least $4.5 billion.
+[32:41] Our outlook is expected to enable faster debt pay down.
+[32:46] As a result, we are now expect to reach out two times net leverage goal by the end of
+[32:51] fiscal year 26, one year ahead of schedule.
+
+[32:56] Once we reach our leverage target, we expect to return at least 75 percent of free cash
+[33:01] flow to our shareholders via dividends and share repurchases.
+[33:06] To close, Q2 was an outstanding quarter of a HPE.
+[33:11] We scaled the business, expanded margins and generated significant free cash flow.
+[33:17] We raised our outlook and are building a stronger, more profitable HPE.
+[33:22] I am confident in our ability to create long-term value for our shareholders.
+
+[33:27] With that, I'll turn the call back to the operator to begin the Q&A.
+[33:33] Thank you.
+[33:34] We will now begin the question and answer session.
+[33:37] To ask a question, you may press star, then one on your touch-tone phone.
+[33:42] If you are using a speaker phone, please pick up your handset before pressing the keys.
+[33:46] If at any time your question has been addressed, and you would like to withdraw your question,
+
+[33:50] please press star, and then two.
+[33:53] In the interest of time, please lend yourself to one question.
+[33:56] We will now pause momentarily to assemble the roster.
+[34:03] The first question will come from ASEAN Merchant with Citi.
+[34:06] Please go ahead.
+[34:07] Great.
+
+[34:08] Thank you for taking my question and outstanding results and guidance.
+[34:12] Maria, Antonio, I guess folks are talking about enterprise budgets.
+[34:18] Just given the price inflation that you guys are seeing through and being passed through,
+[34:24] where do you see enterprise budgets still sustaining themselves?
+[34:28] Obviously, your guide here now into fiscal year 27.
+[34:31] Thank you very much for that as well.
+
+[34:33] Many people are concerned that there is some kind of demand cliff that you could see even
+[34:38] past the more near-term outlooks and growth forecast that you're seeing.
+[34:43] What gives you this confidence to now provide fiscal year 27 guide?
+[34:48] If you could help us understand, I see it's between networking as well as cloud and the
+[34:54] eye.
+[34:55] What gives you the confidence that you're seeing in being able to provide an early outlook
+
+[34:59] into 27?
+[35:00] That would be great.
+[35:01] Thank you.
+[35:04] Well, thank you.
+[35:05] I shall have for the question.
+[35:07] I think it's multiple factors.
+
+[35:09] Factor number one and probably the most important one is the durability of the demand based
+[35:14] on what my conversations are with customers and the large, large pipeline which remains
+[35:20] multiples of the current backlog.
+[35:23] When you look at that demand and the pipeline, it's driven by the use cases we see with the
+[35:28] deployment of the AI or the build-outs of new data centers for AI, obviously, and
+[35:34] that the modernization taking place in enterprise.
+
+[35:37] It's a combination of multiple things that ultimately give us the confidence to not only
+[35:44] provide the new guide for 26, but an early view of 27.
+[35:49] When you think about our results in the first half and the backlog we have and the supply
+[35:55] that we have on hand and what is coming, that solidifies the 26.
+[36:00] And then in 27, the moment we have a network and it's outstanding across all customer segments
+[36:06] and as well product segments.
+
+[36:08] We talked about some of the demand that we see today in Compass and Branch, upper 20% and
+[36:14] cloud networking, which is in the 30% and so forth.
+[36:18] And customers, when you think about budgets, obviously, they are challenged because of the
+[36:24] price increases we have seen driven by the cost of commodity.
+[36:28] But I can tell you, we have not seen any pull-in.
+[36:32] We don't see a cliff.
+
+[36:34] And in many ways, I think customers are prioritizing getting access to technology now faster than
+[36:39] ever before because nobody wants to be left behind when it comes down to deploying AI.
+[36:45] I give an example in our own company.
+[36:47] We have 1,200 use cases in AI.
+[36:51] Maria, which is next to me here, is one of the early adopters and I will say aggressive
+[36:58] adopter.
+
+[36:59] But we have more than 250 use cases, mostly agentic AI, which has been already deployed.
+[37:05] And now we see this across the entire spectrum.
+[37:08] I was last week in Chicago, I met with a number of customers and partners and they see this.
+[37:14] When you go through that motion, then AI inferences grow.
+[37:18] And so we expect that AI inferences going to be in a separate way, the demand as we go
+[37:22] forward.
+
+[37:23] And therefore points to be durable in our demand and our ability to convert that.
+[37:31] Thank you, Aya.
+[37:32] Next question, please.
+[37:34] The next question will come from Wamsi Mohan with Bank of America.
+[37:37] Please go ahead.
+[37:39] Yes, thank you.
+
+[37:40] I'm really impressed that several results here and guide.
+[37:43] Antonio, can you do us maybe some rough mix of the opportunity that you see?
+[37:49] You mentioned scale up, scale up, scale across, especially as you look into fiscal 27.
+[37:54] How do you see that evolve?
+[37:56] And if I could, Marie, the growth in free cash flow is well in excess of EPS for 27.
+[38:02] Hoping you might be able to share some color on the drivers of that.
+
+[38:06] Thank you so much.
+[38:08] Well, thank you, Wamsi.
+[38:09] I think it's fairly balanced across the four product segments, Wamsi.
+[38:13] I mean, let's start with Compass and Branch, which has been and is the lion's share of
+[38:19] our network it makes.
+[38:22] I think the self-driving network vision and now the execution of it is absolutely resonated
+
+[38:30] with customers.
+[38:32] We announced our roadmap last December at the HP Discovering Barcelona.
+[38:37] You will see new announcements here in two weeks.
+[38:42] Our ability to support Aruba switches with MIST and cross-pollinating the two platforms.
+[38:48] But ultimately that AI driven experience is resonating.
+[38:53] And I mentioned one of the customers as an example taking advantage of that.
+
+[38:58] When I think about data center networking, we grew 20% in enterprise.
+[39:04] That obviously is driving synergies with the rest of the portfolio because now we have
+[39:08] a full conversation with customers across servers, storage and networking.
+[39:13] Now we are introducing in the fall the new switch with a Heelier stack reference architecture.
+[39:20] That's the first time to market.
+[39:22] So I have 6, 1.6 terabits.
+
+[39:25] That will be a tailwind as 2027 and start adopting the footprint in large service providers.
+[39:33] And then obviously, Skila Cross, the PTX platform is, I will say, the reference when it comes
+[39:38] down for data center interconnect and the PTX 10,000 and 12,000 is resonating to drive
+[39:45] data center interconnect.
+[39:47] So it's fairly balanced, I will say.
+[39:50] And we are early, early in the process.
+
+[39:53] Obviously you have to win the reference architecture and the discussion with the customers at that
+[40:00] level.
+[40:01] But then it's going to be synergies across the rest of the portfolio with compute.
+[40:05] So I feel very good about the momentum and crucial to the team who has executed flawlessly.
+[40:11] And when you think about an integration of this scale, don't us so fast because if you
+[40:15] put in perspective, we integrated R&D teams, we announced the roadmap, we didn't miss
+
+[40:20] a bit on network innovation, we integrated the self-force in January and we're ahead
+[40:28] of the integration milestones as synergy.
+[40:30] So I think this is a reference for how to do large acquisitions in the market.
+[40:36] So, do you want to get into the topic of thought?
+[40:38] Yeah, absolutely.
+[40:39] So once you make, I'll answer your question on the strong free cash flow guide for 27.
+
+[40:41] And it's pretty simple.
+[40:43] It's really just based around the expectations that we have of the operating profit growth.
+[40:48] And obviously that supports higher profitability and that's translating frankly into cash flow.
+[40:52] And just one other thing just to bear in mind, our 26 baseline actually has the charges associated
+[40:58] with the gymnopist synergies, which obviously you're not going to see that level of magnitude
+[41:02] repeated in 27.
+
+[41:03] So that's also one of the benefits that's playing as well into the free cash flow guide.
+[41:08] So, I think to close, as I said in my prepared remarks, that'll get us to 2x leverage by
+[41:13] the end of 26.
+[41:14] And I think I mentioned that we will pull in our share repo now into early 27 as well.
+[41:20] So just sort of close with that comment.
+[41:22] Very good.
+
+[41:23] Let's please limit questions to one per analyst.
+[41:28] Next question, please.
+[41:29] The next question will come from Amit Darianani with Evercore.
+[41:32] Please go ahead.
+[41:35] I can't ask a multipart question, but Paul just called us out on that I guess now.
+[41:41] So maybe I'll stick to one and turn you to this may sound like a bit of a silly question.
+
+[41:45] But given these numbers are so strong, especially when I look at the fiscal 27 guide, can you
+[41:51] just talk about what's the bigger gating factor to growth as you go forward?
+[41:55] Is it customer demand or is it more component availability?
+[41:59] And I'm really trying to understand whether the outlook reflects the level of demand you
+[42:03] actually see today.
+[42:04] Or is there actually additional demand that could be served if components apply and availability
+
+[42:09] becomes a bit more easy?
+[42:10] I'd just love to understand this on the components at what's going on.
+[42:12] Thank you.
+[42:13] Well, thank you Amit.
+[42:15] I think the demand to me equals bookings or orders.
+[42:19] And so we expect that demand to be strong and durable well into 2027.
+
+[42:25] I think we have an amazing portfolio perfectly aligned to the inflection point that we see
+[42:30] today across networking cloud and AI.
+[42:33] And so we are in nuclear position when it comes to demand and bookings.
+[42:38] And as I said in my prepared remarks, the pipeline remains multiples of the current backlog,
+[42:45] which is record breaking at the company level.
+[42:48] When it comes down to potential upside on the revenue and the ability to convert that,
+
+[42:54] it really comes down to availability of supply.
+[42:58] Well, we factor both in 26 and 27.
+[43:02] First is the allocation that we already got in our supply for 26.
+[43:07] I will say our teams have got much more proficient, by the way, using AI to really do a better
+[43:14] supply matching with the demand that we have versus the supply that we have in terms of
+[43:22] what type of mix you want to drive based on the capacity you've got allocated.
+
+[43:26] So that's why with Marie, we provide that new revenue guidance.
+[43:32] There is no incremental supply in 26 at this point in time unless somebody cancels something
+[43:38] and then we are able to get that.
+[43:40] And in 27, as you know, we have long-term agreements where we lock capacity and we divide the capacity
+[43:48] every quarter based on the mix of orders and backlog and what we see in the pipeline.
+[43:54] And so all of that has been factoring our guide.
+
+[43:58] So if supply improves in 27, with the momentum and demand we have, we may have an upside.
+[44:04] But I will tell you, I don't expect the supply availability to change in 27 that much.
+[44:10] Neither the cost will continue to be elevated until these new factories will provide the
+[44:16] yields to compensate for the incredible demand that we see across the portfolio.
+[44:23] Thank you, Amit.
+[44:24] Next question, please.
+
+[44:26] The next question will come from Catherine Murphy with Goldman Sachs.
+[44:29] Please go ahead.
+[44:31] Thank you for the question.
+[44:32] Can you talk more about the improved AI systems outlook that you talk to?
+[44:35] And if there's anything you can share on the demand outlook across customer types and
+[44:40] expectations for AI systems profitability are improved relative to 90 days ago.
+
+[44:44] Thank you.
+[44:45] Thank you, Catherine.
+[44:47] I will start the normal if you want to add something.
+[44:53] We have been very deliberate in our strategy to focus on the markets related to the AI
+[44:59] where HPE can drive value and can drive the portfolio that we have.
+[45:05] Not just pursuing just revenue for the second revenue.
+
+[45:08] And those markets has been three.
+[45:11] One is enterprise.
+[45:13] And you can see the momentum and enterprise.
+[45:15] And in particular, whether AI factor for enterprise, which is private cloud AI, by the
+[45:19] way, deep, deep integration with NVIDIA.
+[45:21] And you're going to see more of that in a couple of weeks, which includes a lot related
+
+[45:27] to software.
+[45:28] It's not just taking the GPUs and distributors in a server.
+[45:33] And by the way, that now includes storage, which is the first platform to be fully certified
+[45:38] by NVIDIA when it comes down to the file, kind of structural data.
+[45:44] One part obviously is sovereign.
+[45:47] Those are long cycles.
+
+[45:49] But when you think about sovereign, I don't think about just large one gigawatt factory.
+[45:56] I think about deployments that act as a sovereign and ultimately are governed under the sovereign
+[46:04] law or air gapped to meet the sovereign requirements.
+[46:09] And then they are large pursuits in a large scale that may take longer to achieve.
+[46:15] But what we see right now, Katri, is a huge growth in imprinting.
+[46:19] Imprinting clearly is accelerating.
+
+[46:22] And that's a combination of both GPUs and CPUs.
+[46:26] And this is why we see the momentum also on the traditional server, because a lot of these
+[46:32] inferencing deployments will be done on CPUs.
+[46:36] And it will be done in locations where the customer feels confident in terms of governance,
+[46:41] data, privacy, and so forth.
+[46:43] And that's why I think we all need to realize there is a new market there.
+
+[46:47] It's not the traditional market that we know or have been used to.
+[46:51] But this gives us the confidence that we have the right portfolio at the right time to capture
+[46:56] this market.
+[46:57] And I believe by the end of the decade, much of the demand will be in the influence in
+[47:02] space.
+[47:03] And that's why combination with networking and compute and storage and memory, by the
+
+[47:08] way, will give us the ability to be more competitive and honestly harvest more of the value of
+[47:14] the gross margin as we go forward.
+[47:16] And maybe I'll just add a comment, Katri, on the margin.
+[47:19] So we typically don't break out AI systems margins.
+[47:23] And as Antonio alluded to, we do see enterprise and sovereign typically being a more profitable
+[47:29] sort of part of the mix compared to, say, your classic service provider or model builder.
+
+[47:34] So that's just some context to how to think about margins.
+[47:36] And lastly, we'll say on the service provider, we play selectively in the market.
+[47:43] And we have been prioritizing through that working capital management.
+[47:47] And this is one of the reasons, together with the cash commercial cycle, which obviously
+[47:52] is slower on the AI system side compared to the traditional business side.
+[47:57] And the fact that we have now sold 100% of this received stake, that we can pay down
+
+[48:03] that debt faster to return to the two-times leverage commitment that we gave a year earlier.
+[48:10] And that will allow us to make the right investment and return, you know, approximately 75% of
+[48:16] the capital in 2027.
+[48:18] Thank you, Catherine.
+[48:22] Next question, please.
+[48:23] The next question will come from Simic Chatterjee with JP Morgan.
+
+[48:27] Please go ahead.
+[48:28] Hi.
+[48:29] Thanks for taking my question and congrats on the strong results and outlook here.
+[48:34] Antonio, if I can just on the growth outlook that you have this year and trying to compare
+[48:39] that to next year, this year you're expecting cloud in the ITU, the X-ray to data to networking.
+[48:45] But when we get to your guidance for next year, you're expecting similar growth rates
+
+[48:49] or the growth rates to converge.
+[48:50] I'm just wondering, is that more function you think about the individual drivers being
+[48:55] slightly different in terms of timing with their customers?
+[48:58] Or is there more of a supply component in there as the growth rates converge next year
+[49:02] if you can sort of help me out in terms of what changes in the drivers?
+[49:06] Thank you.
+
+[49:07] Yeah, I think, you know, in the cloud and AI outlook, there is the usual lampiness
+[49:15] I will say of the AI system conversion.
+[49:20] And so that's one aspect.
+[49:22] But then across both segments, there is the timing of supply availability.
+[49:26] Look, if you think about networking for a moment, right, and you think about on an average,
+[49:33] we grew 10% this past quarter, but we grew 2x or 3x, the orders, the bookings in some
+
+[49:41] of the product segments.
+[49:43] That tells you we are growing much faster than the revenue.
+[49:47] And then on the cloud AI, obviously, we have a very large backlog in servers, and then
+[49:53] we have the lampiness of the AI systems.
+[49:56] And also we have constraints on the non-side of the equation for storage.
+[50:01] So there's a combination of many things.
+
+[50:03] There is no one specific number.
+[50:05] But as memory becomes available, then we should see an acceleration conversion.
+[50:10] But again, don't expect that to happen early on in that cycle in 2017.
+[50:17] It may be at the end of 2017.
+[50:20] But once again, we factor all of that in our 8% to 12% guide for 2027.
+[50:27] Thank you, Tom.
+
+[50:28] Next question, please.
+[50:30] The next question will come from David Vaught with UBS.
+[50:33] Please go ahead.
+[50:34] Great.
+[50:35] Thanks guys for all the details.
+[50:36] Really appreciate it.
+
+[50:37] Antonio, can we touch on networking for a second?
+[50:40] So obviously, strong results there, really strong orders.
+[50:44] But just trying to get a sense of how we think about how those orders flow into the business
+[50:47] because you guided approaching double-digit normalized growth for this year and effectively
+[50:53] double-digit growth at the midpoint for next year.
+[50:56] Is there a reason why we're not seeing an acceleration?
+
+[50:58] And then along those lines, what's driving the margin uplift next year in fiscal 27 in
+[51:04] the networking business, particularly given the supply chain constraints and cost inflation
+[51:08] that you mentioned earlier?
+[51:10] Thanks.
+[51:11] Yeah, thanks, David.
+[51:12] Look, it's all about supply chain.
+
+[51:14] Supply chain is the name of the game in networking.
+[51:19] Some of these products have DDR4.
+[51:24] Some have DDR5.
+[51:26] Some have other components that are constrained by the weifer capacity.
+[51:31] We continue to work with our suppliers.
+[51:33] By the way, we believe now we are the largest OEM partner of Broadcom in the networking
+
+[51:39] space and also combined with the rest of the business.
+[51:44] So it's all about the supply availability in the moment in time to convert these orders.
+[51:51] And I think that's the opportunity, I will say.
+[51:54] I think one hand is a challenge, but on the other hand is an opportunity.
+[51:59] When it's been unlocked there, then it will be fast conversion of these amazing moment
+[52:04] we have in networking into revenue.
+
+[52:07] So that's what it is.
+[52:08] And Marie, you want to talk about there?
+[52:09] On the margins themselves, David, good afternoon.
+[52:12] What you're seeing in 27 is actually the full-year benefit of the gender percentages program,
+[52:17] which you recall we started when we closed the deal.
+[52:19] So all of that we expect is going to flow on a full-year basis from 26 into 27.
+
+[52:25] And frankly, that's what's driving the margins.
+[52:26] But I might add it, it actually also helps us on cost of sales as well.
+[52:31] So as we sort of buffer some of the impact that we've discussed here today on commodity
+[52:35] costs, we're seeing some of those benefits help us out on gross margins as well.
+[52:39] Good, Troy.
+[52:40] Thank you, David.
+
+[52:41] Great, our next question, please.
+[52:44] The next question will come from Eric Woodring with Morgan Stanley.
+[52:48] Please go ahead.
+[52:49] Hey, guys.
+[52:50] Thank you for taking my questions and echo the congrats in the quarter and the outlook.
+[52:55] Antonio, when you take a step back, can you just help us better understand exactly what
+
+[52:59] has happened over the last 90 days in cloud and AI?
+[53:02] And what I really mean by that is your significant price hikes were already well-known last quarter.
+[53:09] So that's not a surprise.
+[53:10] But now you're looking obviously at low 20% year over year cloud and AI revenue growth
+[53:15] versus 90 days you thought it would be mid to high single digits.
+[53:18] So exactly what changed so abruptly in the last 90 days?
+
+[53:22] And can you help us understand what customer base cohort did this inflection come from?
+[53:28] Thanks so much.
+[53:29] Yeah, thanks, Eric.
+[53:31] Well, I will say at the quarter is demand acceleration.
+[53:35] And I think that demand acceleration was manifested on a number of categories in the
+[53:40] cloud, the AI business.
+
+[53:42] Obviously, the traditional server I talked before about the concern to get access to
+[53:48] products and don't wait for things to improve.
+[53:51] I think that was very clear.
+[53:54] Second is the agentic AI.
+[53:57] Definitely, definitely, there has been a key driver of demand acceleration.
+[54:02] I think on the storage side, obviously, we have our own benefit because we are forcing
+
+[54:07] a transition to our later MP because also we are end of life in legacy products.
+[54:16] And then we introduced new data platforms with object which we expect to accelerate
+[54:22] now with the introduction of file.
+[54:24] I think there is a combination of virtualization modernization because customers with the new
+[54:31] commercial terms, they're very concerned about cost.
+[54:34] When you modernize your software virtualization state, by definition, you modernize infrastructure
+
+[54:41] that sits underneath.
+[54:43] That's a combination of our Morpheus, drag in the private cloud business edition for
+[54:48] virtualization.
+[54:49] And as we grow private cloud AI, call it AI factor for enterprise, that infrastructure
+[54:56] and software is pretty much the same.
+[54:58] The only real big changes is the GPUs in the server and the Aletra X-1000 in the storage.
+
+[55:06] But then Grillek also is a driver of additional adoption of technology because once you're
+[55:11] in the platform, as I said earlier, we have a net retention rate of near 110%.
+[55:18] And obviously, as budget case constrain, we expect obviously the consumption model to
+[55:24] grow over the next few quarters because you move to more on OPEX model.
+[55:29] So there's a combination of many things.
+[55:32] But the pipeline and the customer engagement are super strong.
+
+[55:36] And obviously, the networking provides a core foundation to drive cross-synergies as we
+[55:41] go forward.
+[55:42] Very good.
+[55:43] Thank you, Eric.
+[55:45] Next question, please.
+[55:47] The next question will come from Matthew Nicknam with Trues.
+
+[55:51] Please go ahead.
+[55:52] Hey, guys, I will echo the congrats.
+[55:55] Everyone is real and as well.
+[55:57] Phenomenal results.
+[55:58] Antonio, you mentioned cross-portfolio sales.
+[56:02] And I'm wondering how prevalent these are right now.
+
+[56:05] And is it in the context of more security and networking among enterprise customers?
+[56:10] Are you seeing more cross-portfolio purchasing across server, storage, and networking products
+[56:16] that really bring some of these juniper revenue synergies to fruition?
+[56:21] Thanks.
+[56:22] Well, thank you.
+[56:24] I think it's a lot of, and I will say it's early even because, as I said in my opening
+
+[56:30] remarks, our enterprise data centers switching orders grew 20%.
+[56:37] And that's very early.
+[56:39] In the process, we see now larger deals and larger engagement because we have the scale
+[56:44] of our self force where the networking self force can get access to customers that in
+[56:49] the past they were not able to get to.
+[56:52] And then there is the product integration.
+
+[56:54] To give a sense of the product integration, we are integrating what is called the APTRA,
+[57:01] life cycle management, or intent-based provisioning for data center switching with Morpheus.
+[57:06] So what that allows us to do is to provide a full hybrid control plane for server storage
+[57:11] and networking and also integrate in the software defined networking into the VM essential stack.
+[57:19] That also will drag the data center switching inside the private cloud, you know, reference
+[57:26] architecture.
+
+[57:27] Eventually, you know, when we move into the Ethernet-based storage as the speeds continue
+[57:33] to grow, that's going to be, of course, a Juniper switch at the 1.6 terabits.
+[57:39] So I will say we're early.
+[57:41] Now networking and security, that's a more insulated within networking because obviously,
+[57:48] if you think about the edge, you know, deploying a SaaS-E or a secure service edge, that will
+[57:54] drive convergence between network and security.
+
+[57:58] But there, we are not thinking about driving security convergence just to the software
+[58:03] level.
+[58:04] We are taking a bold approach, which is to drive it at a silicon level.
+[58:08] And you're going to see more of that as we go forward with Rami and Team.
+[58:12] Thank you, Matt.
+[58:15] Next question, please.
+
+[58:17] The next question will come from Erin Rakers with Wells Fargo.
+[58:20] Please go ahead.
+[58:21] Yeah, thanks for taking a question.
+[58:24] Also, congrats on the results.
+[58:26] Very impressive.
+[58:27] I guess my question, some of it has been a little bit asked, but I want to go back to
+
+[58:30] the traditional server business.
+[58:32] You know, 40 plus percent year on your growth.
+[58:35] Very impressive.
+[58:36] But I'm curious if you could unpack, you know, how much we're seeing in terms of the
+[58:40] ability to price through some of the inflationary component costs relative to underlying unit
+[58:44] demand.
+
+[58:45] And, you know, I guess when we look forward, you know, does the guidance reflect a continued,
+[58:52] you know, expectation of price increases to mitigate any margin impact?
+[58:56] Any kind of color of what you've done under pricing strategy would be helpful.
+[58:59] Thank you.
+[59:00] Yeah, thank you.
+[59:03] Look, units are up and we expect units to increase as we go forward because as prices
+
+[59:09] normalize, obviously, the UPM units will rebalance, but units were up slightly this quarter.
+[59:17] The second part of this is that, you know, the pricing, we have been very disciplined,
+[59:24] right?
+[59:25] So, obviously, we have seen significant dislocation on the cost.
+[59:29] We expect that to moderate in the second half and eventually normalize.
+[59:35] But I will say, Aaron, that cost environment and pricing environment will continue to be
+
+[59:40] very elevated in 2027.
+[59:43] But the units will rebalance.
+[59:46] And, you know, as we said earlier, right, we expect that demand to continue to be very
+[59:50] strong as we look into 2027, especially the context going to change because of the
+[59:54] agent, the KI deployment.
+[59:55] And maybe I just add a couple of comments just on the margin durability.
+
+[60:00] We do also see the impact of our catalyst program, helping us out both on gross and
+[60:03] operating margins.
+[60:04] And I think I commented in my prepared remarks were slightly ahead.
+[60:07] So that's giving us confidence around the durability of those margins.
+[60:11] And we do expect that the, you know, to see some improvement in unit volumes in the back
+[60:15] half of the year as well.
+
+[60:17] Question, Aaron.
+[60:19] Next question, please.
+[60:22] The next question will come from Tim Long with Barclays.
+[60:25] Please go ahead.
+[60:26] Thank you.
+[60:27] Let's hope in a touch on storage for a minute here.
+
+[60:33] Maybe just if you could just talk a little bit about kind of, you know, seeing the outside
+[60:38] growth in server, but not in storage, what you would think about kind of pull through
+[60:44] there.
+[60:46] And I would assume you're, you know, I know there's a lot of ASP increase in service
+[60:49] because of DRAM, but I think also some in storage because of MAND.
+[60:54] So maybe you could just touch on, you know, that dynamic around the storage business.
+
+[60:59] Thank you.
+[61:00] Yeah, sure.
+[61:02] Look, the, the Allet RMP block customer migration accelerated.
+[61:09] We talk about driving triple digits year over year growth on the Allet RMP, which is a go
+[61:16] forward platform in both orders and revenue.
+[61:19] I already talked about that.
+
+[61:21] Obviously, that takes time to see in the total number, but because we have other stuff in
+[61:27] the storage, but overall the storage was up 2%, but the Allet RMP, which is the platform
+[61:34] that has both block file with object is growing triple digits both revenue and orders.
+[61:41] And remember that that revenue is also somewhat impacted by the fact that we are deferring
+[61:48] a portion of the revenue over a longer period of time.
+[61:52] Why that's the case because our software is a SAS based solution on that CAPEX, which
+
+[61:58] is the hardware.
+[61:59] But the takeaway, our go forward platform is growing triple digits both orders and revenue.
+[62:05] And over time, that's going to fuel the growth in the total storage has become the biggest,
+[62:09] the biggest part of the portfolio.
+[62:12] Okay.
+[62:13] Thank you.
+
+[62:14] Jim, operator, this will be the last question, please.
+[62:19] Okay.
+[62:20] The final question will come from Simon Leopold with Raymond James.
+[62:23] Please go ahead.
+[62:24] Hi guys.
+[62:25] I think most of the questions I'm going to ask.
+
+[62:27] I guess, you know, we've heard some contradictory commentary from some of your peers regarding
+[62:33] pull through orders.
+[62:34] You know, just curious what's giving you the confidence that, you know, the strength is
+[62:39] core, you know, doesn't reflect any of that.
+[62:42] And, you know, what's giving you confidence, you know, and, you know, this is an availability
+[62:46] going forward.
+
+[62:47] Yes, Simon.
+[62:48] I mean, we have no evidence in our orders or backlog of any pulls in.
+[62:54] And honestly, unlike COVID where people maybe were also doing double booking, we don't see
+[63:00] that at all.
+[63:01] And we have no cancellations.
+[63:03] So that's the answer.
+
+[63:05] Related to that question.
+[63:07] And because of the pipeline that we have, we feel confident about the durability of that
+[63:13] demand, which will drive this, the sustained momentum.
+[63:17] And that's why Marie and I went on and we provided a guidance for 26 as we did and the
+[63:22] financial frame for 27.
+[63:24] That's what we see.
+
+[63:26] Well, good.
+[63:27] I know there's more questions, but I know the team will follow up with you.
+[63:31] I just want to wrap by saying we deliver an exceptional quarter with record-breaking results.
+[63:35] That result, those are results were driven by the strong demand that we see in the market,
+[63:40] strong discipline execution, and only three are strategies.
+[63:44] Because our strategy is more encompassing when it comes down to networking cloud than AI.
+
+[63:49] The junior pre-acquisition in my mind has been a home run and is proven to be a very
+[63:53] big source of shareholder value creation.
+[63:56] And therefore, we believe the strategy is working.
+[63:59] I think our portfolio is the stronger it has ever been.
+[64:02] And you're going to see more of that here in two weeks because I will encourage you to
+[64:07] log in either the keynote or to be in person there.
+
+[64:11] We're going to have seven acres of technology on display.
+[64:14] Just to make sure that we're able to do that.
+[64:16] And we're going to have a lot of work to do.
+[64:19] We're going to have seven acres of technology on display just to put in perspective.
+[64:24] And you're going to see the synergies across the portfolio as we were talking about it.
+[64:28] And the most important part is that we are building durable momentum for the future.
+
+[64:33] This result is not a one-time thing.
+[64:36] It's the combination of the quality of earnings that we are driving across the portfolio.
+[64:42] And my view is that we're just unlocking the value that was always here in the competition.
+[64:48] And I think there is more to be done.
+[64:51] But I'm very proud of what the team has delivered this quarter and the guide that we provided as we think about 26 and 27.
+[64:59] So thank you again for your time.
+
+[65:01] Hope to see you soon or at the HP Discover.
+[65:05] The conference is now concluded.
+[65:07] Thank you for attending today's presentation.
+[65:09] You may now disconnect.

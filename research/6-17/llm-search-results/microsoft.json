@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "fiscal_period": "Q3 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "text",
+    "title": "Earnings Release FY26 Q3",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "fiscal_period": "Q3 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "audio",
+    "title": "FY26 Q3 Earnings Conference Call and Webcast",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming webcast"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "fiscal_period": "Q3 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "text",
+    "title": "Earnings Call Transcript",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML/PDF download link"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "fiscal_period": "Q3 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "text",
+    "title": "Financial Statements",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML/PDF download link"
+  },
+  {
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "fiscal_period": "Q3 FY2026",
+    "quarter_end_date": "2026-03-31",
+    "asset_type": "text",
+    "title": "10-Q",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML/PDF download link"
+  }
+]

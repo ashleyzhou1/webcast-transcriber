@@ -1,0 +1,38 @@
+[
+  {
+    "company": "HP Inc.",
+    "ticker": "HPQ",
+    "fiscal_period": "Q2 FY2026",
+    "quarter_end_date": "2026-04-30",
+    "asset_type": "text",
+    "title": "HP Inc. Reports Fiscal 2026 Second Quarter Results",
+    "url": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Second-Quarter-Results/default.aspx",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "HTML"
+  },
+  {
+    "company": "HP Inc.",
+    "ticker": "HPQ",
+    "fiscal_period": "Q2 FY2026",
+    "quarter_end_date": "2026-04-30",
+    "asset_type": "text",
+    "title": "HP Inc. Reports Q2 FY26 Earnings",
+    "url": "https://www.hp.com/content/dam/sites/garage-press/press/press-releases/2026/q2-fy26-earnings/HP_Inc_Reports_Q2_FY26_Earnings.pdf",
+    "is_direct_file": true,
+    "hosting_platform": "company's own domain",
+    "format": "PDF"
+  },
+  {
+    "company": "HP Inc.",
+    "ticker": "HPQ",
+    "fiscal_period": "Q2 FY2026",
+    "quarter_end_date": "2026-04-30",
+    "asset_type": "audio",
+    "title": "FY26 Q2 Earnings Conference Call Audio Webcast",
+    "url": "https://www.hp.com/investor/2026Q2Webcast",
+    "is_direct_file": false,
+    "hosting_platform": "company's own domain",
+    "format": "streaming webcast"
+  }
+]

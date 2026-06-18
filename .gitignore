@@ -1,0 +1,17 @@
+# Audio and video files - too large for GitHub
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
