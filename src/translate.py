@@ -2,124 +2,63 @@
 translate.py
 
 Translates a transcript or extracted text file into a target language using
-Helsinki-NLP's open-source translation models via HuggingFace Transformers.
-Runs entirely locally — no API key, no cost. Models are downloaded once on
-first use and cached automatically.
+the Google Cloud Translation API. Fast, accurate, supports 130+ languages.
 
-Models are language-pair specific. Supported target languages (from English):
-    es  Spanish         Helsinki-NLP/opus-mt-en-es
-    fr  French          Helsinki-NLP/opus-mt-en-fr
-    de  German          Helsinki-NLP/opus-mt-en-de
-    zh  Chinese         Helsinki-NLP/opus-mt-en-zh
-    ja  Japanese        Helsinki-NLP/opus-mt-en-jap
-    ko  Korean          Helsinki-NLP/opus-mt-en-ko
-    pt  Portuguese      Helsinki-NLP/opus-mt-en-pt
-    ar  Arabic          Helsinki-NLP/opus-mt-en-ar
-    hi  Hindi           Helsinki-NLP/opus-mt-en-hi
-    it  Italian         Helsinki-NLP/opus-mt-en-it
+Requires a Google Cloud API key with Cloud Translation API enabled.
+Set your key as an environment variable before running:
+    export GOOGLE_TRANSLATE_API_KEY="your-key-here"
 
 Usage (standalone):
     python translate.py <text_file> <target_language_code> [output_dir]
 
     Example:
-    python translate.py "../samples/6-17/hp-q2-2026.txt" es "../samples/6-17"
+    python translate.py "../samples/6-17/amazon-q1-2026.txt" es "../samples/6-17"
 
 Usage (as a module):
     from translate import translate_text
     result = translate_text("Hello world", target_lang="fr")
 """
 
+import os
 import sys
 import json
 import time
+import requests
 from pathlib import Path
 
-from transformers import MarianMTModel, MarianTokenizer
-
-# Mapping of language codes to Helsinki-NLP model names
-LANGUAGE_MODELS = {
-    "es": "Helsinki-NLP/opus-mt-en-es",
-    "fr": "Helsinki-NLP/opus-mt-en-fr",
-    "de": "Helsinki-NLP/opus-mt-en-de",
-    "zh": "Helsinki-NLP/opus-mt-en-zh",
-    "ja": "Helsinki-NLP/opus-mt-en-jap",
-    "ko": "Helsinki-NLP/opus-mt-en-ko",
-    "pt": "Helsinki-NLP/opus-mt-en-pt",
-    "ar": "Helsinki-NLP/opus-mt-en-ar",
-    "hi": "Helsinki-NLP/opus-mt-en-hi",
-    "it": "Helsinki-NLP/opus-mt-en-it",
-}
-
-# Max tokens per chunk — Marian models have a 512-token limit per input.
-# We split text into chunks to handle long transcripts safely.
-MAX_CHUNK_CHARS = 1000
-
-
-def _chunk_text(text: str, chunk_size: int = MAX_CHUNK_CHARS) -> list[str]:
-    """Split text into chunks at paragraph/sentence boundaries to avoid
-    cutting mid-sentence when feeding to the model."""
-    paragraphs = text.split("\n")
-    chunks = []
-    current = ""
-
-    for para in paragraphs:
-        if len(current) + len(para) < chunk_size:
-            current += para + "\n"
-        else:
-            if current:
-                chunks.append(current.strip())
-            current = para + "\n"
-
-    if current:
-        chunks.append(current.strip())
-
-    return chunks
+API_KEY = os.environ.get("GOOGLE_TRANSLATE_API_KEY", "")
+GOOGLE_TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
 
 
 def translate_text(text: str, target_lang: str) -> str:
     """
-    Translate a string of English text into the target language.
+    Translate a string of text into the target language using Google Translate.
 
     Args:
-        text: English text to translate
+        text: text to translate (source language auto-detected)
         target_lang: ISO 639-1 language code (e.g. "es", "fr", "zh")
 
     Returns:
-        Translated text as a single string.
+        Translated text as a string.
     """
-    if target_lang not in LANGUAGE_MODELS:
-        supported = ", ".join(sorted(LANGUAGE_MODELS.keys()))
+    if not API_KEY:
         raise ValueError(
-            f"Unsupported target language: '{target_lang}'. "
-            f"Supported codes: {supported}"
+            "No API key found. Set your key with:\n"
+            "export GOOGLE_TRANSLATE_API_KEY='your-key-here'"
         )
 
-    model_name = LANGUAGE_MODELS[target_lang]
-    print(f"Loading translation model '{model_name}'...")
-    print("(Model will be downloaded on first use — this may take a minute.)")
-
-    tokenizer = MarianTokenizer.from_pretrained(model_name)
-    model = MarianMTModel.from_pretrained(model_name)
-
-    chunks = _chunk_text(text)
-    translated_chunks = []
-
-    print(f"Translating {len(chunks)} chunk(s)...")
-    for i, chunk in enumerate(chunks, 1):
-        inputs = tokenizer(
-            [chunk],
-            return_tensors="pt",
-            padding=True,
-            truncation=True,
-            max_length=512,
-        )
-        outputs = model.generate(**inputs)
-        translated = tokenizer.decode(outputs[0], skip_special_tokens=True)
-        translated_chunks.append(translated)
-        if i % 10 == 0:
-            print(f"  {i}/{len(chunks)} chunks done...")
-
-    return "\n".join(translated_chunks)
+    response = requests.post(
+        GOOGLE_TRANSLATE_URL,
+        params={"key": API_KEY},
+        json={
+            "q": text,
+            "target": target_lang,
+            "format": "text",
+        },
+        timeout=30,
+    )
+    response.raise_for_status()
+    return response.json()["data"]["translations"][0]["translatedText"]
 
 
 def translate_file(
@@ -138,7 +77,7 @@ def translate_file(
         raise FileNotFoundError(f"Input file not found: {input_path}")
 
     text = input_path.read_text(encoding="utf-8")
-    print(f"Translating '{input_path.name}' to '{target_lang}'...")
+    print(f"Translating '{input_path.name}' to '{target_lang}' via Google Translate...")
 
     start = time.time()
     translated = translate_text(text, target_lang=target_lang)
@@ -151,7 +90,6 @@ def translate_file(
         "duration_seconds": elapsed,
     }
 
-    # Save output
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     stem = input_path.stem
@@ -159,7 +97,9 @@ def translate_file(
     json_path = output_dir / f"{stem}_{target_lang}.json"
 
     txt_path.write_text(translated, encoding="utf-8")
-    json_path.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
+    json_path.write_text(
+        json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
 
     print(f"Saved translated text to: {txt_path}")
     print(f"Saved metadata to: {json_path}")
@@ -171,8 +111,7 @@ def translate_file(
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Usage: python translate.py <text_file> <target_lang> [output_dir]")
-        print("Example: python translate.py ../samples/6-17/hp-q2-2026.txt es ../samples/6-17")
-        print(f"\nSupported language codes: {', '.join(sorted(LANGUAGE_MODELS.keys()))}")
+        print("Example: python translate.py ../samples/6-17/amazon-q1-2026.txt es ../samples/6-17")
         sys.exit(1)
 
     input_file = sys.argv[1]

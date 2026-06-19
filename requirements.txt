@@ -5,14 +5,12 @@
 #   Mac:   brew install ffmpeg
 #   Linux: sudo apt install ffmpeg
 #   Windows: https://ffmpeg.org/download.html
+#
+# Also requires a Google Cloud API key for translate.py:
+#   export GOOGLE_TRANSLATE_API_KEY="your-key-here"
+#   Get one at: console.cloud.google.com (free tier: 500K chars/month)
 
 openai-whisper==20250625
 requests==2.33.1
 beautifulsoup4==4.14.3
 pypdf==5.9.0
-openai-whisper==20250625
-requests==2.33.1
-beautifulsoup4==4.14.3
-pypdf==5.9.0
-transformers
-sentencepiece

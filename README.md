@@ -72,14 +72,12 @@ python extract_pdf.py <pdf_path> [output_dir]
 ```bash
 python scrape_ir_page.py <ir_page_url> <company_name> <ticker> [output_path]
 ```
-**`src/translate.py`** — translate a transcript or extracted text file into
-another language using Helsinki-NLP models (runs locally, no API key needed).
-Supports Spanish, French, German, Chinese, Japanese, Korean, Portuguese,
-Arabic, Hindi, Italian.
+**`src/translate.py`** — translate a transcript or extracted text file into another language using the Google Translate API. Requires a Google Cloud API key (free tier: 500K characters/month, sufficient for most use cases).
 
 ```bash
+export GOOGLE_TRANSLATE_API_KEY="your-key-here"
 python translate.py <text_file> <target_lang_code> [output_dir]
-# Example: python translate.py ../samples/6-17/hp-q2-2026.txt es ../samples/6-17
+# Example: python translate.py ../samples/6-17/amazon-q1-2026.txt zh ../samples/6-17
 ```
 
 > **Note:** scripts default to writing output to `../samples`. Pass an output directory explicitly if running from a different location.
