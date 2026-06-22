@@ -1,0 +1,410 @@
+1 
+ 
+These prepared remarks should be viewed solely in conjunction with the related quarter’s conference call webcast 
+and press release, which can be found here.  The webcast includes the prepared remarks as well as a question and 
+answer session. 
+ 
+Please click here for complete GAAP reconciliation information between our GAAP financial results and our non -
+GAAP financial results. 
+ 
+Cisco Systems, Incorporated [CSCO] 
+Q2FY26 Earnings Results Conference Call 
+Wednesday, February 11, 2026 
+ 
+Sami Badri 
+Good afternoon, everyone. This is Sami Badri, Cisco's Head of Investor Relations, 
+and I am joined by Chuck Robbins, our Chair and CEO, and Mark Patterson, our 
+CFO. 
+ 
+Cisco’s earnings press release and supplemental information, including GAAP to 
+non-GAAP reconciliations, are available on our Investor Relations website. 
+Following this call, we will also make the recorded webcast and slides available on 
+the website.  
+ 
+Throughout today’s call, we’ll be referencing both GAAP and non-GAAP financial 
+results. We will discuss product results in terms of revenue, and geographic and 
+customer results in terms of product orders, unless stated otherwise. All 
+comparisons will be made on a year-over-year basis. 
+ 
+Please note that our discussion today will include forward-looking statements, 
+including our guidance for the third quarter and fiscal year 2026. These statements 
+are subject to risks and uncertainties detailed in our SEC filings, particularly our 
+most recent 10-K and 10-Q reports which identify important risk factors that could 
+cause actual results to differ materially from those contained in our forward-
+looking statements. With respect to guidance, please also see the slides and press 
+release that accompany this call for further details. Cisco will not comment on its 
+financial guidance during the quarter unless it is done through an explicit public 
+disclosure. 
+ 
+Now, I’ll turn it over to Chuck.
+
+2 
+ 
+Chuck Robbins 
+ 
+Thanks Sami and thank you all for joining us today.  
+ 
+Q2 was a very strong quarter, with revenue and earnings per share both growing 
+double digits and coming in above the high end of our guidance ranges. We 
+delivered record revenue in Q2, putting Cisco on track to deliver our strongest year 
+yet as indicated in our guidance for the full year.  
+ 
+In Q2, total revenue growth accelerated to 10% year over year, with product 
+revenue up 14%, driven by robust demand for AI Infrastructure and campus 
+networking solutions.  Our strong top-line performance, combined with operating 
+efficiencies and solid execution by our teams, contributed to non-GAAP EPS 
+growth of 11%, which continued to grow faster than revenue.  
+ 
+This strong performance allowed us to return $3 billion in capital to shareholders 
+in the quarter, bringing the total value returned year-to-date to $6.6 billion. Today, 
+we also announced an increase to Cisco’s dividend, demonstrating our 
+commitment to returning value to shareholders through consistent capital returns. 
+ 
+Our innovation engine is firing on all cylinders and our commitment to customers 
+has never been stronger. Last week, Cisco hosted its AI Summit, gathering AI 
+visionaries and geopolitical experts to explore the economic, societal, and business 
+impacts of AI. While it was clear that expectations for adoption and execution are 
+high, one major challenge still exists: legacy infrastructure was not designed for 
+the performance, speed, and security needs of AI.  
+ 
+Our strong first half of FY26 demonstrates both the power of our portfolio and the 
+fundamental role we play in this once-in-a-generation transition. With our 
+industry-leading networking portfolio—powered by Silicon One, AI-native 
+security solutions, and operating systems—Cisco is well positioned to provide the 
+critical infrastructure needed for the AI era.  
+ 
+I’d also like to address the recent, significant increases in memory prices across the 
+market. Leveraging our industry-leading supply chain team, we are proactively 
+implementing three key strategies. First, we have already announced price 
+increases and will continue to monitor market trends and make additional 
+adjustments as necessary. Second, we are revising contractual terms with channel 
+partners and customers to address evolving component prices. Third, Cisco’s 
+operating scale and industry-leading position help us negotiate favorable terms and
+
+3 
+ 
+secure supply to fulfill current and future demand. Overall, we feel confident in our 
+ability to manage this industry-wide dynamic better than our peers.  
+ 
+Now, let me comment on the strong demand we saw in Q2.  
+ 
+Overall, total product orders grew 18% year-over-year, even on top of double-digit 
+growth in Q2 FY25.  Excluding hyperscalers, product orders were up 10% year-
+over-year, demonstrating the broad-based demand we see for our technology 
+globally.   
+ 
+Enterprise product orders were up 8% year-over -year in Q2, with strength across 
+our entire networking portfolio. 
+ 
+Public Sector orders were up 11% year-over-year, with double-digit growth across 
+all geographies. 
+  
+Product orders from Service Provider and Cloud customers accelerated in Q2, 
+growing 65%, driven by triple-digit order growth across hyperscalers.  We also 
+saw continued growth from telco and cable customers in Q2, with orders up almost 
+20% on a combined basis.  
+ 
+Now some color on demand from a product perspective: 
+ 
+Growth in Networking product orders continued to accelerate, reaching more than 
+20% in Q2, and marking the sixth consecutive quarter of double-digit growth, 
+driven by service provider routing, data center switching, campus switching, 
+wireless, servers, and industrial IoT products.    
+ 
+Within our campus networking portfolio, we are seeing strong demand for our 
+next generation switching, routing, and wireless products which continue to ramp 
+faster than prior product launches.  We are delivering AI-native capabilities across 
+these products, including weaving security into the fabric of the network, and 
+modernizing the operational stack of campus networks. These new capabilities, 
+combined with an installed base representing tens of billions of dollars across early 
+Catalyst generations nearing end of support, underpin the multi-year, multi-billion-
+dollar refresh opportunity for Cisco.   
+ 
+We continue to see strong demand for our Industrial IoT portfolio which has now 
+grown double digits for seven consecutive quarters. This demand is driven by
+
+4 
+ 
+onshoring of manufacturing to the United States, the increase of AI workloads at 
+the network edge and the emergence of physical AI.   
+   
+AI infrastructure orders taken from hyperscalers totaled $2.1B in Q2, 
+compared to $1.3 billion just last quarter, and equal to the total orders taken in all 
+of FY25, marking another significant acceleration in growth across our silicon, 
+systems and optics.  
+ 
+We shipped our one-millionth Silicon One chip in Q2, and plan to deploy our 
+Silicon One architecture across our high-performance networking systems by 
+FY29. Just this week, at Cisco Live Amsterdam, we introduced our 102.4 terabits-
+per-second G300 chip, positioning Cisco in an exclusive group of silicon providers 
+delivering over 100 terabits-per-second switching speeds. 
+ 
+In addition, we launched four new systems powered by G300. The Cisco 8000 and 
+Nexus 9K 102.4T systems offer flexible air-cooled options for traditional data 
+center architectures, as well as a liquid-cooled option designed for the latest, 
+ground-up facilities. Silicon One’s programmability puts Cisco’s silicon in a class 
+of its own, capable of adapting to a wide range of use cases and network 
+infrastructure designs. We also announced two new pluggable optics: a 1.6 
+terabits-per-second OSFP and an 800G LPO, both built with Cisco Silicon 
+Photonics technology, delivering greater efficiency and reliability in high-
+performance AI infrastructure.   
+ 
+Acacia reported its strongest quarter to date, with triple-digit growth in bookings. 
+All major hyperscalers are deploying its market-leading coherent pluggable optics 
+for data center interconnect and scale-across use cases. We see growth in both 
+400G and 800G coherent optics and transponder shipments, with 800G pluggables 
+ramping significantly. 
+ 
+Given this strong demand for our Silicon One systems and optics, we now expect 
+to take AI orders in excess of $5B and to recognize over $3B in AI infrastructure 
+revenue from hyperscalers in FY26. 
+ 
+Beyond hyperscalers, we have a separate AI opportunity across neocloud, 
+sovereign, and enterprise customers. We took $350M in AI orders from these 
+customers in Q2 and have a growing pipeline in excess of $2.5 billion for our high-
+performance AI infrastructure portfolio. 
+ 
+We continue to develop our strategic partnerships to capture this opportunity.
+
+5 
+ 
+In Q2, we announced plans to form a joint venture with AMD and HUMAIN to 
+deliver up to 1 gigawatt of AI infrastructure by 2030. This joint venture expects to 
+begin operations this calendar year with a plan to build out 100 megawatts in Saudi 
+Arabia as phase 1 of the project. 
+ 
+We are seeing strong interest from European customers in our Sovereign Critical 
+Infrastructure Portfolio, designed to operate in air-gapped, on-prem environments 
+giving organizations control over sensitive data and critical infrastructure. As AI 
+adoption accelerates, concerns over privacy, data governance, and regulatory 
+compliance are top of mind for our customers, making sovereign solutions an 
+essential foundation for building digital trust. 
+ 
+Now shifting to Security. In Q2, we continued to see order growth across our new 
+and refreshed products, which represent roughly one-third of our security portfolio 
+and include Secure Access, XDR, Hypershield, AI Defense, and refreshed 
+firewalls. Excluding the refreshed firewalls, over 1,000 new customers purchased 
+these products in Q2, representing more than 100% growth quarter over quarter 
+and bringing the total of net new customers since launch to roughly 4,000. We 
+have also seen three consecutive quarters of double-digit growth in the number of 
+firewalls ordered.   
+ 
+For Secure Access specifically, we booked over 2.5M users in Q2 and more than 
+50% of added customers were new logos. As the adoption of AI tools grow and 
+agentic AI increases at the network edge, we expect to see continued momentum in 
+our SASE business, including Secure Access and SD-WAN.  
+ 
+As mentioned in prior quarters, growth in our new and refreshed portfolio 
+continues to be offset by a decline in our prior generation portfolio.  
+ 
+Turning to Splunk; we saw a similar trend in Q2 as seen in Q1, with continued 
+acceleration to cloud subscriptions and fewer on-premise deals. While this shift is 
+creating a drag on revenue growth which we expect to continue in the second half 
+of FY26, cloud subscriptions enable greater adoption, expansion, and faster 
+delivery of innovation to customers, so overall we are pleased with this transition. 
+Splunk also continued to win new customers in Q2 – reaching 500 new logos for 
+the first half of FY26 – and is on track to add 1,000 new logos for the year. 
+ 
+We are accelerating our innovation across our offerings both for and with AI. 
+At Cisco Live Amsterdam this week, we unveiled major AI Defense and SASE 
+advancements to help secure organizations as AI agents enter the workforce.  AI
+
+6 
+ 
+Defense can now scan models and repositories for vulnerabilities and provide an 
+AI bill of materials for centralized governance.  In Cisco SASE, we launched a 
+new Semantic Inspection Engine that can evaluate the intent of agentic interactions 
+and block sophisticated, context-dependent threats.   
+ 
+We are also making AgenticOps the operating model for AI-driven IT to enable 
+autonomous troubleshooting, continuous optimization, and trusted validation. We 
+are deploying AI agents that work hand in hand with human administrators within 
+our product dashboards, AI Assistants and AI Canvas. 
+ 
+We continue to make AI advancements internally, with expanded use cases in Q2 
+across nearly every organization. Today, the majority of our product developers are 
+using AI Coding Assistants and working alongside agents which helps us innovate 
+faster across our portfolio. Currently, over 90% of Customer Experience support 
+cases are touched by AI and automation, enabling us to resolve a greater 
+proportion of complex cases within one day and contributing to our highest-ever 
+customer satisfaction scores. Additional use cases across Sales, Security & Trust, 
+Supply Chain and corporate functions are also providing significant cost savings 
+and efficiency gains.  
+ 
+To summarize:  
+ 
+• We see strong demand for our solutions across all customer markets and 
+geographies, solidifying Cisco’s role in providing the critical infrastructure 
+needed for this once-in-a-generation transition; 
+• The value of our innovation is exemplified by Silicon One, which positions 
+Cisco for the broadest range of AI deployments, even the most 
+technologically challenging, and 
+• With over 40 years of customer trust and global scale, Cisco is committed to 
+leading in the AI era to drive breakthrough innovation, manage complexity 
+and risk, and deliver faster business outcomes to customers globally.  
+ 
+Now I’ll turn it over to Mark for more detail on the quarter and our outlook. 
+ 
+Mark Patterson 
+ 
+Thanks Chuck.  
+ 
+We delivered another strong quarter with record revenue in Q2 and both operating 
+margin and earnings per share coming in above the high-end of our guidance.  For
+
+7 
+ 
+the quarter, total revenue was $15.3B, up 10% year over year. Non-GAAP net 
+income was $4.1B, up 10%, and non-GAAP earnings per share was $1.04, up 11%, 
+demonstrating continuing operating leverage, with non-GAAP earnings per share 
+growing faster than revenue.  
+  
+Looking at our Q2 revenue in more detail: 
+ 
+- Total product revenue was $11.6B, up 14% and services revenue was $3.7B, 
+down 1% year over year. 
+- Networking was again the standout with growth of 21%, driven by AI 
+infrastructure and Campus refresh. We saw double digit growth in Campus 
+Switching, Data Center Switching, Wireless, Service Provider Routing, 
+Enterprise Routing and Compute.   
+- Security was down 4%, reflecting similar dynamics discussed last quarter 
+with declines in prior generation products and the transition in our Splunk 
+business from on-premise deals to cloud subscriptions, partially offset by 
+growth in new and refreshed products.
+ 
+- Collaboration posted solid growth of 6% led by double digit growth in 
+Devices as well as growth in CPaaS, WebEx, and Cloud Contact Center.  
+ 
+Looking at our recurring metrics:  
+  
+- Total RPO was $43.4B, up 5%. Product RPO grew 8%, of which the long-
+term portion was $11.8B, up 11%. 
+- Total ARR ended the quarter at $31.0B, an increase of 3%, with product 
+ARR growth of 6%. 
+- Total subscription revenue was $7.8B and represented 51% of Cisco’s total 
+revenue. 
+- Total software revenue was $5.7B, up 2%. 
+ 
+Q2 product orders were up 18% year over year. Product orders were up double 
+digits across all geographic segments, with Americas up 23%, EMEA up 11% and 
+APJC up 15%. Product orders were also up across all customer markets with 
+Service Provider & Cloud up 65%, Public Sector up 11%, and Enterprise up 8%.
+ 
+  
+Total non-GAAP gross margin came in at 67.5%, down 120 basis points year-over- 
+year. Non-GAAP product gross margin was 66.4%, down 130 basis points,  
+primarily driven by negative impacts from mix and higher memory costs, partially 
+offset by productivity improvements. Non-GAAP services gross margin was 
+70.9%, down 70 basis points.
+
+8 
+ 
+  
+We continue our focus on enhancing profitability and driving financial discipline, 
+with non-GAAP operating margin at 34.6%, above the high-end of our guidance 
+range.  
+  
+Our Non-GAAP tax rate was 19.0% for the quarter.  
+ 
+Shifting to the balance sheet, we ended Q2 with total cash, cash-equivalents, and 
+investments of $15.8B. Operating cash flow was $1.8B, down 19%, due to the 
+final transition tax payment of $2.3 billion from the 2017 Tax Cuts and Jobs Act 
+and continued investments to meet growing overall demand as well as specifically 
+for AI infrastructure.   
+ 
+From a capital allocation perspective, we returned $3.0B to our shareholders 
+during the quarter, comprised of $1.6B for our quarterly cash dividend and $1.4B 
+of share repurchases with $10.8B remaining under our share repurchase program.  
+ 
+Given the confidence we have in our business and the strength of our ongoing cash 
+flows, today we announced we are raising our dividend by 1 penny to 42 cents per 
+quarter. This dividend increase demonstrates our commitment to returning a 
+minimum of 50% of free cash flow annually to our shareholders. 
+ 
+To summarize, we had another quarter with top and bottom-line performance 
+exceeding our expectations – driven by strong order growth and robust margins, all 
+demonstrating the power of our innovation engine to drive strong top line growth 
+as well as operating leverage to fuel profitability.  
+ 
+We remain focused on making strategic investments in innovation to capitalize on 
+the significant growth opportunities we see ahead. This will continue to be 
+underpinned by our commitment to disciplined spend management and it’s this 
+powerful combination that continues to fuel strong cash flow and our ability to 
+return significant value to our shareholders. 
+ 
+Turning to guidance: Please note, our Q3 and fiscal year 2026 guide assumes 
+current tariffs and exemptions remain in place through the end of fiscal 2026. 
+These assumptions remain unchanged from prior guidance.  
+ 
+Looking ahead, you can expect us to continue our focus on durable growth, with 
+financial discipline driving operating leverage and continued capital returns.
+
+9 
+ 
+For fiscal Q3, our guidance is as follows: 
+ 
+• We expect revenue to be in the range of $15.4 billion to $15.6 billion 
+• We anticipate non-GAAP gross margin to be in the range of 65.5% to 66.5% 
+• Non-GAAP operating margin is expected to be in the range of 33.5% to 
+34.5%  
+• Non-GAAP earnings per share is expected to range from $1.02 to $1.04 
+• We are assuming a Non-GAAP effective tax rate of approximately 19% 
+ 
+Cisco is positioned for its strongest year ever as indicated in our guidance for fiscal 
+year 26, which is as follows: 
+ 
+• We expect revenue to be in the range of $61.2 billion to $61.7 billion 
+• Non-GAAP earnings per share is expected to range from $4.13 to $4.17 
+ 
+Sami Badri - CLOSING 
+  
+• Cisco’s next quarterly call, which will outline our third quarter FY2026 
+results, will be on Wednesday, May 13, 2026, at 1:30 p.m. Pacific Time, 
+4:30 p.m. Eastern Time.  
+• This concludes today’s call. If you have any further questions, please feel 
+free to contact the Cisco investor relations department, and we thank you 
+very much for joining the call today.
+
+10 
+ 
+The prepared remarks set forth above and the related conference call may be deemed to contain forward -looking 
+statements, which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. 
+These forward-looking statements include, among other things, statements regarding future events (such as our 
+belief in our unique position to deliver the trusted infrastructure needed to securely and confidently power the AI -
+era, continuing to drive profitability by exercising financial discipline, and the strong, broad-based demand for our 
+technology solutions as we remain focused on capturing the significant opportunities ahead) and the future financial 
+performance of Cisco (including the guidance for Q3 FY 2026 and full year FY 2026) that involve risks and 
+uncertainties, such as the actual impact of tariffs on our guidance for Q3 FY 2026 and full year FY 2026. Readers 
+are cautioned that these forward-looking statements are only predictions and may differ materially from actual future  
+events or results due to a variety of factors, including: business and economic conditions and growth trends in the 
+networking industry, our customer markets and various geographic regions; global economic conditions and 
+uncertainties in the geopolitical environment; our development and use of artificial intelligence; overall information 
+technology spending; the growth and evolution of the Internet and levels of capital spending on Internet -based 
+systems; variations in customer demand for products and services, including sales to the service provider market, 
+cloud, enterprise and other customer markets; the return on our investments in certain key priority areas, and in 
+certain geographical locations, as well as maintaining leadership in Networking and serv ices; the timing of orders 
+and manufacturing and customer lead times; supply constraints; changes in customer order patterns or customer mix; 
+insufficient, excess or obsolete inventory; variability of component costs; variations in sales channels, product costs 
+or mix of products sold; our ability to successfully acquire businesses and technologies and to successfully integrate 
+and operate these acquired businesses and technologies; our ability to achieve expected benefits of our partnerships; 
+increased competition in our product and services markets, including the data center market; dependence on the 
+introduction and market acceptance of new product offerings and standards; rapid technological and market change; 
+manufacturing and sourcing risks; product defects and returns; litigation involving patents, other intellectual 
+property, antitrust, stockholder and other matters, and governmental investigations; our ability to achieve the 
+benefits of restructurings and possible changes in the size and timing of re lated charges; cyber attacks, data breaches 
+or other incidents; vulnerabilities and critical security defects; our ability to protect personal data; evolving 
+regulatory uncertainty; terrorism; natural catastrophic events (including as a result of global cl imate change); any 
+pandemic or epidemic; our ability to achieve the benefits anticipated from our investments in sales, engineering, 
+service, marketing and manufacturing activities; our ability to recruit and retain key personnel; our ability to manage 
+financial risk, and to manage expenses during economic downturns; risks related to the global nature of our 
+operations, including our operations in emerging markets; currency fluctuations and other international factors; 
+changes in provision for income taxes, including changes in tax laws and regulations or adverse outcomes resulting 
+from examinations of our income tax returns; potential volatility in operating results; and other factors listed in 
+Cisco's most recent reports on Forms 10-Q and 10-K filed on November 18, 2025 and September 3, 2025. The 
+financial information contained in this release should be read in conjunction with the consolidated financial 
+statements and notes thereto included in Cisco's most recent report on Forms 10- Q and 10-K as each may be 
+amended from time to time. Cisco's results of operations for the three and six months ended January 24, 2026 are not 
+necessarily indicative of Cisco's operating results for any future periods. Any projections in this release are based on 
+limited information currently available to Cisco, which is subject to change. Although any such projections and the 
+factors influencing them will likely change, Cisco will not necessarily update the information, since Cisco will only 
+provide guidance at certain points during the year. Such information speaks only as of the date of this release.

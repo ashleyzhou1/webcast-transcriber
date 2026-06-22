@@ -187,3 +187,76 @@ Quartr API
 - Get a Quartr API pricing quote
 - Think about API integration with Stockfan backend databse
 - Ask Quartr API data what companies it includes
+
+---
+
+## June 19-23, 2026
+
+### Goal
+For each of the 20 "Big Tech" companies on the heatmap, download the webcast audio and try to find patterns/similarities.
+
+### Company List (20)
+
+- Amazon (AMZN)
+- Microsoft (MSFT)
+- Google (GOOG)
+- Meta (META)
+- Tesla (TSLA)
+- Taiwan Semiconductor (TSM)
+- Salesforce (CRM)
+- SanDisk (SNDK)
+- ASML (ASML)
+- Broadcom (AVGO)
+- Alibaba (BABA)
+- Cisco (CSCO)
+- Oracle (ORCL)
+- AMD (AMD)
+- Qualcomm (QCOM)
+- IBM (IBM)
+- Texas Instruments (TXN)
+- Nvidia (NVDA)
+- Apple (AAPL)
+- Adobe (ADBE)
+
+### Bottom Line
+
+- Tesla and Google hosted directly on YouTube, can download using command line. Adobe is also hosted on YouTube, but the channel isn't the company's official channel. 
+```bash
+pip install yt-dlp
+
+yt-dlp -x --audio-format mp3 -o "samples/6-19/automated-test/tesla-q1-2026.%(ext)s" "https://www.youtube.com/watch?v=qO7T5zgRvXM"
+
+yt-dlp -x --audio-format mp3 -o "samples/6-19/automated-test/google-q1-2026.%(ext)s" "https://www.youtube.com/watch?v=LPJoiDiVkTI"
+```
+- Apple can't be completed because the screencast/recording is only available for 2 weeks after it occurs
+- Nvidia has different pipeline: `save_login_session.py` + `find_media_url.py` + `download_hls_segments.py`
+  - `find_media_url.py` finds signature from URL, then `download_hls_segments.py` uses this signature to manually build each URL for each segment and then stitch the segments together into the entire file using ffmpeg concatenation
+  - This is necessary because simply using the ffmpeg command drops the signature
+- Pipeline built using `save_login_session.py` + 
+  `find_media_url.py` is able to automate finding the correct download link (by looking through requests). This link will either be sent to download.py (if it is a mp3/mp4) or run through ffmpeg to convert to the desired format, and saved as a downloaded file (the purpose of this is to download the audio file)
+- 10/20 Companies also had transcript pdfs available:
+  - Google / Alphabet (GOOG)
+  - Meta (META)
+  - Taiwan Semiconductor (TSM)
+  - Salesforce (CRM)
+  - ASML (ASML)
+  - Alibaba (BABA)
+  - Cisco (CSCO) — prepared remarks only, not full transcript
+  - AMD (AMD)
+  - Qualcomm (QCOM)
+  - IBM (IBM)
+
+### `src/find_media_url.py` (Automated Link Finder)
+
+ - Replaces the manual "open DevTools, watch network traffic, find the right URL" process with a
+script. 
+- Opens the page, watches everything the page loads, and
+automatically picks out the real audio/video link using the two patterns we found across all the companies: either a single repeated file (handed to `download.py`) or a streaming playlist file (handed to `ffmpeg`). Full setup and run instructions are in the README.
+company
+
+### `src/download_hls_segments.py` (Construct Entire Clip for Nvidia)
+- Gets signature from URL from `src/find_media_url.py`
+- Uses this signature to manually build URL for each segment
+- Runs `ffmpeg` to stitch together segments to construct entire recording
+
+README includes setup/run commands and platforms tested.

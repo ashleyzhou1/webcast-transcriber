@@ -5,6 +5,10 @@ Given a direct URL to a media file (audio like mp3/wav/m4a, or video like
 mp4), downloads it locally. If it's a video file, extracts just the audio
 track using ffmpeg, since that's all transcribe.py needs.
 
+Does NOT handle embedded streaming players / webpages with a video widget
+and no direct file link (that would require yt-dlp or similar, and is a
+fragile, best-effort case best left to a later phase).
+
 Usage (standalone):
     python download.py https://example.com/path/to/webcast.mp3
     python download.py https://example.com/path/to/webcast.mp4
@@ -17,7 +21,7 @@ Usage (as a module):
 import sys
 import subprocess
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
 import requests
 
@@ -33,10 +37,13 @@ DEFAULT_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    )
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Connection": "keep-alive",
 }
 
-def guess_extension(url: str, content_type: str = "") -> str:
+def _guess_extension(url: str, content_type: str = "") -> str:
     """Figure out the file extension from the URL path, falling back to
     the Content-Type header if the URL itself doesn't have a clear one."""
     path = urlparse(url).path
@@ -52,6 +59,12 @@ def guess_extension(url: str, content_type: str = "") -> str:
         return ".mp4"
     if "wav" in content_type:
         return ".wav"
+    if "pdf" in content_type:
+        return ".pdf"
+    if "msword" in content_type:
+        return ".doc"
+    if "wordprocessingml" in content_type:
+        return ".docx"
     return ""
 
 
@@ -62,18 +75,19 @@ def download_file(url: str, output_dir: str = "../samples") -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"Downloading: {url}")
-    response = requests.get(url, headers=DEFAULT_HEADERS, stream=True, timeout=30)
+    response = requests.get(url, headers=DEFAULT_HEADERS, stream=True, timeout=60)
     response.raise_for_status()
 
     content_type = response.headers.get("Content-Type", "")
-    ext = guess_extension(url, content_type)
+    ext = _guess_extension(url, content_type)
     if not ext:
         print(f"Warning: could not determine file extension for {url} "
               f"(Content-Type was '{content_type}'). Defaulting to .bin")
         ext = ".bin"
 
     # Use the original filename from the URL if there is one, else a generic name
-    url_filename = Path(urlparse(url).path).stem or "downloaded_media"
+    # unquote() converts URL-encoded characters like %20 back to real ones (space)
+    url_filename = unquote(Path(urlparse(url).path).stem) or "downloaded_media"
     local_path = output_dir / f"{url_filename}{ext}"
 
     total_bytes = 0
