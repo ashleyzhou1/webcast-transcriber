@@ -7,7 +7,7 @@ A Python pipeline for downloading, transcribing, and extracting text from compan
 ## Project Structure
 
 ```
-stockfan-webcast-transcriber/
+the app-webcast-transcriber/
 ├── src/                          # Python scripts
 │   ├── download.py
 │   ├── transcribe.py
@@ -39,8 +39,8 @@ stockfan-webcast-transcriber/
 Requires Python 3.10+, pip, and ffmpeg.
 
 ```bash
-git clone git@github.com:ashleyzhou1/stockfan-webcast-transcriber.git
-cd stockfan-webcast-transcriber
+git clone git@github.com:ashleyzhou1/the app-webcast-transcriber.git
+cd the app-webcast-transcriber
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

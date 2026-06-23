@@ -6,7 +6,7 @@ Full set of test files available [here](https://drive.google.com/drive/u/1/folde
 ## June 17–18, 2026
 
 **Goal:** Explore feasibility of automatically transcribing company webcasts
-(earnings calls, announcements) for display in the Stockfan app. Initial
+(earnings calls, announcements) for display in the the app app. Initial
 scope: manual link discovery → automated download and transcription,
 starting with large-cap companies.
 
@@ -141,16 +141,15 @@ Raw outputs saved to: `research/6-17/scraper-results/`
 
 ---
 
-## 3. Proposal: Quartr API + LLM API
+## 3. Potential Idea: Quartr API + LLM API
 
 ### The Core Problem: Automating audio link discovery
 
 ### About Quartr
 
-Quartr is a Swedish financial data company founded to aggregate and
-structure investor relations material from public companies globally.
+Quartr is a Swedish financial data company founded to aggregate and structure investor relations material from public companies globally.
 
-**Quartr API** is their enterprise data product, relevant to Stockfan:
+**Quartr API** is their enterprise data product, relevant to the app:
 
 - **Coverage:** 15,000+ public companies across 65 markets
 - **Data available:**
@@ -167,7 +166,7 @@ structure investor relations material from public companies globally.
 ### Proposed Pipeline
 
 The proposal is to combine Quartr API (structured IR data) with an LLM
-API (Claude or ChatGPT) to produce transcript summaries for display in Stockfan:
+API (Claude or ChatGPT) to produce transcript summaries for display in the app:
 
 ```
 Quartr API
@@ -175,8 +174,8 @@ Quartr API
         → (if audio only) transcribe.py locally OR Quartr's own transcript
             → LLM API (Claude/ChatGPT) with transcript as context
                 → structured output: summary, key metrics, sentiment
-                    → Stockfan database
-                        → Stockfan app
+                    → the app database
+                        → the app app
 ```
 
 - Quartr provides the raw transcript data
@@ -185,7 +184,7 @@ Quartr API
 ### Open Questions / Next Steps
 
 - Get a Quartr API pricing quote
-- Think about API integration with Stockfan backend databse
+- Think about API integration with the app backend databse
 - Ask Quartr API data what companies it includes
 
 ---
