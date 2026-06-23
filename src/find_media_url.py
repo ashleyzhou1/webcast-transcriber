@@ -8,29 +8,18 @@ audio/video URLs on webcast player pages:
   3. Look for either:
      a) A direct media file requested with status 206 (range request),
         same filename repeated multiple times -> e.g. Oracle, Meta, Cisco,
-        Qualcomm, IBM (Q4 Inc / ChorusCall-hosted direct mp4s)
+        Qualcomm, IBM (Q4 Inc/ChorusCall-hosted direct mp4s)
      b) A .m3u8 HLS manifest URL -> e.g. SanDisk, Broadcom, ASML, TSMC,
-        Alibaba (media-server.com / CloudFront / hinet.net HLS streams)
+        Alibaba (media-server.com, CloudFront, hinet.net HLS streams)
   4. Return the best candidate URL(s) found, ready to hand off to
      download.py (for direct files) or ffmpeg (for .m3u8 streams)
 
 IMPORTANT ASSUMPTIONS / LIMITATIONS (be upfront about these in findings):
-  - Assumes the browser session is ALREADY LOGGED IN via a saved session
-    file created with save_login_session.py. This script does not handle
-    login forms, 2FA, or registration walls itself.
-  - Does not guarantee success on signed/session-bound URLs (e.g. Nvidia's
-    Veracast setup) -- those require an active authenticated session at
-    the URL level, not just the page level, and will likely fail even if
-    a candidate URL is found.
+  - Assumes the browser session is logged in via a saved session
+    file created with save_login_session.py
   - When multiple .m3u8 files are found (e.g. TSMC's "playlist" vs
-    "chunklist"), this script prefers the one with "playlist" in the name,
-    matching what we found works best manually.
-  - Does NOT auto-click play -- in --debug mode it pauses for you to click
-    play manually, since player UIs vary too much to reliably automate
-    that click. Without --debug (headless), it will likely find nothing
-    unless the page autoplays.
-  - This is a best-effort heuristic based on patterns observed across ~15
-    companies this week. It will not work on every platform.
+    "chunklist"), this script prefers the one with "playlist" in the name.
+  - --debug is required for user to click play
 
 Requires: playwright (pip install playwright && playwright install chromium)
 

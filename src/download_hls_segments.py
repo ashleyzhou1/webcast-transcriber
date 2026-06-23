@@ -4,17 +4,13 @@ download_hls_segments.py
 Workaround for HLS streams where the signed Policy/Signature query string
 covers the whole event (via a wildcard Resource pattern) but ffmpeg
 doesn't propagate that query string when following the manifest's
-internal segment references -- causing 403 errors on every segment even
-though the signature is actually valid for all of them.
+internal segment references.
 
 This script downloads each numbered segment directly (manually appending
 the known-good Policy/Signature to each one), then concatenates them all
 into a single output file using ffmpeg's concat demuxer.
 
-Confirmed working case: Nvidia's Veracast-hosted webcast, where the
-master manifest -> child manifest -> individual .ts segments all 403'd
-through ffmpeg's normal HLS handling, but each segment downloads fine
-when given the same signed query string directly.
+Confirmed working case: Nvidia's Veracast-hosted webcast
 
 Usage:
     python download_hls_segments.py <base_url_pattern> <query_string> <num_segments> <output_path> [start_num] [num_digits]

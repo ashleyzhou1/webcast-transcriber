@@ -12,7 +12,7 @@
 # Usage (run from project root):
 #   bash src/test_all_companies.sh
 #
-# NOTE: this does NOT run transcribe.py -- it stops once the mp3 is
+# Note: This does not run transcribe.py. It stops once the mp3 is
 # downloaded, so you can manually verify each file before transcribing.
 
 OUTPUT_DIR="samples/6-19/automated-test"

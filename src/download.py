@@ -5,10 +5,6 @@ Given a direct URL to a media file (audio like mp3/wav/m4a, or video like
 mp4), downloads it locally. If it's a video file, extracts just the audio
 track using ffmpeg, since that's all transcribe.py needs.
 
-Does NOT handle embedded streaming players / webpages with a video widget
-and no direct file link (that would require yt-dlp or similar, and is a
-fragile, best-effort case best left to a later phase).
-
 Usage (standalone):
     python download.py https://example.com/path/to/webcast.mp3
     python download.py https://example.com/path/to/webcast.mp4

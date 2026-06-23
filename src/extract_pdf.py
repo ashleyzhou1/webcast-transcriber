@@ -1,14 +1,8 @@
 """
 extract_pdf.py
 
-Given a local PDF file, extracts its plain text content. No AI/ML
-involved here -- PDFs that contain real text (not scanned images) already
-have that text embedded in the file; this just pulls it out directly.
-
-Note: this will NOT work well on scanned/image-only PDFs (e.g. a PDF that's
-just a photo of a printed page). Those would need OCR instead, which is a
-different, heavier tool -- worth flagging as a known limitation rather than
-something this script handles.
+Given a local PDF file, extracts its plain text content (not for scanned
+or image-only PDFs).
 
 Usage (standalone):
     python extract_pdf.py path/to/document.pdf

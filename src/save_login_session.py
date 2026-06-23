@@ -1,16 +1,15 @@
 """
 save_login_session.py
 
-Opens a REAL, VISIBLE browser window so you can manually log in to a
+Opens a visible browser window so you can manually log in to a
 webcast platform (enter your email, click through registration, etc.),
 then saves the resulting session (cookies + local storage) to a file.
 
 That saved file can then be reused by find_media_url.py to inspect
 webcast pages without needing to log in again every time.
 
-IMPORTANT: each platform (Q4 Inc, ChorusCall, edge.media-server.com, etc.)
-likely needs its OWN saved session, since logging into one doesn't log
-you into the others. Run this once per platform, save each to a
+Note: each platform (Q4 Inc, ChorusCall, edge.media-server.com, etc.)
+likely needs its own saved session. Run this once per platform, save each to a
 differently-named file.
 
 Usage:

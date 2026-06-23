@@ -5,12 +5,6 @@ Given a company's investor relations (IR) page URL, scans the page's HTML
 for links that look like they lead to webcasts/earnings calls, based on
 keyword matching in the link text and URL.
 
-This is a "best effort, baseline" scraper, not a robust solution: IR pages
-vary company to company, and even when a relevant link is found, it often
-points to a webcast *player* page (e.g. ChorusCall, Q4 Inc, Notified/ICR)
-rather than a direct downloadable audio file. See findings doc for more on
-this distinction.
-
 Output is saved as JSON in the same structure as the ChatGPT LLM-search
 results, so the two approaches can be compared side by side.
 

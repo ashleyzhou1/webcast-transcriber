@@ -1,4 +1,4 @@
-# Python dependencies for stockfan-webcast-transcriber
+# Python dependencies for the app-webcast-transcriber
 # Install with: pip install -r requirements.txt
 #
 # Also requires ffmpeg (system install, not pip):
