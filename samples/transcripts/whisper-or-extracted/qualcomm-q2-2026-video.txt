@@ -1,0 +1,517 @@
+[00:00] Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm Second Quarter
+[00:04] Fiscal Twenty-26 earnings conference call. At this time, all participants are in listen
+[00:07] only mode. Later, we'll conduct a question and answer session. If you'd like to ask
+[00:13] a question during this time, press star then the number one on your telephone keypad.
+[00:17] To withdraw your question, press star then the number two. If you're using a speaker
+[00:22] phone, please pick up your handset before pressing the numbers. Please enter your questions
+
+[00:27] to one question and one follow-up. As your reminder, this conference is being recorded
+[00:31] April 29th, 2026. Playback number for today's call is 877-660-6853. International callers,
+[00:41] please dial 201-612-7415. Playback reservation number is 137-59-551. I would now let's turn
+[00:54] the call over to Brett Simpson, Senior Vice President of Investor Relations. Mr. Simpson,
+[00:58] please go ahead.
+[01:01] Thank you and good afternoon, everyone. Today's call will include prepared remarks by Cristiano
+
+[01:06] Amón and Akash Palkwala. In addition, Alex Rogers will join the question and answer session.
+[01:12] You can access our earnings release and a slide presentation that will accompany this
+[01:16] call on our Investor Relations website. In addition, this call is being webcast on Qualcomm.com
+[01:23] and a replay will be available on our website later today. During the call today, we will
+[01:28] use non-gap financial measures as defined in Regulation G and you can find the related
+[01:34] reconciliations to gap on our website. We will also make forward-looking statements, including
+
+[01:39] projections and estimates of future events, business or industry trends, or business
+[01:45] or financial results. Actual events or results could differ materially from those projected
+[01:51] in our forward-looking statements. Please refer to our SEC filings, including our most
+[01:56] recent 10Q, which contain important factors that could cause actual results to differ
+[02:01] materially from the forward-looking statements. And now to comments from Qualcomm's President
+[02:06] and Chief Executive Officer Cristiano Amón.
+
+[02:10] Thank you, Brett. And good afternoon, everyone. Thanks for joining us today. In fiscal Q2,
+[02:15] we delivered revenues of $10.6 billion in non-gap earnings per share of $2.65 with
+[02:23] EPS coming in at the high end of our guidance. QCT revenues were $9.1 billion with another
+[02:30] quarter of record automotive revenues as well as growth in IoT. Licensing business revenues
+[02:37] were $1.4 billion. Before I share key highlights from the business, I would like to provide
+[02:43] some perspective on Qualcomm's current customer design cycles and the opportunities ahead.
+
+[02:49] We are in a period of profound change, and it may not yet seem obvious to the financial
+[02:54] community. The emergence of agent AI workloads with Open Claw as an early example are fundamentally
+[03:00] changing user experiences across connected edge devices and reshaping our roadmap in
+[03:06] every platform we develop. For agents to work efficiently, they must run continuously in
+[03:13] the background, few sensor data into context, orchestrate multi-step tasks reliably and deliver
+[03:20] strong security. Today's install base of devices were not built for this new capabilities,
+
+[03:26] and it represents a significant upgrade opportunity and expansion of our addressable market in
+[03:31] the coming years. Agent orchestration is predominantly CPU bound, and Qualcomm has the words best
+[03:38] performing CPU across smartphones, PCs, IoT, and soon the data center. Qualcomm's unparalleled
+[03:46] connectivity solutions and power efficient NPU for local models will also be key assets to
+[03:53] delivering agent AI experiences. No other semiconductor company matches the breadth and scale of our
+[03:59] technology and product portfolio, which powers devices spanning milliwatts to kilowatts, from
+
+[04:06] smart wearables to data centers. As a result, we're seeing a step function increase in strategic
+[04:13] customer engagement and is changing how we think about the broad AI opportunity as well as the
+[04:18] speed of our diversification efforts. Beginning with automotive, in Q2, we exceeded $5 billion in
+[04:27] annualized revenues for the first time, and we expect to exit Cisco 26 at a run rate above $6
+[04:34] billion. This growth is driven by our fourth generation Snapdragon Digital Chassis platform,
+[04:40] which comprises connectivity, telematics, infotainment, as well as advanced driver assistant and
+
+[04:46] automated driving. Notably, we have now enabled more than one million cars operating A-Dassen
+[04:52] economy on our Snapdragon ride processors. By the end of the fiscal year, we will begin
+[04:58] commercial shipments of our fifth generation Snapdragon Digital Chassis platform. This represents
+[05:05] the largest generation-to-generation content increase in Qualcomm's history, delivering three
+[05:10] times higher CPU throughput, a three-fold increase in GPU capability and 12 times higher NPU
+[05:18] performance while supporting in-vehicle agents and processing for level three and level four
+
+[05:25] autonomous driving. Looking ahead to fiscal 27, we expect continued share gains and increased
+[05:32] content, particularly in A-Dass, where pleased with the performance of our automated driving
+[05:38] stack of BMW, and we're seeing broad customer engagement from other leading automakers.
+[05:45] Our recent announcements with Bosch and Wave are good examples of what's to come as we build on
+[05:52] our proven platforms and self-driving stack in scale A-Dass. In IoT,
+[05:59] Agentic workloads and Adjai are driving major product renewal design cycles. Overall, our pipeline
+
+[06:05] is healthy and there is clear momentum for Qualcomm's solutions. In personal AI, we expect a significant
+[06:12] increase in the choice of newest more glasses starting in the second half of the year. We believe
+[06:18] these launches combined with a rapid progress in Agentic AI will catalyze an inflection point
+[06:24] in customer demand across this category. Our 2026 Snapdragon X2PC platforms are currently in
+[06:32] production and our world-class Orion CPU unlocks powerful, always-on, Agentic experiences,
+[06:39] making it a true competitive differentiator. Agentic orchestrators, such as Open Claw,
+
+[06:46] Claude Desktop, Claude Code, OpenAI Codex Desktop, perplexity computer,
+[06:53] crew AI, air-miss agent, land graph, and humane one running on Snapdragon X2 or early proof points.
+[07:02] A recent PCMag review of the ASUS ZenBook A16 notes the Qualcomm is now a serious challenger
+[07:10] in the PC space and states, quote, the generational leap from the original Snapdragon X Elite to
+[07:17] the X2 series is particularly striking. Qualcomm hasn't just caught up to the industry. In some cases,
+[07:26] is now helping to set the pace, unquote. In addition, our Exagon NPU is the world's fastest
+
+[07:33] four laptops delivering up to 85 tops together with our industry leading CPU, which has the best
+[07:41] on-device token generation rate. Snapdragon X2 delivers the full agent experience
+[07:47] end-to-end and outperforms Intel's Penter Lake by nearly 30%. In physical and industrial AI,
+[07:55] our new Dragon Wing IQ10 platform has generated substantial customer interest since our launch
+[08:02] at CES. This is a significant upgrade compared to IQ9, feature an NPU with up to 700 tops of own
+[08:10] device AI performance, an 18-core Orion CPU over 20 camera sensors in an integrated safety island.
+
+[08:20] Building on our design win with Figure AI, we announced an exciting multi-year agreement with
+[08:26] NURA, reinforcing our confidence that we can become a significant player in the broad robotics market.
+[08:33] Also during the quarter, we introduced Ventuno Q at Embedded World. This is the second Arduino
+[08:40] platform built on Qualcomm Silicon, and we view it as a word-class prototyping engine for both
+[08:46] robotics and industrial AI developers as we expand our ecosystem across K verticals. Ventuno Q
+[08:54] is purpose-built to bring AI into the physical world, enabling fully autonomous AI agents in
+
+[09:01] a wide range of edge AI applications, including voice assistance and vision systems. Several new
+[09:07] industrial AI products are also moving from design win to deployment across retail, utilities,
+[09:14] oil and gas, agriculture and other verticals. In data center, the AlphaWave integration is off
+[09:21] to a great start, and we're pursuing multiple opportunities with large hyperscalers, cloud service
+[09:27] providers, Southern AI projects and other global partners. Building on that momentum,
+[09:33] we're also entering the custom silicon space, beginning our ramp with a leading hyperscaler,
+
+[09:39] and we expect initial shipments in the December quarter. In addition, development of our leading
+[09:45] data center CPU and high performance AI inference accelerators is progressing well. We look forward
+[09:52] to sharing more details and customer wins at Investor Day in June. Regarding handsets,
+[10:00] I would like to underscore two key points. First, the quarter played out as we expected.
+[10:06] Cell-true held up in our chip business materially under shipped consumer demand.
+[10:11] We believe our China Android revenue is bottoming out in fiscal Q3 and Akash will provide more
+
+[10:16] specifics in his financial update. Second, we think agent smart phones will soon begin to
+[10:22] influence the pre-menteer, and we expect this team will only get stronger into fiscal 27.
+[10:29] With examples like the Biden's Dow Bao-powered agent AI phone from ZTE Nubia.
+[10:36] Xiaomi's recent announcement of a Mi-Claw agent framework and other agent systems now in development
+[10:44] across the Android ecosystem. We have a clear line of sight into how the AI upgrade cycle will
+[10:50] unfold, and this is going to be an important day wind for premium demand over time.
+
+[10:57] Next, I want to highlight a major strategic initiative and long-term growth driver for Qualcomm.
+[11:03] 6G, the next generation of wireless. Design for the age of AI will believe 6G will present
+[11:10] one of the most significant transitions for the wireless industry. From a connectivity perspective,
+[11:16] 6G will enable new classes of mobile and personal devices, such as smart glasses,
+[11:21] with enhanced uplink capabilities to support agent use cases like C, what I see.
+[11:29] Beyond connectivity, 6G will be an AI native network where AI reasoning, learning, and autonomous
+
+[11:36] action are core functions. It is intended to act as distributed intelligent infrastructure
+[11:42] that integrates communication in wide area real-time sensing. With this new capabilities,
+[11:49] the network becomes critical infrastructure and provides the telecom industry an opportunity
+[11:55] to develop completely new business and economic models. It will make possible new AI-enabled
+[12:01] services ranging from context-relevant data, data insights, and analytics, low altitude
+[12:07] are aerial, terrestrial, and autonomous traffic management, drone detection and tracking,
+
+[12:13] and 3D mapping with telemetry to build dynamic digital twins at scale.
+[12:19] Qualcomm's leadership in connectivity, AI processing, and high-performance low-power computing
+[12:25] position us to be one of the key architects and beneficiaries of the 6G transition.
+[12:31] In addition to the development of foundational technologies and standards,
+[12:35] we're building end-to-end solutions for devices and the network from agentic modems and compute
+[12:42] platforms that power phones, PC, intelligent wearables, and cars all the way to the network,
+
+[12:48] including power-efficient, next-generation radar units, wide-area network sensing platforms,
+[12:54] and high-performance compute and AI accelerators for the RAN, network edge, core, and data center.
+[13:01] To help shape and accelerate the 6G roadmap, at MWC, we launch a 60-company coalition
+[13:08] spanning carriers, cloud infrastructure, AI-native partners, and auto OEMs.
+[13:13] The engagement and feedback on our 6G vision and plans from our partners, customers, and
+[13:19] governments across the globe has been very positive, and we look forward to working across the industry
+
+[13:25] to deliver on this generational opportunity. Before I turn the call over to Akash, I want to note
+[13:32] that we will provide a broader update at our investor day to include our data center plans
+[13:38] and our progress in other areas, including advanced robotics, next-generation ADAS,
+[13:43] industrial edge AI, personal AI devices, and 6G. We hope you can join us as we will be highlighting
+[13:50] meaningful new avenues of growth to support our long-term diversification story. I will now turn
+[13:56] the call to Akash. Thank you, Kishiano, and good afternoon, everyone. Let me begin with our
+
+[14:03] results for the second fiscal quarter. We delivered revenues of $10.6 billion and non-gap EPS of
+[14:10] $2.65 with EPS at the high end of our guidance. QTL revenues of $1.4 billion and EBT margin of 72%
+[14:19] came in at the high end of our guidance, driven by favorable mix with global handset units
+[14:24] approximately flat on a year-over-year basis. QCT revenues of $9.1 billion and EBT margin of 27%
+[14:32] were in line with our expectations. QCT handset revenues of $6 billion came in as anticipated,
+[14:39] as OEMs remained cautious on handset bills due to the impact of challenging memory industry dynamics.
+
+[14:46] QCT IoT revenues of $1.7 billion were up 9% on a year-over-year basis, driven by growth across
+[14:53] consumer and industrial products. In QCT automotive, we delivered another record quarter with revenues
+[15:00] of $1.3 billion representing 38% year-over-year growth, driven by accelerating demand and increasing
+[15:07] content per vehicle due to the transition of new digital cockpit and 8S launches to our fourth
+[15:13] generation chipsets. On a combined basis, QCT automotive and IOT revenues grew 20% year-over-year
+[15:21] underscoring the continued diversification of our business consistent with our long-term revenue
+
+[15:26] targets. We also returned $3.7 billion to stockholders during the quarter, including $2.8 billion in
+[15:33] cherry purchases and $945 million in dividends, reflecting acceleration of our capital return
+[15:39] program. Lastly, we released a previously recorded tax valuation allowance resulting in a $5.7 billion
+[15:47] non-cash gap tax benefit in the second fiscal quarter. This benefit is excluded from non-gap
+[15:53] results. This reversal reflects new guidance on corporate alternative minimum tax, issued in February
+[16:00] by Treasury and IRS permitting taxpayers to deduct previously capitalized domestic R&D expenses.
+
+[16:08] Before turning to guidance, I'd like to provide an update on the continued impact of memory
+[16:12] industry dynamics on our business. Last quarter, we highlighted that the increasing demand for
+[16:18] memory in AI data centers was driving uncertainty in memory supply and price increases to hands-out
+[16:24] OEMs. As a result, the hands-out OEMs, particularly in China, were taking a cautious approach by
+[16:30] reducing build plans and drawing down channel inventory. These dynamics played out as expected
+[16:35] in the second fiscal quarter and are also reflected in our third quarter guidance.
+
+[16:40] As a result, in both quarters, our China QCT Android shipments are meaningfully below the scale of
+[16:46] end consumer hands-out demand. We now estimate that QCT hands-out revenues from Chinese customers
+[16:52] will reach a bottom in the third quarter and return to sequential growth in the following quarter.
+[16:58] Now, turning to guidance. In the third fiscal quarter, we are forecasting revenues of $9.2 to
+[17:03] $10 billion and non-gap EPS of $2.10 to $2.30. In QTL, we estimate revenues of 1.15 to $1.35
+[17:13] billion and EBT margins of 67 to 71 percent, with sequential decline primarily due to the operating
+
+[17:20] assumption of weaker low-tier hands-out units. In QCT, we expect revenues of 7.9 to 8.5 billion
+[17:27] and EBT margins of 25 to 27 percent. We are forecasting QCT hands-out revenues to be approximately
+[17:34] $4.9 billion as a result of the impact of the industry-wide memory dynamics I just outlined.
+[17:41] We anticipate QCT IoT revenues to grow by high single digits versus the year ago period
+[17:47] driven by industrial and consumer products. In QCT automotive, following another record quarter,
+[17:53] we expect year over year revenue growth to further accelerate to approximately 50 percent
+
+[17:58] in the third fiscal quarter. Lastly, we forecast non-gap operating expenses to be approximately
+[18:04] $2.6 billion in the quarter. In closing, while our near-term revenues are impacted by memory
+[18:11] industry cyclical dynamics, we are confident in the underlying fundamentals around Snapdragon
+[18:16] product leadership and content growth opportunities, including the adoption of Agentec AI technologies.
+[18:22] We continue to execute on our secular growth opportunities in automotive
+[18:26] minority and remain confident in achieving our long-term revenue targets. In addition,
+
+[18:31] we are very excited about the progress in our data center products and customer traction.
+[18:36] We now expect initial shipments for a custom silicon engagement at a leading hyperscaler
+[18:42] later this calendar year. We look forward to providing an update on our growth initiatives,
+[18:47] including opportunities in data center and physical AI at our investor day on June 24th.
+[18:53] This concludes our prepared remarks. Back to you, Brad.
+[18:57] Thank you, Akash. All prior, we are now ready for questions.
+
+[19:02] Thank you. To queue a question, press star, then the number one.
+[19:05] To destroy your question, press star, then number two. If you speak your phone,
+[19:09] please pick up your handset before pressing the numbers. We'll know in place for the first question.
+[19:15] Our first question comes from the line of Joshua Buckhulter with TD Cowan.
+[19:19] Please just see your three questions. Hey, guys. Thank you for taking my question.
+[19:24] Obviously, I'm not sure you're going to be able to front-run the AI day you plan to host in June,
+
+[19:29] but any details you're able to share on our context on what the custom silicon engagement,
+[19:35] what the scope is, what the magnitude is. Is this a CPU? Is it an accelerator? Is it a networking
+[19:41] chip? Any help you can give us beyond the press release and prepare remarks?
+[19:45] I think it would be helpful if that's where investors certainly want to begin today. Thank you.
+[19:50] Josh, this question, I think it's a lot for a question. Look, I can't provide a lot of details.
+[19:55] As you said, we don't want to front-run. I think June 24, but here's a couple of things I can tell
+
+[20:00] you, which is alongside what we said in the script. I think we have spent time, I think,
+[20:07] building assets in the building or CPU. We have a different solution for memory in the
+[20:17] accelerator. We have added a lot of capabilities for custom ASIC with the acquisition of AlphaWave
+[20:23] and connectivity we have been pursuing. Custom ASIC, we talk about having engagement with a
+[20:29] number of companies and please with the engagement several quarters ago. I think giving
+[20:36] the capabilities that we're developing and what's happening in the market, that's accelerating.
+
+[20:40] We're very excited. The only thing I can tell, it is a large hyperscaler. We're really thinking
+[20:47] about a multi-generation engagement, but I think that's what we can say at this point.
+[20:55] I guess we'll stay tuned. To my follow-up, can you maybe walk through why you're confident that,
+[21:00] I assume it's fiscal third quarter that you're referring to with the third quarter, but why
+[21:04] are confident fiscal third quarter can be the bottom for Android sales, Android QCT sales into
+[21:11] China. September quarter is usually a typically down seasonal quarter and just given how low
+
+[21:17] visibility is right now overall in the handset market, I'd be curious just what inputs you're
+[21:22] seeing that gives you the confidence it's going to bottom in the June quarter. Thank you.
+[21:27] Sure, Josh. It's a cash. If you think about the impact to QCT
+[21:32] from Chinese handset OEMs as a result of the memory dynamics, it's really two parts. The first
+[21:37] part is the scale of the handset market. There we've seen some small decline in it, especially in
+[21:44] the mid-low tiers. By far, the larger impact have been the OEMs making a decision to slow down
+
+[21:52] their bills and draw down on channel inventory. Both of these factors have been in our March
+[21:59] quarter results and they're also represented in our June quarter guidance.
+[22:02] And so what we end up doing in both quarters is really significantly undershipping the end
+[22:08] consumer demand for handsets as a result of the channel inventory drawn-on factor.
+[22:14] So as we look forward, we feel confident that the third quarter is now the bottom. And so as we
+[22:22] go forward, the revenue is going to be much closer to the scale of the handset business versus
+
+[22:27] the inventory drawn-on factor continuing into our forecast.
+[22:31] And Josh, this is Christian. I just want to add one thing because
+[22:36] there's another way to look into this. As you know, because of our licensing business,
+[22:39] we do have visibility of what happens in the market. So we know how the
+[22:45] sell-through market is behaving even when increased price on the handsets. So it gives us a real good
+[22:50] idea on activations and customer demand versus what we're shipping. So that dynamic
+
+[22:56] outline by Akash is kind of very clear to us that Q3 becomes the bottom.
+[23:03] Our next question comes from the line of to make
+[23:05] strategy with J.P. Morgan. Please just use your questions.
+[23:08] Hi. Thank you. Thanks for taking my questions.
+[23:11] Christian, maybe just going back to the data center opportunity and just trying to think about
+[23:18] if you can sort of help us think about the competitive landscape here. I mean, you've had
+
+[23:23] which is the IP provider now announced they want to vertically integrate and make chips.
+[23:28] You had an NVIDIA announced that they are going to focus on the influencing market as well.
+[23:32] How are you thinking about the competitive dynamics where they are rated maybe
+[23:37] three months ago or six months ago that you're now sort of going and trying to
+[23:41] deliver these wins on and I have a quick follow-up after that. Thank you.
+[23:47] Great, great question. Look, I'll give it our perspective and I think we have now,
+
+[23:53] I think more clarity than we ever have about where kind of we are in the AI space. So
+[24:00] a little bit of maybe at a very high level, right, in the beginning it was all about training.
+[24:06] It was all about creation of AI, a lot of GPU, very GPU-centered deployment.
+[24:11] Infr
+[24:12] and then the conversation changed to I'm going to use my GPU from training on the cluster that I
+[24:18] build and when I'm not training, I'm going to use that for inference. As inference starts to
+
+[24:21] game scale, you started to see dedicated solutions. The data center becomes more
+[24:28] disaggregated. You have separate computing solution, some for compute bounds, some for memory
+[24:32] bounds and now we're entering the, I'll say the next phase, which how AI is really going from
+[24:38] inference generating tokens. How do you generate demand for tokens, which all those
+[24:43] agentic experience and those orchestrators that run into a lot of the devices.
+[24:48] So when you think of that landscape and you look at our IP and the places that we can be
+
+[24:54] very differentiated, I will start by our CPU. I think when you think about agents,
+[25:00] CPU becomes very important and I will argue we were one of the companies that have a pretty good
+[25:06] CPU asset. We proven that CPU performance, we have leading performance on the markets that we
+[25:14] are right now such as PC, smartphone and auto and we have built and we'll provide details on
+[25:20] investor day, a dedicated CPU for agentic experiences in the data center. We're going to show the
+[25:28] metrics, we're going to show how perform people will be able to compare. As you know, we have an
+
+[25:32] architecture license and we have a very, very high performance CPU. So that's one of the assets.
+[25:38] The other asset is how you think about the scale of a semiconductor company like Qualcomm. We're
+[25:46] not small and the ability to combine the IP with the ability to do custom silicon, make sure that
+[25:55] that yield, make sure it is delivered with quality and combine a lot of the connectivity IP
+[26:02] which I believe AlphaWave because it was a licensing IP company has a leading IP. The more you license,
+[26:09] the better your IP becomes. The number three is how we think about the accelerator. You're going to
+
+[26:16] need high compute density low TCO and we think that we have something unique which is
+[26:25] focused on a cluster that is disaggregating for very specific function especially like
+[26:33] decode. I think the activity you've seen with companies like Grok and CibriBros just prove
+[26:40] that you have opportunity for a dedicated inference accelerator. And the last point is I will not discount
+[26:48] the position that we have on the edge. If you actually track what's happening with open claw
+[26:56] in all of the different desktop and co-work solutions, you rely a lot on a high performance
+
+[27:05] CPU device which is also causing an upgrade cycle for us. So we look at this whole landscape and
+[27:11] that's how we feel so good about the agentic transition of AI, what it means to Qualcomm.
+[27:18] And hopefully on June 24 we'll show the details on the roadmap and if after we'll be able to see
+[27:24] where we stand. And please reserve a seat. Yes, no, please look forward to talking about that
+[27:31] more at the investor today. Maybe for my follow up just going back to the handset business. Can
+[27:36] you just remind us of the multi-year agreement framework that you have with your primary
+
+[27:42] premium smartphone customer Samsung. You did have some sort of changes in the market in the share
+[27:48] with them this year. I think there are some more indications for those step down and share and
+[27:53] more use of the in-house SOC sort of next year. Can you just remind us how you're thinking about
+[28:01] that engagement long term and what does the multi-year agreement sort of capture at this point?
+[28:07] No, absolutely. I love answering this question. So this is a very, very stable, I think a relationship
+[28:13] with Qualcomm. I want to remind you all that we have reset the framework of this relationship.
+
+[28:20] Historically, we always had a business with Samsung that was in the 50% share between us
+[28:26] and their own in-house silicon. That has changed to greater than 70% as you know and that has been
+[28:32] the framework. And sometimes we'll get more than that, but we plan our business in greater than 70%
+[28:38] share, which is exactly what we have said. You should expect that is the framework of this year.
+[28:43] And that is also the framework for next year. I would say that that's probably one of the most
+[28:47] stable relationships that we have and we have visibility of what that entails. And we feel good about
+
+[28:56] the position on Snapdragon. And I'll argue, I think given what's happened with agents, we have an
+[29:01] opportunity to actually have a positive bias on that share.
+[29:08] Our next question is from the line of Chris K. So with, we'll research. Please receive three
+[29:12] questions. Yes, I, good evening. I guess the first question, if just returning to the data center
+[29:19] briefly and to clarify what you mentioned in terms of the hyperscaler engagement for the December
+[29:26] quarter, is that an engagement for an accelerator or a CTU? I understand you're targeting both,
+
+[29:35] it sounds like, but what's the particular engagement for December?
+[29:41] This particular engagement, which we're going to have shipments in December, is a custom
+[29:47] product we work in with a hyperscaler.
+[29:49] Okay, so no other specificity past that. Okay.
+[29:59] Just with regard to QTL. And it looks like that's modestly down and likely due to what you've
+[30:07] been talking about with regard to what's going on in the handset market. What's the right way to
+
+[30:12] think about the QTL business as we go forward into the second half of the year? Do you think that,
+[30:18] you know, we kind of maintain these levels and adjust for seasonality as you get to the end of the
+[30:23] year? Or do you expect the impact on QTL to be more significant as you go on the second half?
+[30:31] Yeah, Chris, that's a cash. So as you saw in our results for the second quarter,
+[30:35] year over year, handset units were flat for the global units. And then this was really kind of
+[30:44] impacting our guidance as well, our actuals as well. As we look at third quarter, what we're
+
+[30:50] guiding is some weakness in the mid-low tiers in the market. I mean, this is obviously something
+[30:54] that we are projecting forward and we're going to track closely. But what we're seeing is the
+[31:00] premium high tier of the market is continuing to hold and weakness in the lower tiers. And
+[31:04] that's what's reflected in our guidance. That's our reasonable way of thinking about the market
+[31:08] going forward as well. The next question is from the line of Stacy Raskin with Bernstein
+[31:15] Research. Let's see if there are questions. Hi guys, thanks for taking my questions.
+
+[31:21] So if the China handset's bottom in Q3 and then they grow in Q4, that's September quarter. September
+[31:27] quarter, I think, is when we're supposed to get the Apple step down, which may be an offset.
+[31:31] So I guess just how are you thinking about handset seasonality into September quarter,
+[31:36] given those kind of competing dynamics? How should we be thinking about that?
+[31:42] Yes, Stacy, it's Akash. You're right. I think in terms of kind of handset revenues for QCT from
+[31:49] Chinese OEMs, we do expect that the June quarter is the bottom and you will see sequential growth
+
+[31:55] from there. And Apple, you're right as well. That typically it's a growth quarter for Apple
+[32:00] product revenue and we do not see that at this point given they share assumption change. So
+[32:05] those are the two factors you would use to forecast September quarter.
+[32:09] Do you think do you think handsets grow sequentially in September or not, given those two things?
+[32:14] Stacy, we're not specifically guiding it at this point, but I think those two factors would be
+[32:20] the input into the forecast. Okay, and for my follow-up, you talked about like
+
+[32:26] agentic devices and agentic smartphones like driving a shift and things, I guess, into 27.
+[32:34] Do you think the memory issues are going to be done, but they're like, how much memory does an
+[32:38] agentic smartphone need? And is that something that's going to continue to be when you think
+[32:43] on this as we go into 2027? How do we think about the broader dynamics around memories as we go forward?
+[32:50] Thank you for the question, Stacy. Look, it's a little early to talk about 27.
+[32:55] I think one thing to see is I think the pace of change of AI is getting scale.
+
+[33:03] When I think about the framework that I talked about before, which you go from
+[33:07] inference to now you know how you generate demands for tokens with a lot of agents.
+[33:13] I think what we see is two things. One is the devices are changing the requirements and the design
+[33:23] in the players. We see interesting associations now start into form between smartphones and AI
+[33:29] companies. We're starting to see some very interesting dynamics there with just changing the nature
+[33:34] of designs. We see designs moving towards products that have much more capable CPU
+
+[33:43] to run those type of products. And there's a lot of noise in the memory environment right now.
+[33:50] I wish I could make a prediction on 27 is a little early, but we see a combination of
+[33:57] some of the same companies that want a lot of demand for data centers. Also getting involved
+[34:03] with some of the devices at the edge as well. And we see new memory players coming and building
+[34:10] capacity. So we're going to have to monitor the situation and see what happens in 27.
+[34:17] The next question is from the line of Timothy, a Curie with UBS. Please just see your questions.
+
+[34:26] Thanks a lot. I want to ask also about this custom that is going to ship in the fourth
+[34:31] quarter of this year. I know you brought a team in from AlphaWave. It seems a little fast to get
+[34:35] something to market that includes your IP by the end of this year given cycle time. So I think
+[34:40] they had some chiplet stuff and maybe some custom DSP stuff. Is that the sort of thing you're talking
+[34:44] about or is this truly something that includes a big portion of your IP that you've been able to
+[34:51] turn around since the deal closed? Look, I think two answers. So we have,
+
+[35:00] I'm pretty positive for the best several quarters we've been talking about engaging with customers
+[35:05] in the data center. So I think when we start engaging and talking about some of the Qualcomm
+[35:10] capabilities, it's probably, I think, even before the acquisition of AlphaWave. I think the
+[35:14] acquisition of a wave increase or execution capabilities in the portfolio of IP. I think you
+[35:21] should expect that we're going to have longer multi-generation agreement with those companies
+[35:29] that brings a lot of Qualcomm capabilities to the table. I wish I could provide more details,
+
+[35:35] but like I said, I don't want to front run what we're going to do on June 24. But I think we will
+[35:40] provide a detail of everything we're doing, our customers win in our roadmap and our IP.
+[35:47] Thanks a lot. And then I guess just as a follow up, is the assumption still the same that,
+[35:54] like around your share at Apple, I know there's some signs that there's going to be a little
+[35:59] more aggressive displacement, is the assumption still that it's going to be 20% for the new
+[36:05] launch. Thanks. Yeah, no change to our assumption there. We've set 20% of the
+
+[36:12] 20% share of the phones that will launch in fall this year, and no product relationship beyond that.
+[36:18] And this is this assumption has been consistent for the last couple of years. In terms of Apple
+[36:23] product revenue for fiscal 27, we've seen sell side models in the range of a little over two billion
+[36:29] dollars in terms of QCT product revenue in the year. And we think that's a reasonable place to model
+[36:34] the business.
+[36:37] Very nice question. Sir, from the line of Joe Moore, it was Morgan Stanley. Please see their
+
+[36:41] question. Yeah, thank you. You're alluded to the weakness being more in the medium tier and
+[36:49] the premium tier is being stronger. And you know, it's not something you can see where you're
+[36:52] sort of taking limited memory allocation and that sort of drives just to sort of limit that
+[36:59] puts it in the heart here. Just what are you seeing in terms of what that's doing to your mix going
+[37:02] forward? Yeah, I think the actions from the OEMs are obviously very logical. If you had to choose
+[37:11] between which devices you put your memory allocation to, you would pick the premium and the high
+
+[37:16] tier. That's where the profitability sets. And that's what you're seeing happen in the market.
+[37:22] Okay. And thank you. And you talked about 6P and 2029. I mean, is that what does that
+[37:27] timeframe represent? Is that sort of introduction of technology? Is there shipments then just
+[37:32] anything you can tell us about when 6G starts to become relevant?
+[37:36] Yes. And look, thank you for the question. The reason I brought it up is because
+[37:42] 6G is going to feel I think very different than the other Gs for Qualcomm. I also believe that
+
+[37:48] 6G creates some very interesting, I think, Southern AI and data center opportunities,
+[37:55] I think for Qualcomm as well. You should be thinking about our timeline and we've been
+[38:01] consistent with it. We will have prototype-based, I think, demonstrations in 2028.
+[38:07] Likely we're going to have first silicon in 2028 and we want early launches in 2029. And then
+[38:15] we expect that to get scaled by 2030. Great. Thank you.
+[38:21] Our next question is from the line of Russ Seymour with Deutsche Bank. Please just hear your questions.
+
+[38:29] Hi guys. Thanks for let me ask a question. I want to go back to the handset side. And if you
+[38:33] could just level set us to whether it's the fiscal second quarter or fiscal third quarter,
+[38:37] what percentage of handsets is China? And you mentioned that a lot of the dynamics is how far
+[38:42] you're under shipping versus true demand. Are you believing that true demand, whether it's China
+[38:48] or elsewhere, is truly weakening still or is that side of the equation stabilizing despite the
+[38:53] memory fairs? Yeah, Russ, when you think about the total handset market, and this is more of a QTL
+
+[39:00] comment, right? That's where we're seeing that there's a slight decline in mid-load years,
+[39:06] but the overall scale of the handset market has not changed much, at least in the March quarter,
+[39:11] and we're going to obviously closely monitor that going forward. In terms of QCT shipments
+[39:17] to Chinese customers, it's a factor, as I said earlier, of two things. It's not just the scale
+[39:23] of the handset market, but the OEM decision to draw down on channel inventory. And so my comments
+[39:29] earlier were about the draw down of channel inventory will end soon, and that's us calling the bottom
+
+[39:36] on the quarter, and then really our shipments will reconcile to the size of the handset market.
+[39:43] Okay, and I guess for my follow-up question, shifting gears to the automotive side of things,
+[39:46] you mentioned about the ADAS side starting to ramp and growing 50% this year, or at least in
+[39:52] this next quarter, so doing very, very well. As you go from more of a cockpit business to the ADAS mix
+[39:59] increasing, how does that change the revenue trajectory and perhaps the gross margin trajectory
+[40:05] in your automotive business? Yes, so hi, this is Cristiano. I think what you see is ADAS
+
+[40:13] celebrates revenue dramatically because it's a lot more silicon content. In that, it's true
+[40:20] actually on both sides. I think what you saw is when we went from generation three to generation
+[40:25] four in digital cockpit, I think we keep mentioning the car is really becoming a computing surface.
+[40:31] We saw a step function increase in the capability of silicon content. You expect another one when
+[40:37] we go from fourth generation to fifth generation, and as we add processors and you started to see
+[40:43] more and more development of L2++ and direction towards level three, you're starting to see the
+
+[40:53] amount of computing power going up. So for us, it's basically a significant revenue accelerator
+[41:01] within automotive. Specifically on your question on gross margin, the highlight may be two
+[41:08] additional factors to what Cristiano said. I think we have the transitioning from a chip sale to a
+[41:13] SIP sale, and so as we go to a module, it increases the revenue opportunity for us as well. And then
+[41:21] in addition, we have software opportunity on top of the chip set, which also helps our margin profile.
+[41:28] So net net, we still model the business in line with our corporate average, but it really is a
+
+[41:34] business that has several vectors of growth as both of us are aligned.
+[41:42] Thank you. Our last question, this is from the line of Vivek Aria with Bank of America Securities.
+[41:46] Please just see your questions. Thanks for taking my questions. For the first one,
+[41:52] I guess you mentioned Apple products is I think two billion plus for fiscal 27. What about the
+[41:57] royalty contribution? How does that evolve as you approach the date for kind of, you know,
+[42:02] renegotiation, renegotiating that business? Yeah, so bending the renegotiation,
+
+[42:11] the royalty, we don't expect it to change, right? It should be in the same scale that it's at,
+[42:16] and it's an independent business separate from the chip business.
+[42:18] Okay. And from my follow up, Cristiano, back to this hyperscaler discussion, I realize you'll
+[42:26] give more details at analyst day, but was, is Qualcomm's intention to approach this from an
+[42:34] ASIC perspective? I thought you plan to enter the data center from a merchant perspective, but are
+[42:39] you saying that now the goal is to approach it from an ASIC perspective? And if that is the case,
+
+[42:45] you know, what impact does it have on margins? Like are you really going to compete head on
+[42:50] with the other ASIC suppliers that are out there? So this is going to be more kind of a one-on-one
+[42:56] right type approach to the market as opposed to approaching the market in a broader merchant.
+[43:02] So just, you know, what is kind of the broader strategy, go to market strategy that Qualcomm has
+[43:08] in this business? Very good. Great question. I think the answer is all of the above.
+[43:14] Look, we, first of all, as a new entrant, I think we were very flexible, but we also look at the
+
+[43:21] reality of what's happening in the hyperscalers. You can see the majority of the revenue for
+[43:29] semiconductor companies, it's heavily concentrated in a few number of very large companies. And those
+[43:37] companies have now had indicated very clearly they have different, as the data center gets
+[43:44] disaggregated, you have different approach to compute, to connectivity, and you should assume
+[43:50] that Qualcomm will play on merchant, on custom, and it's going to be combination on how we're going
+[43:56] to configure our IP. And different IP blocks for different solutions is going to be a bespoke business.
+
+[44:05] And specifically on a question on this custom engagement we talked about, we do expect that
+[44:12] to be a creative at the operating margin level. Thank you. That concludes today's question
+[44:20] answer session. Mr. Ramon, do you have anything further to add for joining the call?
+[44:26] I think the obvious thing I want to say is to please ask everyone to attend our June 24th,
+[44:32] I think, investor day. We intend at the investor day to really highlight not only I think everything
+[44:39] that is happening with the new Qualcomm, but also I think the details of the products and
+
+[44:44] technology we have been developing for the data center space, provide an update in how physical
+[44:49] AI is transforming our business and provide the clarity that we have today, how really agents
+[44:57] and agentic experiences actually has brought implication in our entire business. And I look
+[45:03] forward to speak to all of you and I'd like to thank our partners, our employees,
+[45:10] for a great quarter as we continue to transform Qualcomm. Thank you very much.
+[45:17] Ladies and gentlemen, this concludes today's conference call. You may now disconnect.

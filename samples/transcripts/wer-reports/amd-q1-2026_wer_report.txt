@@ -1,0 +1,2374 @@
+WER: 12.8%
+Quality: Acceptable (10-20%)
+Official word count: 9750
+Whisper word count: 9660
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+amd 1q two thousand and twentysix earnings john greetings and welcome to the amd
+first quarter two thousand and twentysix conference call at this time all
+participants are in a listen only mode a question and answer session will follow
+the formal presentation if anyone should require operator assistance during the
+conference please press star zero on your telephone keypad and please note that
+this conference is being recorded i will now turn the conference over to matt
+ramsay vice president of financial strategy and ir thank you matt you may begin
+thank you a nd welcome to amds first quarter two thousand and twentysix
+financial results conference call by now you should have had the opportunity to
+review a copy of our earnings press release and the accompanying slides if you
+have not had a chance to review these materials they can be found on the
+investor relations page of amdcom we will refer primarily to nongaap financial
+measures during todays call the full nongaap to gaap reconcilia
+
+WHISPER (first 1000 chars):
+greetings and welcome to the amd first quarter two thousand and twentysix
+conference call at this time all participants are in a listen only mode a
+question and answer session will follow the formal presentation if anyone should
+require operator assistance during the conference please press star zero on your
+telephone keypad and please note that this conference is being recorded i will
+now turn the conference over to matt ramsey vice president of financial strategy
+and ir thank you matt you may begin thank you and welcome to amds first quarter
+two thousand and twentysix financial results conference call by now you should
+have had the opportunity to review a copy of our earnings press release and the
+accompanying slides if you have not had a chance to review these materials they
+can be found on the investor relations page of amdcom we will refer primarily to
+nongap financial measures during todays call the full nongap to gap
+reconciliations are available in todays press release and slid
+
+ALIGNED DIFFERENCES (all 650, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: amd 1q two thousand and twentysix earnings john
+
+[2]
+  OFFICIAL: ramsay
+  WHISPER:  ramsey
+
+[3]
+  OFFICIAL: a nd
+  WHISPER:  and
+
+[4]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[5]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[6]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[7]
+  OFFICIAL: su
+  WHISPER:  sue
+
+[8]
+  OFFICIAL: hu
+  WHISPER:  who
+
+[9]
+  OFFICIAL: hu
+  WHISPER:  who
+
+[10]
+  OFFICIAL: two
+  WHISPER:  2nd
+
+[11]
+  OFFICIAL: c ontains
+  WHISPER:  contains
+
+[12]
+  OFFICIAL: lisa su t hank
+  WHISPER:  thank
+
+[13]
+  OFFICIAL: m att
+  WHISPER:  matt
+
+[14]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[15]
+  OFFICIAL: ryzen
+  WHISPER:  rising
+
+[16]
+  OFFICIAL: m ark
+  WHISPER:  mark
+
+[17]
+  OFFICIAL: o ur
+  WHISPER:  our
+
+[18]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[19]
+  OFFICIAL: a ccelerated
+  WHISPER:  accelerated
+
+[20]
+  OFFICIAL: 5th
+  WHISPER:  fifth
+
+[21]
+  OFFICIAL: epyc turned
+  WHISPER:  epic turn
+
+[22]
+  OFFICIAL: 4th
+  WHISPER:  fourth
+
+[23]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[24]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[25]
+  OFFICIAL: epycpowered
+  WHISPER:  epic powered
+
+[26]
+  OFFICIAL: workload
+  WHISPER:  workloads
+
+[27]
+  OFFICIAL: health care
+  WHISPER:  healthcare
+
+[28]
+  OFFICIAL: midmarket
+  WHISPER:  mid market
+
+[29]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[30]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[31]
+  OFFICIAL: onprem
+  WHISPER:  on prem
+
+[32]
+  OFFICIAL: epyc venice
+  WHISPER:  epic business
+
+[33]
+  OFFICIAL: v enice
+  WHISPER:  venice
+
+[34]
+  OFFICIAL: verano
+  WHISPER:  varano
+
+[35]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[36]
+  OFFICIAL: purposebuilt
+  WHISPER:  purpose built
+
+[37]
+  OFFICIAL: 2x
+  WHISPER:  two x
+
+[38]
+  OFFICIAL: armbased
+  WHISPER:  arm based
+
+[39]
+  OFFICIAL: d emand
+  WHISPER:  demand
+
+[40]
+  OFFICIAL: ramping
+  WHISPER:  rampant
+
+[41]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[42]
+  OFFICIAL: inferencing
+  WHISPER:  in fencing and
+
+[43]
+  OFFICIAL: nd agentic
+  WHISPER:  gen thick
+
+[44]
+  OFFICIAL: head nodes
+  WHISPER:  headnotes
+
+[45]
+  OFFICIAL: nearterm
+  WHISPER:  near term
+
+[46]
+  OFFICIAL: longterm
+  WHISPER:  long term
+
+[47]
+  OFFICIAL: o ur
+  WHISPER:  our
+
+[48]
+  OFFICIAL: agentic
+  WHISPER:  a gen thick
+
+[49]
+  OFFICIAL: tam
+  WHISPER:  tim
+
+[50]
+  OFFICIAL: r esponse
+  WHISPER:  response
+
+[51]
+  OFFICIAL: twenty
+  WHISPER:  twentysix
+
+[52]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[53]
+  OFFICIAL: t urning
+  WHISPER:  turning
+
+[54]
+  OFFICIAL: doubledigit
+  WHISPER:  double digit
+
+[55]
+  OFFICIAL: supercomputing
+  WHISPER:  super computing
+
+[56]
+  OFFICIAL: longterm
+  WHISPER:  long term
+
+[57]
+  OFFICIAL: multigeneration
+  WHISPER:  multi generation
+
+[58]
+  OFFICIAL: mi450
+  WHISPER:  mi four hundred and fifty
+
+[59]
+  OFFICIAL: codesigned
+  WHISPER:  codesign
+
+[60]
+  OFFICIAL: shipments
+  WHISPER:  gertmints
+
+[61]
+  OFFICIAL: rack
+  WHISPER:  rac
+
+[62]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[63]
+  OFFICIAL: openai
+  WHISPER:  open ai
+
+[64]
+  OFFICIAL: coengineering
+  WHISPER:  co engineering
+
+[65]
+  OFFICIAL: multiyear
+  WHISPER:  multi year
+
+[66]
+  OFFICIAL: ainative
+  WHISPER:  ai native
+
+[67]
+  OFFICIAL: p artners
+  WHISPER:  partners
+
+[68]
+  OFFICIAL: a
+
+[69]
+  OFFICIAL: rocm
+  WHISPER:  racam
+
+[70]
+  OFFICIAL: mlperf
+  WHISPER:  ml per
+
+[71]
+  OFFICIAL: mi355x
+  WHISPER:  mi 355x
+
+[72]
+  OFFICIAL: a lso
+  WHISPER:  also
+
+[73]
+  OFFICIAL: gemma four
+  WHISPER:  gemma4
+
+[74]
+  OFFICIAL: qwen kimi
+  WHISPER:  quinn kimmy
+
+[75]
+  OFFICIAL: rocm
+  WHISPER:  racam
+
+[76]
+  OFFICIAL: agentbased
+  WHISPER:  agent based
+
+[77]
+  OFFICIAL: a head
+  WHISPER:  ahead
+
+[78]
+  OFFICIAL: mi450
+  WHISPER:  mi four hundred and fifty
+
+[79]
+  OFFICIAL: w e
+  WHISPER:  we
+
+[80]
+  OFFICIAL: mi450
+  WHISPER:  mi four hundred and fifty
+
+[81]
+  OFFICIAL: multigigawatt
+  WHISPER:  multi gigawatt
+
+[82]
+  WHISPER:  percent
+
+[83]
+  OFFICIAL: l ook
+  WHISPER:  look
+
+[84]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[85]
+  OFFICIAL: t o
+  WHISPER:  to
+
+[86]
+  WHISPER:  percent
+
+[87]
+  WHISPER:  percent
+
+[88]
+  OFFICIAL: d esktop
+  WHISPER:  desktop
+
+[89]
+  WHISPER:  percent
+
+[90]
+  OFFICIAL: health care
+  WHISPER:  healthcare
+
+[91]
+  WHISPER:  our
+
+[92]
+  WHISPER:  ryzen
+
+[93]
+  OFFICIAL: g aming
+  WHISPER:  gaming
+
+[94]
+  WHISPER:  percent
+
+[95]
+  OFFICIAL: a lso
+  WHISPER:  also
+
+[96]
+  OFFICIAL: in
+  WHISPER:  and
+
+[97]
+  OFFICIAL: t o
+  WHISPER:  to
+
+[98]
+  WHISPER:  percent
+
+[99]
+  WHISPER:  our
+
+[100]
+  OFFICIAL: w in
+  WHISPER:  win
+
+[101]
+  OFFICIAL: doubledigit
+  WHISPER:  double digit
+
+[102]
+  OFFICIAL: engagements
+  WHISPER:  engagement
+
+[103]
+  OFFICIAL: s ummary
+  WHISPER:  summary
+
+[104]
+  OFFICIAL: rising
+  WHISPER:  rise in
+
+[105]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[106]
+  OFFICIAL: instinct
+  WHISPER:  instant
+
+[107]
+  OFFICIAL: w e
+  WHISPER:  we
+
+[108]
+  OFFICIAL: in
+  WHISPER:  on
+
+[109]
+  OFFICIAL: inferencing and
+  WHISPER:  influencing an agentic
+
+[110]
+  OFFICIAL: deployments
+  WHISPER:  deployment
+
+[111]
+  OFFICIAL: server
+  WHISPER:  service
+
+[112]
+  OFFICIAL: worldclass
+  WHISPER:  world class
+
+[113]
+  OFFICIAL: time frame
+  WHISPER:  timeframe
+
+[114]
+  OFFICIAL: jeanne
+
+[115]
+  OFFICIAL: h u
+
+[116]
+  OFFICIAL: y ou
+  WHISPER:  you
+
+[117]
+  OFFICIAL: a
+  WHISPER:  the
+
+[118]
+  OFFICIAL: accelerated
+  WHISPER:  established
+
+[119]
+  OFFICIAL: the
+
+[120]
+  OFFICIAL: q uarter
+  WHISPER:  quarter
+
+[121]
+  WHISPER:  in
+
+[122]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[123]
+  WHISPER:  the
+
+[124]
+  OFFICIAL: and
+
+[125]
+  OFFICIAL: flat
+  WHISPER:  fled
+
+[126]
+  OFFICIAL: the
+
+[127]
+  OFFICIAL: gross m argin
+  WHISPER:  growth margin
+
+[128]
+  OFFICIAL: an increase of
+  WHISPER:  and increased so for
+
+[129]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[130]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[131]
+  OFFICIAL: taxes
+  WHISPER:  texas
+
+[132]
+  OFFICIAL: diluted earnings
+  WHISPER:  that loaded the earning
+
+[133]
+  OFFICIAL: share
+  WHISPER:  year
+
+[134]
+  OFFICIAL: year over year underscoring
+  WHISPER:  yearofyear undergoing
+
+[135]
+  OFFICIAL: as we scale
+  WHISPER:  swe skill
+
+[136]
+  OFFICIAL: t urning
+  WHISPER:  turning
+
+[137]
+  OFFICIAL: a
+  WHISPER:  the
+
+[138]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[139]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[140]
+  OFFICIAL: continued
+  WHISPER:  continue the
+
+[141]
+  OFFICIAL: instinct gpus
+  WHISPER:  instinctive use
+
+[142]
+  OFFICIAL: or
+  WHISPER:  all
+
+[143]
+  OFFICIAL: or
+  WHISPER:  all
+
+[144]
+  OFFICIAL: a
+
+[145]
+  OFFICIAL: on the
+  WHISPER:  client
+
+[146]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[147]
+  WHISPER:  the
+
+[148]
+  OFFICIAL: c lient
+  WHISPER:  client
+
+[149]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[150]
+  OFFICIAL: ryzen
+  WHISPER:  rising
+
+[151]
+  OFFICIAL: continued
+  WHISPER:  continue the
+
+[152]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[153]
+  OFFICIAL: radeon
+  WHISPER:  retail and
+
+[154]
+  OFFICIAL: semicustom
+  WHISPER:  semicustomer
+
+[155]
+  OFFICIAL: a ddition
+  WHISPER:  addition
+
+[156]
+  OFFICIAL: on
+
+[157]
+  OFFICIAL: a year ago
+  WHISPER:  yearofyear
+
+[158]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[159]
+  WHISPER:  the
+
+[160]
+  OFFICIAL: seasonally
+  WHISPER:  six million
+
+[161]
+  OFFICIAL: a
+
+[162]
+  OFFICIAL: the
+
+[163]
+  OFFICIAL: a
+  WHISPER:  the
+
+[164]
+  OFFICIAL: investments
+  WHISPER:  investment
+
+[165]
+  OFFICIAL: repurchased
+  WHISPER:  purchased
+
+[166]
+  OFFICIAL: under
+  WHISPER:  and
+
+[167]
+  OFFICIAL: t o
+  WHISPER:  to
+
+[168]
+  OFFICIAL: midpoint
+  WHISPER:  middle point
+
+[169]
+  OFFICIAL: year over year
+  WHISPER:  yearofyear
+
+[170]
+  OFFICIAL: a
+
+[171]
+  WHISPER:  the
+
+[172]
+  WHISPER:  the
+
+[173]
+  OFFICIAL: in our
+
+[174]
+  OFFICIAL: segments
+  WHISPER:  segment
+
+[175]
+  WHISPER:  the
+
+[176]
+  OFFICIAL: nongaap gross
+  WHISPER:  nongap growth
+
+[177]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[178]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[179]
+  OFFICIAL: a gain
+  WHISPER:  again
+
+[180]
+  OFFICIAL: non gaap
+  WHISPER:  nongap is
+
+[181]
+  OFFICIAL: count
+  WHISPER:  account
+
+[182]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[183]
+  OFFICIAL: earnings
+  WHISPER:  earning
+
+[184]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[185]
+  OFFICIAL: long term
+  WHISPER:  the longterm
+
+[186]
+  OFFICIAL: v alue
+  WHISPER:  value
+
+[187]
+  OFFICIAL: with that ill turn it
+  WHISPER:  we dive out turned
+
+[188]
+  OFFICIAL: matt ramsay t hank y ou jean
+  WHISPER:  thank you gene
+
+[189]
+  OFFICIAL: follow up
+  WHISPER:  followup
+
+[190]
+  OFFICIAL: pull
+  WHISPER:  poll
+
+[191]
+  OFFICIAL: john
+
+[192]
+  OFFICIAL: m att
+  WHISPER:  matt
+
+[193]
+  OFFICIAL: your
+  WHISPER:  a
+
+[194]
+  OFFICIAL: follow up
+  WHISPER:  followup
+
+[195]
+  OFFICIAL: while
+  WHISPER:  will
+
+[196]
+  OFFICIAL: pull
+  WHISPER:  poll
+
+[197]
+  OFFICIAL: f irst
+  WHISPER:  first
+
+[198]
+  OFFICIAL: buchalter
+  WHISPER:  buckalter
+
+[199]
+  OFFICIAL: cowen
+  WHISPER:  cowan
+
+[200]
+  OFFICIAL: joshua bu chalter hey
+  WHISPER:  hi
+
+[201]
+  OFFICIAL: c ongrats
+  WHISPER:  congrats
+
+[202]
+  OFFICIAL: and
+
+[203]
+  WHISPER:  im
+
+[204]
+  OFFICIAL: and
+
+[205]
+  OFFICIAL: and
+
+[206]
+  OFFICIAL: lisa su
+
+[207]
+  OFFICIAL: s ure
+  WHISPER:  sure
+
+[208]
+  OFFICIAL: so
+
+[209]
+  WHISPER:  the
+
+[210]
+  OFFICIAL: i mean
+
+[211]
+  WHISPER:  a
+
+[212]
+  OFFICIAL: and
+
+[213]
+  OFFICIAL: and
+
+[214]
+  OFFICIAL: category or
+  WHISPER:  kaggar
+
+[215]
+  OFFICIAL: and w hat
+  WHISPER:  what
+
+[216]
+  OFFICIAL: so
+
+[217]
+  OFFICIAL: the last lets call it
+
+[218]
+  OFFICIAL: and t he
+  WHISPER:  the
+
+[219]
+  OFFICIAL: you do more
+
+[220]
+  OFFICIAL: so
+
+[221]
+  OFFICIAL: longer term
+  WHISPER:  longerterm
+
+[222]
+  OFFICIAL: and y eah i mean
+
+[223]
+  OFFICIAL: your
+
+[224]
+  OFFICIAL: going
+  WHISPER:  growing
+
+[225]
+  OFFICIAL: and then
+
+[226]
+  OFFICIAL: i mean
+
+[227]
+  OFFICIAL: there are
+  WHISPER:  theres
+
+[228]
+  WHISPER:  at
+
+[229]
+  OFFICIAL: and t o
+  WHISPER:  to
+
+[230]
+  OFFICIAL: a
+
+[231]
+  OFFICIAL: so
+
+[232]
+  OFFICIAL: c learly
+  WHISPER:  clearly
+
+[233]
+  OFFICIAL: turin
+  WHISPER:  turn of
+
+[234]
+  OFFICIAL: was ramped
+  WHISPER:  has ran
+
+[235]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[236]
+  WHISPER:  on
+
+[237]
+  OFFICIAL: so
+
+[238]
+  OFFICIAL: joshua b uchalter ok t hank
+  WHISPER:  thank
+
+[239]
+  OFFICIAL: so
+
+[240]
+  OFFICIAL: openai
+  WHISPER:  open ai
+
+[241]
+  OFFICIAL: upsizing
+  WHISPER:  up sizing
+
+[242]
+  OFFICIAL: lisa s u
+
+[243]
+  OFFICIAL: j osh so
+  WHISPER:  josh
+
+[244]
+  OFFICIAL: so
+
+[245]
+  OFFICIAL: and
+
+[246]
+  OFFICIAL: and
+
+[247]
+  OFFICIAL: and
+
+[248]
+  OFFICIAL: cagr and
+  WHISPER:  kaggar
+
+[249]
+  OFFICIAL: large scale
+  WHISPER:  largescale
+
+[250]
+  OFFICIAL: and
+
+[251]
+  OFFICIAL: so
+
+[252]
+  OFFICIAL: very
+  WHISPER:  a
+
+[253]
+  OFFICIAL: john
+
+[254]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[255]
+  OFFICIAL: from
+  WHISPER:  in
+
+[256]
+  OFFICIAL: thomas o malley
+
+[257]
+  OFFICIAL: g uys
+  WHISPER:  guys
+
+[258]
+  WHISPER:  to
+
+[259]
+  OFFICIAL: you
+  WHISPER:  he
+
+[260]
+  OFFICIAL: half weighted
+  WHISPER:  halfweighted
+
+[261]
+  OFFICIAL: q4 weighted year
+  WHISPER:  q4weighted here
+
+[262]
+  OFFICIAL: t hen
+  WHISPER:  then
+
+[263]
+  OFFICIAL: et cetera
+  WHISPER:  etc
+
+[264]
+  OFFICIAL: lisa s u
+
+[265]
+  OFFICIAL: o k
+  WHISPER:  okay
+
+[266]
+  WHISPER:  percent
+
+[267]
+  OFFICIAL: a s
+  WHISPER:  as
+
+[268]
+  WHISPER:  a
+
+[269]
+  WHISPER:  percent
+
+[270]
+  OFFICIAL: t hats
+  WHISPER:  thats kind of
+
+[271]
+  WHISPER:  and
+
+[272]
+  WHISPER:  the
+
+[273]
+  OFFICIAL: are
+  WHISPER:  is
+
+[274]
+  WHISPER:  sort of
+
+[275]
+  OFFICIAL: its a
+  WHISPER:  they say
+
+[276]
+  OFFICIAL: very
+
+[277]
+  OFFICIAL: matt ramsay a ll r ight
+  WHISPER:  all right
+
+[278]
+  OFFICIAL: approached
+  WHISPER:  approach
+
+[279]
+  OFFICIAL: maybe
+
+[280]
+  OFFICIAL: caller
+  WHISPER:  call
+
+[281]
+  OFFICIAL: john
+
+[282]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[283]
+  OFFICIAL: seymore
+  WHISPER:  seymour
+
+[284]
+  OFFICIAL: ross se ymore hi thanks f or letting
+  WHISPER:  i think for let
+
+[285]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[286]
+  OFFICIAL: lisa su s ure r oss
+  WHISPER:  all right ross
+
+[287]
+  OFFICIAL: look
+  WHISPER:  were very you know
+
+[288]
+  WHISPER:  you know
+
+[289]
+  WHISPER:  and
+
+[290]
+  WHISPER:  you know
+
+[291]
+  OFFICIAL: t o
+  WHISPER:  to
+
+[292]
+  WHISPER:  you know
+
+[293]
+  WHISPER:  like
+
+[294]
+  WHISPER:  you know
+
+[295]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[296]
+  OFFICIAL: weve
+  WHISPER:  we
+
+[297]
+  WHISPER:  you know
+
+[298]
+  WHISPER:  a
+
+[299]
+  WHISPER:  you know
+
+[300]
+  WHISPER:  you know
+
+[301]
+  OFFICIAL: f or
+  WHISPER:  for
+
+[302]
+  OFFICIAL: ross seymore
+
+[303]
+  OFFICIAL: and
+
+[304]
+  OFFICIAL: follow up
+  WHISPER:  followup
+
+[305]
+  OFFICIAL: jean
+  WHISPER:  gene
+
+[306]
+  OFFICIAL: epyc
+  WHISPER:  epic
+
+[307]
+  OFFICIAL: jean h u
+
+[308]
+  OFFICIAL: r oss
+  WHISPER:  ross
+
+[309]
+  OFFICIAL: how our
+  WHISPER:  the whole out
+
+[310]
+  OFFICIAL: is
+  WHISPER:  easy
+
+[311]
+  OFFICIAL: there
+  WHISPER:  they
+
+[312]
+  WHISPER:  the
+
+[313]
+  WHISPER:  right
+
+[314]
+  OFFICIAL: our
+  WHISPER:  out
+
+[315]
+  OFFICIAL: i s the server cpu
+  WHISPER:  you know
+
+[316]
+  OFFICIAL: server cpu to expect it
+  WHISPER:  sorecipio expected
+
+[317]
+  OFFICIAL: the
+
+[318]
+  OFFICIAL: our
+  WHISPER:  out
+
+[319]
+  OFFICIAL: for
+
+[320]
+  OFFICIAL: go
+  WHISPER:  grow
+
+[321]
+  WHISPER:  the
+
+[322]
+  OFFICIAL: a ctually is
+  WHISPER:  actually its
+
+[323]
+  OFFICIAL: accretive
+  WHISPER:  creative
+
+[324]
+  OFFICIAL: w ere
+  WHISPER:  we are
+
+[325]
+  OFFICIAL: with
+  WHISPER:  to read
+
+[326]
+  OFFICIAL: to ramp in
+  WHISPER:  ramping
+
+[327]
+  WHISPER:  the
+
+[328]
+  OFFICIAL: setup
+  WHISPER:  set up
+
+[329]
+  OFFICIAL: i nto
+  WHISPER:  the
+
+[330]
+  OFFICIAL: day
+  WHISPER:  state
+
+[331]
+  OFFICIAL: the longterm
+  WHISPER:  long term
+
+[332]
+  OFFICIAL: good
+  WHISPER:  the
+
+[333]
+  OFFICIAL: john
+
+[334]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[335]
+  OFFICIAL: arcuri
+  WHISPER:  r corey
+
+[336]
+  OFFICIAL: timothy a rcuri
+
+[337]
+  OFFICIAL: wanted
+  WHISPER:  want
+
+[338]
+  WHISPER:  sort of
+
+[339]
+  WHISPER:  sort of
+
+[340]
+  WHISPER:  sort of
+
+[341]
+  OFFICIAL: you
+
+[342]
+  OFFICIAL: lisa s u
+
+[343]
+  OFFICIAL: t im
+  WHISPER:  tim
+
+[344]
+  OFFICIAL: unitdriven
+  WHISPER:  unit driven
+
+[345]
+  OFFICIAL: turin
+  WHISPER:  turn
+
+[346]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[347]
+  OFFICIAL: genoas
+  WHISPER:  genos sort of
+
+[348]
+  OFFICIAL: theres
+  WHISPER:  there is
+
+[349]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[350]
+  OFFICIAL: and
+
+[351]
+  WHISPER:  but
+
+[352]
+  OFFICIAL: were paying
+  WHISPER:  we are playing
+
+[353]
+  OFFICIAL: longterm and
+  WHISPER:  long term
+
+[354]
+  OFFICIAL: we are
+
+[355]
+  OFFICIAL: and
+
+[356]
+  OFFICIAL: unitdriven
+  WHISPER:  unit driven
+
+[357]
+  OFFICIAL: jean h u
+
+[358]
+  OFFICIAL: j ust
+  WHISPER:  just
+
+[359]
+  OFFICIAL: to
+
+[360]
+  OFFICIAL: of
+
+[361]
+  OFFICIAL: counts
+  WHISPER:  comes
+
+[362]
+  OFFICIAL: timothy a rcuri
+
+[363]
+  OFFICIAL: theres
+  WHISPER:  there are
+
+[364]
+  OFFICIAL: i mean
+
+[365]
+  WHISPER:  right
+
+[366]
+  OFFICIAL: lisa s u
+
+[367]
+  OFFICIAL: s ure
+  WHISPER:  sure
+
+[368]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[369]
+  OFFICIAL: tam
+  WHISPER:  time
+
+[370]
+  OFFICIAL: y ou
+  WHISPER:  you
+
+[371]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[372]
+  OFFICIAL: that
+  WHISPER:  thats
+
+[373]
+  OFFICIAL: semicustom
+  WHISPER:  semicustomed
+
+[374]
+  OFFICIAL: w ith
+  WHISPER:  with
+
+[375]
+  WHISPER:  kind of
+
+[376]
+  OFFICIAL: a bit
+
+[377]
+  OFFICIAL: tam
+  WHISPER:  time
+
+[378]
+  OFFICIAL: john
+
+[379]
+  OFFICIAL: y ou
+  WHISPER:  you
+
+[380]
+  OFFICIAL: vivek arya
+  WHISPER:  zizek aria
+
+[381]
+  OFFICIAL: vivek a rya
+
+[382]
+  OFFICIAL: f or taking my
+  WHISPER:  for that
+
+[383]
+  OFFICIAL: agentic
+  WHISPER:  agentics
+
+[384]
+  OFFICIAL: server
+  WHISPER:  the
+
+[385]
+  WHISPER:  kind of
+
+[386]
+  WHISPER:  just
+
+[387]
+  OFFICIAL: as a
+  WHISPER:  at the
+
+[388]
+  OFFICIAL: lisa s u
+
+[389]
+  OFFICIAL: v ivek
+
+[390]
+  WHISPER:  you know
+
+[391]
+  WHISPER:  you know
+
+[392]
+  WHISPER:  you know
+
+[393]
+  WHISPER:  you know
+
+[394]
+  WHISPER:  you know
+
+[395]
+  OFFICIAL: or
+
+[396]
+  WHISPER:  you know
+
+[397]
+  OFFICIAL: cpu to gpu
+  WHISPER:  you know cputogpu
+
+[398]
+  WHISPER:  you know
+
+[399]
+  WHISPER:  you know
+
+[400]
+  OFFICIAL: cpu to gpu
+  WHISPER:  cputogpu
+
+[401]
+  OFFICIAL: in
+  WHISPER:  like
+
+[402]
+  OFFICIAL: one to four
+  WHISPER:  onetofour
+
+[403]
+  OFFICIAL: one to eight
+  WHISPER:  onetoeight
+
+[404]
+  WHISPER:  you know
+
+[405]
+  OFFICIAL: one to one
+  WHISPER:  onetoone
+
+[406]
+  WHISPER:  you know
+
+[407]
+  WHISPER:  so
+
+[408]
+  WHISPER:  thats you know
+
+[409]
+  WHISPER:  you know
+
+[410]
+  WHISPER:  you know
+
+[411]
+  OFFICIAL: vivek arya
+  WHISPER:  all right
+
+[412]
+  OFFICIAL: f or
+  WHISPER:  for
+
+[413]
+  WHISPER:  you know
+
+[414]
+  WHISPER:  kind of
+
+[415]
+  OFFICIAL: im
+  WHISPER:  and
+
+[416]
+  WHISPER:  you know
+
+[417]
+  OFFICIAL: capex increase
+  WHISPER:  capital increases
+
+[418]
+  WHISPER:  kind of
+
+[419]
+  WHISPER:  right
+
+[420]
+  OFFICIAL: p art
+  WHISPER:  part
+
+[421]
+  WHISPER:  you know
+
+[422]
+  WHISPER:  you know
+
+[423]
+  WHISPER:  kind of
+
+[424]
+  OFFICIAL: lisa su s ure s o vivek
+  WHISPER:  sure so the second
+
+[425]
+  WHISPER:  you know
+
+[426]
+  OFFICIAL: b ack
+  WHISPER:  back
+
+[427]
+  WHISPER:  you know
+
+[428]
+  OFFICIAL: o f
+  WHISPER:  of
+
+[429]
+  WHISPER:  you know
+
+[430]
+  WHISPER:  you know
+
+[431]
+  WHISPER:  you know
+
+[432]
+  WHISPER:  you know
+
+[433]
+  WHISPER:  you know
+
+[434]
+  WHISPER:  you know sort of
+
+[435]
+  WHISPER:  you know
+
+[436]
+  WHISPER:  you know
+
+[437]
+  OFFICIAL: c ontinue
+  WHISPER:  continue
+
+[438]
+  WHISPER:  you know
+
+[439]
+  WHISPER:  you know
+
+[440]
+  OFFICIAL: john
+
+[441]
+  OFFICIAL: n ext
+  WHISPER:  next
+
+[442]
+  OFFICIAL: aaron ra kers
+
+[443]
+  OFFICIAL: f or
+  WHISPER:  for
+
+[444]
+  WHISPER:  you know
+
+[445]
+  WHISPER:  kind of
+
+[446]
+  OFFICIAL: service
+  WHISPER:  server
+
+[447]
+  OFFICIAL: on
+  WHISPER:  when
+
+[448]
+  OFFICIAL: lisa su
+
+[449]
+  WHISPER:  you know
+
+[450]
+  WHISPER:  you know
+
+[451]
+  OFFICIAL: cpus
+  WHISPER:  you know cpu
+
+[452]
+  WHISPER:  you know
+
+[453]
+  OFFICIAL: a
+  WHISPER:  you know
+
+[454]
+  OFFICIAL: doubledigits
+  WHISPER:  double digits
+
+[455]
+  WHISPER:  you know
+
+[456]
+  OFFICIAL: t hen
+  WHISPER:  then
+
+[457]
+  WHISPER:  you know
+
+[458]
+  WHISPER:  you know
+
+[459]
+  WHISPER:  you know
+
+[460]
+  WHISPER:  you know
+
+[461]
+  WHISPER:  you know
+
+[462]
+  WHISPER:  you know
+
+[463]
+  WHISPER:  you know
+
+[464]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[465]
+  WHISPER:  the you know
+
+[466]
+  OFFICIAL: aaron r akers
+
+[467]
+  OFFICIAL: a nd
+  WHISPER:  and
+
+[468]
+  OFFICIAL: followup
+  WHISPER:  call up
+
+[469]
+  WHISPER:  you know
+
+[470]
+  OFFICIAL: characterize
+  WHISPER:  care for us
+
+[471]
+  WHISPER:  you know
+
+[472]
+  OFFICIAL: lisa s u
+
+[473]
+  OFFICIAL: a aron
+  WHISPER:  aaron
+
+[474]
+  WHISPER:  you know
+
+[475]
+  WHISPER:  you know
+
+[476]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[477]
+  WHISPER:  you know
+
+[478]
+  WHISPER:  you know
+
+[479]
+  WHISPER:  you know
+
+[480]
+  WHISPER:  you know
+
+[481]
+  OFFICIAL: weve
+  WHISPER:  we
+
+[482]
+  WHISPER:  you know
+
+[483]
+  OFFICIAL: w e
+  WHISPER:  you know we
+
+[484]
+  OFFICIAL: time frame
+  WHISPER:  timeframe
+
+[485]
+  OFFICIAL: aioptimized
+  WHISPER:  ai optimized
+
+[486]
+  WHISPER:  you know sort of
+
+[487]
+  WHISPER:  you know
+
+[488]
+  WHISPER:  you know
+
+[489]
+  WHISPER:  you know
+
+[490]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[491]
+  OFFICIAL: tam
+  WHISPER:  tama
+
+[492]
+  WHISPER:  you know for
+
+[493]
+  OFFICIAL: john
+
+[494]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[495]
+  OFFICIAL: from the
+  WHISPER:  in
+
+[496]
+  OFFICIAL: cantor fitzgerald
+  WHISPER:  cantrifitz gerald
+
+[497]
+  OFFICIAL: cj m use
+
+[498]
+  OFFICIAL: g ood
+  WHISPER:  good
+
+[499]
+  OFFICIAL: talk
+  WHISPER:  talked
+
+[500]
+  WHISPER:  you know
+
+[501]
+  WHISPER:  kind of
+
+[502]
+  OFFICIAL: lisa s u
+
+[503]
+  OFFICIAL: s o
+  WHISPER:  so
+
+[504]
+  WHISPER:  you know
+
+[505]
+  OFFICIAL: mixed
+  WHISPER:  mix
+
+[506]
+  WHISPER:  the you know
+
+[507]
+  OFFICIAL: d id
+  WHISPER:  did
+
+[508]
+  WHISPER:  you know
+
+[509]
+  WHISPER:  you know
+
+[510]
+  WHISPER:  you know
+
+[511]
+  WHISPER:  you know
+
+[512]
+  WHISPER:  you know
+
+[513]
+  WHISPER:  you know
+
+[514]
+  WHISPER:  you know
+
+[515]
+  WHISPER:  you know
+
+[516]
+  WHISPER:  compared to
+
+[517]
+  WHISPER:  you know
+
+[518]
+  WHISPER:  you know
+
+[519]
+  OFFICIAL: did i answer cj muse
+  WHISPER:  thats very helpful and
+
+[520]
+  OFFICIAL: p erfect
+  WHISPER:  perfect
+
+[521]
+  WHISPER:  you know
+
+[522]
+  WHISPER:  you know
+
+[523]
+  WHISPER:  kind of
+
+[524]
+  WHISPER:  you know
+
+[525]
+  OFFICIAL: wafer
+  WHISPER:  way for
+
+[526]
+  WHISPER:  you know you
+
+[527]
+  WHISPER:  you know
+
+[528]
+  WHISPER:  you know
+
+[529]
+  OFFICIAL: jean hu c j a t
+  WHISPER:  hi miss gigi you know at
+
+[530]
+  OFFICIAL: of products
+  WHISPER:  full product
+
+[531]
+  WHISPER:  you know
+
+[532]
+  OFFICIAL: tied to
+  WHISPER:  tight
+
+[533]
+  WHISPER:  on
+
+[534]
+  OFFICIAL: the
+
+[535]
+  OFFICIAL: margin
+  WHISPER:  margins
+
+[536]
+  WHISPER:  you know
+
+[537]
+  OFFICIAL: asp
+  WHISPER:  esp
+
+[538]
+  WHISPER:  that
+
+[539]
+  OFFICIAL: john
+
+[540]
+  OFFICIAL: a nd
+  WHISPER:  and
+
+[541]
+  OFFICIAL: rasgon
+  WHISPER:  raskin
+
+[542]
+  OFFICIAL: stacy ra sgon
+
+[543]
+  OFFICIAL: t hanks
+  WHISPER:  thanks
+
+[544]
+  OFFICIAL: so
+
+[545]
+  OFFICIAL: in
+
+[546]
+  OFFICIAL: do
+
+[547]
+  OFFICIAL: grow
+  WHISPER:  grows
+
+[548]
+  OFFICIAL: exchina
+  WHISPER:  x china
+
+[549]
+  OFFICIAL: l ook
+  WHISPER:  look
+
+[550]
+  WHISPER:  i mean
+
+[551]
+  OFFICIAL: grow
+  WHISPER:  kind of grows
+
+[552]
+  OFFICIAL: rate
+  WHISPER:  rates
+
+[553]
+  OFFICIAL: that you were at q4
+  WHISPER:  of ur2four
+
+[554]
+  OFFICIAL: tie all
+  WHISPER:  tile
+
+[555]
+  OFFICIAL: jean hu y eah s o
+  WHISPER:  yeah so
+
+[556]
+  OFFICIAL: appreciate
+  WHISPER:  appreciated
+
+[557]
+  OFFICIAL: the
+
+[558]
+  OFFICIAL: was
+  WHISPER:  with
+
+[559]
+  OFFICIAL: modestly
+  WHISPER:  model space
+
+[560]
+  OFFICIAL: doubledigit
+  WHISPER:  double digits
+
+[561]
+  OFFICIAL: stacy ra sgon
+
+[562]
+  OFFICIAL: y ou
+  WHISPER:  you
+
+[563]
+  OFFICIAL: in
+
+[564]
+  OFFICIAL: ex
+  WHISPER:  x
+
+[565]
+  OFFICIAL: is
+  WHISPER:  its
+
+[566]
+  OFFICIAL: jean hu t he c hina
+  WHISPER:  the china
+
+[567]
+  OFFICIAL: will
+  WHISPER:  would
+
+[568]
+  OFFICIAL: is that
+
+[569]
+  WHISPER:  revenue
+
+[570]
+  OFFICIAL: stacy ra sgon ok ok s o
+  WHISPER:  okay okay so
+
+[571]
+  OFFICIAL: you dont want to ok
+  WHISPER:  okay
+
+[572]
+  WHISPER:  you
+
+[573]
+  WHISPER:  sort of
+
+[574]
+  WHISPER:  kind of
+
+[575]
+  OFFICIAL: through
+  WHISPER:  after
+
+[576]
+  OFFICIAL: year given the
+
+[577]
+  OFFICIAL: jean hu
+
+[578]
+  OFFICIAL: quarters
+  WHISPER:  cultures
+
+[579]
+  OFFICIAL: leaning in
+  WHISPER:  mean
+
+[580]
+  OFFICIAL: the
+
+[581]
+  OFFICIAL: it was four
+
+[582]
+  OFFICIAL: investments a re
+  WHISPER:  investment are
+
+[583]
+  OFFICIAL: tied
+  WHISPER:  applied
+
+[584]
+  OFFICIAL: beat
+  WHISPER:  feed
+
+[585]
+  OFFICIAL: beat
+  WHISPER:  feed
+
+[586]
+  WHISPER:  right
+
+[587]
+  OFFICIAL: resources
+  WHISPER:  resource
+
+[588]
+  OFFICIAL: our
+  WHISPER:  all
+
+[589]
+  OFFICIAL: matt ramsay t hank y ou
+  WHISPER:  thank you
+
+[590]
+  OFFICIAL: very
+
+[591]
+  OFFICIAL: john thank you o ur
+  WHISPER:  our
+
+[592]
+  OFFICIAL: blayne
+  WHISPER:  blaine
+
+[593]
+  OFFICIAL: jefferies
+  WHISPER:  jeffries
+
+[594]
+  OFFICIAL: blayne cu rtis hey well t hanks for squeezing me in lisa
+  WHISPER:  thanks mr scusey
+
+[595]
+  OFFICIAL: seven nanometer
+  WHISPER:  7andamina
+
+[596]
+  WHISPER:  kind of
+
+[597]
+  OFFICIAL: a
+  WHISPER:  the
+
+[598]
+  OFFICIAL: and
+
+[599]
+  OFFICIAL: for
+  WHISPER:  of
+
+[600]
+  OFFICIAL: margin in
+  WHISPER:  margins
+
+[601]
+  OFFICIAL: a
+  WHISPER:  as
+
+[602]
+  OFFICIAL: lisa su a ctually b layne
+  WHISPER:  actually blaine
+
+[603]
+  OFFICIAL: turin is
+  WHISPER:  we turn in
+
+[604]
+  OFFICIAL: turin in
+  WHISPER:  turned
+
+[605]
+  OFFICIAL: so
+
+[606]
+  OFFICIAL: g eneral
+  WHISPER:  general
+
+[607]
+  OFFICIAL: the more
+
+[608]
+  OFFICIAL: so
+
+[609]
+  OFFICIAL: in
+  WHISPER:  and
+
+[610]
+  OFFICIAL: and
+
+[611]
+  OFFICIAL: so
+
+[612]
+  OFFICIAL: o ur
+  WHISPER:  our
+
+[613]
+  OFFICIAL: and
+
+[614]
+  OFFICIAL: and
+
+[615]
+  OFFICIAL: turin and genoa
+  WHISPER:  her in general
+
+[616]
+  OFFICIAL: but
+
+[617]
+  OFFICIAL: and
+
+[618]
+  OFFICIAL: t he
+  WHISPER:  the
+
+[619]
+  OFFICIAL: and
+
+[620]
+  OFFICIAL: and
+
+[621]
+  OFFICIAL: and
+
+[622]
+  OFFICIAL: g ood
+  WHISPER:  good
+
+[623]
+  OFFICIAL: and so
+
+[624]
+  OFFICIAL: blayne cu rtis and then j ust
+  WHISPER:  just
+
+[625]
+  OFFICIAL: jean
+  WHISPER:  gene
+
+[626]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[627]
+  OFFICIAL: opex
+  WHISPER:  offx
+
+[628]
+  OFFICIAL: i
+  WHISPER:  it
+
+[629]
+  OFFICIAL: surprised
+  WHISPER:  surprise
+
+[630]
+  OFFICIAL: i was
+  WHISPER:  im
+
+[631]
+  OFFICIAL: i mean
+
+[632]
+  OFFICIAL: so
+
+[633]
+  OFFICIAL: jean hu
+
+[634]
+  OFFICIAL: gotomarket
+  WHISPER:  goto market
+
+[635]
+  OFFICIAL: and
+
+[636]
+  OFFICIAL: and
+
+[637]
+  OFFICIAL: over
+  WHISPER:  of
+
+[638]
+  OFFICIAL: lisa s u and i f
+  WHISPER:  if
+
+[639]
+  OFFICIAL: blayne
+
+[640]
+  OFFICIAL: jean is
+  WHISPER:  genes
+
+[641]
+  OFFICIAL: so
+
+[642]
+  OFFICIAL: n ow
+  WHISPER:  now
+
+[643]
+  OFFICIAL: because
+
+[644]
+  WHISPER:  sort of
+
+[645]
+  OFFICIAL: matt r amsay all r ight
+
+[646]
+  OFFICIAL: and
+  WHISPER:  in
+
+[647]
+  OFFICIAL: amd
+  WHISPER:  amg
+
+[648]
+  OFFICIAL: john
+
+[649]
+  OFFICIAL: y ou
+  WHISPER:  you
+
+[650]
+  OFFICIAL: and

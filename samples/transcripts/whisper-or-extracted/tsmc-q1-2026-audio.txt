@@ -1,0 +1,479 @@
+[00:00] 大家好,我是台積電法人關係處的蘇制凱
+[00:08] 歡迎您參加台積公司2026年第一季的法人說明會
+[00:14] 由於本法說會是向全球投資人同時連線轉播
+[00:20] 所以我們會全程使用英文請您見諒
+[00:24] 好,歡迎您參加第一季的法人關係處的蘇制凱
+[00:31] 這是Jeff Sue的TSMC Director of Investor Relations
+
+[00:35] 您的確保是由於本法說會是向全球投資人同時連線轉播
+[00:44] 如果您有關於本法說會是向全球投資人同時連線轉播
+[00:50] 如果您有關於本法說會是向全球投資人同時連線轉播
+[00:56] 這次的訪問會由於本法說會是向全球投資人同時連線轉播
+[01:00] 第一季的法人關係處的蘇制凱
+[01:03] Mr. Wendell Huang will summarize our operations in the first quarter
+
+[01:08] 2026 followed by our guidance for the second quarter
+[01:12] 2026
+[01:14] Afterwards Mr. Huang and TSMC's Chairman and CEO Dr.CC Wei
+[01:20] will jointly provide the company's key messages
+[01:23] then we will open the line for the Q&A session
+[01:28] As usual, I would like to remind everybody that today's discussions may contain forward
+
+[01:34] looking statements that are subject to significant risks and uncertainties
+[01:38] which could cause actual results to differ materially from those contained in the forward looking statements
+[01:43] So please refer to the Safe Harbor Modestate appears in our press release
+[01:48] And now, I would like to turn the call over to TSMC's CFO Mr. Wendell Huang
+[01:54] for the summary of operations and the current quarter guidance
+[01:58] Thank you Jeff, good afternoon everyone
+
+[02:01] Thank you for joining us today
+[02:03] My presentation will start with financial highlights for the first quarter 2026
+[02:09] After that, I will provide the guidance for the second quarter 2026
+[02:14] First quarter revenue increased 8.4% sequentially in NT
+[02:21] supported by strong demand for leading edge process technologies
+[02:26] In US dollar terms, revenue increased 6.4% sequentially to $35.9 billion
+
+[02:36] slightly ahead of our first quarter guidance
+[02:39] Gross margin increased 3.9% percentage points sequentially to 66.2%
+[02:47] primarily due to cost improvement efforts, a high capacity utilization rate, and a more favorable for exchange rate
+[02:57] Operating margin improved 4.1% percentage points sequentially to 58.1% due to operating leverage
+[03:06] Overall, our first quarter EPS was 22.0 A and T
+[03:12] and ROE was 40.5%
+
+[03:16] Now, let's move on to revenue by technology
+[03:21] 3.9 meter process technology contributed 25% of wafer revenue in the first quarter
+[03:29] While 5.9 meter and 7.9 meter accounted for 36% and 13% respectively
+[03:38] Advanced technologies defined as 7.9 meter and below accounted for 74% of wafer revenue
+[03:48] Moving on to revenue contribution by platform
+[03:52] HPC increased 20% quarter over quarter to account for 61% of our first quarter revenue
+
+[04:00] Smartphone decreased 11% to account for 26%
+[04:05] IOT increased 12% to account for 6%
+[04:09] Automotive decreased 7% and accounted for 4%
+[04:14] and DCE increased 28% to account for 1%
+[04:20] Moving on to the balance sheet
+[04:23] We ended the first quarter with cash and marketable securities of 3.4 trillion NT
+
+[04:30] or 106 billion US dollars
+[04:34] On the liability side, current liabilities increased by 256 billion NT quarter over quarter
+[04:42] Mainly due to the increase of 129 billion in accrual liabilities and others
+[04:49] and the increase of 82 billion in accounts repayable
+[04:54] On financial ratios, accounts receivable turnover days was flat at 26 days
+[05:02] Days of inventory increased 6 days to 80 days reflecting the ramp up of our 2 nanometer technology
+
+[05:11] and strong demand for our 3 nanometer technology
+[05:16] Regarding cash flow and KPACs during the first quarter, we generated about 699 billion NT in cash from operations
+[05:27] spent 351 billion in KPACs and distributed 130 billion for second quarter 2025 cash dividend
+[05:39] Overall, our cash balance increased 268 billion NT to 3 trillion at the end of the quarter
+[05:48] In US dollar terms, our first quarter capital expenditure total 11.1 billion
+[05:56] I have finished my financial summary
+
+[05:59] Now let's turn to our current quarter guidance
+[06:03] Based on the current business outlook, we expect our second quarter revenue to be between 39.0 billion and 40.2 billion US dollars
+[06:15] which represents a 10% sequential increase or a 32% year-over-year increase at the midpoint
+[06:25] Based on the exchange rate assumption of 1 US dollar to 31.7 NT, gross margin is expected to be between 65.5% and 67.5%.
+[06:40] Operating margin between 56.5% and 58.5%.
+[06:47] Also, in the second quarter, we will need to accrue the tax on the undistributed retained earnings
+
+[06:54] As a result, our second quarter tax rate will be around 20%.
+[06:59] We continue to expect a full-year tax rate to be between 17 and 18%.
+[07:06] This concludes my financial presentation
+[07:11] Now let me turn to our key messages
+[07:14] I will start by talking about our first quarter 2026 and second quarter 2026 profitability
+[07:22] Compared to fourth quarter or first quarter gross margin increased by 390 basis points sequentially to 66.2%.
+
+[07:34] Primarily due to cost improvement efforts, a higher overall capacity utilization rate and a more favorable for-rings change rate.
+[07:45] Compared to our first quarter guidance, our actual gross margin exceeded the high end of the range provided three months ago by 120 basis points
+[07:57] Mainly due to a higher than expected overall capacity utilization rate and better cost improvement efforts
+[08:06] We have just guided our second quarter gross margin to increase by 30 basis points to 66.5% at the midpoint, primarily driven by a higher overall utilization rate and continue cost improvement efforts including productivity gains
+[08:24] Partially offset by delusion from our overseas fape
+[08:30] Looking ahead to the second half of the year, given the six factors that determine our profitability, there are a few puts and takes I would like to share
+
+[08:41] As we have said before, the initial ramp up of our two nanometer technology will start to dilute our gross margin in the second half of this year
+[08:52] And we expect between 2 and 3% dilution for the full year of 2026
+[08:59] Furthermore, as the scale of our overseas expansion grows, we continue to forecast the gross margin dilution from the ramp up of overseas fape in the next several years to be 2 to 3% in the early stages and widen to 3 to 4% in the latter stages
+[09:20] In addition, given the recent situation in the Middle East, prices for certain chemicals and gases are likely to increase
+[09:30] Based on our current assessment, there may be impact or our profitability, but it is too early to quantify the impact
+[09:39] On the other hand, we will continue to leverage our manufacturing excellence to generate more wafer output and drive greater across-no-capacity optimization in our fape operations to support our profitability
+
+[09:56] Also, N3 gross margin is expected to cross over to the corporate average in second half of 2026
+[10:05] Finally, we have no control over the foreign exchange rate, but that may be another factor
+[10:12] Next, let me talk about the materials and energy supply update given the recent situation in the Middle East
+[10:21] ESMC operates a well-established enterprise risk management system to identify and assess all relevant risks and proactively implement risk mitigation strategies
+[10:35] In terms of material supply, ESMC strategy is to continuously develop multi-source supply solutions to build a well-diversified global supplier base and to improve the local supply chain
+[10:51] For specialty chemicals and gases, including helium and hydrogen, we source from multiple suppliers in different regions and we have prepared safety stock inventory on hand
+
+[11:05] We are also working closely with our suppliers to further strengthen the resiliency and sustainability of our supply chain
+[11:15] Thus, we do not expect any near-term impact on our operations from material supply
+[11:23] In terms of energy, ESMC work closely with tie power and the Taiwan government to ensure a stable and sufficient energy supply
+[11:33] With the recent situation in the Middle East, the Taiwan government has announced it has secured sufficient LNG supply through at least May
+[11:44] The government has also said it is actively working on securing further LNG supply, diversifying sources into other regions and other power backup plans
+[11:57] Therefore, we do not expect any near-term disruption or impact to our operations
+
+[12:04] Finally, let me talk about our 2026 capital budget
+[12:10] At ESMC, a higher level of capital expenditures is always correlated with higher growth opportunities in the following years
+[12:20] With our strong technology leadership and differentiation, we are well positioned to capture the multi-year structure demand from the industry mega-trends of 5G, AI and HPC
+[12:34] We now expect our 2026 capital budget to be towards the high end of our range of between 52 and 56 billion US dollars as we continue to invest heavily to support our customers growth
+[12:51] Even as we invest for the future growth with this level of KPAC spending in 2026, we remain committed to delivering profitable growth through our shareholders
+[13:03] We also remain committed to a sustainable and steadily increasing cash dividend per share on both annual and quarterly basis
+
+[13:12] Now, let me turn the microphone over to CC
+[13:16] Thank you, WINDOW
+[13:18] Good afternoon, everyone
+[13:20] First, let me start with our near-term demand outlook
+[13:25] We concluded our first quarter with revenue of US-starter 35.9 billion
+[13:32] Slightly above our guidance in US-starter terms driven by strong demand for our leading-edge process technologies
+
+[13:41] Moving into second quarter of 2026, we expect our business to be supported by continued strong demand for our leading-edge process technologies
+[13:52] Looking ahead, we are very mindful of the impact of rising component prices, especially in consumer and price sensitive and market segment
+[14:05] In addition, the recent situation in the Middle East also bring further medical, economic uncertainties
+[14:14] As such, we are being important in our business planning while focusing on the fundamentals of our business to further strengthen our competitive position
+[14:27] Having said that, AI-related demand continued to be extremely robust
+[14:33] The shift from generative AI and the clear remote to authentic AI and command-in-action mode is leading to another step up in the amount of token being consumed
+
+[14:47] This is driving the need for more and more computation, which supports the robust demand for leading-edge silicon
+[14:56] Our customers and customers, who are mainly the crowd service providers, continue to provide us with a very strong signal and positive outlook
+[15:10] This commission in the March high year AI-maker trend remains high, and we believe the demand for semiconductors will continue to be very fundamental
+[15:22] Supported by our robust technology differentiation, and broad customer base, we maintain strong confidence for our full year 2026 revenue to now grow by above 30% in US-starter terms
+[15:40] Next, let me talk about our N2 capacity expansion plan
+[15:45] Our practice is to prioritize the land in Taiwan to support the first ramp of our newest node due to the need for tight integration with R&D operations
+
+[16:00] Today, our new node N2 has already entered high-volume manufacturing in the fourth quarter of 2025 with good yield
+[16:10] N2 is ramping successfully in multi-phase phases at both SINZU and Gao Xiong site, supported by strong demand from both smartphone and HPCAI applications
+[16:25] With our strategy of continuous enhancement, such as N2P and A16, we expect our N2 family to be a nut, another large and long-lasting node for TSMC
+[16:41] Now, let me talk about TSMC's global N3 capacity expansion plan
+[16:46] Historically, we do not add additional capacity to one node once it reaches target capacity
+[16:55] However, as a boundary, our first responsibility is to provide our customers with the most advanced technologies in necessary capacity to unleash their innovations
+
+[17:10] Based on our assessment, to mean the strong demand in AI application, we are stepping up our KPX investment to increase our N3 capacity
+[17:23] We are now executing a global capacity plan to support the robust multi-year pipeline of demand for three-neil meter technologies, which are used by smartphone, HPCAI, including HBN-based-size, automotive and IoT customers
+[17:43] In Taiwan, we are adding a new three-neil meter to our giga-file cluster in Thailand's size part
+[17:51] Voting production is scheduled for the first half of 2027
+[17:56] In our resume, our second file will also utilize three-neil meter technologies
+[18:02] Construction is already complete, and Voting production will be given the second half of 2027
+
+[18:11] In Japan, we now plan to utilize three-neil meter technologies in our second file, involving production is scheduled in 2028
+[18:21] In addition to all the new files, we continue to convert five nanometer tools to support three nanometer capacity in Taiwan
+[18:32] We are also leveraging our manufacturing excellence to drive greater productivity across our file in all locations to generate more wafer output
+[18:43] We are also focusing on capacity optimization across nodes, which include inflexible capacity support among the N7 and 5 and N3 nodes
+[18:56] We are using multiple levers to do everything we can, wherever we can, however we can to maximize the support to all our customers across all platforms
+[19:10] Also, let me emphasize that, while the capacity is tight, we do not pick and choose or play favories among our customers
+
+[19:23] Next, let me talk about our mature node strategies
+[19:27] SMC's strategies and mature node has not changed
+[19:33] Our focus is to build a high-eal capacity for specialized technologies rather than just normal capacity
+[19:42] For example, we are increasing our mature node capacity, such as in JASM51 in Japan for similar sensor applications and ESSMC in Germany for automotive and industrial applications
+[20:00] Meanwhile, we have planned to wind down our FET2, which is 16-FET and FET5, which is 8-FET, focused on gotten nitrate and used a valuable space to optimize the support for leading-edge applications
+[20:20] Even without FET2 and FET5, we still have enough capacity to fully support our existing customers
+
+[20:28] In summary, our strategy will be to continue to optimize our capacity, capacity means, which in mature nodes, and focusing on the higher value added in strategic segment
+[20:44] In short, we have a necessary capacity to support our customers' growth
+[20:51] Finally, let me talk about our A14 status
+[20:56] Featuring our second generation nanosheet, so-and-sister structure, A14 was delivered another four node stride from N2, with performance and power benefit to a cross
+[21:09] To address the essential need for high performance and energy efficient computing
+[21:16] In P10 and P10, A14 will provide 10-15 speed improvement at the same power, or 25-30 power improvement at the same speed, and close to 20% shift density gain
+
+[21:30] Our A14 technology development is on track and progress in oil. We are observing a high level of customer interest and engagement from both smartphone and HPC applications
+[21:44] Voting production is scheduled for 2021-28
+[21:48] Our A14 technology and its derivative will further extend our technology leadership position
+[21:57] And enable TSMC to capture the growth opportunities were into the future
+[22:03] This concludes our key message, and thank you for your attention
+[22:08] Thank you, CC. This concludes our prepared statements
+
+[22:13] Before we begin the question and answer session, I would like to remind everybody to please limit your questions to two at a time to allow all the participants an opportunity to ask their questions
+[22:25] Should you wish to raise your question in Chinese, I will translate it to English before our management answers your question
+[22:32] For those of you on the call, if you would like to ask a question, please press the star then one on your telephone keypad now
+[22:40] If at any time you'd like to remove yourself from the questioning queue, please press star two
+[22:46] Now let's begin the Q&A session operator, can we proceed with the first participant on the line, please, thank you
+[22:56] The first one to ask questions has been from Vancouver, America
+
+[23:02] Good afternoon, CC, Wendell, and Jeb, congrats on the solid results and guidance, and thanks for taking my questions
+[23:10] I would like to start with your three-millimeter growth margins, I'll look
+[23:14] You just mentioned the node is going to across the appropriate average growth margin in second half this year
+[23:20] We should now add 60% to levels, and we'll understand the technology using severe under supply and back by strong AID man
+[23:27] And you already forecasted the capacity expansion through conversion and greenfield through 1028
+[23:33] Would you be able to discuss more in detail what kind of applications are driving such strong business for you and convince you to extend more?
+
+[23:40] And the other thing, three-millimeter as well, it's just the node started to run from Fort Corridor 222
+[23:46] Which means some of your equipment will be fully depreciated by 2027
+[23:50] Should we expect the node margins to be trending even higher with very solid use, I think, and also pricing trend?
+[23:56] Thank you
+[23:57] Okay, so the first question from Haas, Liu, a think of America, it's two parts on three nanometer
+[24:04] First, SCC described we are executing a plan for expanding three nanometer capacity
+
+[24:11] So he wants to understand what are the applications to drive such a strong multi-year looking ahead
+[24:17] Pipeline of demand for three nanometer since it's already been around in volume production since late 22
+[24:24] That's the first part of his question
+[24:26] Who are the answers that? I think the application is simple, it's still the HPC AI applications
+[24:37] Is that answer your question?
+[24:41] Okay, yes, that is the first part, and that's the second part of his question is on the gross margin for three nanometer
+
+[24:50] His question is really, what is the gross margin outlook for three nanometer?
+[24:57] Will it cross over in the second half of this year to what level, and then once it becomes fully depreciated, what happens to the margin?
+[25:07] Okay, this is random
+[25:10] We expect the M3 gross margin to reach and cross the corporate gross margin level in the second half of this year
+[25:21] And we don't have a number to share with you, but after the fully depreciation as our previous note, the gross margin are generally very high
+[25:35] Okay, that's, I'll take that as 1.5 questions, so if you have a quick follow-up for your second question
+
+[25:45] Yes, yes, thanks so much, and the other, I think just a 0.5 follow-up is probably just the key packs you revise up to the high end of your guidance for 52 to 56 billion years others for this year
+[26:00] Compared to 3 months ago, what gives you the incremental confidence when you discuss with your customers and also customers' customers regarding the demand outlook to support your stronger or the upper half of your guidance for the CapEX this year?
+[26:14] Okay, thank you, Ha, so his second question is he notes that indeed we have this time guided to the high end of our CapEX range versus January
+[26:25] So what incrementally is driving this revision to the CapEX what gives us the confidence to go to the high end of the 52 to 56 billion range?
+[26:35] Thank you
+[26:36] Well, again, DCCC where the me answer this question, a simple, a very simple answer is
+
+[26:45] The demand are very robust, especially from the SPC and AI applications and also we try very hard to speed it up and pulling all the equipment as we can
+[27:00] Still our supplies are very tight, the demand is continue to increase and so we continue to work with our suppliers to speed it up
+[27:13] And that's why we are toward our high end of CapEX forecast
+[27:21] Okay, Ha, does that answer your question?
+[27:24] Yes, thank you so much, DCCC, I will be back in the day
+[27:29] Sure, thank you, operator can we move on to the next participant please
+
+[27:34] Next one, the last question, Goku, Hari, Hari, JPMorgan
+[27:39] Hi, I'm Professor known, I'm the event manager, my first question on your comments on demand, clearly demand is even better than what you predicted back in January, DC
+[27:53] And you also raised the CapEX, now all your customers seem to be telling everybody they can tell that they first to remain the biggest constraint
+[28:05] So given your expanded 300 meter to past deep plan and faster CapEX, DC what is your expectation that how long does the flight constraint is likely to last?
+[28:16] Do you have any visibility of when you can kind of bring some kind of balance here based on what you hear from customer and as a strategy, do you also plan to build out more clean room space
+[28:31] Because that seems to be a little bit of a constraint right now to bring on the capacity quickly, that's my first question
+
+[28:37] Ok, go go, let me just summarize your first question, so his question is directed for CC, he notes that the demand seems to be even stronger than our forecast in January, we have also raised the CapEX and customers continue to say they need more chip supply
+[28:56] So with our capacity plan, do we have a forecast or expectation of how long the constraint can last and will we have a strategy to build up clean room space first?
+[29:10] Is that correct GoKo?
+[29:13] That's right, yes
+[29:15] Ok, go go, let me answer the question again, it's very simple because of the demand continue to be robust and the number continue to be increased
+[29:28] And we double check with our customers, customers are customers or those CSPs, they give us a very positive outlook right
+
+[29:41] And so we have to speed it up with our build up of clean room and buying the tools, so we are working with construction and we are working with our equipment supplier and so we want to pull forward our forecast schedule
+[30:04] That's a simple answer because of AI is so strong
+[30:12] Any read the CT on when we can kind of meet these demand, are you thinking that the future will be very challenging to meet the supply still will be running below demand in 2021 also?
+[30:27] So GoKo would like to know when the supply can meet the demand, do we have a forecast or time frame?
+[30:35] GoKo, you know we have texted a total of three years to build a new file and we have a current schedule
+[30:45] We believe that in the 27th, we are not going to announce it anyway, we will enter in the 27th, but let me say that it takes time to build a new file, it takes time to ramp it up
+
+[30:59] And so we expect it to continue to be very tight, so that's why we just announced that we try to build three new and three-fab to meet the demand
+[31:17] Okay, that's very clear, I hope you have heard the questions very tight
+[31:23] My second question on competition, so everything has the traditional country of international, but one of the customers, Elon Musk also announced the Data Fab initiative recently
+[31:39] What is the second thing perspective, one is initiative, they are also being a customer of VR, and there is only time being with Samsung a few months back
+[31:50] So what is the essence response here, now that they are also trying to build chips on their own, how are you trying to bring back with customer like we think what is your other perspective here?
+[32:03] Okay, so Google's second question is on competition, he notes that we have competition and then recently a competitor or he notes that this terra fab, so he wants to know what is our perspective on this initiative
+
+[32:19] This customer has also been a customer of TSMC, but has also signed a deal with one of our other competitors Samsung, so Google would also like to know what is our perspective on the terra fab and what is our view on winning back this customer's business
+[32:38] Well, Google actually both in the end of the Tesla, there are TSMC's customer, so but again, there are our competitors and we will view in here as a formidable competitors and do not underestimate them
+[33:05] But haven't said that, there are no shortcuts, the fundamental rule of the boundary game never change, we need the technology leadership, manufacturing excellence and customer trust, and most of all the service, which has been mentioned by TSMC, well thank you for his wording
+[33:27] Again, let me say that it takes two to three years to build a new fire, no shortcuts, any takes another one to two years to remember again, that's a fundamental of the boundary industry
+[33:42] And for the, we tried to win back, actually they are still our customer and we are very confident in our technology position and we work with how to capture every piece of business possible
+[33:59] Google, did I answer your question?
+
+[34:02] That is 30 years, so do you think your pasta run back to capacity can kind of win some of these customers back because the reason is to be mostly about capacity type pace, rather than any other big reasons
+[34:24] So is that your evaluation that this is probably the most important thing to win some of these customers back?
+[34:30] Okay, so Google's final question is then in winning customers back is concerned is because our capacity is tight, is that the reason we're losing customers and so can we win customers back?
+[34:43] Well, again, let me emphasize, take two to three years to build a new fire, so in this time we are also building a new fire to meet our customers' stronger demand, no shortcuts
+[35:02] So anyway, the capacity is very tight, as I said, but we're working hard to make sure that we can meet customers' demand
+[35:14] Thanks, you see, those are good, got it
+
+[35:18] All right, thank you, I'll pray they can move on to the next participant please
+[35:24] Next one, we have Charlie Chan from Morgan Stanley
+[35:29] Hi, good afternoon, CFC, EWendo and Jeff, thanks for taking my question and also concoction to a very, very strong result again
+[35:39] So I think I would also judge the competition topic from a really different angle, as you can see that there's AI customers that have developing a much larger, radical size, yes, and some customers are constantly going to use the e-meat because it kind of substrate-based, more suitable for a circular larger size of the chip design
+[36:04] So I'm not sure what the TAsNC strategy to address is competition, and more strategically is a TAsNC comfortable to open up your compute die to your conveyor's, for example, Intel to do the package, what kind of salt crossings behind, thank you
+[36:28] All right, Charlie, thank you, so Charlie's first question is also related to competition, he notes that AI customers are seeking for larger and logical, radical sizes, so he wants to know what is our assessment of the competitive threat from solutions such as e-meat, and what's our strategy to address this competition, will we be willing to open up our front end wafer and let someone else do the packaging basically
+
+[36:56] Well, Charlie, today TAsNC is supplying the large, radical size packaging, and yes, we understand that our competitors also offer very attractive technology, but we welcome that so our customer can have more choices, and then we can do more business with our customers
+[37:26] That's our attitude, but seeing that we don't need any business on the table, we are working very hard to meet all our customers demand, we also are developing a very large, radical size packaging technologies, we are working with all the customers, it's so far so good
+[37:51] Thanks, he's a forum, when you mentioned about larger sets of technology, are you referring to co-purs or cost L3.5, the do you think of city, if they can resolve this kind of planer extension problem
+[38:15] So Charlie is asking follow up, so he wants us to comment on for larger radical size, is it co-or sale, is it panel level, what exact detailed solutions are we doing
+[38:30] Charlie, so far today we have very large, radical size co-or sale, of course we are also working on co-purs, and together we try to make sure that we give you the capacity to support our customer with reasonable cost
+[38:51] So that's why we build a co-purs pattern line right now and expect production a couple of years later, but today the main approach or the main supplier still large size co-or sale
+
+[39:10] And together with the system and wafer technology, we think TSMC give our customer the best options for the product in the market
+[39:26] So I would take, we don't need to work too much about this, and it's facing competition, so my second question is actually about your long term CETS plan, CETS is the CETS 2-3 years to build new staff, so it's definitely a data disability
+[39:48] So I remember taking to the 21 mentioned also provide 3-year CETS guidance as 100 BDUS hours given a strong demand, I'm not sure if the TSMC can provide a longer term CETS guidance, because as you said, those equipment supply is also pretty tight, yesterday some of restored a very, very strong resource
+[40:12] So you said the EUV supply and issue and secondly, with the mentioned provider kind of have long term CETS guidance to you message
+[40:22] Thank you
+[40:23] All right, Trotty, that's a lot of questions, but I want the second one then on KPEX and building capacity, again Trotty knows CC's common capacity is not born overnight, it takes time
+
+[40:35] So he would like to know besides this, your KPEX which we've already said at the high end, can we provide a guidance for the next 3 years KPEX, like we did back in 2021 in terms of the dollar amount
+[40:49] Okay, Trotty, we don't have a number to share with you, but look at this way, in the past 3 years, our total KPEX was 101 billion
+[41:01] This year we're already saying KPEX is towards the high end, which is 56 billion, which is already over 50% of the past 3 years in total
+[41:14] So we have a strong conviction in the AI Megatron, so we expect the KPEX in the next few years, in the next 3 years will be significantly higher than the past 3 years
+[41:30] And then the final part of Trotty's question with such a long lead time, do we are we concerned about tools, securing tools or bottlenecks and such
+[41:42] Trotty, we always test MC's culture, we always work in with our supplier, because we view them as partners, so we continue to work with them, especially for those of ASMR, or primeterial, and research etc
+
+[42:01] So far we are very happy that they are support, not all I can tell you
+[42:12] Okay, thank you Trotty, operator can move on to the next participant please
+[42:20] Next one, we have Anneling from UBS
+[42:25] Thank you very much for taking my questions and congrats on the study results
+[42:31] So my first question is again to follow up on KPEX, so even from 2024 to 2026, in this call ESI call, TSC has been able to keep capital intensity a healthy level of 30% plus
+[42:47] Even very strong technology leadership appearing in leverage, our concern, the company doesn't really have a specific target on travel intensity
+
+[42:57] But for the coming few years, given the very strong revenue rep of leading edge, how should we think about the revenue growth compared with KPEX growth
+[43:07] Should we think capital line will remain steady, therefore KPEX could grow in line or even below, what's the best way for us to think about it
+[43:18] Okay, Sunny, thank you for your questions, so please allow me to summarize Sunny's first question is on, well I think KPEX name really capital intensity, she notes in the past few years we've been able to keep capital intensity around the 30% level
+[43:34] She notes that we don't have a specific capital intensity target per se, but her specific question looking ahead the next several years
+[43:43] How do we see revenue growth versus KPEX growth, is it likely to be higher, flat, lower, and therefore what type of intensity does that imply?
+[43:53] That correct Sunny?
+
+[43:55] Yeah, thank you very much, Chef
+[43:59] Okay, Sunny, so in the past few years as you correctly pointed out, the revenue growth outpaced the KPEX growth
+[44:11] That's because if we do our job right, then we will continue to see that happen in the next several years, the revenue growth outpaced the KPEX growth
+[44:24] Now, therefore we do not expect in the next several years a sudden surge in capital intensity
+[44:37] I see maybe a very quick follow up, a lot of questions on competitions already, but also some competition point of view, even a very tight supply at the other side in recent years
+[44:51] Teefally, as you consider, maybe spending KPEX at the more so that clients will need to diversify given a tight supply
+
+[45:00] Okay, so Sunny's 1.5 question is, in terms of the KPEX, will we consider accelerating or spending more given the competitive threat from the competitors?
+[45:16] If there is not enough capacity, then our customers will go to competitors, that's your question correct?
+[45:24] Yeah, thank you, Chef
+[45:27] Well, Sunny, we repeatedly saying that we prepare the KPEX to meet customers at demand, not because of our competitor or not because of our other consideration
+[45:43] The most important one is our customers at demand, then we will go to SMC and so that we plan our capacity and so our KPEX friends
+[45:54] Sunny, did I answer your question?
+
+[45:57] Yeah, very clear, thank you, so maybe my 0.5 question
+[46:04] So, if we look at this show, earlier you just got the higher than 30% growth for top-line, but indeed, this ongoing supply tightness
+[46:16] So, for 20.5, how much upside could you realize for top-line?
+[46:22] And I'm just trying to have you decide to see some impact of customer and demand, as therefore on your demand coming from SMC and PC
+[46:32] Okay, so Sunny's second question is regarding 20.26 full-year outlook
+[46:39] She notes now that we have increased the guidance to above 30%, how much more upside can there be?
+
+[46:47] Or maybe the first part also, how much, how do we see the impact from the memory price hike to the end market, and how do we see with above 30% is there more upside?
+[47:02] Well, Sunny, memory price hike definitely has some impact to my sensitive end market, especially in PC and smartphone market
+[47:20] But we did see a little bit softer market, but to show with you all the high-end smartphone continue to do better, and this is to test MC's advantage
+[47:38] And as you are asking about how much higher than above 30% year-over-year growth, we were sure we see in July, how about that?
+[47:49] Not sure we have more accurate towards a more precise number to show with everybody
+[47:58] No problem, thank you very much, Suzy
+
+[48:01] Okay, thank you, Sunny, I pray that we can move on to the next participant on the line
+[48:07] Yes, the next one, Jim Fontanelli, Adreday
+[48:12] Thank you for taking the question
+[48:15] The next question is to do with demand
+[48:20] So you comment to the earlier in the call that demand continues to outstrip supply for leading edge capacity, and obviously you just delivered a very strong print and guide for growth margins
+[48:31] So against this backthrob, health management thinking changed about the sustainable margin structure, and what appropriate long-term returns might be for the business
+
+[48:42] Okay, so Jim's first question is looking at asking on the margin structure, he notes as we said that demand continues to be extremely robust and very strong
+[48:53] So how does this change? I think your question is our margin, our view on the long-term margin profile and the return profile, is that correct?
+[49:04] That's correct
+[49:06] Okay, Jim, as we said in the last earnings course, we've revised up our long-term margin targets and ROE targets
+[49:16] From 2024 to 2029, we're now saying the gross margins will be 56% and higher through the cycle, and we're looking at ROE of high 20% through the cycle
+[49:34] That's what we're currently looking at, that's already higher than before
+
+[49:41] Thank you, and that thinking is not changing against a backwrote where other parts of the AI supply chain are clearly starting to print supernormal returns
+[49:52] That doesn't impact how you think about margin structure for the next two or three years
+[49:58] Jim, this is a long-term planning, it's ongoing and continuous process, so we do that all the time, and we will update you when there is a change
+[50:09] Okay, thank you, my second question is, it looks like the Arizona site is becoming more strategic in terms of leading edge commitment for TFNC, particularly with the recently added in past-level land
+[50:25] Jim, do you talk about how you see mid to long-term capacity opportunity, and also how confident you are that the US Fab Economics will match Taiwanese produced wages?
+[50:36] Okay, so Jim's second question is on our Arizona Fab Expension Plan
+
+[50:43] He notes that it is becoming more and more strategic, we have recently, as we said, acquired a second large piece of land
+[50:51] So what is the plan or the purpose behind this, and then what is the profitability or margin outlook as well?
+[51:00] Well Jim, let me answer the question, we acquired a second land because we needed, we want to build more Fab's in our Arizona
+[51:12] And this is actually to meet the multi-year demand from our leading edge US customers
+[51:21] And again, let me emphasize again that we are working with hard to speed it up
+[51:29] We are already getting another experience in Arizona, and so now we have much more confident in last year that we can make it a good progress
+
+[51:44] And moving aggressively forward, we expect we can improve the course structure of course
+[51:56] Okay Jim, all right, thank you, I'll go ahead and move on to the next participant please
+[52:04] Next one, Bruce Lewis from Goldman Sachs
+[52:09] Thank you for taking the question, I think I want to follow on one of Jim's questions for the profitability
+[52:18] Earlier last year when I asked why he didn't erase the profitability target when he came to see continue to sell the value
+[52:26] I think CC told me that to focus on the birth version of 53% and above
+
+[52:33] I mean last quarter, you know, he raised it to 56% and above
+[52:37] So the question is that do you believe the current portfolio, the ability to be fragged, here is his value
+[52:44] So I'm guessing CC might ask me to focus on the higher portion of the profitability target again
+[52:53] So the real question is that even the uniqueness of the animal deposition for efficiency is not easy to find a perfect benchmark for efficiency's profitability
+[53:04] So can you tell us how long you should think the profitability benchmark for efficiency or what is the best way to see the efficiency value to be reflected into the course margin and operating block margins
+[53:22] Okay Bruce, his first question is what profitability he wants to know what profitability benchmark he should be looking at
+
+[53:33] And whether we believe our current profitability level fully reflects TSMC's true value
+[53:41] Well Bruce, you actually you ask about our pricing strategy
+[53:50] Let me say that we always view our customer as our partners
+[53:56] Of course we know that our value, of course we know our position
+[54:01] But we also view that our partner as a very important business partner so that we don't change our pricing dramatically or something like that
+[54:16] We just try to make sure that our customer can be successful in their market
+
+[54:24] And at the same time we go together and we also earn our value so that we can continue to expand our capacity to support them
+[54:35] That fundamentally is number one, our customer gets to be successful
+[54:42] That's our consideration number one, and we go together
+[54:47] And again, there is a key word please pay attention to, customer is our partners
+[54:55] Okay, so if your customer can be successful maybe in couple quarter would you feed the you know our profit to be targeted again
+[55:07] Bruce, what's your second question?
+
+[55:10] My second question was that management has been guided by AI SLA to revenue to grow by like me to high 50s
+[55:18] So how does key Samsung's trend and focus AI related demand?
+[55:25] And if the security incorporate the metrics such as public consumption grows in your assumption
+[55:32] Because you know the reason public consumption in the first quarter is definitely accelerated and faster than earlier expectation
+[55:39] But do we either change it for the revenue growth in the coming years?
+[55:46] Okay, so Bruce's second question is on our AI accelerator long-term cater guidance which yes we have guided mid to high 50s
+
+[55:55] He notes with the strong token growth and demand for tokens
+[56:00] Do we have any changes to this long-term guidance?
+[56:06] Bruce, actually I think I say now that it's a very strong demand and we continue to receive the very positive signal from our customers and customers
+[56:23] And so what you say is whether we change our bigger and the AI accelerator
+[56:33] It's actually we continue to see strong demand but again let me say that is toward a higher 50s of a cater that we observe
+[56:48] Okay, thank you CC, thank you Bruce operator can we move on to the next caller please
+
+[56:56] Next one to ask question Laura Chen from Steeley
+[57:01] Hello hi, questioner CC window and Jigs
+[57:05] May I take more detail on some TSMC strategy in advanced packaging
+[57:10] And what will be the business model working with your all set partners
+[57:15] We see that there are various different solutions provided by your peers and also the all set makers
+[57:24] The TSMC is also expanding more in the advanced packaging
+
+[57:28] So how would TSMC work with your customers planning their advanced no wafer demand but also align with their advanced packaging demand at TSMC?
+[57:40] Okay, so thank you Laura Laura's first question is on advanced packaging
+[57:46] She would like to know we work with customers collaborate with customers to plan our front end wafer capacity
+[57:56] How do we work with the customers to plan the advanced packaging capacity is what she would like to understand and also in the context of working with our all set partners on the advanced packaging businesses
+[58:10] Laura our priority actually again is to support our customers right and whenever we can or wherever we can
+[58:22] We want to make sure that their product can be the demand of the product can be met by TSMC's or Fungian and high end packaging
+
+[58:38] So we certainly let me say that our advanced packaging capacity is very tight also
+[58:48] So we have to work with all set partners we hope that we can increase the capacity to support our customers
+[58:58] Let me emphasize again we support our customers
+[59:04] So we try to increase our own capacity also but certainly it just I have been very tight and so that's what our situation today
+[59:22] Sure, sure understood my second question is also about the advanced packaging city highlighted before many times that AI chips are going into super chips with very large size and TSMC now working at the biggest radical in the world
+[59:42] But at the same time there is a potential technical challenges such as wattage
+
+[59:48] So do you think that the following roadmap like a so I see or like co-post can solve these kind of technical issue and based on TSMC's technology roadmap
+[60:00] Do we see any like technology like a so I see a co-post will be a bigger round in couple years can solve these problems
+[60:11] So lower second question is also related to advanced packaging AI in larger radical sizes post potential technical challenges such as wattage
+[60:21] So she would like to know how do we see S O I C or panel level packaging what's the key to solving these issues and what is it outlook in the next several years
+[60:34] Well, you are good actually that's all the challenges that we have in advanced packaging technology mechanical stress which is a very top challenge to the electrical engineering like I am
+[60:53] However, we have accumulated a lot of experiments already today because we have a supply most of the leading edge or end up in packaging area
+
+[61:09] And we continue to increase the size and continue to meet all the challenges from the mechanical stress like you said actually is a war PG or the summer limitation
+[61:26] A good challenge every like it the harder the better because of is TSMC's strength in technical engineering and we have a confidence that we can work with our customer to solve all the issues and continue to war one
+[61:51] So should we expect that S O I C's TSMC may introduce that earlier then to solve these kind of a challenge because we already have the learning curve and already have the product introduction so that should be go faster than other technologies I suggest
+[62:14] Again, sorry, so those questions is very specific I don't even yeah, we're on S O I C what is how do we see that developing I guess
+[62:28] Well, we work with our customer and we need to demand and that's all I can tell you speed it up or slow down no, no, no, no, we work with our customer to meet the demand
+[62:41] Okay, thank you very clear. Thank you. Operator in the entry of time can take the questions from the last participant please
+
+[62:58] I want to ask question cherish you from me then
+[63:03] By thanks for taking my question, TSMC's definition of AI revenue includes air sentence GPU, AI accelerator, HP and base that maybe I left up a few others but it's the specific
+[63:21] COVID excludes KFN the CPU I think you make that the definition very clear for a couple of years now but with the CPU there's more and more compensation about CPU now becoming part of the AI infrastructure especially for
+[63:37] The technical workflows and the chance for key SMC to maybe provide us a revised numbers for AI revenue and maybe the AI revenue growth cable projection going to 2029, 2030
+[63:54] And I may be hopefully give us some sense how that historical AI revenue numbers would would have been from some of the data kind of CPU numbers especially for a genetic AI workflows are included there that's my first question
+[64:09] Thank you Charles. So Charles first question, please let me summarize is regarding our definition of AI accelerator which is of course we have said GPU ASIC and HBM controllers for training inference in the data center he notes now with the agent AI he wants to know where we start to include CPUs in this definition if so can we provide the historical data with CPU included and what we're doing
+
+[64:38] including and what would be the AI X other year guidance be if it includes CPU. Charles certainly CPUs becomes more and more important in today's AI data center but actually let me show with you this is a good question by the way let me show with you that we are not able to identify which CPU goes to where
+[65:04] right is a PC or desktop or is a AI data center so today we still not include the CPUs in our AI HPC's calculation.
+[65:19] Some data we might consider.
+[65:23] Okay, Charles do you have a second question? Thanks, Cici.
+[65:28] Yes, maybe it's kind of also tied to the recent development in overall AI infrastructure. How things have been evolving so indeed there.
+[65:41] Of course they recently added more CPU content to the overall very Ruben super part that I think that that most people are focusing on that brand new LP you.
+
+[65:54] They recently added we want to appreciate that the key of some say very strong in CPU and will definitely participate in that abstract in CPU but the LP you business it acquired business while it was historical reasons it's still at the competitors and some foundry and I think that.
+[66:16] If that's also looking at that then the thing that maybe look looks like a sense of foundry finally made the first for true in road into AI so any thoughts on tier some see fight how should we think about whether and how to some see will win back that LP you business or any future.
+[66:38] If I'm sure Beth has coming from customers and yeah it give us some thoughts there we would appreciate that thank you.
+[66:48] Okay, Charles second question is a very specific question about a very specific customer and very specific product which is we typically do not comment on but he wants to know for this customer's LP you product which he notes is made at one of our competitors.
+[67:04] How do we see this business going through the competitor.
+[67:09] Do we have plans to win this LP you business back in the future.
+
+[67:15] Charles I see you can tell for already give me a number one is a very specific in the very specific customer, very specific area.
+[67:26] Now let me answer your question we are working with our customer for the next generation side your P you anyway and we are very confident in our technology position and we are working hard to capture every piece of business possible.
+[67:41] How about that.
+[67:46] Very good thank you CC that's that's a very good color thank you appreciate that.
+[67:51] Okay thank you Charles thank you CC thank you window this concludes our prepared statements.
+[67:58] I should say this concludes our Q&A session before we can conclude today's conference please be advised at the replay of the conference will be accessible within 30 minutes from now and the transcript will become available 24 hours from now both are going to be available through TSMC's website at triple W dot TSMC dot com.
+
+[68:20] So again thank you everyone for taking the time to join us today we hope you continue to stay well and we'll hope you join us again next quarter goodbye and have a good day.
+[68:50] Thank you.
+[69:20] Thank you.

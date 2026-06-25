@@ -1,0 +1,1195 @@
+WER: 155.9%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 3690
+Whisper word count: 8569
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+one these prepared remarks should be viewed solely in conjunction with the
+related quarter’s conference call webcast and press release which can be found
+here the webcast includes the prepared remarks as well as a question and answer
+session please click here for complete gaap reconciliation information between
+our gaap financial results and our non gaap financial results cisco systems
+incorporated csco q2fy26 earnings results conference call wednesday february
+eleven two thousand and twentysix sami badri good afternoon everyone this is
+sami badri ciscos head of investor relations and i am joined by chuck robbins
+our chair and ceo and mark patterson our cfo cisco’s earnings press release and
+supplemental information including gaap to nongaap reconciliations are available
+on our investor relations website following this call we will also make the
+recorded webcast and slides available on the website throughout today’s call
+we’ll be referencing both gaap and nongaap financial results we w
+
+WHISPER (first 1000 chars):
+welcome to ciscos second quarter fiscal year two thousand and twentysix
+financial results conference call at the request of cisco todays conference is
+being recorded if you have any objections you may disconnect now i would like to
+introduce sammy bodry head of investor relations sorry you may begin good
+afternoon everyone this is sammy bodry cisco head of investor relations im
+joined by chuck robbins our chair and ceo and mark patterson our cfo ciscos
+earnings press release and supplemental information including gap to non gap
+reconciliation are available on our investor relations website following this
+call well also make the recorded webcast and slides available on the website
+throughout todays call well be referencing both gap and non gap financial
+results we will discuss product results in terms of revenue and geographic and
+customer results in terms of product orders unless stated otherwise all
+comparisons will be made on a year of a year basis please note that our
+discussion tod
+
+ALIGNED DIFFERENCES (all 184, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: one these prepared remarks should be viewed solely in conjunction
+  with the related quarter’s conference call webcast and press release which can
+  be found here the webcast includes the prepared remarks as well as a question
+  and answer session please click here for complete gaap reconciliation
+  information between our gaap financial results and our non gaap financial
+  results cisco systems incorporated csco q2fy26 earnings results conference
+  call wednesday february eleven
+  WHISPER:  welcome to ciscos second quarter fiscal year
+
+[2]
+  OFFICIAL: sami badri
+  WHISPER:  financial results conference call at the request of cisco todays
+  conference is being recorded if you have any objections you may disconnect now
+  i would like to introduce sammy bodry head of investor relations sorry you may
+  begin
+
+[3]
+  OFFICIAL: sami badri ciscos
+  WHISPER:  sammy bodry cisco
+
+[4]
+  OFFICIAL: and i am
+  WHISPER:  im
+
+[5]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[6]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[7]
+  OFFICIAL: nongaap reconciliations
+  WHISPER:  non gap reconciliation
+
+[8]
+  OFFICIAL: we will
+  WHISPER:  well
+
+[9]
+  OFFICIAL: today’s
+  WHISPER:  todays
+
+[10]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[11]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[12]
+  OFFICIAL: nongaap
+  WHISPER:  non gap
+
+[13]
+  OFFICIAL: yearoveryear
+  WHISPER:  year of a year
+
+[14]
+  OFFICIAL: forwardlooking
+  WHISPER:  forward looking
+
+[15]
+  OFFICIAL: in
+  WHISPER:  on
+
+[16]
+  OFFICIAL: our
+  WHISPER:  on
+
+[17]
+  OFFICIAL: tenk
+  WHISPER:  10k
+
+[18]
+  OFFICIAL: tenq
+  WHISPER:  10k
+
+[19]
+  OFFICIAL: i’ll
+  WHISPER:  ill
+
+[20]
+  OFFICIAL: two chuck robbins
+
+[21]
+  OFFICIAL: sami
+  WHISPER:  sammy
+
+[22]
+  OFFICIAL: in
+  WHISPER:  on
+
+[23]
+  OFFICIAL: topline
+  WHISPER:  top line
+
+[24]
+  OFFICIAL: nongaap
+  WHISPER:  non gap
+
+[25]
+  OFFICIAL: returned yeartodate
+  WHISPER:  return year to date
+
+[26]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[27]
+  OFFICIAL: onceinageneration
+  WHISPER:  once in a generation
+
+[28]
+  OFFICIAL: industryleading
+  WHISPER:  industry leading
+
+[29]
+  OFFICIAL: portfolio—powered
+  WHISPER:  portfolio powered
+
+[30]
+  OFFICIAL: ainative
+  WHISPER:  ai native
+
+[31]
+  OFFICIAL: systems—cisco
+  WHISPER:  systems cisco
+
+[32]
+  OFFICIAL: i’d
+  WHISPER:  id
+
+[33]
+  OFFICIAL: industryleading
+  WHISPER:  industry leading
+
+[34]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[35]
+  OFFICIAL: industryleading
+  WHISPER:  industry leading
+
+[36]
+  OFFICIAL: three
+
+[37]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[38]
+  OFFICIAL: fy25
+  WHISPER:  fiscal year twentyfive
+
+[39]
+  OFFICIAL: overyear
+  WHISPER:  over year
+
+[40]
+  OFFICIAL: broadbased
+  WHISPER:  broad base
+
+[41]
+  OFFICIAL: yearover
+  WHISPER:  year over
+
+[42]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[43]
+  OFFICIAL: installed
+  WHISPER:  install
+
+[44]
+  OFFICIAL: four
+
+[45]
+  OFFICIAL: totaled two1b
+  WHISPER:  total two point one billion
+
+[46]
+  OFFICIAL: fy25
+  WHISPER:  fiscal year twentyfive
+
+[47]
+  OFFICIAL: onemillionth
+  WHISPER:  one millionth
+
+[48]
+  OFFICIAL: plan
+  WHISPER:  planned
+
+[49]
+  OFFICIAL: highperformance
+  WHISPER:  high performance
+
+[50]
+  OFFICIAL: fy29
+  WHISPER:  fiscal year twentynine
+
+[51]
+  OFFICIAL: terabits persecond
+  WHISPER:  terabit per second
+
+[52]
+  OFFICIAL: terabitspersecond
+  WHISPER:  terabits per second
+
+[53]
+  OFFICIAL: two4t
+  WHISPER:  two point four terabit
+
+[54]
+  OFFICIAL: a liquidcooled
+  WHISPER:  liquid cooled
+
+[55]
+  OFFICIAL: groundup
+  WHISPER:  ground up
+
+[56]
+  OFFICIAL: one’s
+  WHISPER:  ones
+
+[57]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[58]
+  OFFICIAL: pluggable
+  WHISPER:  plugable
+
+[59]
+  OFFICIAL: terabitspersecond
+  WHISPER:  terabit per second
+
+[60]
+  OFFICIAL: 800g
+  WHISPER:  eight hundred gig
+
+[61]
+  OFFICIAL: acacia
+  WHISPER:  a case you
+
+[62]
+  OFFICIAL: its strongest
+  WHISPER:  as strong as
+
+[63]
+  OFFICIAL: tripledigit
+  WHISPER:  triple digit
+
+[64]
+  OFFICIAL: marketleading
+  WHISPER:  market leading
+
+[65]
+  OFFICIAL: pluggable
+  WHISPER:  plugable
+
+[66]
+  OFFICIAL: scaleacross
+  WHISPER:  scale across
+
+[67]
+  OFFICIAL: 400g
+  WHISPER:  four hundred gig
+
+[68]
+  OFFICIAL: 800g
+  WHISPER:  eight hundred gig
+
+[69]
+  OFFICIAL: 800g pluggables
+  WHISPER:  eight hundred gig plugables
+
+[70]
+  OFFICIAL: this
+  WHISPER:  the
+
+[71]
+  OFFICIAL: 5b
+  WHISPER:  five billion
+
+[72]
+  OFFICIAL: 3b
+  WHISPER:  three billion
+
+[73]
+  OFFICIAL: 350m
+  WHISPER:  three hundred and fifty million
+
+[74]
+  OFFICIAL: five
+
+[75]
+  OFFICIAL: and humain
+  WHISPER:  inhumane
+
+[76]
+  OFFICIAL: an
+  WHISPER:  and
+
+[77]
+  OFFICIAL: continued
+  WHISPER:  continue
+
+[78]
+  OFFICIAL: the
+  WHISPER:  a
+
+[79]
+  OFFICIAL: two5m
+  WHISPER:  two point five million
+
+[80]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[81]
+  OFFICIAL: sase
+  WHISPER:  saci
+
+[82]
+  OFFICIAL: drag on
+  WHISPER:  dragon
+
+[83]
+  OFFICIAL: fy26
+  WHISPER:  fiscal year twentysix
+
+[84]
+  OFFICIAL: –
+
+[85]
+  OFFICIAL: fy26 –
+  WHISPER:  fiscal year twentysix
+
+[86]
+  OFFICIAL: sase
+  WHISPER:  saci
+
+[87]
+  OFFICIAL: six
+
+[88]
+  OFFICIAL: sase
+  WHISPER:  saci
+
+[89]
+  OFFICIAL: contextdependent
+  WHISPER:  context dependent
+
+[90]
+  OFFICIAL: agenticops
+  WHISPER:  agentic ops
+
+[91]
+  OFFICIAL: that
+  WHISPER:  to
+
+[92]
+  OFFICIAL: assistants
+  WHISPER:  assistance
+
+[93]
+  OFFICIAL: helps
+  WHISPER:  help
+
+[94]
+  OFFICIAL: highestever
+  WHISPER:  highest ever
+
+[95]
+  WHISPER:  and
+
+[96]
+  OFFICIAL: •
+
+[97]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[98]
+  OFFICIAL: onceinageneration
+  WHISPER:  once in a generation
+
+[99]
+  OFFICIAL: •
+
+[100]
+  OFFICIAL: •
+
+[101]
+  OFFICIAL: i’ll
+  WHISPER:  ill
+
+[102]
+  OFFICIAL: mark patterson
+
+[103]
+  OFFICIAL: highend
+  WHISPER:  high end
+
+[104]
+  OFFICIAL: seven
+
+[105]
+  OFFICIAL: fifteen3b
+  WHISPER:  fifteen point three billion
+
+[106]
+  OFFICIAL: nongaap
+  WHISPER:  non gap
+
+[107]
+  OFFICIAL: four1b
+  WHISPER:  four point one billion
+
+[108]
+  OFFICIAL: nongaap
+  WHISPER:  non gap
+
+[109]
+  OFFICIAL: nongaap
+  WHISPER:  non gap
+
+[110]
+  OFFICIAL: eleven6b
+  WHISPER:  eleven point six billion
+
+[111]
+  OFFICIAL: three7b
+  WHISPER:  three point seven billion
+
+[112]
+  OFFICIAL: in
+  WHISPER:  and
+
+[113]
+  OFFICIAL: and
+  WHISPER:  in
+
+[114]
+  OFFICIAL: onpremise deals
+  WHISPER:  an onprem deal
+
+[115]
+  OFFICIAL: in
+  WHISPER:  and
+
+[116]
+  OFFICIAL: refreshed
+  WHISPER:  refresh
+
+[117]
+  OFFICIAL: in
+  WHISPER:  and
+
+[118]
+  OFFICIAL: cpaas
+  WHISPER:  cpas
+
+[119]
+  OFFICIAL: fortythree4b
+  WHISPER:  fortythree point four billion
+
+[120]
+  OFFICIAL: eleven8b
+  WHISPER:  eleven point eight billion
+
+[121]
+  OFFICIAL: thirtyone0b
+  WHISPER:  thirtyone billion
+
+[122]
+  WHISPER:  the subscription revenue
+
+[123]
+  OFFICIAL: seven8b
+  WHISPER:  seven point eight billion
+
+[124]
+  OFFICIAL: cisco’s
+  WHISPER:  ciscos
+
+[125]
+  OFFICIAL: five7b
+  WHISPER:  five point seven billion
+
+[126]
+  WHISPER:  the
+
+[127]
+  OFFICIAL: emea
+  WHISPER:  amia
+
+[128]
+  WHISPER:  and
+
+[129]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[130]
+  OFFICIAL: yearover
+
+[131]
+  OFFICIAL: nongaap
+  WHISPER:  over year nongap
+
+[132]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[133]
+  OFFICIAL: eight
+
+[134]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[135]
+  OFFICIAL: highend
+  WHISPER:  high end
+
+[136]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[137]
+  OFFICIAL: cashequivalents
+  WHISPER:  cash equivalents
+
+[138]
+  OFFICIAL: fifteen8b
+  WHISPER:  fifteen point eight billion
+
+[139]
+  OFFICIAL: one8b
+  WHISPER:  one point eight billion
+
+[140]
+  OFFICIAL: three0b
+  WHISPER:  three billion
+
+[141]
+  OFFICIAL: one6b
+  WHISPER:  one point six billion
+
+[142]
+  OFFICIAL: one4b
+  WHISPER:  one point four billion
+
+[143]
+  OFFICIAL: ten8b
+  WHISPER:  ten point eight billion
+
+[144]
+  WHISPER:  that
+
+[145]
+  OFFICIAL: one
+  WHISPER:  a
+
+[146]
+  OFFICIAL: bottomline
+  WHISPER:  bottom line
+
+[147]
+  OFFICIAL: –
+
+[148]
+  WHISPER:  that
+
+[149]
+  OFFICIAL: disciplined
+  WHISPER:  discipline
+
+[150]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[151]
+  OFFICIAL: with
+  WHISPER:  the
+
+[152]
+  OFFICIAL: nine
+
+[153]
+  OFFICIAL: •
+
+[154]
+  OFFICIAL: •
+
+[155]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[156]
+  OFFICIAL: • nongaap
+  WHISPER:  nongap
+
+[157]
+  OFFICIAL: • nongaap
+  WHISPER:  nongap
+
+[158]
+  OFFICIAL: •
+
+[159]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[160]
+  WHISPER:  two thousand and
+
+[161]
+  OFFICIAL: •
+
+[162]
+  OFFICIAL: • nongaap
+  WHISPER:  nongap
+
+[163]
+  OFFICIAL: sami badri
+  WHISPER:  sammy lets now move into the qa thank you mark before we start the
+  qa portion of the call id like to remind analysts to ask one question and a
+  single followup question at the same time operator can we move to the first
+  analyst in the queue thank you im adariani with evercore isi your line is open
+  thanks mark good afternoon my two questions maybe the first one you folks
+  obviously have very solid momentum on the ai side with a five billion ai
+  targets of fiscal twentysix can you help us think about the mix between
+  silicon one versus optics in the book and then really if you think about some
+  of the newer products like the g300 and the p200 on the silicon one side do
+  you see these opening up incremental markets or workloads for cisco or is it
+  more about deepening your existing relationship id love to just kind of
+  understand that side and then maybe on the followup mark you just touched on
+  the growth margin decline in april i assume its all memoryrelated but id love
+  to just understand whats happening there and if you feel like thats a trough
+  on the growth margin memory issues or not thank you hey mick thank you very
+  much for the question so on the ai infrastructure side the five billion that
+  we now have raised our estimates to during fiscal two thousand and twentysix
+  does not include any of the recently announced p200 products no or g300 also
+  neither of the optics solutions that we announced this week at cisco live we
+  talked about this past quarter the mix was sixty systems forty optics and i
+  think thats been reasonably consistent over the last few quarters your final
+  question about whether these open up new markets i think these will allow us
+  to continue to sell nextgeneration solutions across our existing customer base
+  and i think itll continue to help us gain traction with the neo clouds the
+  sovereign clouds et cetera help us get the scale across technologies out and
+  continue to sell these solutions to existing customers as well as new
+  customers but just to reiterate p200 and g300 are not in the five billion
+  expected for fiscal twentysix mark yeah thanks emmett ill take the gross
+  margin question so really as you look at the q3 guide theres two primary
+  things at work one is mix and the other is memory prices as you mentioned
+  first off i just want to acknowledge the significant growth in hardware that
+  were seeing across our existing and new platforms that have been introduced
+  and the fact that theyre accelerating much faster than previous launches
+  secondly in terms of memory were going to control what we can control chuck
+  talked a little bit about the fact that weve already announced price increases
+  were going to stay very close to that and adjust as needed going forward
+  secondly theres some ts and cs with partners and customers that were going to
+  adjust to really bolster our position there thirdly its really leaning into
+  our financial strength and our worldclass supply chain if you look at it its
+  evidenced by our advanced purchase commitments that just in the last ninety
+  days are up one point eight billion if you look at it on a year of your basis
+  theyre up about seventythree a big chunk of that is around memory and then
+  lastly i think you know in terms of focusing on what we can control were
+  focused on financial discipline and profitability and were focused on growing
+  eps faster than revenue you saw that in q1 you saw it in q2 and its also in
+  our full year fy26 guide and if you you know we dont guide q4 but if you go
+  sort of back into the implied guide for q4 you see it there as well thank you
+  amit michelle we can move to the next analyst thank you taliana whats the name
+  of americas security would your line is open hi i have two questions the first
+  one is when i look at product revenue growth the entire outperformance came
+  from networking which grew twentyone point one can you drill down and tell us
+  you spoke about orders in the preparer remarks can you spoke speak about
+  revenue growth how did the various segments of networking grew and where did
+  the outperformance came from the second one is i can back out your 4q guidance
+  and when i look at the sequential growth from q3 to q4 its only one point four
+  so normally five six this is a seasonally strong quarter so why is it so low
+  is it just conservatism or is it is there growth concentration in the next two
+  quarters thanks yes so thanks tal really across networking were seeing
+  strength frankly across the entire portfolio from the campus to the data
+  center to the manufacturing floor in terms of our iot offerings as well so
+  youre seeing very strong growth again we talked about data center switching
+  being six out of the last eight quarters double digit growth double digit
+  growth this quarter youre seeing strengthening again in the campus and a move
+  to these new platforms thats faster than previous launches and i think your
+  second part of the question was really just around seasonality is that right
+  yes sequential season yes sequential so if you look at it the q2 product
+  revenue typically is kind of down midsingle digits quarter over quarter and we
+  were up five and as you look at q3 really the typical seasonality is kind of
+  low single digits and thats right where we are despite the fact that we had a
+  huge q2 in terms of year of year growth fourteen and also seasonally a very
+  strong quarter in q2 as well so we feel pretty good about the q3 yeah one
+  other comment id make on that is that i think with the nonlinear nature of the
+  hyperscaler business it creates a little bit of uncertainty relative to our
+  historical numbers that youre so used to seeing thank you tall michelle we can
+  move to the next analyst thank you ben write this with amelias research your
+  line is up hey thanks i want to ask the gross margin in a different way
+  backing into the eps guidance it seems like eps a little higher than where the
+  street is in the fourth quarter maybe maybe a couple pennies and that would
+  imply that the gross margin is expected to trough and get better or is that
+  just due to operating margin and then i was wondering you know if you could
+  address that i think the first question talked about the trough but if i look
+  at the guidance that way somethings getting a little better on the operating
+  margin line is that from cost cutting or gross margin in the fourth quarter
+  and then i have a follow up thanks yeah thanks ben so on gross margin
+  certainly you know a lot of what we talked about relative to what we can
+  control and some of the memory price increases that we see and some of that is
+  just timing so we think that that will improve as we move forward and then
+  certainly were not were not here to talk about fy twentyseven but as you get
+  into fy twentyseven we think that you know software growth will improve as
+  well and thatll certainly help us you had a second question i think ben okay
+  ben we can catch up with you afterward thank you for the questions michelle we
+  can move to the next analyst thank you erin rikers with all sparkles your line
+  is open yeah thanks for taking the question i guess i want to go more into the
+  architecture stuff chuck you know as we think about the ai networking
+  opportunity and attraction that youve been seeing im curious of your updated
+  thoughts on how youve used scale up as an opportunity for cisco what have you
+  been doing when does that start to maybe materialize if you see that as a
+  large opportunity and as my second question im curious given the traction
+  youre seeing in the neo clouds and the sovereign opportunities just maybe an
+  update of the relationship the engagement youve had with nvidia and how much
+  that started to become maybe a driver outside of the hyperscalers thank you
+  yeah thanks erin so we have a major announcement on scale up i think in the
+  past ive said we do plan to participate in it and we expect in the future to
+  have products and revenue from scale up but we havent announced anything so i
+  would say stay tuned on that front on the enterprise sovereign and neo cloud
+  space first thing i would say is that the sovereign side theres really no real
+  need nor expectation for meaningful impact in the fy26 and so we dont need
+  that to actually accelerate for the guide that weve that weve provided its
+  purely upside and then the neo clouds id say are generally the same we expect
+  the ramp to begin in second half but really be fy27 as it relates to nvidia i
+  think we had a we had a quarter where we really began to see the acceleration
+  of the engagements we tracked the number of engagements we have in the field
+  with nvidia and while it was not a massive number leading up we increased it
+  by seventy from sequentially and so we see those engagements continue to
+  increase we had obviously jensen was recently with us at our ai summit and
+  talked about the power of their gpu and compute with our networking and
+  security which was which was emblematic of the relationship and why were doing
+  it so were starting to see some early early success there and i think it will
+  only ramp from here thank you aaron michelle we can move to the next analyst
+  thank you mita marshall with morgan stanley your line is open great thanks
+  maybe building on that last question just kind of the you know coming out of
+  that ai summit clearly talking to a lot of customers you know just where are
+  you seeing or how evolved is that enterprise appetite for investment or when
+  do you think that that kind of enterprise ai story takes off more and then
+  maybe just a second question just in terms of the price increases any
+  demonstrable kind of change to demand or forward ordering that you saw as a
+  result of that thanks ill take it first you take a second okay so on the the
+  ai front i think first of all on the ai summit i think if you looked at the
+  lineup of representation that we had there i think it speaks to the
+  partnerships that we built and the role that the entire ecosystem thinks that
+  were going to play across that ecosystem so we were really excited about that
+  and i got a lot of positive feedback on the enterprise side what were seeing
+  is early use cases around things like quant fraud detection video analytics
+  were seeing it across financials manufacturing pharmaceuticals and other
+  things and i think thats a lot of the data that were seeing in the
+  manufacturing pharmaceuticals i also see examples in retail where you have
+  their leveraging agents on mobile devices in retail to help their staff do a
+  better job engaging with their customers and i think you can see the way this
+  is playing out were seeing a combination of both investment in cloud based
+  architectures as well as on prem which is enterprise focused weve had double
+  digit order growth six out of the last eight quarters and we still have
+  positive growth in the other two so we continue to see meaningful investment
+  in private data centers to support these applications yeah me on the second
+  part of your question you know around pull forwards we really didnt see
+  anything in the quarter that would point us to evidence that there were any
+  significant pull forwards there at all we looked at the typical things in
+  terms of linearity in the quarter we had frankly had good double digit growth
+  as we moved through the entire quarter we looked at whether we had any
+  pipeline pull forwards from future quarters didnt really see that looked at
+  software activations as youd expect channel checks and whatnot and we actually
+  saw the pipeline begin to build really in the out quarters rather than being
+  pulled forward so feel good about that and in terms of the price increase and
+  whether or not it sort of lands with customers you know i would say as you
+  talk to customers i think they understand it they understand this is industry
+  wide and i dont i havent talked to any customers that are really willing to
+  delay or defer any sort of strategic investments that theyre making in
+  technology and i think i think theres no concern that weve seen there yet
+  whatsoever i would just add to that mark mark and i had lunch with one of our
+  absolute biggest customers yesterday here on our campus and we had a very
+  detailed discussion about the different dynamics that are happening in this
+  space and the pricing pressure and they completely understood and are going to
+  work with us to actually make sure that the entire partnership actually
+  continues to work for both of us so i think customers its an industry wide
+  issue customers get it and while they may not like it they understand that its
+  a dynamic that were all dealing with i think frankly also a lot of them
+  understand that you know well probably be able to manage this a lot better
+  than some of our peers too so well get through this together thank you mita
+  michelle we can move to the next analyst thank you our next caller is david
+  boat what do you be your line is open sir great thanks guys were taking the
+  question i have a two quarter two part around the order numbers so one i
+  appreciate the strength that you guys reported in the orders but it certainly
+  sounds like the over five billion of order numbers sounds and the conservative
+  given the momentum that youre seeing and sort of the capex programs that have
+  been announced over the last couple of weeks so maybe you can talk to you know
+  why that number is only moving up to an access to five billion i think you
+  said in the past it would double the prior year and then along those lines i
+  think you also mentioned that youre only going to recognize over three billion
+  and ai related revenue this year and i think previously you had said about
+  three billion so then that suggests that the timing from a revenue recognition
+  perspective shifts into fiscal twentyseven and gives you more visibility from
+  an ai infrastructure revenue perspective next year on top of the growth that
+  youre seeing here in twentysix thanks mark ill take the orders and you take
+  the revenue one i think thanks david for the questions on the ai orders and
+  the five billion i think the thing to really remember about these customers is
+  theyre nonlinear so if and you just have to its quite lumpy theres only less
+  than a handful of these major customers that are placing these orders so you
+  know were were giving you that number based on the pipeline we see clearly our
+  teams will be working to make that number as big as they possibly can but
+  thats what we see today and we just wanted to give you as close to a real
+  number as we could see today i didnt mention earlier but i would also call out
+  that during that during q2 we actually won three new use cases across these
+  major players so we won one optics and two on the system side and so we
+  continue to see new opportunity and hopefully thatll result in us giving you a
+  better number at some point david yeah and david just on the revenue question
+  you know these customers plan well in advance which has its advantages to it
+  youre seeing orders converting to revenue i think that youre seeing a
+  continued ramp as we move through the year and your spot on in terms of giving
+  us better visibility on some of the revenue we would look at it into
+  twentyseven that will continue to follow on thank you david michelle we can
+  move to the next analyst thank you samick tatterjee what jp morgan your line
+  is open sir thanks i take my questions maybe one on ai optics and one on non
+  ai for the ai part chuck you talked about the new products youre launching in
+  optics or the pluggable optics that youve launched recently particularly a big
+  focus this year is cpo and sort of support for that in the infrastructure so
+  any thoughts or insights in terms of how cisco plans are on sort of addressing
+  the cpu functionality particularly are you seeing customers look at that as a
+  part of your roadmap are they looking for cisco to have that as part of their
+  roadmap in optics and then for my non ai part just trying to get a sense of
+  what youre seeing on the order front for campus in the sense that we see your
+  networking orders did act straight but when we strip out ai from it what are
+  the trends youre seeing on that order front for x ai in networking and whether
+  the end of life of cac 4k and 6k just to put that in context in terms of how
+  much of a tailwind that is to your campus orders thank you thanks amig i would
+  say on the cpo we absolutely believe its going to happen we all believe its
+  actually imminent right now if you recall we actually demonstrated this
+  technology i think two years ago or more and so we have the technology to
+  build it and we will as customers want it but today they want choice and i
+  think in many cases customers want the differentiation between optics and
+  silicon so they have choice and they dont get locked in reduces are
+  multivendor choice but we did announce the eight hundred gig lpo which gives
+  customers huge power savings greater efficiency for ai scale out and will
+  continue to innovate as well on that front id say on the campus basically on
+  the enterprise networking side let me just give you some color and then mark
+  you may want to expand on the order rates but the first thing id say is that
+  when you look at the enterprise switching enterprise routing the wireless and
+  the industrial iot platforms all four of them the transition is ramping faster
+  in all four of those areas than the prior transitions that weve seen
+  historically at cisco so theyre all ramping faster that being said were in the
+  top of the first inning so this thing is just getting started so theres a lot
+  of runway we talked about the network products being up double digits now for
+  six consecutive quarters data center switching was up double digits six of the
+  last eight quarters all these things are ramping faster i think wifi seven was
+  up eighty sequentially i think our campus switching business was up close to
+  double digits on orders so were seeing a fair amount of momentum and a lot of
+  energy around customers that want to actually move on these upgrades yeah and
+  i would just maybe just add to that chuck i mean to reiterate if you look at
+  that eighteen bookings growth excluding webscale we were still at double
+  digits ten year of your growth so really really strong quarter from an order
+  standpoint and when you look at the three geographies that we look at all
+  three grew in the double digits all three accelerated their growth from q1
+  just ninety days ago so really strong quarter overall thank you simique
+  michelle we can move to the next analyst thank you our next caller is carl
+  ackerman with bnp parabas your line is open sir yes i do as well please first
+  of the roughly excuse me i understand that security was weaker as long
+  transition from professional licenses to saa however could you speak to the
+  order rate to new product demand traction of your security portfolio that
+  could all go well for recovery in your security offerings so the balance of
+  twentysix and just as my follow up please doc i noticed you indicated that
+  your five billion of orders does not include your g300 or the one
+  hundredterabit switch portfolio but more broadly can you talk about the order
+  rates you are seeing for your fiftyoneterabit and one hundredterabit data
+  center switch portfolio because the demand seems to be accelerating there
+  thank you thanks carl so on the security update heres what i would say theres
+  really three key points number one we talked about the splunk transition that
+  has a shortterm revenue headwind with the accounting treatment of onprem
+  versus cloud the second thing is that we you know on the new products and
+  these are products that largely didnt exist three years ago this is everything
+  from secure access to xdr to ai defense to hypershield we had a thousand new
+  customers of those products during the past quarter and it was up one hundred
+  sequentially so were seeing the ramp now where customers are adopting these
+  new products which is a really good sign and theres four thousand customers
+  who have bought one of those products since we built them and these are again
+  these did not exist so thats positive weve on the refresh firewalls we had our
+  third consecutive quarter of doubledigit unit growth and we just launched our
+  new highend refresh firewalls in the last one hundred and twenty days so we
+  expect that to continue and where that would lead us is as we exit q4 this
+  year the organic cisco security portfolio will be growing revenue close to
+  double digits as we exit so the teams are a little theyre a little behind
+  where we not the teams but the portfolio is a little behind where we thought
+  wed be exiting the year but its still performing relatively well its just its
+  just masked right now with this splunk situation on the accounting treatment
+  on the five billion and the fiftyone point two product i think were selling
+  were selling as much as we can build at this point we see demand across a
+  couple of major customers that are literally asking for as much as they can
+  get and were seeing huge acceleration into eight hundred gig optics were
+  seeing huge acceleration obviously in the acacia portfolio so i think the
+  demand is there and we just need to continue to build capacity yeah i think
+  and just to add to its not only the demand but also continuing to make inroads
+  with each of these hyperscalers across the portfolio but also additional
+  design wins that we we saw this quarter as well thank you carl michelle we can
+  move to the next analyst thank you michael what goldman sachs your line is
+  open sir hey good afternoon thank you for the question i have to as well first
+  i was wondering if you could just talk a little bit about the ebit margin
+  outperformance in the quarter you know was that true and by cost savings is
+  that a mixed benefit as you do more with hyperscale customers and then you
+  know second i wanted to just revisit the comments around the april quarter
+  gross margins i know you talked a little bit about that just being timing you
+  know is the implication that youll just take more pricing over the coming
+  quarters to kind of recover a lot of that commodity cost inflation or is that
+  a time and comment around just the mix of ai revenue perhaps just would love
+  your general thoughts on that thank you yeah so thanks michael you know so ill
+  take the first one just on the opinc percentage as you as you pointed out you
+  know thirtyfour point six for us is actually the highest in four quarters so
+  even though you saw a little bit of margin decline on a quarter of a quarter
+  basis and and certainly year over year were just continuing to execute very
+  well and were seeing us be you know very financially prudent on in our
+  expenditures and just really determined to drive profitability and you saw
+  that in the fact that eps and top line both through double digits but the eps
+  line actually exceeded the top line so in terms of the timing you know i think
+  the measures that we talked about in terms of price increases and then some of
+  the ts and cs that were going to be modifying with our partners and customers
+  those just take a little bit of time you know to run through so youll start to
+  see that over time thank you michael i shall we can move to the next panelist
+  thank you our next color is peer for you what new street your line is open sir
+  you might be on mute hey apologies yeah so check can you give us a sense of
+  how your commercial momentum is evolving on the on the cloud and like on the
+  ai france so you mentioned the couple of use cases you want in large customers
+  on hyperscale so i guess theres really like a kind of a use case game so what
+  can you tell us about a typical use case where you make a difference where we
+  really you beat them your big competition so whats your how do you win there
+  so im going to move into the new cloud opportunities the border market when do
+  the dynamics look there is that a similar like use case yeah so im going to
+  move into the new kind of competitive game and are you like second second
+  source for your clients or do you see actually clients who go for like a c go
+  as a primary primary social networking for ai thanks pierre so on the on the
+  first one i would say how do we win first of all our optics portfolio is is
+  really just well received and is id say number one of the world that our
+  customers want and we just need we need to increase capacity to actually
+  continue to deal with more and more demand there id say on the on the system
+  side and the silicon side we talked a lot over the years about their desire to
+  have silicon diversity so thats a thats a thats a starting point for why
+  theyre interested in us being successful but then our systems when we build
+  these i think theres two big differentiators for us theres programmability of
+  the silicon and then theres just the power efficiency that were building into
+  it and those generally and i think the way we do business and the commercial
+  relationship that we have the team the partnership that we have with them i
+  think they just they appreciate that and i think it it contributes to their
+  desire for us to to be able to do more with them the second was neil club
+  right enterprise oh enterprise yeah on the enterprise side theres theres
+  theres opportunity across you know ai factory with nvidia so with gpus but you
+  know what we really focus on and what were most interested in is networking
+  and security in addition to strategically where we need to position the gpus
+  but by and large we are the network standard particularly when were partnering
+  with nvidia in the enterprise right now so thats what we see happening and
+  again we think bundling our security solutions like a i defense and those
+  sorts of technologies in these a factory solutions is a good opportunity for
+  us as we go forward thank you pierre michelle we move to the last question and
+  the queue thank you james fish with piper youre line is open sir hey guys
+  thanks for squeezing me in just on the campus side going back to a couple of
+  questions here and trying to bridge it all together you guys have talked about
+  the refresh opportunity historically at more your fiscal twentyseven but now
+  youre starting to say its ongoing i get it chuck you know first inning of the
+  braves game for you right but whats changed and then why wouldnt they start
+  why wouldnt customers especially in the enterprise start pulling in their
+  orders here given the pricing increases that they know are coming these are
+  smart buyers and it kind of reminds a lot of enterprise out there of the fly
+  chain issues a few years ago where we did start to see a pull in the orders
+  okay thanks jim so first of all i think you know we are seeing a ramp in an
+  acceleration i wouldnt share if this is what you asked but ill make a couple
+  of comments just to be clear many of these customers learned from covid and
+  they recognized that in these major times of transition they dont want to ever
+  be stuck with technology thats not modern and as they look at the
+  architectures that are required for a gen ai the security architecture the
+  network architecture the latency requirements all of that is leading them to
+  look at the network architecture the infrastructure is modernized so that
+  combined with the fact that theres been a lot of learnings over the last
+  couple of years about equipment thats passed last day of support and the
+  cybersecurity risks that are associated with that i think those are well
+  documented and thats another thing thats leading them to do so i would say
+  that on the core networking side the memory content is not quite as high as
+  what youd see in compute platforms and so the price increases are more nominal
+  than they are in sort of the compute systems that you see some of our
+  competitors talking about and the things that are a larger percentage of their
+  portfolio so do i think customers will try to buy ahead in some cases perhaps
+  but i dont think its going to be a big trend in the networking side of our
+  business and ucs for us is just its not as big a percentage as it represents
+  for some of our peers all right thank you jim i want to hand it over to chuck
+  for some
+
+[164]
+  OFFICIAL: • cisco’s
+  WHISPER:  remarks following the qa first i want to thank all of you for being
+  with us today and i also want to thank our team im very proud of what theyve
+  done and the hard work that they put in and the results today are like you
+  know theyre coming together after multiple years of effort to get here and we
+  want to continue to deliver this innovation to our customers and our teams are
+  dedicated to do so were proud of the performance especially in the core i
+  think its important to really think about two big areas of of momentum
+  opportunity for us and were very early in all of these first of all with the
+  hyperscalers and the ai buildouts the silicon one architecture the new
+  innovation that we announced this week the new use cases that we want during
+  the quarter we obviously see a growing opportunity with enterprise sovereign
+  and the neoclouds in ai and then this this beginning of this campus refresh as
+  i said feels like the top of the first inning its a multi year multi billion
+  dollar opportunity for us so i have a high degree of confidence that were
+  going to deliver our strongest fiscal year yet and again i want to thank our
+  teams and i want to thank all of you for joining us and sammy ill hand it back
+  to you thank you chuck this goes the
+
+[165]
+  OFFICIAL: fy2026
+  WHISPER:  for squeer two thousand and twentysix
+
+[166]
+  OFFICIAL: onethirty
+  WHISPER:  one thirty
+
+[167]
+  OFFICIAL: fourthirty
+  WHISPER:  for thirty
+
+[168]
+  OFFICIAL: •
+
+[169]
+  OFFICIAL: today’s
+  WHISPER:  todays
+
+[170]
+  OFFICIAL: and
+
+[171]
+  OFFICIAL: ten the prepared remarks set forth above and the related
+  WHISPER:  thank you for participating on todays
+
+[172]
+  OFFICIAL: may be deemed
+  WHISPER:  if you would like
+
+[173]
+  OFFICIAL: contain forward looking statements which are subject
+  WHISPER:  listen
+
+[174]
+  OFFICIAL: safe harbor provisions of the private securities litigation reform
+  act of
+  WHISPER:  call in its entirety you may call
+
+[175]
+  OFFICIAL: thousand nine
+  WHISPER:  eight hundred eight
+
+[176]
+  OFFICIAL: ninetyfive these forwardlooking statements include among other
+  things statements regarding future events such as our belief in our unique
+  position to deliver the trusted infrastructure needed to securely and
+  confidently power the ai era continuing to drive profitability by exercising
+  financial discipline and the strong broadbased demand for our technology
+  solutions as we remain focused on capturing the significant opportunities
+  ahead and the future financial performance of cisco including the guidance for
+  q3 fy
+  WHISPER:  thirtynine
+
+[177]
+  WHISPER:  two hundred
+
+[178]
+  OFFICIAL: twentysix
+  WHISPER:  thirtytwo for participants dialing from outside the us please dial
+  two three three hundred
+
+[179]
+  OFFICIAL: full year fy two
+  WHISPER:  sixtynine three
+
+[180]
+  WHISPER:  six hundred
+
+[181]
+  OFFICIAL: twentysix that involve risks and uncertainties such as the actual
+  impact of tariffs on our guidance for q3 fy two thousand and twentysix and
+  full year fy two thousand and twentysix readers are cautioned that these
+  forwardlooking statements are only predictions and
+  WHISPER:  sixtytwo this concludes todays call you
+
+[182]
+  OFFICIAL: differ materially from actual future events or results due to a
+  variety of factors including business and economic conditions and growth
+  trends in the networking industry our customer markets and various geographic
+  regions global economic conditions and uncertainties in the geopolitical
+  environment our development and use of artificial intelligence overall
+  information technology spending the growth and evolution of the internet and
+  levels of capital spending on internet based systems variations in customer
+  demand for products and services including sales to the service provider
+  market cloud enterprise and other customer markets the return on our
+  investments in certain key priority areas and in certain geographical
+  locations as well as maintaining leadership in networking and serv ices the
+  timing of orders and manufacturing and customer lead times supply constraints
+  changes in customer order patterns or customer mix insufficient excess or
+  obsolete inventory variability of component costs variations in sales channels
+  product costs or mix of products sold our ability to successfully acquire
+  businesses and technologies and to successfully integrate and operate these
+  acquired businesses and technologies our ability to achieve expected benefits
+  of our partnerships increased competition in our product and services markets
+  including the data center market dependence on the introduction and market
+  acceptance of new product offerings and standards rapid technological and
+  market change manufacturing and sourcing risks product defects and returns
+  litigation involving patents other intellectual property antitrust stockholder
+  and other matters and governmental investigations our ability to achieve the
+  benefits of restructurings and possible changes in the size and timing of re
+  lated charges cyber attacks data breaches or other incidents vulnerabilities
+  and critical security defects our ability to protect personal data evolving
+  regulatory uncertainty terrorism natural catastrophic events including as a
+  result of global cl imate change any pandemic or epidemic our ability to
+  achieve the benefits anticipated from our investments in sales engineering
+  service marketing and manufacturing activities our ability to recruit and
+  retain key personnel our ability to manage financial risk and to manage
+  expenses during economic downturns risks related to the global nature of our
+  operations including our operations in emerging markets currency fluctuations
+  and other international factors changes in provision for income taxes
+  including changes in tax laws and regulations or adverse outcomes resulting
+  from examinations of our income tax returns potential volatility in operating
+  results and other factors listed in ciscos most recent reports on forms tenq
+  and tenk filed on november eighteen two thousand and twentyfive and september
+  three two thousand and twentyfive the financial information contained in
+  WHISPER:  disconnect at
+
+[183]
+  OFFICIAL: release should be read in conjunction with the consolidated
+  financial statements and notes thereto included in ciscos most recent report
+  on forms ten q and tenk as each may be amended from
+
+[184]
+  OFFICIAL: to time ciscos results of operations for the three and six months
+  ended january twentyfour two thousand and twentysix are not necessarily
+  indicative of ciscos operating results for any future periods any projections
+  in this release are based on limited information currently available to cisco
+  which is subject to change although any such projections and the factors
+  influencing them will likely change cisco will not necessarily update the
+  information since cisco will only provide guidance at certain points during
+  the year such information speaks only as of the date of this release

@@ -1,0 +1,551 @@
+[00:00] Welcome to the Texas Instruments First Quarter 2026 earnings conference call.
+[00:05] I'm Mike Beckman, Head of Investor Relations, and I'm joined by our Chief Executive Officer,
+[00:10] Havi Vellan, and our Chief Financial Officer, Rafael Lazardi.
+[00:14] For any of you who missed the release, you can find it on our website at ti.com.
+[00:20] This call is being broadcast live over the web and can be accessed through our website.
+[00:25] In addition, today's call is being recorded and will be available via replay on our website.
+
+[00:30] This call will include forward-looking statements that involve risks and uncertainties
+[00:35] that could cause TI's results to differ materially from management's current expectations.
+[00:40] We encourage you to review the notice regarding forward-looking statements
+[00:44] contained in the earnings release published today, as well as TI's most recent SEC filings
+[00:49] for a more complete description.
+[00:52] Today, we'll provide the following updates.
+
+[00:55] First, Havi will start with a quick overview of the quarter.
+[00:58] Next, he will provide insight into first quarter revenue results
+[01:02] with some details on what we're seeing with respect to our end markets.
+[01:06] Lastly, Rafael will cover the financial results, give an update on capital management,
+[01:11] as well as share the guidance for second quarter 2026.
+[01:15] With that, let me turn it over to Havi.
+
+[01:17] Thanks, Mike.
+[01:19] Before I go into the results, I want to highlight that in the first quarter,
+[01:23] we announced an agreement for TI to acquire Silicon Labs.
+[01:27] This transaction enhances our global leadership in embedded wireless connectivity,
+[01:32] expands TI's portfolio, and leverages TI's internally owned technology and manufacturing,
+[01:38] and rich-of-market channels.
+
+[01:40] We expect a transaction to close in the first half of 2027, subject to necessary approvals.
+[01:47] Now, let me provide a quick overview of the first quarter.
+[01:51] Revenue was $4.8 billion, an increase of 9% sequentially,
+[01:56] and an increase of 19% year-over-year.
+[01:59] Analog and embedded both grew sequentially and year-on-year.
+[02:04] Analog revenue grew 22% year-on-year, and embedded processing grew 12%.
+
+[02:11] Our other segment declined 16% from the year-ago quarter.
+[02:16] Let me provide a few comments about the current market environment.
+[02:21] In the first quarter, revenue came in above the top of the range,
+[02:25] as we saw continued acceleration in industrial and data center.
+[02:29] The overall semiconductor market recovery is continuing,
+[02:34] and we remain well-positioned with inventory and capacity
+
+[02:38] that allows us to support our customers with competitive lead times through the cycle.
+[02:44] Now, I'll show some additional insights into first quarter revenue by end market.
+[02:49] First, industrial increased more than 30% year-on-year,
+[02:53] and was up more than 20% sequentially, growing broadly across all sectors and regions.
+[03:00] Automotive increased mid-single-digits year-on-year, and was about flat sequentially.
+[03:07] Data center grew about 90% year-on-year, and grew more than 25% sequentially.
+
+[03:15] Personal electronics was flat year-on-year, and grew low single-digits sequentially.
+[03:22] And lastly, communications equipment grew about 25% year-on-year,
+[03:27] and grew more than 30% sequentially.
+[03:31] With that, let me turn it over to Rafael to review profitability and capital management.
+[03:37] Thanks, Avid, and good afternoon, everyone.
+[03:40] As Avid mentioned, first quarter revenue was $4.8 billion.
+
+[03:44] Cross-profit in the quarter was $2.8 billion, or 58% of revenue.
+[03:49] Sequentially, gross profit margin increased 210 basis points.
+[03:54] Operating expenses in the quarter were $974 million, about as expected.
+[03:59] On a trail-in-to-a-month basis, operating expenses were $3.9 billion, or 21% of revenue.
+[04:06] Operating profit was $1.8 billion in the quarter, or 37% of revenue, and was up 37% from the year-goer quarter.
+[04:15] Net income in the quarter was $1.5 billion, or $1.68 per share.
+
+[04:20] Earnings per share included a 5 cent benefit for items not in our original guidance,
+[04:25] primarily due to discrete tax benefits.
+[04:28] Let me now comment on our capital management results, starting with a cash generation.
+[04:33] Cash flow from operation was $1.5 billion in the quarter, and $7.8 billion on a trail-in-to-a-month basis.
+[04:41] Capital expenditures were $676 million in the quarter, and $4.1 billion over the last 12 months.
+[04:48] Free cash flow on a trail-in-to-a-month basis was $4.4 billion, up from $1.7 billion in the first quarter of 2025.
+
+[04:56] Trending up as growth returns and capex begins to moderate.
+[05:00] Free cash flow in the trail-in-to-a-month includes $965 million of CHIP's ACT incentives.
+[05:07] This includes a $555 million payment received in the first quarter as part of our direct funding agreement,
+[05:13] related to the startup production at our newest 300mm wafer fab in Sherman, Texas.
+[05:19] In the quarter, we pay $1.3 billion in dividends and repurchase $158 million of our stock.
+[05:26] In total, we return $6 billion to our owners in the past 12 months.
+
+[05:31] Our balance sheet remains strong with $5.1 billion of cash and short-term investments at the end of the first quarter.
+[05:39] Total debt outstanding is $14 billion. We have weighted average coupon of 4%.
+[05:44] Inventory at the end of the quarter was $4.7 billion.
+[05:48] Down $109 million from the prior quarter and days were $209 down 13 days sequentially.
+[05:55] Turning to our outlook for the second quarter, we expect TI's revenue in the range of $5 billion to $5.4 billion,
+[06:02] and earnings per share to be in the range of $1.77 to $2.05.
+
+[06:07] We expect our effective tax rate to be about 13% in the second quarter.
+[06:12] In closing, we will stay focused in the areas that add value in the long term.
+[06:16] We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio,
+[06:22] reach of our channels and diverse and long-lived positions.
+[06:26] We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities,
+[06:32] which we believe will enable us to continue to deliver free cash, super share growth over the long term.
+
+[06:37] With that, let me turn it back to Mike.
+[06:39] Operator, you can now open the line for questions.
+[06:42] In order to provide as many of you as possible an opportunity to ask your questions, please let me yourself to a single question.
+[06:48] After our response, we'll provide you an opportunity for an additional follow-up. Operator?
+[06:54] Thank you.
+[06:56] Well, now we conducted a question and answer session.
+
+[06:59] If you would like to ask your question, please press star 1 on your telephone keypad.
+[07:03] A confirmation tone will indicate your line is in the question queue.
+[07:06] You may press star 2 to remove your question from the queue.
+[07:09] For participants using speaker equipment, it may be necessary to pick up the handset before processing the star keys.
+[07:14] One moment, please, while we pull for questions.
+[07:17] Thank you.
+
+[07:20] Our first question is from Tim Arcary with UBS.
+[07:31] Thanks a lot.
+[07:34] I wonder if you can comment just on the behavior of customers.
+[07:37] I know you're guiding up a little better than seasonal off of the number in March that was very strong.
+[07:42] It sounds like it's mostly industrial, but can you comment on the rush orders?
+[07:47] I know we're seeing signs of price increases and things like that.
+
+[07:51] Is this impacting the customer's behavior? Thanks.
+[07:56] Thanks, Tim. In general, I think Q1 was a continuation of what we saw in Q4, very similar behavior, meaning growth coming from too many areas led by industrial, as you mentioned.
+[08:11] Also supported by the data center market that we've seen a secular growth over there for the last couple of years.
+[08:18] This was the eight-quarter of sequential growth, just off of a higher number.
+[08:23] That also helps the overall growth of the company.
+[08:26] I would say that industrial signal was a little bit broader this time.
+
+[08:31] I would say all sectors, all geographies grew sequentially, and it continued to accelerate through the quarter.
+[08:42] If you think about January, February, and then you always want to see how the exit from the lunar or the Chinese new year break is going to look like, but it continued in March.
+[08:54] Just a continuation.
+[08:55] I would say it's now five or six months of continued growth in industrial.
+[09:00] We want to keep watching it, but I would say that's what guides our forecast into the second quarter.
+[09:09] Mike, anything to add on that?
+
+[09:11] I think we just want to be mindful to just the overall macro backdrop and want to see how sustainable the growth is, and that was factored into the guide.
+[09:19] Tim, do you have a follow-up?
+[09:22] I do.
+[09:23] Mike, maybe you can comment on... I know typically you don't break the guidance down by segment, but just given how different it was in March, and given that we're hearing some choppiness in autos, particularly in China, I mean, I would think that most of this sequential growth will be in industrial,
+[09:37] but can you give any comments for what is being thought of in the June guidance for those two? Thanks.
+[09:44] Let me take that, Tim.
+
+[09:46] I think I can help you a little bit on the automotive side.
+[09:48] But first, I think, as you said, we are not seeing a change from the previous quarter, so I expect growth to be led by industrial and data center.
+[09:57] I won't break it out between the two, but we see it's printing both.
+[10:01] Regarding automotive, you're right. The Q1 was always the same in Q1 in China.
+[10:07] The overall quarter was flat sequentially, but China was down, the rest of the world was up.
+[10:14] I want to see automotive and see how it develops in Q2. It's too soon to call it.
+
+[10:19] I will remind us, though, that during the COVID cycle, even automotive was the last to join in, also the last to pick.
+[10:27] So I'm not surprised by the behavior of this market.
+[10:31] I will say that secular growth in automotive continues for the foreseeable future, and that is my encouragement.
+[10:40] We are seeing cars adding features. We are seeing more content added to vehicles across the powertrain, whether it's BV or ice or the hybrids.
+[10:53] Anything to add on that, Mike, in terms of the guide?
+[10:56] No, I think you characterize it well.
+
+[10:58] And as you know, Auto has been steady at an elevated level for some time.
+[11:02] It didn't really have that steep correction that we saw on the other end market.
+[11:06] I think it's a view called it out. These markets have been in the past, have been transitioning out of phase.
+[11:11] I don't think it's unrealistic to assume that could happen again. So, what to see how it plays out.
+[11:16] Yeah, I think it's important, and point that Mike said, Q1 was a flat quarter, but very close to peak levels, maybe a point or two below it speaks.
+[11:23] So it's holding very nicely at a high level.
+
+[11:26] All right, we'll move on to our next caller.
+[11:31] Thank you. Our next question is from Vivek Arya with Bank of America.
+[11:37] Thanks for taking my question. We won this industrial growth up 30%. I think you said year on year.
+[11:44] This is obviously well above the long-term trend line. Could you help us dissect which applications, which end markets are driving this?
+[11:53] Is it still inventory replenishment? Is it pricing? Is it share gains?
+[11:58] Just what kind of checks and balances do you have in place that this isn't any kind of double ordering or holding of your product?
+
+[12:08] No, I don't see it. At least I don't have the evidence to show that Vivek. But remember, in Australia you said, yeah, for one quarter that's a lot of growth.
+[12:17] But if you look at the long-term trend line, we are still below the trend line.
+[12:21] So if I just did the math, in Q1, our industrial, we had a very good quarter in industrial growing at the rate that you've mentioned, but still 15% lower than the peak that was back in 2022.
+[12:35] And as I say many times, there is a secular growth continuing in industrial. So we deserve a higher peak, right, four years later.
+[12:43] So I think there is a lot of room to grow. The encouragement I would have on industrial this time is that I see it at a broader application.
+[12:51] So all of them, not only the data center related, the energy infrastructure or power delivery, not only aerospace and defense.
+
+[12:59] I mean, all the geopolitical tensions in the market is establishing new peaks every quarter. I saw it across all sectors in industrial and also across all customers in terms of regions, but also the size of customers.
+[13:12] It's the first quarter where we saw the broad market, as we call it, the tail starting to wake up again after a long hibernation period, I would call it.
+[13:22] So I am encouraged about the fact that we are seeing growth over there, but I think there is, I mean, I would like to see a secular growth in industrial continuing and then higher peaks establishing in 2026 or later versus the 2022 peak.
+[13:38] So in that sense, trend line, our suggesting we still have room to go. Hopefully that helps. You will follow the back.
+[13:46] Yes, thank you, Mike. So last year, we saw the overall analog industry do very well in the first half, and then there were some level of deceleration in the second half.
+[13:57] I've realized every year is different. And I know you're not guiding to the second half, but from what you see today, what are the puts and takes as you look at the second half versus the first half?
+
+[14:07] Is there anything that could be different just given by all the macro trends, memory, price inflation and whatnot?
+[14:14] And as part of that, if Rassal could also help chime in with how you are managing fab loadings as you look towards the rest of the year. Thank you.
+[14:22] Yeah, let me start in Rafael. We follow. So first, we make your spot on, right? We had a similar, let's say, strong beginning of the year, last year, maybe, maybe the year over year, and growth, the last year was a little lower.
+[14:36] But it was still in the teens, and it looks like it was getting stronger, but it was whatever you want to call it, the head fake, a false start or whatever.
+[14:44] We had a good year in analog, but it did not accelerate in the second half. It actually slowed down a little bit, right? So I think we need to be cautious.
+[14:53] I think Mike mentioned it. There is geopolitics, there is the macro that we are watching.
+
+[14:59] On the other hand, there is secular growth in our market. So in the long term, I'm still very optimistic, we want to play quarter by quarter. That's part of the way we have guided 5.2 billion dollars in the midpoint.
+[15:13] Let's let TUCU play out and we'll call it as we see it. I remind you that the way we support our customers, the way we go to market, we go, we serve our customers direct.
+[15:25] We have very friendly customer terms, so we see the build up of demand as we go almost real time.
+[15:35] And I want to see, let's let TUCU play out and see if this growth is sustainable. That's the biggest question I have for myself for the second half.
+[15:44] But at least the fact that industrial is still trending below previous peaks and the secular growth in data center and of course the content growth in automotive makes me feel optimistic about the long term.
+[16:00] Rafael, can you comment about loading?
+
+[16:03] I just said that we have the capacity and the inventory that were well positioned on both of those to handle a wide range of scenarios in this up term.
+[16:15] All right, today. Thank you so much for the questions. I'll move on to our next caller.
+[16:20] Our next question is from Joe Moore with Morgan family.
+[16:26] Great, thank you. Yeah, on the topic of fab loading, can you talk about what's going to happen with inventory over the course of Q2?
+[16:34] And are you seeing incremental gross margins off of Q1 that are sort of better than normal? Where's the normal, just normal?
+[16:43] What are the dynamics around that transition?
+
+[16:46] Yeah, again, we're well positioned and inventory objective of inventories to maintain high levels of customer service, keep lead times short and stable.
+[16:56] And we're accomplishing that. So we feel very good as to where those are and will continue to determine what makes sense from a loadings and inventory standpoint throughout the quarter to handle any range of scenarios.
+[17:14] And Joe, just to add on that, you and I talked a month ago, we saw a rapid growth in Q1 and inventory served as well, right?
+[17:22] We've depleted some of it. We've filled our customers real time according to their demand.
+[17:27] And we just want to see how sustainable that would be. But as Rafael said, if it is in the market, once we have a very rapid growth and maybe catch up to trendline even quicker, we are well positioned.
+[17:39] Of course, we are in this phase three on the fabs and we can modulate more starts there. We have the capacity.
+
+[17:45] We may make some incremental investments on the 80s because we are seeing on the assembly and test side a little bit of a tighter environment, at least externally.
+[17:54] So as you know, we've brought most of our supply internally and we have that knob as well.
+[18:00] We are very excited about the fact that we are prepared.
+[18:07] If the market wants to grow at the same rate of Q1, we mentioned 19% over here. We are ready. If it wants to accelerate, we are ready as well.
+[18:14] All right.
+[18:16] Jody, you follow up?
+
+[18:20] Jody, you have a follow up?
+[18:21] Well, just on the question is also on the gross margin aspect of that.
+[18:27] Do you, if the incremental gross margin is going to look normal or is there some part of inventory management that makes it less or more?
+[18:34] Yeah, no, the fault through that you should expect is in the 75 to 85% that we have guided that's excluding depreciation over a long term.
+[18:44] But on a year and year basis, you look at our midpoint on EPS and revenue and make the right assumptions on topics and other lines, you should get to a reasonable assumption on gross margins.
+[19:01] And it will be in that fault that we have guided.
+
+[19:05] Thank you.
+[19:06] Thanks for this question.
+[19:07] Moving on to our next caller.
+[19:11] Our next question is from Stacey Radskin with Bernstein Research.
+[19:15] Hi guys. Thanks for taking my question.
+[19:19] Maybe just to dig into that gross margin point, if I sort of, I might typically think of your off XOPWAT a couple of points in Q2.
+
+[19:27] I'd come up with a gross margin implicit in the guidance, maybe low to mid 59% up from 58.
+[19:36] And it's up, I don't know, 100 or 150 bits you have a year on a pretty material revenue growth.
+[19:41] Like part of it would almost expect it.
+[19:44] The incremental gross margin to be higher given the revenue.
+[19:47] But maybe it's differential just like the increase in depreciation or like, how should I be thinking about the different drivers of gross margin in DQ2?
+[19:54] Quantitatively, if you don't want to give us a quantitative.
+
+[19:58] Yeah, so Stacey, to help you out a little bit, your off X assumption was not a bad one.
+[20:03] So you should expect some growth in off X first or second.
+[20:07] Maybe what you're missing is the acquisition charges line.
+[20:11] You should expect to continue to have charges there every quarter at the tune of what we just reported in first quarter.
+[20:20] We should continue, we'll continue having those there every quarter until we close, at which time there'll be a lot higher.
+[20:29] And then there'll be steady after that for a number of years.
+
+[20:32] But for now, for second quarter, just assume somewhere in the range of what we just reported on the acquisition line.
+[20:39] When you do that, you'll get a gross margin assumption that should make sense.
+[20:47] All right, give a follow-up.
+[20:49] I do, thanks.
+[20:52] Maybe to ask about the acquisition itself, not the deals, but I know you've talked about it being a creative.
+[20:59] You guys are like one of the few, if not maybe the only company in my coverage, certainly that still does a pure gap earnings.
+
+[21:06] And I even remember when you bought Natsemi, you did pro forma for a little while and then kind of said this is stupid.
+[21:11] We're going back to gap.
+[21:12] You guys make whatever adjustments you want to make.
+[21:15] So, do your intentions for how you're going to report once you do close a slab?
+[21:20] Because I have a hard time getting it a creative on a gap basis.
+[21:23] Are you going to be going to a pro forma or how should we be thinking about that?
+
+[21:26] You know, I think in right now is we will do gap, but we'll give you all the pieces that you need to do your own non-gap in whichever way you want to do that.
+[21:37] So, we'll have the acquisition charges line, for example.
+[21:40] You can take that out if you like and not count it.
+[21:44] So, once we're on a run rate basis, all those will be non-cash.
+[21:49] But initially, some of those are cash charges, right?
+[21:52] They're charges to cost to the bankers, the lawyers, the regulatory fees, et cetera.
+
+[21:58] There'll be other things like the first quarter will have some weird transitions in gross margins and inventory as we write up the inventory that we're buying.
+[22:09] So, we'll give you all those pieces that way you can do the non-gap analysis yourself.
+[22:16] Thanks for the question.
+[22:17] Thank you.
+[22:18] Moving on to our next caller, please.
+[22:20] Our next question is from Ross Seymour with Deutsche Bank.
+
+[22:25] Hi, guys. Thanks so many ask a couple questions.
+[22:28] I guess the first one is, given the strength that you saw, I guess, what was the biggest surprise versus the midpoint of your guide in the first quarter and was pricing part of the strength in either the quarter of the guide?
+[22:39] Yeah, let me start maybe with pricing and then we can chat a little bit more about what happened in the quarter.
+[22:44] I think we answered it, but I'll repeat the same message as D.
+[22:48] It's not surprising.
+[22:49] I think we said in the last quarter, we don't expect pricing to help the growth, at least not sequential all year over year.
+
+[22:54] And that was the case, but it was better than our model.
+[22:57] Usually Q1 pricing is a couple of points down, call it the low single digits down year over year, and also sequentially because usually the price agreement, they key keen in the beginning of the year.
+[23:07] So the quarter behaved a little better.
+[23:10] We had pricing was the stable flat.
+[23:13] If you will like for like both sequentially Q4 to Q1 and also year on year 1, Q26 versus 1, Q25.
+[23:22] So that helped a little bit.
+
+[23:24] And I expect Q2 to be very similar Ross.
+[23:27] Just the way we work with our customers, these are discussions that are not happening immediately.
+[23:33] We serve them direct.
+[23:35] And I will mention that as I look at the year, if demand, and right now the demand signals are strong, if demand continues to be strong, and we are monitoring the market price, and there is definitely at least an average price increase in the last several months across the annual market.
+[23:59] I think it's likely that prices may go up in the second half of the year.
+[24:03] Again, this is going to be a case by case discussion in our case, but that's a pricing environment as I see it right now.
+
+[24:11] And again, it's always a function of supply and demand.
+[24:13] And the unknown for me right now is the sustainability of demand.
+[24:16] So I want to see it playing out one more quarter, and then we'll figure out for the second half.
+[24:22] So high level, not immediate support on growth, both sequentially year over year on pricing.
+[24:27] Now what we have seen is just breadth of demand, right?
+[24:32] What I said before, multiple sectors, all sectors, all regions, all types of customers, small, large, and supported by a data center market where we do pretty well.
+
+[24:44] I think our portfolio is growing.
+[24:46] I believe we are fulfilling customer demand at the highest level.
+[24:53] We have no shortages, and it allows us, I believe, to over time at least take market show over there.
+[24:59] So that's, I think, what drove Q1.
+[25:03] I expect a similar behavior in Q2, and the second half of the year is still unknown.
+[25:11] We are seeing, as I mentioned before, a higher tension on the analog side.
+
+[25:17] I think we see strength over there, and I think we are unique in the setup, in the sense that we have the capacity, we have the inventory, and we are well positioned to support customers at the highest level.
+[25:28] You have a follow-up, Ross?
+[25:31] Yeah, I do.
+[25:32] One of the concerns people have, and it doesn't sound like in the strong report and guide that you guys are seeing it, but one of the concerns people had was more consumer oriented and marketing demand destruction with higher memory costs, memory availability, those sorts of things.
+[25:45] Are you seeing any evidence of that?
+[25:47] Your personal electronic segment seemed like it was well better than normal seasonal in the first quarter.
+
+[25:51] I suspect that's where it would arise if it were to arise, and so I just wondered if you guys have seen any evidence of that across your business.
+[26:00] High level, we have not.
+[26:02] Although customers are very aware of it, but I think they are doing well preparing themselves, and I'll let my comment about the personal electronics market.
+[26:11] I think it's also important to remember that fourth quarter last year was pretty easy to compare for the sequential transition for PE.
+[26:20] On a year on year, it's about flat, so again, if that was happening, I don't know if you could point to those results as evidence of that, but again, you can't rule that out.
+[26:29] Actually, I think we are moving on to our next caller.
+
+[26:32] Thank you, Ross.
+[26:33] Thanks, Ross.
+[26:35] Now, our next question is from Tori Sondberg with DFL.
+[26:40] Yes, thank you, and congrats on the strong results.
+[26:44] I believe it was something to zoom in on on data center and specifically power.
+[26:48] It's a great market, great opportunity.
+
+[26:51] It's also very competitive.
+[26:53] And I'm just wondering if you could talk a little bit more about some of the modes here as we go into the next few years that TI has.
+[27:00] I do assume your manufacturing footprint will be an important element of that, but any other caller you could add on TI's positioning in power semis, especially with data center next next few years.
+[27:12] Yeah, Tori, I think, look, power in general is very, very important to data centers, as we know, and specifically power density.
+[27:21] And we talk about both the, just think about the amount of power or the energy you have to drive into these systems.
+[27:28] You need a lot of silicon to withstand it, right?
+
+[27:30] So that implies on the importance of power electronics and TI's well positioned.
+[27:36] What I like about our position is this combination.
+[27:40] And that's, by the way, is true for every market, but in data center, I think there is a lot of attention to the data center.
+[27:50] And I think that's what I call application specific sockets.
+[27:53] You can call it stage one, stage two, the VRN, the last, you know, the V-Core that gives GPUs, you know, they need the power delivery at the highest level, very complex parts, multi-phase power delivery, et cetera.
+[28:11] And there is also a lot, a lot of general purpose parts in Iraq.
+
+[28:18] I would say tens of thousands of them, lots of different skills, and this is where our general purpose portfolio is amazing.
+[28:27] We can fulfill, I would say, almost every analog socket on these racks.
+[28:32] And I think we are very unique in that point, not only because of the breadth of the portfolio, but also because our ability to supply.
+[28:40] And I think we have seen cases where our customers need help because they had supply, you know, shortages from their other suppliers, and we come in and solve the problem.
+[28:51] I think that's part of the reason our growth has been so high.
+[28:55] I mentioned 90% over the year, and I'm very excited about the future there.
+
+[29:01] So that combination of a broad portfolio and the ability to support customers with, you know, capacity and inventory is unique.
+[29:12] The second point, which I think I've touched upon in many calls or conferences, we are also investing more and more R&D in data center,
+[29:21] and we are going to be one of the competitors on the application-specific sockets, whether it's VRN in stage two,
+[29:30] whether it's high voltage, you know, 800 to 12 or 6 at stage one, and we are well positioned there as well, both with the GAN technologies that we've invested in in the past 15 years,
+[29:46] but also now very advanced BCD nodes that not only has the capacity needed, but also it's built in North America here in Texas,
+[29:54] and customers care a lot about it.
+
+[29:56] So I think that combination of broad portfolio, both on general purpose and ASSPs, the ability to support the rec, not only the board,
+[30:06] and ability to supply at scale with the tonnage, if you will, or the volume that this market demand is very, very unique,
+[30:15] not to mention that it's come from a geopolitically dependable location.
+[30:20] So all of that is the unique combination, and that's part of what we like to talk about our competitive advantages.
+[30:25] Maybe one of them is easy to replicate, but trying to replicate all, in this case all three is not easy,
+[30:32] and this is why I'm very encouraged about our opportunity to continue to grow in this market.
+
+[30:38] I will just add that our application-specific sockets are seeing momentum as well on the design interface right now,
+[30:44] and I do expect that they'll kick in more in the second half of the year and into 2027,
+[30:49] so my bar for the team and my expectations are high here.
+[30:54] Thanks, Joy. Do you have a follow-up?
+[30:56] Yeah, that's great, Paul. Thank you, Harvey, for that. And then there's my follow-up.
+[31:00] Just thinking about, obviously now we're in another new up cycle in analog,
+
+[31:06] and just comparing this to the last one, I mean the last one capacity got tight pretty quickly,
+[31:10] and Lee started extending pretty quickly. I know it's a different cycle, right?
+[31:14] But I'm just curious now that you've made all the capex investments, you've got the big manufacturing footprint.
+[31:21] Are you starting to see share gains sort of pop up in your design wins,
+[31:26] since you are in much better position with capacity and now we're suspecting?
+[31:31] I believe we are, yes, and we have gained share, of course, in analog in 2025,
+
+[31:39] but I think we have a lot of room to go. We are still below previous peaks,
+[31:43] and to me the question, Tori, can we do it quickly,
+[31:47] meaning does the demand, or does the strong demand continue, or it's going to take us more time?
+[31:55] From our perspective, we hope the demand continues. We have the answer to customers,
+[31:59] and in many cases we are unique. I gave a minute ago the data center example,
+[32:04] but we are starting to see other areas where our supply, our availability,
+
+[32:09] is allowing us to win back market share.
+[32:14] So I mentioned pricing before, our pricing is very competitive,
+[32:19] I think we have an opportunity there as well for the second half of the year.
+[32:22] So it all depends on the sustainability of the demand. I think Vivek mentioned before,
+[32:27] we had a very unique 2025, but it started strong and then it took a breather.
+[32:34] I want to see it playing out in 2026. Obviously, if it continues, our opportunity just grows.
+
+[32:41] May I just add that we spent the last several years preparing with capacity and inventories you know,
+[32:46] and our lead times have been stable over the last several years,
+[32:50] and especially last several months. Really happy with the delivery performance.
+[32:54] And so as we look at what the future holds here,
+[32:57] we want to make sure we can service our customers needs, also their growth as well,
+[33:01] across a broad customer base, and we're really happy with the systems we have in place to allow that.
+
+[33:06] All right, move on to our next caller.
+[33:08] Our next question is from Matthew Pritzka with Cantor Fitzgerald.
+[33:15] Hey guys, thanks for taking the question.
+[33:18] So you previously talked about spending about two to three billion CAPEX in 2026.
+[33:23] First, is that still the right number? And then as we think about the modular buildouts within its ongoing recovery,
+[33:29] can you maybe help walk us through when you would need to start to add the incremental equipment
+
+[33:34] and how you're thinking of strategically about your capacity today as we start to see some boundary capacity,
+[33:40] because the mature nodes are now two to two boundary pricing increases?
+[33:44] Yes, I'll start. First, the answer to your question is yes.
+[33:48] We're looking at two to three billion dollars of CAPEX for this year.
+[33:53] And in that number, there's capacity for what we call phase three, which is incremental capacity that may you're alluding to.
+[34:02] So that's both for the in the fab side, but also in the assembly test assembly test side.
+
+[34:08] And that is where a growing proportion of our CAPEX is going to in the assembly test side to address growth.
+[34:17] Beyond that, what I would tell you for CAPEX beyond 26 is think of the 1.2 times rate that we have talked about before.
+[34:27] For the long term needs of the long term CAPEX intensity.
+[34:31] So for example, if you to make a number easy 5% growth would translate into 6% CAPEX as percent of revenue.
+[34:39] And that's how you would want to model it.
+[34:41] Matthew, just one more point. I think Rafael touched upon it. So again, two to three very valid.
+
+[34:46] But remember, we gave a framework that I still very valid.
+[34:50] I think it was a couple of years back during capital management on kind of revenue scenarios and CAPEX.
+[34:56] I think these are also very, very valid. I will say that right, Rafael alluded to, we are seeing right now,
+[35:01] even at the midpoint of the second quarter. And again, I want to see how it plays out.
+[35:05] But we're looking at this, I don't know, 17, 18% growth year for the first half of the year.
+[35:10] That's stronger than last year. So of course, we want to be prepared in case it continues.
+
+[35:15] No one tells us what the future will be. We just have to support a range of scenarios.
+[35:19] So in that sense, we are taking the opportunity to divert some of the,
+[35:22] because we have enough that the thing about wafer capacity, I think we are well positioned without 300 millimeter wafer fabs.
+[35:29] We have the brick and mortar. We have the installed equipment. But on the 80th side, I think there is an opportunity.
+[35:34] And we are very happy that we've internalized our supply because we are seeing more and more button necks in the market.
+[35:39] They're popping up. And the fact that we control our destiny here and we can move more stuff internally is a benefit.
+
+[35:45] So some of these 2.3 billion dollar of cap bags that you are seeing this year, some of that is going to support a faster internalization of our back end into our own assembly and test.
+[35:57] And that allows us to support customers at a higher level.
+[36:01] Give a follow-up, Matt.
+[36:03] Yeah, it's awful. Thanks. I guess the follow-up is there any update to your messaging around depreciation expectations first three months ago?
+[36:10] And then maybe how to think about timing of when CI will receive the remaining CHIPSAC direct funding?
+[36:17] Thanks.
+
+[36:18] Yeah, so I'll take that. Not change to the expectations for this year, 2.2 to 2.4.
+[36:25] And then for 2027, continue upward pressure, but likely at a slower rate.
+[36:34] On the CHIPSAC, first I will tell you the more interesting one is ITC. We've been talking about that one.
+[36:39] That's the one that's going to give us more money for the long term.
+[36:42] And that's a 35% of qualified manufacturing investments.
+[36:46] We have been getting that ITC and then we'll continue to get ITC.
+
+[36:51] But on the direct funding, we just received over $500 million.
+[36:56] In total, what we received in fourth quarter is $630 million out of the up to $1.6 billion of direct funding.
+[37:05] And the remaining, we should get that over the coming years as we continue fulfilling the various milestones stipulated in the contract.
+[37:14] Thanks, Matt. Move on to our next card, please.
+[37:17] Now, our next question is from Joe Klutroce with Wells Fargo.
+[37:23] Yeah, thanks for taking the question.
+
+[37:25] I was curious if you could maybe just help us understand, you know, given the resegmentation of revenue, especially on the industrial side, you know, what is normal seasonality now for the June quarter?
+[37:38] So if you could probably look back and model out what our revenue is done over history and I don't have a buy-in market, you know, specific, you know, what the percentage is.
+[37:47] But overall, what you'll typically see is the second and third quarter or stronger quarters and fourth and first are typically lower compared to second and third.
+[37:55] You have a follow-up?
+[37:56] I'll just add on that, but just in seasonality, look, our guide is, I would describe it as, you know, a little bit above seasonality, right?
+[38:04] I think we have guided that, what, 8% sequential?
+
+[38:06] So that's a little bit.
+[38:08] And again, the combination of the market is changing.
+[38:10] Data center, as we know, is now a bigger part of our revenue.
+[38:15] But overall, my view on 2Q is it's a slightly above seasonal guide.
+[38:20] Hopefully that helps.
+[38:22] Jody, you have a follow-up?
+
+[38:23] Yeah, the follow-up.
+[38:25] You know, a really strong quarter and the first quarter of the gate for free cash flow and just even cash flow from operations.
+[38:32] Is there any update on just how to think about free cash flow per share for this year?
+[38:38] Any change there?
+[38:41] Yeah, I think I mentioned, Joe, during the capital management call that as long as revenue is growing, you know, mid to high single digits, that $8 free cash flow per share is very probably, highly profitable.
+[38:57] Okay.
+
+[38:58] Now, as I said before, you know, first half of the year at the midpoint is somewhere between 15 and 20% growth, right?
+[39:05] So there's definitely an upside.
+[39:07] I'm not going to say what the number is, but go back to our framework that we provided back in the capital management call.
+[39:15] You'll see, I think at 20 billion, we had an 8 to 9 and at 22, we had a 9 to 10.
+[39:22] So it gives you kind of how every extra billion dollars of revenue is doing, what are we held free cash flow per share?
+[39:32] It gives you a very high level of framework.
+
+[39:34] But right now, assuming we don't have another full start, I think there is a very high, very likely we will be that will easily be that $8 free cash flow per share for 2026.
+[39:45] Again, we need to see how the yield continues, but I would say the probability is probably high.
+[39:51] Thank you, Joe. Move on to our last caller.
+[39:57] Our last question is from Chris Kaysa with Wolf Research.
+[40:02] Yes, thank you. First question will be about fab loadings.
+[40:06] And given what appears to be a strong start to the year, what are your plans for fab loadings?
+
+[40:13] And what do you expect to do with inventory as we go through the year?
+[40:19] I know you've been building inventory in order to be responsive to customers.
+[40:23] You expect to keep inventory of these levels, or might that dip a bit?
+[40:29] Yes, so we feel very comfortable with our position with both capacity and inventory.
+[40:36] And inventory is there to support customer satisfaction, keep leads on short and stable.
+[40:44] So we'll continue to do that and we'll adjust loadings throughout the quarter to handle whatever comes at us in a number of scenarios in this upturn.
+
+[40:57] Yes, we had on that, Chris, we talked about all these phases of our investment, phase one, phase two, phase three.
+[41:03] So right now the surge of demand is in analog, right?
+[41:06] And in analog, we are at phase three. So we are modulating start. We have the capacity.
+[41:12] We are modulating start real time. We are just looking at the daily consumption, if you will.
+[41:16] And this is very rough. I'll guide the team of to start way first.
+[41:20] So of course, we have the opportunity. Now, in terms of inventory, it all depends on the rate of consumption.
+
+[41:25] Meaning if demand continues to be very, very strong, we'll continue to defeat inventory.
+[41:29] Obviously, it takes time to build this part, right? Some of the parts get built in three months, but some of them can take six to nine months.
+[41:36] So overall, that's why we have inventory. Inventory allows us a quick surge of customer support.
+[41:42] If they have a strong demand, that's what happened in Q1.
+[41:46] We have a strong guide for Q2 in the midpoint, it's 8% sequential. It's above season, as I mentioned.
+[41:51] So I think inventory will play a role there. But then the machine catches up.
+
+[41:56] So to me, all these questions are related to what the second half of the year of demand will do.
+[42:02] And based on the macro environment and based on what happened last year in terms of the market's logitary, as I called it before,
+[42:09] I want to see it play out. The good news is that we are prepared for every scenario that will be presented to us.
+[42:19] Chris, you're up. Yeah, let me just add a taking a longer picture and just the next quarter, when you think of our range of inventory days, 150 to 250,
+[42:31] during an upturn, we should be draining that number.
+[42:36] Right now we're at 209, it should shift drift towards the lower end.
+
+[42:42] And then during the downturn, that's when we build inventory and then it moves upward, right?
+[42:48] So at a new level, in an ideal scenario, that's what you would see in terms of days of inventory.
+[42:55] Chris, do you have a follow-up?
+[42:57] I do. And for my follow-up, I want to return to some of your comments about pricing.
+[43:02] And we've heard from some others in the space who were a little more explicit on what they were doing with pricing.
+[43:12] Is TI simply following the market right now on what's happened with your comments of potentially some better pricing in the second half?
+
+[43:22] And then as a follow-on to that, to what extent are your customers, what percentage of your customers would be on sort of annual price contracts such that if there was a reset in pricing,
+[43:37] that would more likely happen toward the end of the year and to next year?
+[43:41] Yeah, I think Chris, I think it's a good question and I think we touched most of it.
+[43:46] Just to clarify, TI follows yes because we want to see sustainability, right?
+[43:52] We don't want to be changing prices every quarter.
+[43:55] Of course prices go up and down every quarter, it depends on their portfolio and where customers need more demand and more supplies, et cetera.
+
+[44:03] Let's look at 2025. In 2025, our pricing behaved as we expected.
+[44:08] It was down this low single-digit number. That was the actual number in 2025.
+[44:13] In the first quarter of 2016, it was stable. It was a good start of the year.
+[44:16] I think if demand continues to behave like that, and we see stronger and stronger requests from our customers, that opens up a discussion.
+[44:23] And that's what we are going through right now.
+[44:26] We are definitely seeing, if you go back to the supply agreement or price agreement we have done, they were agreed upon.
+
+[44:32] Last year, somewhere in Q4. The demand environment was very different then.
+[44:37] We are seeing higher numbers in terms of demand.
+[44:41] We will have to invest in our capacity. I mentioned back-end capacity investment to support all of that.
+[44:47] There is a tightness on the offset world. So of course, it's a discussion.
+[44:51] And I think customers are very thoughtful and most important for them is not to have a 30 cents part stopping their production.
+[45:00] They need to have high level of customer support. That's what we are offering.
+
+[45:05] Not only in supporting the part we promised them, but also sometimes solving problems they have with other suppliers.
+[45:13] That's the opportunity we have in 2026. But again, all depends on the sustainability of the demand signal.
+[45:20] We will continue to watch it. We are discussing with our customers as we speak.
+[45:25] And we will report back during the July call.
+[45:28] Thanks, Chris. Have you want to close us out?
+[45:31] Yes. So let me wrap up with what we've said previously. At our core, we are engineers and technology is a foundation of our company.
+
+[45:38] But ultimately our objective and the best metric to measure progress and generate value to owners is the long-term growth of free customer share.
+[45:46] Thank you all and have a good evening.
+[45:49] This concludes today's conference. You may disconnect your lines at this time.
+[45:54] Thank you again for your participation.
+[45:57] Thank you.

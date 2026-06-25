@@ -1,0 +1,3514 @@
+WER: 40.5%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 10914
+Whisper word count: 8410
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+lseg streetevents edited transcript two thousand three hundred and thirtytw q1
+two thousand and twentysix taiwan semiconductor manufacturing co ltd earnings
+call chinese english event datetime april sixteen two thousand and twentysix
+six00am gmt lseg streetevents wwwlsegcom contact us ©two thousand and twentysix
+lseg all rights reserved republication or redistribution of lseg content
+including by framing or similar means is prohibited without the prior written
+consent of lseg lseg and the lseg logo are registered trademarks of lseg and its
+affiliated companies corporate participants jeff su taiwan semiconductor
+manufacturing co ltd director investor relations wendell huang taiwan
+semiconductor manufacturing co ltd senior vice president and chief financial
+officer spokesperson cc wei taiwan semiconductor manufacturing co ltd chairman
+chief executive officer conference call participants haas liu bofa securities
+analyst gokul hariharan jpmorgan securities analyst charlie chan morgan stanl
+
+WHISPER (first 1000 chars):
+大家好我是台積電法人關係處的蘇制凱 歡迎您參加台積公司2026年第一季的法人說明會 由於本法說會是向全球投資人同時連線轉播 所以我們會全程使用英文請您見諒
+好歡迎您參加第一季的法人關係處的蘇制凱 這是jeff sue的tsmc director of investor relations
+您的確保是由於本法說會是向全球投資人同時連線轉播 如果您有關於本法說會是向全球投資人同時連線轉播 如果您有關於本法說會是向全球投資人同時連線轉播
+這次的訪問會由於本法說會是向全球投資人同時連線轉播 第一季的法人關係處的蘇制凱 mr wendell huang will summarize our
+operations in the first quarter two thousand and twentysix followed by our
+guidance for the second quarter two thousand and twentysix afterwards mr huang
+and tsmcs chairman and ceo drcc wei will jointly provide the companys key
+messages then we will open the line for the qa session as usual i would like to
+remind everybody that todays discussions may contain forward looking statements
+that are subject to significant risks and uncertainties which could cause actual
+results to differ materially from those contained in the forward looking
+statements so please refer to the safe harbor modestate appears in our press
+release and now i would like to turn the call over to tsmcs cfo mr wendell huang
+for th
+
+ALIGNED DIFFERENCES (all 862, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: lseg streetevents edited transcript two thousand three hundred and
+  thirtytw q1 two thousand and twentysix taiwan semiconductor manufacturing co
+  ltd earnings call chinese english event datetime april sixteen two thousand
+  and twentysix six00am gmt lseg streetevents wwwlsegcom contact us ©two
+  thousand and twentysix lseg all rights reserved republication or
+  redistribution of lseg content including by framing or similar means is
+  prohibited without the prior written consent of lseg lseg and the lseg logo
+  are registered trademarks of lseg and its affiliated companies corporate
+  participants jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations wendell huang taiwan semiconductor manufacturing co ltd
+  senior vice president and chief financial officer spokesperson cc wei taiwan
+  semiconductor manufacturing co ltd chairman chief executive officer conference
+  call participants haas liu bofa securities analyst gokul hariharan jpmorgan
+  securities analyst charlie chan morgan stanley analyst sunny lin ubs
+  securities analyst jim fontanelli arete research llc analyst bruce lu goldman
+  sachs analyst laura chen citigroup analyst charles shi needham company llc
+  analyst presentation jeff su taiwan semiconductor manufacturing co ltd
+  director investor relations spoken in foreign language good afternoon everyone
+  and welcome to tsmcs first quarter two thousand and twentysix earnings
+  conference call this is jeff su tsmcs
+  WHISPER:  大家好我是台積電法人關係處的蘇制凱 歡迎您參加台積公司2026年第一季的法人說明會 由於本法說會是向全球投資人同時連線轉播
+  所以我們會全程使用英文請您見諒 好歡迎您參加第一季的法人關係處的蘇制凱 這是jeff sue的tsmc
+
+[2]
+  OFFICIAL: and your host for today tsmc is hosting our earnings conference call
+  via live audio webcast through the companys website at wwwtsmccom where you
+  can also download the earnings release materials if youre joining us through
+  the conference call your dialin lines are in listenonly mode the format for
+  todays event will be as follows first tsmcs senior vice president and cfo
+  WHISPER:  您的確保是由於本法說會是向全球投資人同時連線轉播 如果您有關於本法說會是向全球投資人同時連線轉播
+  如果您有關於本法說會是向全球投資人同時連線轉播 這次的訪問會由於本法說會是向全球投資人同時連線轉播 第一季的法人關係處的蘇制凱
+
+[3]
+  OFFICIAL: dr cc
+  WHISPER:  drcc
+
+[4]
+  OFFICIAL: forwardlooking
+  WHISPER:  forward looking
+
+[5]
+  OFFICIAL: will
+  WHISPER:  could
+
+[6]
+  OFFICIAL: forwardlooking
+  WHISPER:  forward looking
+
+[7]
+  OFFICIAL: notice that
+  WHISPER:  modestate
+
+[8]
+  OFFICIAL: wendell huang taiwan semiconductor manufacturing co ltd senior vice
+  president and chief financial officer spokesperson
+
+[9]
+  OFFICIAL: two lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english
+
+[10]
+  OFFICIAL: our leadingedge
+  WHISPER:  leading edge
+
+[11]
+  OFFICIAL: firstquarter
+  WHISPER:  first quarter
+
+[12]
+  OFFICIAL: higher
+  WHISPER:  high
+
+[13]
+  OFFICIAL: foreign
+  WHISPER:  for
+
+[14]
+  OFFICIAL: twd22eight
+  WHISPER:  twentytwo a and t
+
+[15]
+  OFFICIAL: threenanometer
+  WHISPER:  three point nine meter
+
+[16]
+  OFFICIAL: fivenanometer
+  WHISPER:  five point nine meter
+
+[17]
+  OFFICIAL: sevennanometer
+  WHISPER:  seven point nine meter
+
+[18]
+  OFFICIAL: sevennanometer
+  WHISPER:  seven point nine meter
+
+[19]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[20]
+  OFFICIAL: twd3four
+  WHISPER:  three point four
+
+[21]
+  WHISPER:  nt
+
+[22]
+  OFFICIAL: usd106
+  WHISPER:  one hundred and six
+
+[23]
+  WHISPER:  us dollars
+
+[24]
+  OFFICIAL: liabilities
+  WHISPER:  liability
+
+[25]
+  OFFICIAL: twd256
+  WHISPER:  two hundred and fiftysix
+
+[26]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  nt quarter over quarter
+
+[27]
+  OFFICIAL: twd129
+  WHISPER:  one hundred and twentynine
+
+[28]
+  OFFICIAL: accrued
+  WHISPER:  accrual
+
+[29]
+  OFFICIAL: twd82
+  WHISPER:  eightytwo
+
+[30]
+  OFFICIAL: payable
+  WHISPER:  repayable
+
+[31]
+  OFFICIAL: rampup
+  WHISPER:  ramp up
+
+[32]
+  OFFICIAL: twonanometer
+  WHISPER:  two nanometer
+
+[33]
+  OFFICIAL: threenanometer
+  WHISPER:  three nanometer
+
+[34]
+  OFFICIAL: capex
+  WHISPER:  kpacs
+
+[35]
+  OFFICIAL: twd699
+  WHISPER:  six hundred and ninetynine
+
+[36]
+  WHISPER:  nt
+
+[37]
+  OFFICIAL: twd351
+  WHISPER:  three hundred and fiftyone
+
+[38]
+  OFFICIAL: capex
+  WHISPER:  kpacs
+
+[39]
+  OFFICIAL: twd130
+  WHISPER:  one hundred and thirty
+
+[40]
+  OFFICIAL: twd268
+  WHISPER:  two hundred and sixtyeight
+
+[41]
+  WHISPER:  nt
+
+[42]
+  OFFICIAL: twd3
+  WHISPER:  three
+
+[43]
+  OFFICIAL: expenditures totaled
+  WHISPER:  expenditure total
+
+[44]
+  OFFICIAL: usd39zero
+  WHISPER:  thirtynine
+
+[45]
+  OFFICIAL: usd40two
+  WHISPER:  forty point two
+
+[46]
+  WHISPER:  us dollars
+
+[47]
+  OFFICIAL: usd1
+  WHISPER:  one us dollar
+
+[48]
+  OFFICIAL: twd31seven
+  WHISPER:  thirtyone point seven nt
+
+[49]
+  OFFICIAL: the full year
+  WHISPER:  a fullyear
+
+[50]
+  OFFICIAL: our
+  WHISPER:  or
+
+[51]
+  OFFICIAL: foreign exchange
+  WHISPER:  forrings change
+
+[52]
+  OFFICIAL: higherthanexpected
+  WHISPER:  higher than expected
+
+[53]
+  OFFICIAL: continued
+  WHISPER:  continue
+
+[54]
+  OFFICIAL: dilution
+  WHISPER:  delusion
+
+[55]
+  OFFICIAL: fabs
+  WHISPER:  fape
+
+[56]
+  OFFICIAL: rampup
+  WHISPER:  ramp up
+
+[57]
+  OFFICIAL: twonanometer
+  WHISPER:  two nanometer
+
+[58]
+  OFFICIAL: three lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english
+
+[59]
+  OFFICIAL: rampup
+  WHISPER:  ramp up
+
+[60]
+  OFFICIAL: fabs
+  WHISPER:  fape
+
+[61]
+  OFFICIAL: to
+  WHISPER:  or
+
+[62]
+  OFFICIAL: acrossnode capacity
+  WHISPER:  acrossnocapacity
+
+[63]
+  OFFICIAL: fab
+  WHISPER:  fape
+
+[64]
+  WHISPER:  of
+
+[65]
+  OFFICIAL: tsmc
+  WHISPER:  esmc
+
+[66]
+  OFFICIAL: materials
+  WHISPER:  material
+
+[67]
+  OFFICIAL: tsmcs
+  WHISPER:  esmc
+
+[68]
+  OFFICIAL: tsmc worked
+  WHISPER:  esmc work
+
+[69]
+  OFFICIAL: taipower
+  WHISPER:  tie power
+
+[70]
+  OFFICIAL: sourcing to
+  WHISPER:  sources into
+
+[71]
+  OFFICIAL: tsmc
+  WHISPER:  esmc
+
+[72]
+  OFFICIAL: structural
+  WHISPER:  structure
+
+[73]
+  OFFICIAL: usd52
+  WHISPER:  fiftytwo and fiftysix
+
+[74]
+  OFFICIAL: and usd56 billion
+  WHISPER:  us dollars
+
+[75]
+  OFFICIAL: capex
+  WHISPER:  kpac
+
+[76]
+  OFFICIAL: to
+  WHISPER:  through
+
+[77]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[78]
+  OFFICIAL: wendell
+  WHISPER:  window
+
+[79]
+  OFFICIAL: usd35nine
+  WHISPER:  usstarter thirtyfive point nine
+
+[80]
+  OFFICIAL: us dollar
+  WHISPER:  usstarter
+
+[81]
+  WHISPER:  of
+
+[82]
+  OFFICIAL: pricesensitive end
+  WHISPER:  price sensitive and
+
+[83]
+  OFFICIAL: four lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english
+
+[84]
+  OFFICIAL: brings
+  WHISPER:  bring
+
+[85]
+  OFFICIAL: macroeconomic
+  WHISPER:  medical economic
+
+[86]
+  OFFICIAL: prudent
+  WHISPER:  important
+
+[87]
+  OFFICIAL: continues
+  WHISPER:  continued
+
+[88]
+  OFFICIAL: query mode
+  WHISPER:  clear remote
+
+[89]
+  OFFICIAL: agentic
+  WHISPER:  authentic
+
+[90]
+  OFFICIAL: the command and action
+  WHISPER:  commandinaction
+
+[91]
+  OFFICIAL: tokens
+  WHISPER:  token
+
+[92]
+  OFFICIAL: leading edge
+  WHISPER:  leadingedge
+
+[93]
+  OFFICIAL: customers’
+
+[94]
+  OFFICIAL: cloud
+  WHISPER:  crowd
+
+[95]
+  OFFICIAL: their
+  WHISPER:  a
+
+[96]
+  OFFICIAL: thus our conviction
+  WHISPER:  this commission
+
+[97]
+  OFFICIAL: multiyear ai megatrend remain
+  WHISPER:  march high year aimaker trend remains
+
+[98]
+  OFFICIAL: broader
+  WHISPER:  broad
+
+[99]
+  OFFICIAL: fullyear
+  WHISPER:  full year
+
+[100]
+  OFFICIAL: us dollar
+  WHISPER:  usstarter
+
+[101]
+  OFFICIAL: fast
+  WHISPER:  first
+
+[102]
+  OFFICIAL: multiple
+  WHISPER:  multiphase
+
+[103]
+  OFFICIAL: hsinchu
+  WHISPER:  sinzu
+
+[104]
+  OFFICIAL: kaohsiung
+  WHISPER:  gao xiong
+
+[105]
+  WHISPER:  a nut
+
+[106]
+  OFFICIAL: a
+  WHISPER:  one
+
+[107]
+  OFFICIAL: its targeted
+  WHISPER:  target
+
+[108]
+  OFFICIAL: foundry
+  WHISPER:  boundary
+
+[109]
+  OFFICIAL: and
+  WHISPER:  in
+
+[110]
+  OFFICIAL: meet
+  WHISPER:  mean
+
+[111]
+  OFFICIAL: applications
+  WHISPER:  application
+
+[112]
+  OFFICIAL: capex
+  WHISPER:  kpx
+
+[113]
+  OFFICIAL: thus
+
+[114]
+  OFFICIAL: threenanometer
+  WHISPER:  threeneil meter
+
+[115]
+  OFFICIAL: hbm base dies
+  WHISPER:  hbnbasedsize
+
+[116]
+  OFFICIAL: threenanometer fab
+  WHISPER:  threeneil meter
+
+[117]
+  OFFICIAL: gigafab
+  WHISPER:  gigafile
+
+[118]
+  OFFICIAL: tainan science park volume
+  WHISPER:  thailands size part voting
+
+[119]
+  OFFICIAL: arizona
+  WHISPER:  our resume
+
+[120]
+  OFFICIAL: fab
+  WHISPER:  file
+
+[121]
+  OFFICIAL: threenanometer
+  WHISPER:  threeneil meter
+
+[122]
+  OFFICIAL: volume
+  WHISPER:  voting
+
+[123]
+  OFFICIAL: begin in
+  WHISPER:  be given
+
+[124]
+  OFFICIAL: threenanometer technology
+  WHISPER:  threeneil meter technologies
+
+[125]
+  OFFICIAL: fab and volume
+  WHISPER:  file involving
+
+[126]
+  OFFICIAL: fabs
+  WHISPER:  files
+
+[127]
+  OFFICIAL: fivenanometer
+  WHISPER:  five nanometer
+
+[128]
+  OFFICIAL: threenanometer
+  WHISPER:  three nanometer
+
+[129]
+  OFFICIAL: tainan
+  WHISPER:  taiwan
+
+[130]
+  OFFICIAL: fab
+  WHISPER:  file
+
+[131]
+  OFFICIAL: includes flexible
+  WHISPER:  include inflexible
+
+[132]
+  OFFICIAL: n5
+  WHISPER:  and five
+
+[133]
+  OFFICIAL: thus
+
+[134]
+  OFFICIAL: pickandchoose
+  WHISPER:  pick and choose
+
+[135]
+  OFFICIAL: favorites
+  WHISPER:  favories
+
+[136]
+  OFFICIAL: maturenode
+  WHISPER:  mature node
+
+[137]
+  OFFICIAL: tsmc’s strategy at
+  WHISPER:  smcs strategies and
+
+[138]
+  OFFICIAL: high yield
+  WHISPER:  higheal
+
+[139]
+  OFFICIAL: nominal
+  WHISPER:  normal
+
+[140]
+  OFFICIAL: jasm fab one
+  WHISPER:  jasm51
+
+[141]
+  OFFICIAL: cmos image
+  WHISPER:  similar
+
+[142]
+  OFFICIAL: application
+  WHISPER:  applications
+
+[143]
+  OFFICIAL: esmc
+  WHISPER:  essmc
+
+[144]
+  OFFICIAL: a plan
+  WHISPER:  planned
+
+[145]
+  OFFICIAL: fab two
+  WHISPER:  fet2
+
+[146]
+  OFFICIAL: a sixinch fab
+  WHISPER:  sixteenfet
+
+[147]
+  OFFICIAL: fab five
+  WHISPER:  fet5
+
+[148]
+  OFFICIAL: eightinch fab focusing
+  WHISPER:  eightfet focused
+
+[149]
+  OFFICIAL: gallium nitride
+  WHISPER:  gotten nitrate
+
+[150]
+  OFFICIAL: use available
+  WHISPER:  used a valuable
+
+[151]
+  OFFICIAL: fab two
+  WHISPER:  fet2
+
+[152]
+  OFFICIAL: fab five
+  WHISPER:  fet5
+
+[153]
+  OFFICIAL: mix within
+  WHISPER:  capacity means which in
+
+[154]
+  OFFICIAL: focus
+  WHISPER:  focusing
+
+[155]
+  OFFICIAL: valueadded and
+  WHISPER:  value added in
+
+[156]
+  OFFICIAL: segments by ensuring
+  WHISPER:  segment in short
+
+[157]
+  OFFICIAL: the
+  WHISPER:  a
+
+[158]
+  OFFICIAL: five lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english
+
+[159]
+  OFFICIAL: secondgeneration
+  WHISPER:  second generation
+
+[160]
+  OFFICIAL: transistor
+  WHISPER:  soandsister
+
+[161]
+  OFFICIAL: will deliver
+  WHISPER:  was delivered
+
+[162]
+  OFFICIAL: fullnode
+  WHISPER:  four node
+
+[163]
+  WHISPER:  a cross to
+
+[164]
+  OFFICIAL: insatiable
+  WHISPER:  essential
+
+[165]
+  OFFICIAL: compared with n2
+  WHISPER:  in p10 and p10
+
+[166]
+  OFFICIAL: ten to fifteen
+  WHISPER:  tenfifteen
+
+[167]
+  OFFICIAL: for twentyfive to thirty
+  WHISPER:  or twentyfivethirty
+
+[168]
+  OFFICIAL: chip
+  WHISPER:  shift
+
+[169]
+  OFFICIAL: progressing well
+  WHISPER:  progress in oil
+
+[170]
+  OFFICIAL: volume
+  WHISPER:  voting
+
+[171]
+  OFFICIAL: twentyeight
+  WHISPER:  twentyonetwentyeight
+
+[172]
+  OFFICIAL: derivatives
+  WHISPER:  derivative
+
+[173]
+  OFFICIAL: well
+  WHISPER:  were
+
+[174]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[175]
+  WHISPER:  before we begin the question and answer session i would like to
+  remind everybody to please limit your
+
+[176]
+  OFFICIAL: and
+  WHISPER:  to two at a time to allow all the participants an opportunity to ask
+  their questions should you wish to raise your question in chinese i will
+  translate it to english before our management
+
+[177]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations event instructions
+  WHISPER:  your question for those of you on the call if you would like to ask
+  a question please press the star then one on your telephone keypad now if at
+  any time youd like to remove yourself from the questioning queue please press
+  star two
+
+[178]
+  OFFICIAL: operator haas liu bank of
+  WHISPER:  the first one to ask questions has been from vancouver
+
+[179]
+  OFFICIAL: haas liu bofa securities analyst yes
+
+[180]
+  OFFICIAL: jeff
+  WHISPER:  jeb
+
+[181]
+  WHISPER:  and thanks for taking my questions
+
+[182]
+  OFFICIAL: threenanometer gross margin outlook
+  WHISPER:  threemillimeter growth margins ill look
+
+[183]
+  OFFICIAL: corporate
+  WHISPER:  appropriate
+
+[184]
+  OFFICIAL: gross
+  WHISPER:  growth
+
+[185]
+  OFFICIAL: of
+
+[186]
+  OFFICIAL: which is
+  WHISPER:  we should
+
+[187]
+  OFFICIAL: at midsixty percentage
+  WHISPER:  add sixty to
+
+[188]
+  OFFICIAL: we
+  WHISPER:  well
+
+[189]
+  OFFICIAL: is in
+  WHISPER:  using
+
+[190]
+  OFFICIAL: undersupply backed
+  WHISPER:  under supply and back
+
+[191]
+  OFFICIAL: ai demand
+  WHISPER:  aid man
+
+[192]
+  OFFICIAL: in
+  WHISPER:  and
+
+[193]
+  OFFICIAL: two
+  WHISPER:  one
+
+[194]
+  OFFICIAL: on
+
+[195]
+  OFFICIAL: on threenanometer
+  WHISPER:  threemillimeter
+
+[196]
+  OFFICIAL: is
+  WHISPER:  its
+
+[197]
+  OFFICIAL: ramp
+  WHISPER:  run
+
+[198]
+  OFFICIAL: fourth quarter
+  WHISPER:  fort corridor
+
+[199]
+  OFFICIAL: thousand
+  WHISPER:  hundred
+
+[200]
+  OFFICIAL: utilization
+  WHISPER:  use i think
+
+[201]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[202]
+  OFFICIAL: of bank
+  WHISPER:  a think
+
+[203]
+  OFFICIAL: as cc
+  WHISPER:  scc
+
+[204]
+  OFFICIAL: threenanometer
+  WHISPER:  three nanometer
+
+[205]
+  OFFICIAL: nanometers
+  WHISPER:  nanometer
+
+[206]
+  OFFICIAL: this
+  WHISPER:  his
+
+[207]
+  OFFICIAL: six lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without
+  WHISPER:  who are
+
+[208]
+  OFFICIAL: prior written consent of lseg lseg and the lseg logo are registered
+  trademarks of lseg and its affiliated companies april sixteen two thousand and
+  twentysix six00am two thousand three hundred and thirtytw q1 two thousand and
+  twentysix taiwan semiconductor manufacturing co ltd earnings call chinese
+  english cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer well let me answer
+  WHISPER:  answers
+
+[209]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[210]
+  OFFICIAL: did
+  WHISPER:  is
+
+[211]
+  OFFICIAL: haas liu bofa securities analyst
+
+[212]
+  OFFICIAL: the second part is probably jeff su taiwan semiconductor
+  manufacturing co ltd director investor relations and
+  WHISPER:  thats
+
+[213]
+  OFFICIAL: this
+  WHISPER:  his
+
+[214]
+  OFFICIAL: threenanometer
+  WHISPER:  three nanometer
+
+[215]
+  OFFICIAL: threenanometer
+  WHISPER:  three nanometer
+
+[216]
+  OFFICIAL: crossover
+  WHISPER:  cross over
+
+[217]
+  OFFICIAL: wendell huang taiwan semiconductor manufacturing co ltd senior vice
+  president and chief financial officer spokesperson
+
+[218]
+  OFFICIAL: wendell
+  WHISPER:  random
+
+[219]
+  OFFICIAL: n3
+  WHISPER:  m3
+
+[220]
+  OFFICIAL: full
+  WHISPER:  fully
+
+[221]
+  OFFICIAL: nodes
+  WHISPER:  note
+
+[222]
+  OFFICIAL: margins
+  WHISPER:  margin
+
+[223]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[224]
+  OFFICIAL: haas
+
+[225]
+  OFFICIAL: a
+
+[226]
+  OFFICIAL: question
+  WHISPER:  questions
+
+[227]
+  OFFICIAL: haas liu bofa securities analyst
+  WHISPER:  yes
+
+[228]
+  OFFICIAL: jeff
+
+[229]
+  OFFICIAL: on
+
+[230]
+  OFFICIAL: capex
+  WHISPER:  key packs
+
+[231]
+  OFFICIAL: revised
+  WHISPER:  revise
+
+[232]
+  OFFICIAL: usd 52billion
+  WHISPER:  fiftytwo
+
+[233]
+  OFFICIAL: usd56
+  WHISPER:  fiftysix
+
+[234]
+  WHISPER:  years others
+
+[235]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[236]
+  OFFICIAL: haas
+  WHISPER:  ha
+
+[237]
+  OFFICIAL: billion
+
+[238]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[239]
+  OFFICIAL: this is cc wei let
+  WHISPER:  dccc where the
+
+[240]
+  OFFICIAL: hpc
+  WHISPER:  spc
+
+[241]
+  OFFICIAL: pull in
+  WHISPER:  pulling
+
+[242]
+  OFFICIAL: supply is
+  WHISPER:  supplies are
+
+[243]
+  WHISPER:  the
+
+[244]
+  OFFICIAL: continues
+  WHISPER:  is continue
+
+[245]
+  OFFICIAL: seven lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english jeff
+  su taiwan semiconductor manufacturing co ltd director investor relations
+
+[246]
+  OFFICIAL: haas
+  WHISPER:  ha
+
+[247]
+  OFFICIAL: haas liu bofa securities analyst
+
+[248]
+  OFFICIAL: ill
+  WHISPER:  dccc i will
+
+[249]
+  OFFICIAL: queue jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations
+  WHISPER:  day
+
+[250]
+  OFFICIAL: operator gokul hariharan jp morgan gokul hariharan
+  WHISPER:  next one the last question goku hari hari
+
+[251]
+  OFFICIAL: securities analyst
+
+[252]
+  OFFICIAL: good afternoon cc wendell and jeff
+  WHISPER:  im professor known im the event manager
+
+[253]
+  OFFICIAL: cc
+  WHISPER:  dc
+
+[254]
+  OFFICIAL: wafers still
+  WHISPER:  they first to
+
+[255]
+  OFFICIAL: threenanometer capacity
+  WHISPER:  three hundred meter to past deep
+
+[256]
+  OFFICIAL: cc
+  WHISPER:  dc
+
+[257]
+  WHISPER:  does
+
+[258]
+  OFFICIAL: supply
+  WHISPER:  flight
+
+[259]
+  OFFICIAL: a
+
+[260]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations okay gokul please allow
+  WHISPER:  ok go go let
+
+[261]
+  OFFICIAL: to
+  WHISPER:  just
+
+[262]
+  OFFICIAL: expectations
+  WHISPER:  expectation
+
+[263]
+  OFFICIAL: gokul gokul hariharan jpmorgan securities analyst
+  WHISPER:  goko
+
+[264]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer okay gokul
+  WHISPER:  ok go go
+
+[265]
+  WHISPER:  the
+
+[266]
+  OFFICIAL: continues
+  WHISPER:  continue
+
+[267]
+  OFFICIAL: continues
+  WHISPER:  continue
+
+[268]
+  WHISPER:  are
+
+[269]
+  OFFICIAL: are
+
+[270]
+  OFFICIAL: gave
+  WHISPER:  give
+
+[271]
+  OFFICIAL: buildup
+  WHISPER:  build up
+
+[272]
+  OFFICIAL: the pulling
+  WHISPER:  to pull
+
+[273]
+  OFFICIAL: of
+
+[274]
+  OFFICIAL: forecasted
+  WHISPER:  forecast
+
+[275]
+  OFFICIAL: the
+
+[276]
+  OFFICIAL: eight lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english gokul
+  hariharan jpmorgan securities analyst
+
+[277]
+  OFFICIAL: cc
+  WHISPER:  the ct
+
+[278]
+  OFFICIAL: this
+  WHISPER:  these
+
+[279]
+  OFFICIAL: or
+  WHISPER:  are
+
+[280]
+  OFFICIAL: think
+  WHISPER:  thinking that
+
+[281]
+  OFFICIAL: next couple of years is still going to
+  WHISPER:  future will
+
+[282]
+  OFFICIAL: that
+  WHISPER:  the
+
+[283]
+  OFFICIAL: is
+
+[284]
+  OFFICIAL: lets say into twentyseven
+  WHISPER:  in two thousand and twentyone
+
+[285]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[286]
+  OFFICIAL: gokul
+  WHISPER:  goko
+
+[287]
+  WHISPER:  the
+
+[288]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer gokul
+  WHISPER:  goko
+
+[289]
+  OFFICIAL: it takes two to
+  WHISPER:  we have texted a total of
+
+[290]
+  OFFICIAL: fab
+  WHISPER:  file
+
+[291]
+  OFFICIAL: with the
+  WHISPER:  we have a
+
+[292]
+  OFFICIAL: twentyseven
+  WHISPER:  in the 27th
+
+[293]
+  OFFICIAL: will
+  WHISPER:  are not going to
+
+[294]
+  OFFICIAL: when
+
+[295]
+  WHISPER:  will
+
+[296]
+  OFFICIAL: twentyseven
+  WHISPER:  in the 27th
+
+[297]
+  OFFICIAL: fab
+  WHISPER:  file
+
+[298]
+  OFFICIAL: this
+  WHISPER:  it
+
+[299]
+  OFFICIAL: n3 fabs
+  WHISPER:  and threefab
+
+[300]
+  OFFICIAL: gokul hariharan jpmorgan securities analyst
+
+[301]
+  OFFICIAL: so twentyseven is also
+  WHISPER:  i hope you have heard the questions
+
+[302]
+  OFFICIAL: obviously you have
+  WHISPER:  everything has
+
+[303]
+  OFFICIAL: competitors samsung intel
+  WHISPER:  country of international
+
+[304]
+  OFFICIAL: your
+  WHISPER:  the
+
+[305]
+  OFFICIAL: terafab
+  WHISPER:  the data fab
+
+[306]
+  OFFICIAL: tsmcs
+  WHISPER:  the second thing
+
+[307]
+  OFFICIAL: on with
+  WHISPER:  one is
+
+[308]
+  OFFICIAL: have
+  WHISPER:  are
+
+[309]
+  OFFICIAL: been
+  WHISPER:  being
+
+[310]
+  OFFICIAL: yours
+  WHISPER:  vr
+
+[311]
+  OFFICIAL: they recently signed deals
+  WHISPER:  there is only time being
+
+[312]
+  OFFICIAL: tsmc
+  WHISPER:  the essence
+
+[313]
+  OFFICIAL: kind of
+
+[314]
+  OFFICIAL: the
+  WHISPER:  with
+
+[315]
+  OFFICIAL: cc
+  WHISPER:  we think
+
+[316]
+  WHISPER:  other
+
+[317]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[318]
+  OFFICIAL: gokuls
+  WHISPER:  googles
+
+[319]
+  OFFICIAL: terafab
+  WHISPER:  terra fab
+
+[320]
+  OFFICIAL: gokul
+  WHISPER:  google
+
+[321]
+  OFFICIAL: terafab
+  WHISPER:  terra fab
+
+[322]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[323]
+  OFFICIAL: gokul
+  WHISPER:  google
+
+[324]
+  OFFICIAL: intel and
+  WHISPER:  in the end of the
+
+[325]
+  OFFICIAL: they
+  WHISPER:  there
+
+[326]
+  OFFICIAL: they
+  WHISPER:  there
+
+[327]
+  WHISPER:  will
+
+[328]
+  OFFICIAL: intel
+  WHISPER:  in here
+
+[329]
+  OFFICIAL: having
+  WHISPER:  havent
+
+[330]
+  OFFICIAL: foundry
+  WHISPER:  boundary
+
+[331]
+  OFFICIAL: they
+  WHISPER:  we
+
+[332]
+  OFFICIAL: a
+  WHISPER:  the
+
+[333]
+  OFFICIAL: jensen
+  WHISPER:  tsmc
+
+[334]
+  OFFICIAL: fab
+  WHISPER:  fire
+
+[335]
+  OFFICIAL: and it
+  WHISPER:  any
+
+[336]
+  OFFICIAL: ramp it up
+  WHISPER:  remember
+
+[337]
+  OFFICIAL: foundry
+  WHISPER:  the boundary
+
+[338]
+  OFFICIAL: whether
+  WHISPER:  for the
+
+[339]
+  OFFICIAL: try
+  WHISPER:  tried
+
+[340]
+  OFFICIAL: them
+
+[341]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[342]
+  OFFICIAL: very hard
+  WHISPER:  with how
+
+[343]
+  OFFICIAL: gokul
+  WHISPER:  google
+
+[344]
+  OFFICIAL: nine lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english gokul
+  hariharan jpmorgan securities analyst okay
+
+[345]
+  OFFICIAL: pretty clear
+  WHISPER:  thirty years
+
+[346]
+  OFFICIAL: positive rampup of
+  WHISPER:  pasta run back to
+
+[347]
+  OFFICIAL: seems
+  WHISPER:  is
+
+[348]
+  OFFICIAL: tightness
+  WHISPER:  type pace
+
+[349]
+  OFFICIAL: kind of
+
+[350]
+  OFFICIAL: right
+
+[351]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[352]
+  OFFICIAL: gokuls
+  WHISPER:  googles
+
+[353]
+  OFFICIAL: his concern
+  WHISPER:  is concerned
+
+[354]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[355]
+  OFFICIAL: it takes
+  WHISPER:  take
+
+[356]
+  OFFICIAL: fab
+  WHISPER:  fire
+
+[357]
+  OFFICIAL: fab
+  WHISPER:  fire
+
+[358]
+  OFFICIAL: strong
+  WHISPER:  stronger
+
+[359]
+  OFFICIAL: shortcut
+  WHISPER:  shortcuts
+
+[360]
+  OFFICIAL: gokul hariharan jpmorgan securities analyst
+  WHISPER:  thanks you see those are good
+
+[361]
+  OFFICIAL: thanks cc no shortcuts got it jeff su taiwan semiconductor
+  manufacturing co ltd director investor relations
+
+[362]
+  OFFICIAL: operator
+  WHISPER:  ill pray they
+
+[363]
+  OFFICIAL: we
+
+[364]
+  OFFICIAL: operator
+  WHISPER:  next one we have
+
+[365]
+  WHISPER:  from
+
+[366]
+  OFFICIAL: charlie chan morgan stanley analyst
+
+[367]
+  OFFICIAL: cc wendell
+  WHISPER:  cfc ewendo
+
+[368]
+  OFFICIAL: congratulations for the
+  WHISPER:  concoction to a
+
+[369]
+  OFFICIAL: results
+  WHISPER:  result
+
+[370]
+  OFFICIAL: address
+  WHISPER:  judge
+
+[371]
+  OFFICIAL: little bit
+  WHISPER:  really
+
+[372]
+  OFFICIAL: so
+
+[373]
+  OFFICIAL: those
+  WHISPER:  theres
+
+[374]
+  OFFICIAL: they are
+  WHISPER:  that have
+
+[375]
+  WHISPER:  a
+
+[376]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[377]
+  OFFICIAL: chips right
+  WHISPER:  yes
+
+[378]
+  OFFICIAL: considering
+  WHISPER:  constantly going
+
+[379]
+  OFFICIAL: emib
+  WHISPER:  the emeat
+
+[380]
+  OFFICIAL: its
+  WHISPER:  it
+
+[381]
+  WHISPER:  a
+
+[382]
+  WHISPER:  of the
+
+[383]
+  OFFICIAL: tsmcs
+  WHISPER:  tasnc
+
+[384]
+  OFFICIAL: this
+  WHISPER:  is
+
+[385]
+  OFFICIAL: tsmc
+  WHISPER:  a tasnc
+
+[386]
+  OFFICIAL: competitors
+  WHISPER:  conveyors
+
+[387]
+  OFFICIAL: is the
+
+[388]
+  OFFICIAL: thought process
+  WHISPER:  salt crossings
+
+[389]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[390]
+  OFFICIAL: our
+
+[391]
+  OFFICIAL: larger reticle
+  WHISPER:  logical radical
+
+[392]
+  OFFICIAL: emib
+  WHISPER:  emeat
+
+[393]
+  OFFICIAL: frontend
+  WHISPER:  front end
+
+[394]
+  OFFICIAL: ten lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english cc wei
+  taiwan semiconductor manufacturing co ltd chairman chief executive officer
+
+[395]
+  OFFICIAL: tsmc
+  WHISPER:  tasnc
+
+[396]
+  OFFICIAL: largest reticle
+  WHISPER:  large radical
+
+[397]
+  OFFICIAL: work on
+  WHISPER:  welcome
+
+[398]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[399]
+  OFFICIAL: and
+
+[400]
+  OFFICIAL: saying
+  WHISPER:  seeing
+
+[401]
+  OFFICIAL: leave
+  WHISPER:  need
+
+[402]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[403]
+  OFFICIAL: and
+
+[404]
+  OFFICIAL: and
+  WHISPER:  its
+
+[405]
+  OFFICIAL: charlie chan morgan stanley analyst
+
+[406]
+  OFFICIAL: cc
+  WHISPER:  hes
+
+[407]
+  OFFICIAL: followup on this
+  WHISPER:  forum
+
+[408]
+  OFFICIAL: size
+  WHISPER:  sets of
+
+[409]
+  OFFICIAL: copos
+  WHISPER:  copurs
+
+[410]
+  OFFICIAL: cowosl two5d or
+  WHISPER:  cost l3five the
+
+[411]
+  OFFICIAL: 3d
+  WHISPER:  of city if they
+
+[412]
+  OFFICIAL: planar
+  WHISPER:  planer
+
+[413]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[414]
+  OFFICIAL: a followup
+  WHISPER:  follow up
+
+[415]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[416]
+  OFFICIAL: cowosl
+  WHISPER:  coor sale
+
+[417]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[418]
+  OFFICIAL: a
+
+[419]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[420]
+  OFFICIAL: cowos
+  WHISPER:  coor sale
+
+[421]
+  OFFICIAL: copos
+  WHISPER:  copurs
+
+[422]
+  OFFICIAL: enough
+  WHISPER:  you the
+
+[423]
+  OFFICIAL: a
+
+[424]
+  OFFICIAL: pilot
+  WHISPER:  copurs pattern
+
+[425]
+  OFFICIAL: supply is
+  WHISPER:  supplier
+
+[426]
+  OFFICIAL: a largesized cowos
+  WHISPER:  large size coor sale
+
+[427]
+  WHISPER:  the
+
+[428]
+  OFFICIAL: gives
+  WHISPER:  give
+
+[429]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[430]
+  OFFICIAL: their
+  WHISPER:  the
+
+[431]
+  OFFICIAL: charlie chan morgan stanley analyst got it
+
+[432]
+  OFFICIAL: yes
+
+[433]
+  OFFICIAL: worry
+  WHISPER:  work
+
+[434]
+  WHISPER:  and its facing
+
+[435]
+  OFFICIAL: longterm capex
+  WHISPER:  long term cets
+
+[436]
+  OFFICIAL: cc as you said you take
+  WHISPER:  cets is
+
+[437]
+  OFFICIAL: two three
+  WHISPER:  cets twothree
+
+[438]
+  WHISPER:  new staff so its definitely
+
+[439]
+  OFFICIAL: new fab
+  WHISPER:  data disability
+
+[440]
+  OFFICIAL: you definitely have that visibility right so when were back in two
+  thousand and
+  WHISPER:  i remember taking to the
+
+[441]
+  OFFICIAL: management of the about
+  WHISPER:  mentioned also provide
+
+[442]
+  OFFICIAL: capex
+  WHISPER:  cets
+
+[443]
+  OFFICIAL: usd
+
+[444]
+  OFFICIAL: billion
+  WHISPER:  bdus hours
+
+[445]
+  OFFICIAL: very
+  WHISPER:  a
+
+[446]
+  OFFICIAL: little bit longerterm capex
+  WHISPER:  longer term cets
+
+[447]
+  OFFICIAL: right theres the
+  WHISPER:  those
+
+[448]
+  OFFICIAL: asml reported
+  WHISPER:  some of restored a
+
+[449]
+  OFFICIAL: results
+  WHISPER:  resource
+
+[450]
+  OFFICIAL: is an
+  WHISPER:  and
+
+[451]
+  OFFICIAL: management
+  WHISPER:  mentioned
+
+[452]
+  OFFICIAL: longterm capex
+  WHISPER:  have long term cets
+
+[453]
+  OFFICIAL: investors jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations
+  WHISPER:  you message thank you
+
+[454]
+  OFFICIAL: charlie
+  WHISPER:  trotty
+
+[455]
+  WHISPER:  i want
+
+[456]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[457]
+  OFFICIAL: charlie notes
+  WHISPER:  trotty knows
+
+[458]
+  OFFICIAL: comment
+  WHISPER:  common
+
+[459]
+  OFFICIAL: years capex
+  WHISPER:  your kpex
+
+[460]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[461]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[462]
+  OFFICIAL: wendell huang taiwan semiconductor manufacturing co ltd senior vice
+  president and chief financial officer spokesperson
+
+[463]
+  OFFICIAL: charlie
+  WHISPER:  trotty
+
+[464]
+  OFFICIAL: it
+
+[465]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[466]
+  OFFICIAL: seeing
+  WHISPER:  saying kpex
+
+[467]
+  OFFICIAL: eleven lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english
+
+[468]
+  OFFICIAL: megatrend
+  WHISPER:  megatron
+
+[469]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[470]
+  OFFICIAL: few
+  WHISPER:  three
+
+[471]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[472]
+  OFFICIAL: charlies
+  WHISPER:  trottys
+
+[473]
+  OFFICIAL: dual
+  WHISPER:  tools
+
+[474]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer well charlie
+  WHISPER:  trotty
+
+[475]
+  OFFICIAL: tsmcs
+  WHISPER:  test mcs
+
+[476]
+  OFFICIAL: were
+  WHISPER:  we
+
+[477]
+  OFFICIAL: working
+  WHISPER:  work in
+
+[478]
+  OFFICIAL: material then
+  WHISPER:  of asmr or primeterial and
+
+[479]
+  OFFICIAL: et cetera so
+  WHISPER:  etc
+
+[480]
+  OFFICIAL: with their
+  WHISPER:  that they are
+
+[481]
+  OFFICIAL: thats
+  WHISPER:  not
+
+[482]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[483]
+  OFFICIAL: charlie chan morgan stanley analyst
+
+[484]
+  OFFICIAL: wendell jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations all right thank you charlie
+  WHISPER:  trotty
+
+[485]
+  OFFICIAL: we
+
+[486]
+  OFFICIAL: operator sunny lin
+  WHISPER:  next one we have anneling from
+
+[487]
+  OFFICIAL: sunny lin ubs securities analyst good afternoon
+
+[488]
+  OFFICIAL: steady
+  WHISPER:  study
+
+[489]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[490]
+  OFFICIAL: if you look at
+  WHISPER:  even
+
+[491]
+  OFFICIAL: so
+
+[492]
+  OFFICIAL: cycle tsmc
+  WHISPER:  call esi call tsc
+
+[493]
+  OFFICIAL: at
+
+[494]
+  OFFICIAL: thirtyplus given
+  WHISPER:  thirty plus even
+
+[495]
+  OFFICIAL: and operating
+  WHISPER:  appearing in
+
+[496]
+  OFFICIAL: other than
+  WHISPER:  our concern
+
+[497]
+  OFFICIAL: capital
+  WHISPER:  travel
+
+[498]
+  OFFICIAL: ramp
+  WHISPER:  rep
+
+[499]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[500]
+  OFFICIAL: top
+  WHISPER:  capital
+
+[501]
+  WHISPER:  will
+
+[502]
+  OFFICIAL: and
+
+[503]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[504]
+  OFFICIAL: twelve lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english jeff
+  su taiwan semiconductor manufacturing co ltd director investor relations
+
+[505]
+  OFFICIAL: capex and
+  WHISPER:  kpex name
+
+[506]
+  OFFICIAL: thirtyplus thirtysomething percent
+  WHISPER:  thirty
+
+[507]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[508]
+  OFFICIAL: there
+  WHISPER:  it
+
+[509]
+  OFFICIAL: is
+
+[510]
+  OFFICIAL: sunny lin ubs securities analyst
+
+[511]
+  OFFICIAL: jeff wendell huang taiwan semiconductor manufacturing co ltd senior
+  vice president and chief financial officer spokesperson
+  WHISPER:  chef
+
+[512]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[513]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[514]
+  OFFICIAL: okay
+
+[515]
+  OFFICIAL: sunny lin ubs securities analyst
+
+[516]
+  OFFICIAL: followup several
+  WHISPER:  follow up a lot of
+
+[517]
+  OFFICIAL: competition
+  WHISPER:  competitions
+
+[518]
+  OFFICIAL: on a
+  WHISPER:  some
+
+[519]
+  OFFICIAL: tsmc
+  WHISPER:  the other
+
+[520]
+  OFFICIAL: would tsmc actually
+  WHISPER:  teefally as you
+
+[521]
+  OFFICIAL: capex
+  WHISPER:  kpex at the more
+
+[522]
+  WHISPER:  a
+
+[523]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations right
+  WHISPER:  okay
+
+[524]
+  OFFICIAL: capex
+  WHISPER:  kpex
+
+[525]
+  OFFICIAL: theres
+  WHISPER:  there is
+
+[526]
+  OFFICIAL: sunny lin ubs securities analyst
+
+[527]
+  OFFICIAL: jeff cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+  WHISPER:  chef
+
+[528]
+  OFFICIAL: capacity
+  WHISPER:  kpex
+
+[529]
+  WHISPER:  at
+
+[530]
+  OFFICIAL: were
+  WHISPER:  or
+
+[531]
+  WHISPER:  our
+
+[532]
+  WHISPER:  at
+
+[533]
+  OFFICIAL: and they work with tsmc
+  WHISPER:  then we will go to smc
+
+[534]
+  OFFICIAL: capital expense
+  WHISPER:  kpex friends
+
+[535]
+  OFFICIAL: thirteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english sunny
+  lin ubs securities analyst
+
+[536]
+  OFFICIAL: and
+
+[537]
+  OFFICIAL: year
+  WHISPER:  show
+
+[538]
+  OFFICIAL: guided a bit
+  WHISPER:  got the
+
+[539]
+  OFFICIAL: top line
+  WHISPER:  topline
+
+[540]
+  OFFICIAL: there is
+  WHISPER:  this
+
+[541]
+  OFFICIAL: and
+
+[542]
+  OFFICIAL: two thousand and twentysix
+  WHISPER:  twenty point five
+
+[543]
+  OFFICIAL: top line
+  WHISPER:  topline
+
+[544]
+  OFFICIAL: at this point
+  WHISPER:  im just trying to
+
+[545]
+  OFFICIAL: started
+  WHISPER:  decide
+
+[546]
+  OFFICIAL: consumer end
+  WHISPER:  customer and
+
+[547]
+  OFFICIAL: and
+  WHISPER:  as
+
+[548]
+  OFFICIAL: smartphone
+  WHISPER:  smc
+
+[549]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[550]
+  WHISPER:  twenty point
+
+[551]
+  OFFICIAL: thousand and twentysix full year
+  WHISPER:  six fullyear
+
+[552]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[553]
+  OFFICIAL: pricesensitive
+  WHISPER:  my sensitive
+
+[554]
+  OFFICIAL: its
+
+[555]
+  OFFICIAL: share
+  WHISPER:  show
+
+[556]
+  OFFICIAL: smartphones
+  WHISPER:  smartphone
+
+[557]
+  OFFICIAL: tsmcs
+  WHISPER:  test mcs
+
+[558]
+  OFFICIAL: youre
+  WHISPER:  you are
+
+[559]
+  OFFICIAL: will share with you
+  WHISPER:  were sure we see
+
+[560]
+  OFFICIAL: that
+  WHISPER:  not sure
+
+[561]
+  OFFICIAL: will
+
+[562]
+  OFFICIAL: a
+
+[563]
+  OFFICIAL: share
+  WHISPER:  show
+
+[564]
+  OFFICIAL: sunny lin ubs securities analyst
+
+[565]
+  OFFICIAL: cc jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations
+  WHISPER:  suzy okay
+
+[566]
+  OFFICIAL: operator
+  WHISPER:  i pray that we
+
+[567]
+  OFFICIAL: we
+
+[568]
+  OFFICIAL: operator
+  WHISPER:  yes the next one
+
+[569]
+  OFFICIAL: arete jim fontanelli arete research llc analyst yes
+  WHISPER:  adreday
+
+[570]
+  OFFICIAL: thanks
+
+[571]
+  OFFICIAL: so my first
+  WHISPER:  the next
+
+[572]
+  OFFICIAL: commented
+  WHISPER:  comment to the
+
+[573]
+  OFFICIAL: leadingedge
+  WHISPER:  leading edge
+
+[574]
+  OFFICIAL: youve
+  WHISPER:  you
+
+[575]
+  OFFICIAL: in
+  WHISPER:  and
+
+[576]
+  OFFICIAL: gross
+  WHISPER:  growth
+
+[577]
+  OFFICIAL: backlog how managements
+  WHISPER:  backthrob health management
+
+[578]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[579]
+  WHISPER:  at
+
+[580]
+  OFFICIAL: on
+  WHISPER:  our
+
+[581]
+  WHISPER:  our
+
+[582]
+  WHISPER:  the
+
+[583]
+  OFFICIAL: fourteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english jim
+  fontanelli arete research llc analyst
+
+[584]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[585]
+  OFFICIAL: earning calls
+  WHISPER:  earnings course
+
+[586]
+  OFFICIAL: and
+
+[587]
+  OFFICIAL: jim fontanelli arete research llc analyst
+
+[588]
+  OFFICIAL: the backdrop
+  WHISPER:  a backwrote
+
+[589]
+  OFFICIAL: super normal
+  WHISPER:  supernormal
+
+[590]
+  OFFICIAL: wendell huang taiwan semiconductor manufacturing co ltd senior vice
+  president and chief financial officer spokesperson yes
+
+[591]
+  OFFICIAL: the
+
+[592]
+  OFFICIAL: is an
+  WHISPER:  its
+
+[593]
+  OFFICIAL: jim fontanelli arete research llc analyst
+
+[594]
+  OFFICIAL: and
+
+[595]
+  OFFICIAL: leadingedge
+  WHISPER:  leading edge
+
+[596]
+  OFFICIAL: tsmc
+  WHISPER:  tfnc
+
+[597]
+  OFFICIAL: second parcel of
+  WHISPER:  in pastlevel
+
+[598]
+  OFFICIAL: could
+  WHISPER:  jim do
+
+[599]
+  OFFICIAL: wafers jeff su taiwan semiconductor manufacturing co ltd director
+  investor relations
+  WHISPER:  wages
+
+[600]
+  OFFICIAL: jim
+  WHISPER:  jims
+
+[601]
+  OFFICIAL: expansion plans
+  WHISPER:  expension plan
+
+[602]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[603]
+  OFFICIAL: the
+  WHISPER:  a
+
+[604]
+  OFFICIAL: need it
+  WHISPER:  needed
+
+[605]
+  WHISPER:  our
+
+[606]
+  OFFICIAL: leadingedge
+  WHISPER:  leading edge
+
+[607]
+  OFFICIAL: very
+  WHISPER:  with
+
+[608]
+  WHISPER:  are
+
+[609]
+  OFFICIAL: gained a lot of
+  WHISPER:  getting another
+
+[610]
+  OFFICIAL: confidence than
+  WHISPER:  confident in
+
+[611]
+  WHISPER:  it a
+
+[612]
+  OFFICIAL: and with
+
+[613]
+  OFFICIAL: cost
+  WHISPER:  course
+
+[614]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[615]
+  OFFICIAL: fifteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english jim
+  fontanelli arete research llc analyst
+
+[616]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations operator can we
+  WHISPER:  ill go ahead and
+
+[617]
+  OFFICIAL: operator
+  WHISPER:  next one
+
+[618]
+  OFFICIAL: lu
+  WHISPER:  lewis from
+
+[619]
+  OFFICIAL: bruce lu goldman sachs analyst
+
+[620]
+  OFFICIAL: my
+  WHISPER:  the
+
+[621]
+  OFFICIAL: up
+
+[622]
+  WHISPER:  one of
+
+[623]
+  OFFICIAL: question
+  WHISPER:  questions
+
+[624]
+  OFFICIAL: i think
+
+[625]
+  OFFICIAL: tsmc did not raise
+  WHISPER:  he didnt erase
+
+[626]
+  OFFICIAL: tsmc continues
+  WHISPER:  he came to see continue
+
+[627]
+  OFFICIAL: above
+  WHISPER:  birth
+
+[628]
+  OFFICIAL: think
+  WHISPER:  mean
+
+[629]
+  OFFICIAL: we
+  WHISPER:  you know he
+
+[630]
+  WHISPER:  it
+
+[631]
+  OFFICIAL: profitability fully reflect tsmcs
+  WHISPER:  portfolio the ability to be fragged here is his
+
+[632]
+  OFFICIAL: you
+  WHISPER:  cc
+
+[633]
+  OFFICIAL: given
+  WHISPER:  even
+
+[634]
+  OFFICIAL: dominant position
+  WHISPER:  animal deposition
+
+[635]
+  OFFICIAL: tsmc its
+  WHISPER:  efficiency is
+
+[636]
+  OFFICIAL: tsmcs
+  WHISPER:  efficiencys
+
+[637]
+  OFFICIAL: we
+  WHISPER:  long you
+
+[638]
+  OFFICIAL: tsmc
+  WHISPER:  efficiency
+
+[639]
+  OFFICIAL: tsmcs
+  WHISPER:  the efficiency
+
+[640]
+  OFFICIAL: should
+  WHISPER:  to
+
+[641]
+  OFFICIAL: fully
+
+[642]
+  OFFICIAL: gross
+  WHISPER:  course
+
+[643]
+  WHISPER:  block
+
+[644]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[645]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[646]
+  OFFICIAL: asked
+  WHISPER:  ask
+
+[647]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[648]
+  OFFICIAL: is
+  WHISPER:  as
+
+[649]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[650]
+  OFFICIAL: grow
+  WHISPER:  go
+
+[651]
+  OFFICIAL: then
+  WHISPER:  and
+
+[652]
+  OFFICIAL: customers got
+  WHISPER:  customer gets
+
+[653]
+  OFFICIAL: grow
+  WHISPER:  go
+
+[654]
+  OFFICIAL: bruce lu goldman sachs analyst
+
+[655]
+  OFFICIAL: continue to
+  WHISPER:  can be successful
+
+[656]
+  OFFICIAL: a
+
+[657]
+  OFFICIAL: of quarters we can see
+  WHISPER:  quarter would you feed the you know
+
+[658]
+  OFFICIAL: profitability target
+  WHISPER:  profit to be targeted
+
+[659]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[660]
+  OFFICIAL: sixteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english bruce
+  lu goldman sachs analyst okay
+
+[661]
+  OFFICIAL: is
+  WHISPER:  was
+
+[662]
+  OFFICIAL: guiding the
+  WHISPER:  guided by
+
+[663]
+  OFFICIAL: accelerated
+  WHISPER:  sla to
+
+[664]
+  WHISPER:  by
+
+[665]
+  OFFICIAL: mid
+  WHISPER:  me
+
+[666]
+  OFFICIAL: cagrs in two thousand and twentynine
+
+[667]
+  OFFICIAL: tsmc plan
+  WHISPER:  key samsungs trend
+
+[668]
+  OFFICIAL: forecast airelated
+  WHISPER:  focus ai related
+
+[669]
+  OFFICIAL: i mean does tsmc
+  WHISPER:  and if the security
+
+[670]
+  WHISPER:  the
+
+[671]
+  OFFICIAL: token
+  WHISPER:  public
+
+[672]
+  OFFICIAL: growth
+  WHISPER:  grows
+
+[673]
+  WHISPER:  you know
+
+[674]
+  OFFICIAL: token
+  WHISPER:  reason public
+
+[675]
+  OFFICIAL: expectations
+  WHISPER:  expectation
+
+[676]
+  OFFICIAL: see the changes
+  WHISPER:  either change it
+
+[677]
+  OFFICIAL: aiaccelerated
+
+[678]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[679]
+  OFFICIAL: cagr
+  WHISPER:  cater
+
+[680]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[681]
+  OFFICIAL: enough
+  WHISPER:  now
+
+[682]
+  WHISPER:  very
+
+[683]
+  OFFICIAL: customer
+  WHISPER:  customers
+
+[684]
+  OFFICIAL: customers
+
+[685]
+  OFFICIAL: do
+
+[686]
+  WHISPER:  and the
+
+[687]
+  WHISPER:  a
+
+[688]
+  OFFICIAL: the cagr
+  WHISPER:  a cater
+
+[689]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+  WHISPER:  okay
+
+[690]
+  OFFICIAL: operator
+  WHISPER:  next one to ask question
+
+[691]
+  OFFICIAL: citi laura chen citigroup analyst
+  WHISPER:  from steeley
+
+[692]
+  OFFICIAL: good afternoon
+  WHISPER:  questioner
+
+[693]
+  OFFICIAL: wendell
+  WHISPER:  window
+
+[694]
+  OFFICIAL: jeff
+  WHISPER:  jigs
+
+[695]
+  OFFICIAL: details
+  WHISPER:  detail
+
+[696]
+  OFFICIAL: tsmcs
+  WHISPER:  tsmc
+
+[697]
+  OFFICIAL: osat
+  WHISPER:  all set
+
+[698]
+  OFFICIAL: osat
+  WHISPER:  all set
+
+[699]
+  OFFICIAL: yet
+  WHISPER:  the
+
+[700]
+  OFFICIAL: on
+
+[701]
+  OFFICIAL: node
+  WHISPER:  no
+
+[702]
+  OFFICIAL: aligned
+  WHISPER:  align
+
+[703]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[704]
+  OFFICIAL: frontend
+  WHISPER:  front end
+
+[705]
+  OFFICIAL: osat
+  WHISPER:  all set
+
+[706]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer well
+
+[707]
+  OFFICIAL: their
+  WHISPER:  the
+
+[708]
+  OFFICIAL: frontend
+  WHISPER:  or fungian
+
+[709]
+  OFFICIAL: highend
+  WHISPER:  high end
+
+[710]
+  OFFICIAL: our osat
+  WHISPER:  all set
+
+[711]
+  OFFICIAL: seventeen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english thats
+  again
+
+[712]
+  OFFICIAL: very hard
+
+[713]
+  WHISPER:  i
+
+[714]
+  OFFICIAL: laura chen citigroup analyst
+
+[715]
+  WHISPER:  the
+
+[716]
+  OFFICIAL: as cc
+  WHISPER:  city
+
+[717]
+  OFFICIAL: growing
+  WHISPER:  going
+
+[718]
+  OFFICIAL: die
+
+[719]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[720]
+  OFFICIAL: theres
+  WHISPER:  there is
+
+[721]
+  OFFICIAL: warpage
+  WHISPER:  wattage
+
+[722]
+  OFFICIAL: soic
+  WHISPER:  a so i see
+
+[723]
+  OFFICIAL: copos
+  WHISPER:  copost
+
+[724]
+  OFFICIAL: road map
+  WHISPER:  roadmap
+
+[725]
+  OFFICIAL: soic or copos
+  WHISPER:  a so i see a copost
+
+[726]
+  WHISPER:  round
+
+[727]
+  OFFICIAL: a
+
+[728]
+  OFFICIAL: of
+
+[729]
+  OFFICIAL: this problem jeff su taiwan semiconductor manufacturing co ltd
+  director investor relations yes
+  WHISPER:  these problems
+
+[730]
+  OFFICIAL: laura the
+  WHISPER:  lower
+
+[731]
+  OFFICIAL: and
+  WHISPER:  in
+
+[732]
+  OFFICIAL: reticle
+  WHISPER:  radical
+
+[733]
+  OFFICIAL: warpage
+  WHISPER:  wattage
+
+[734]
+  OFFICIAL: wouldnt
+  WHISPER:  would
+
+[735]
+  OFFICIAL: soic
+  WHISPER:  s o i c
+
+[736]
+  OFFICIAL: laura chen citigroup analyst yes thank
+  WHISPER:  well
+
+[737]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer well laura youre
+  WHISPER:  are
+
+[738]
+  OFFICIAL: tough
+  WHISPER:  top
+
+[739]
+  OFFICIAL: im
+  WHISPER:  i am
+
+[740]
+  WHISPER:  have
+
+[741]
+  OFFICIAL: experience
+  WHISPER:  experiments
+
+[742]
+  WHISPER:  a
+
+[743]
+  OFFICIAL: and
+  WHISPER:  or end up
+
+[744]
+  OFFICIAL: die
+
+[745]
+  OFFICIAL: other
+
+[746]
+  OFFICIAL: warpage
+  WHISPER:  a war pg
+
+[747]
+  OFFICIAL: thermal
+  WHISPER:  the summer
+
+[748]
+  OFFICIAL: and we
+  WHISPER:  every
+
+[749]
+  OFFICIAL: tsmc’s
+  WHISPER:  is tsmcs
+
+[750]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[751]
+  OFFICIAL: move on laura chen citigroup analyst yes
+  WHISPER:  war one
+
+[752]
+  OFFICIAL: soics
+  WHISPER:  s o i cs
+
+[753]
+  WHISPER:  then
+
+[754]
+  OFFICIAL: this
+  WHISPER:  these
+
+[755]
+  OFFICIAL: products in production
+  WHISPER:  product introduction
+
+[756]
+  OFFICIAL: going
+  WHISPER:  go
+
+[757]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+  WHISPER:  again sorry
+
+[758]
+  OFFICIAL: lauras question
+  WHISPER:  those questions
+
+[759]
+  OFFICIAL: yes
+  WHISPER:  even yeah were
+
+[760]
+  OFFICIAL: soic
+  WHISPER:  s o i c
+
+[761]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[762]
+  OFFICIAL: meet their
+  WHISPER:  need to
+
+[763]
+  WHISPER:  no
+
+[764]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[765]
+  OFFICIAL: their
+  WHISPER:  the
+
+[766]
+  OFFICIAL: eighteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april sixteen two thousand and twentysix
+  six00am two thousand three hundred and thirtytw q1 two thousand and twentysix
+  taiwan semiconductor manufacturing co ltd earnings call chinese english laura
+  chen citigroup analyst
+
+[767]
+  OFFICIAL: laura
+
+[768]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations yes okay
+
+[769]
+  OFFICIAL: interest
+  WHISPER:  entry
+
+[770]
+  OFFICIAL: we
+
+[771]
+  OFFICIAL: operator charles shi needham charles shi needham company llc analyst
+  hi
+  WHISPER:  i want to ask question cherish you from me then by
+
+[772]
+  WHISPER:  air sentence
+
+[773]
+  OFFICIAL: hbm
+  WHISPER:  hp and
+
+[774]
+  OFFICIAL: die
+  WHISPER:  that
+
+[775]
+  OFFICIAL: add
+  WHISPER:  i left up
+
+[776]
+  OFFICIAL: it does specifically
+  WHISPER:  its the specific covid
+
+[777]
+  OFFICIAL: data center
+  WHISPER:  kfn the
+
+[778]
+  OFFICIAL: made
+  WHISPER:  make
+
+[779]
+  OFFICIAL: conversation
+  WHISPER:  compensation
+
+[780]
+  OFFICIAL: agentic
+  WHISPER:  the technical
+
+[781]
+  OFFICIAL: any
+  WHISPER:  and the
+
+[782]
+  OFFICIAL: tsmc
+  WHISPER:  key smc
+
+[783]
+  WHISPER:  a
+
+[784]
+  OFFICIAL: cagr
+  WHISPER:  cable
+
+[785]
+  WHISPER:  to
+
+[786]
+  OFFICIAL: maybe
+  WHISPER:  i may be
+
+[787]
+  OFFICIAL: about the
+  WHISPER:  how that
+
+[788]
+  WHISPER:  would
+
+[789]
+  OFFICIAL: if
+  WHISPER:  from
+
+[790]
+  OFFICIAL: centers
+  WHISPER:  kind of
+
+[791]
+  WHISPER:  a
+
+[792]
+  OFFICIAL: workloads
+  WHISPER:  workflows
+
+[793]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[794]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations okay
+
+[795]
+  OFFICIAL: charles’
+  WHISPER:  so charles
+
+[796]
+  OFFICIAL: and
+
+[797]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[798]
+  OFFICIAL: will
+  WHISPER:  where
+
+[799]
+  WHISPER:  were doing including and what
+
+[800]
+  OFFICIAL: accelerator
+  WHISPER:  x other year
+
+[801]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[802]
+  OFFICIAL: share
+  WHISPER:  show
+
+[803]
+  OFFICIAL: share
+  WHISPER:  show
+
+[804]
+  OFFICIAL: differentiate conventional server
+  WHISPER:  identify which
+
+[805]
+  OFFICIAL: vs
+  WHISPER:  goes to where right is a pc or desktop or is a
+
+[806]
+  OFFICIAL: server cpu corrected by company after the call
+  WHISPER:  data center
+
+[807]
+  OFFICIAL: someday later
+  WHISPER:  some data
+
+[808]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[809]
+  OFFICIAL: charles shi needham company llc analyst
+
+[810]
+  OFFICIAL: cc
+  WHISPER:  cici
+
+[811]
+  OFFICIAL: nvidia
+  WHISPER:  indeed there
+
+[812]
+  OFFICIAL: vera rubin superpod but
+  WHISPER:  very ruben super part that
+
+[813]
+  WHISPER:  that
+
+[814]
+  OFFICIAL: brandnew lpu
+  WHISPER:  brand new lp you
+
+[815]
+  OFFICIAL: understand i
+  WHISPER:  want to
+
+[816]
+  OFFICIAL: tsmc’s
+  WHISPER:  key of some say
+
+[817]
+  OFFICIAL: well
+  WHISPER:  will
+
+[818]
+  OFFICIAL: upside
+  WHISPER:  abstract
+
+[819]
+  OFFICIAL: lpu
+  WHISPER:  lp you
+
+[820]
+  OFFICIAL: its the
+  WHISPER:  it
+
+[821]
+  OFFICIAL: well for
+  WHISPER:  while it was
+
+[822]
+  OFFICIAL: your
+  WHISPER:  the
+
+[823]
+  OFFICIAL: samsung nineteen lseg streetevents wwwlsegcom contact us ©two
+  thousand
+
+[824]
+  OFFICIAL: twentysix lseg all rights reserved republication or redistribution
+  of lseg content including by framing or similar means is prohibited without
+  the prior written consent of lseg lseg and the lseg logo are registered
+  trademarks of lseg and its affiliated companies april sixteen two thousand and
+  twentysix six00am two thousand three hundred and thirtytw q1 two thousand and
+  twentysix taiwan semiconductor manufacturing co ltd earnings call chinese
+  english
+  WHISPER:  some
+
+[825]
+  OFFICIAL: investors are
+  WHISPER:  that if thats also
+
+[826]
+  OFFICIAL: and
+  WHISPER:  then
+
+[827]
+  WHISPER:  look
+
+[828]
+  OFFICIAL: samsung
+  WHISPER:  a sense of
+
+[829]
+  WHISPER:  for
+
+[830]
+  OFFICIAL: inroads
+  WHISPER:  in road
+
+[831]
+  OFFICIAL: from tsmc side
+  WHISPER:  on tier some see fight
+
+[832]
+  OFFICIAL: tsmc
+  WHISPER:  to some see
+
+[833]
+  OFFICIAL: lpu
+  WHISPER:  lp you
+
+[834]
+  OFFICIAL: business
+  WHISPER:  if im sure beth has
+
+[835]
+  OFFICIAL: your
+
+[836]
+  OFFICIAL: yes gave
+  WHISPER:  yeah it give
+
+[837]
+  WHISPER:  would
+
+[838]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[839]
+  OFFICIAL: a
+
+[840]
+  OFFICIAL: lpu
+  WHISPER:  lp you
+
+[841]
+  OFFICIAL: to
+  WHISPER:  through
+
+[842]
+  OFFICIAL: lpu
+  WHISPER:  lp you
+
+[843]
+  OFFICIAL: cc wei taiwan semiconductor manufacturing co ltd chairman chief
+  executive officer
+
+[844]
+  OFFICIAL: think jeff
+  WHISPER:  see you can tell for
+
+[845]
+  OFFICIAL: gave
+  WHISPER:  give
+
+[846]
+  OFFICIAL: enough warning said
+  WHISPER:  a number one is a
+
+[847]
+  WHISPER:  in the very
+
+[848]
+  OFFICIAL: customers
+  WHISPER:  customer
+
+[849]
+  OFFICIAL: their nextgeneration lpu
+  WHISPER:  the next generation side your p you
+
+[850]
+  OFFICIAL: will work
+  WHISPER:  are working
+
+[851]
+  OFFICIAL: charles shi needham company llc analyst
+
+[852]
+  WHISPER:  thank you cc
+
+[853]
+  WHISPER:  thats a
+
+[854]
+  OFFICIAL: i
+  WHISPER:  thank you
+
+[855]
+  OFFICIAL: jeff su taiwan semiconductor manufacturing co ltd director investor
+  relations
+
+[856]
+  OFFICIAL: wendell
+  WHISPER:  window
+
+[857]
+  OFFICIAL: sorry
+
+[858]
+  WHISPER:  can
+
+[859]
+  OFFICIAL: that
+  WHISPER:  at
+
+[860]
+  OFFICIAL: wwwtsmccom
+  WHISPER:  triple w dot tsmc dot com
+
+[861]
+  OFFICIAL: we
+  WHISPER:  well
+
+[862]
+  OFFICIAL: disclaimer lseg reserves the right to make changes to documents
+  content or other information on this web site without obligation to notify any
+  person of such changes in the conference calls upon which event transcripts
+  are based companies may make projections or other forwardlooking statements
+  regarding a variety of items such forwardlooking statements are based upon
+  current expectations and involve risks and uncertainties actual results may
+  differ materially from those stated in any forwardlooking statement based on a
+  number of important factors and risks which are more specifically identified
+  in the companies most recent sec filings although the companies may indicate
+  and believe that the assumptions underlying the forwardlooking statements are
+  reasonable any of the assumptions could prove inaccurate or incorrect and
+  therefore there can be no assurance that the results contemplated in the
+  forwardlooking statements will be realized the information contained in event
+  transcripts is a textual representation of the applicable companys conference
+  call and while efforts are made to provide an accurate transcription there may
+  be material errors omissions or inaccuracies in the reporting of the substance
+  of the conference calls in no way does lseg or the applicable company assume
+  any responsibility for any investment or other decisions made based upon the
+  information provided on this web site or in any event transcript users are
+  advised to review the applicable companys conference call itself and the
+  applicable companys sec filings before making any investment or other
+  decisions ©two thousand and twentysix lseg all rights reserved sixteen million
+  seven hundred and fifteen thousand one hundred and eightyfourtwo thousand and
+  twentysixfour17t05thirteenfiftysix point one nine three twenty lseg
+  streetevents wwwlsegcom contact us ©two thousand and twentysix lseg all rights
+  reserved republication or redistribution of lseg content including by framing
+  or similar means is prohibited without the prior written consent of lseg lseg
+  and the lseg logo are registered trademarks of lseg and its affiliated
+  companies april sixteen two thousand and twentysix six00am two thousand three
+  hundred and thirtytw q1 two thousand and twentysix taiwan semiconductor
+  manufacturing co ltd earnings call chinese english
+  WHISPER:  thank you thank you

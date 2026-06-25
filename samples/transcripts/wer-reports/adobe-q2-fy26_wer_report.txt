@@ -1,0 +1,1869 @@
+WER: 25.8%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 11659
+Whisper word count: 9706
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+corrected transcript oneeight hundred and seventysevenfactset wwwcallstreetcom
+total pages twenty copyright © two thousand and onetwo thousand and twentysix
+factset callstreet llc eleven jun two thousand and twentysix adobe inc adbe q2
+two thousand and twentysix earnings call adobe inc adbe q2 two thousand and
+twentysix earnings call corrected transcript elevenjuntwo thousand and twentysix
+oneeight hundred and seventysevenfactset wwwcallstreetcom two copyright © two
+thousand and onetwo thousand and twentysix factset callstreet llc corporate
+participants doug clark vice presidentinvestor relations adobe inc shantanu
+narayen chair chief executive officer adobe inc david wadhwani
+presidentcreativity productivity business adobe inc anil chakravarthy
+presidentcustomer experience orchestration business adobe inc steve day senior
+vice presidentcorporate finance chief financial officer customer experience
+orchestration business unit adobe inc other participants michael turrin analyst
+wells far
+
+WHISPER (first 1000 chars):
+you good day and welcome to the q2 fy session i would like to turn the
+conference over to doug clark vice president of investor relations please go
+ahead good afternoon and thank you for joining us with me on the call today are
+chantanu narayan adobes chair and ceo david wadwani president of creativity and
+productivity anil chakravarti president of customer experience orchestration and
+steve day senior vice president corporate finance and cfo of customer experience
+orchestration on this call which is being recorded we will discuss adobes second
+quarter fiscal year two thousand and twentysix financial results you can find
+our press release as well as pdfs of our prepared remarks and financial results
+on adobes investor relations website the information discussed on this call
+including our financial targets and product plans is as of today june eleven and
+contains forwardlooking statements that involve risk uncertainty and assumptions
+actual results may differ materially from those set f
+
+ALIGNED DIFFERENCES (all 463, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: corrected transcript oneeight hundred and seventysevenfactset
+  wwwcallstreetcom total pages twenty copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc eleven jun two thousand and
+  twentysix adobe inc adbe q2 two thousand and twentysix earnings call adobe inc
+  adbe q2 two thousand and twentysix earnings call corrected transcript
+  elevenjuntwo thousand and twentysix oneeight hundred and seventysevenfactset
+  wwwcallstreetcom two copyright © two thousand and onetwo thousand and
+  twentysix factset callstreet llc corporate participants doug clark vice
+  presidentinvestor relations adobe inc shantanu narayen chair chief executive
+  officer adobe inc david wadhwani presidentcreativity productivity business
+  adobe inc anil chakravarthy presidentcustomer experience orchestration
+  business adobe inc steve day senior vice presidentcorporate finance chief
+  financial officer customer experience orchestration business unit adobe inc
+  other participants michael turrin analyst wells fargo securities llc alex
+  zukin analyst wolfe research llc matthew swanson analyst rbc capital markets
+  llc brad zelnick analyst deutsche bank securities inc billy fitzsimmons
+  analyst piper sandler co kirk materne analyst evercore isi brent thill analyst
+  jefferies llc saket kalia analyst barclays capital inc management discussion
+  section operator
+  WHISPER:  you
+
+[2]
+  OFFICIAL: two thousand and twentysix adobe earnings conference call todays
+  conference is being recorded at this time id
+  WHISPER:  session i would
+
+[3]
+  OFFICIAL: doug clark vice presidentinvestor relations adobe inc
+
+[4]
+  OFFICIAL: shantanu narayen
+  WHISPER:  chantanu narayan
+
+[5]
+  OFFICIAL: wadhwani
+  WHISPER:  wadwani
+
+[6]
+  WHISPER:  and
+
+[7]
+  OFFICIAL: chakravarthy
+  WHISPER:  chakravarti
+
+[8]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom three copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[9]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[10]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[11]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[12]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[13]
+  OFFICIAL: in
+  WHISPER:  and
+
+[14]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[15]
+  OFFICIAL: shantanu shantanu narayen chair chief executive officer adobe inc
+  WHISPER:  shontanu
+
+[16]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[17]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[18]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[19]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[20]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[21]
+  OFFICIAL: record top line
+  WHISPER:  recordopline
+
+[22]
+  OFFICIAL: disciplined
+  WHISPER:  discipline
+
+[23]
+  WHISPER:  and
+
+[24]
+  WHISPER:  and
+
+[25]
+  WHISPER:  and
+
+[26]
+  WHISPER:  and
+
+[27]
+  OFFICIAL: first half
+  WHISPER:  firsthalf
+
+[28]
+  OFFICIAL: aicoding
+  WHISPER:  ai coding
+
+[29]
+  OFFICIAL: there is
+  WHISPER:  theres
+
+[30]
+  WHISPER:  and
+
+[31]
+  OFFICIAL: weve
+  WHISPER:  we have
+
+[32]
+  OFFICIAL: mau
+  WHISPER:  mile
+
+[33]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[34]
+  OFFICIAL: in
+  WHISPER:  and
+
+[35]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom four copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[36]
+  OFFICIAL: consumers
+  WHISPER:  and consumer
+
+[37]
+  OFFICIAL: yearover
+  WHISPER:  year over
+
+[38]
+  OFFICIAL: mau
+  WHISPER:  mile
+
+[39]
+  OFFICIAL: mau
+  WHISPER:  mile
+
+[40]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[41]
+  OFFICIAL: semantic
+  WHISPER:  the mantic
+
+[42]
+  OFFICIAL: quarterover
+  WHISPER:  quarter over
+
+[43]
+  OFFICIAL: bestofbreed
+  WHISPER:  best of breed
+
+[44]
+  OFFICIAL: agentic
+  WHISPER:  a gentic
+
+[45]
+  OFFICIAL: designed
+  WHISPER:  design
+
+[46]
+  OFFICIAL: outcomebased
+  WHISPER:  outcome based
+
+[47]
+  OFFICIAL: people
+  WHISPER:  peoples
+
+[48]
+  OFFICIAL: spend
+  WHISPER:  span
+
+[49]
+  OFFICIAL: theyre
+  WHISPER:  they
+
+[50]
+  OFFICIAL: inhouse
+  WHISPER:  in house
+
+[51]
+  OFFICIAL: deployment
+  WHISPER:  development
+
+[52]
+  OFFICIAL: aifirst
+  WHISPER:  ai first
+
+[53]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[54]
+  OFFICIAL: categorydefining
+  WHISPER:  category defining
+
+[55]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom five copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[56]
+  OFFICIAL: aem
+  WHISPER:  eem
+
+[57]
+  OFFICIAL: cannes lions
+  WHISPER:  canlions
+
+[58]
+  OFFICIAL: genstudio
+  WHISPER:  gen studio
+
+[59]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[60]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[61]
+  OFFICIAL: aifirst
+  WHISPER:  ai first
+
+[62]
+  OFFICIAL: acrobat
+  WHISPER:  adobe
+
+[63]
+  OFFICIAL: doubledigit
+  WHISPER:  double digit
+
+[64]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[65]
+  OFFICIAL: durn
+  WHISPER:  dern
+
+[66]
+  OFFICIAL: two thousand and
+
+[67]
+  OFFICIAL: david wadhwani presidentcreativity productivity business adobe inc
+
+[68]
+  OFFICIAL: shantanu
+  WHISPER:  shantu
+
+[69]
+  OFFICIAL: audience
+  WHISPER:  audiences
+
+[70]
+  OFFICIAL: and
+  WHISPER:  in
+
+[71]
+  OFFICIAL: our
+
+[72]
+  WHISPER:  and
+
+[73]
+  WHISPER:  and
+
+[74]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[75]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom six copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[76]
+  OFFICIAL: arr
+  WHISPER:  error
+
+[77]
+  OFFICIAL: mau
+  WHISPER:  mal
+
+[78]
+  WHISPER:  and
+
+[79]
+  OFFICIAL: yearover
+  WHISPER:  year over
+
+[80]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[81]
+  OFFICIAL: mau
+  WHISPER:  mal
+
+[82]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[83]
+  OFFICIAL: express
+  WHISPER:  expresss
+
+[84]
+  OFFICIAL: express aifirst
+  WHISPER:  expresss ai first
+
+[85]
+  OFFICIAL: assistants
+  WHISPER:  assistance
+
+[86]
+  OFFICIAL: cudi
+  WHISPER:  cuddy
+
+[87]
+  OFFICIAL: yellin
+  WHISPER:  yellen
+
+[88]
+  OFFICIAL: weiss
+  WHISPER:  wise
+
+[89]
+  WHISPER:  and
+
+[90]
+  OFFICIAL: mau
+  WHISPER:  mow
+
+[91]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[92]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[93]
+  OFFICIAL: mau
+  WHISPER:  mow
+
+[94]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarterrecorded
+
+[95]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[96]
+  OFFICIAL: at scale acrobat
+  WHISPER:  acrobats
+
+[97]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[98]
+  OFFICIAL: court system the church of jesus christ of latterday saints defense
+  information systems agency
+
+[99]
+  WHISPER:  and
+
+[100]
+  WHISPER:  and
+
+[101]
+  OFFICIAL: yearover
+
+[102]
+  OFFICIAL: demand for ai content creation is exploding across ideation
+  generation and semantic editing and generative creative consumption continues
+  to show strong growth
+  WHISPER:  over year
+
+[103]
+  OFFICIAL: ccp
+  WHISPER:  cncp
+
+[104]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[105]
+  OFFICIAL: mau
+  WHISPER:  mao
+
+[106]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter of a quarter
+
+[107]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom seven copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[108]
+  OFFICIAL: claude
+  WHISPER:  clog
+
+[109]
+  WHISPER:  and
+
+[110]
+  OFFICIAL: brandnew
+  WHISPER:  brand new
+
+[111]
+  OFFICIAL: firstofitskind
+  WHISPER:  first of its kind
+
+[112]
+  OFFICIAL: released
+  WHISPER:  release
+
+[113]
+  OFFICIAL: capabilities
+  WHISPER:  issues
+
+[114]
+  OFFICIAL: drove
+  WHISPER:  grow
+
+[115]
+  OFFICIAL: thirdparty
+  WHISPER:  third party
+
+[116]
+  OFFICIAL: kling
+  WHISPER:  cling
+
+[117]
+  OFFICIAL: kling
+  WHISPER:  cling
+
+[118]
+  OFFICIAL: industrialize
+  WHISPER:  industrialized
+
+[119]
+  OFFICIAL: brandsafe
+  WHISPER:  brand safe
+
+[120]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[121]
+  OFFICIAL: cloudnative
+  WHISPER:  cloud native
+
+[122]
+  OFFICIAL: coca cola
+  WHISPER:  cocacola
+
+[123]
+  OFFICIAL: will
+
+[124]
+  OFFICIAL: frictionfree freemium
+  WHISPER:  frictionfreepremium
+
+[125]
+  OFFICIAL: mau
+  WHISPER:  mow
+
+[126]
+  OFFICIAL: trade off
+  WHISPER:  tradeoff
+
+[127]
+  OFFICIAL: anil chakravarthy presidentcustomer experience orchestration
+  business adobe inc
+
+[128]
+  WHISPER:  and
+
+[129]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[130]
+  OFFICIAL: genstudio
+  WHISPER:  gen studio
+
+[131]
+  OFFICIAL: agentic
+  WHISPER:  and agintik
+
+[132]
+  OFFICIAL: genstudio
+  WHISPER:  gen studio
+
+[133]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[134]
+  OFFICIAL: subscription
+  WHISPER:  subscripted
+
+[135]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[136]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[137]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom eight copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[138]
+  OFFICIAL: quadrants
+  WHISPER:  quotrants
+
+[139]
+  OFFICIAL: forrester
+  WHISPER:  forester
+
+[140]
+  OFFICIAL: wins
+  WHISPER:  win
+
+[141]
+  OFFICIAL: dentsu merkle
+  WHISPER:  then sue merkow
+
+[142]
+  OFFICIAL: diriyah
+  WHISPER:  diriya
+
+[143]
+  OFFICIAL: merck sharp dohme
+  WHISPER:  merkshar pandom
+
+[144]
+  OFFICIAL: stellantis
+  WHISPER:  atlantis
+
+[145]
+  OFFICIAL: customer
+  WHISPER:  our
+
+[146]
+  OFFICIAL: clevel
+  WHISPER:  threelevel
+
+[147]
+  OFFICIAL: nemoclaw
+  WHISPER:  nemo claw
+
+[148]
+  OFFICIAL: policy governed openshell
+  WHISPER:  policygoverned open shell
+
+[149]
+  OFFICIAL: dentsu
+  WHISPER:  denzoo
+
+[150]
+  OFFICIAL: omnicom publicis
+  WHISPER:  amnikam publises
+
+[151]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom nine copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc steve day senior vice
+  presidentcorporate finance chief financial officercustomer experience
+  orchestration business unit adobe inc
+
+[152]
+  OFFICIAL: fy two thousand and twentysix highlighting growth drivers across our
+  customer groups and ill finish with our financial targets in q2 adobe achieved
+  record revenue of six point six two billion growing thirteen yearoveryear as
+  reported and eleven in constant currency diluted earnings per share was four
+  point two five on a gaap basis and five point nine six on a nongaap basis our
+  gaap results reflected a seventy million or zero point one seven per share of
+  a noncash goodwill impairment charge related to our publishing advertising
+  reporting unit q2 financial highlights included total adobe ending arr of
+  twentyseven point one billion growing twelve point five yearoveryear including
+  approximately four hundred and eighty million from the acquisition of semrush
+  total customer group subscription revenue of six point three nine billion
+  growing fourteen yearoveryear or twelve in constant currency including
+  approximately forty million from the addition of semrush rpo of twentytwo
+  point two seven billion exiting the quarter with rpo and crpo both growing
+  thirteen yearoveryear or twelve in constant currency cash flows from
+  operations in the quarter were two point one seven billion and ending cash and
+  shortterm investments exiting q2 was five point six three billion and
+  repurchasing approximately eight point five million shares of our stock during
+  the quarter exiting q2 we have approximately twentyseven billion remaining
+  under our authorizations including the new twentyfive billion authorization
+  announced in april customer group results and insights business professionals
+  consumers subscription revenue was one point eight five billion increasing
+  sixteen yearoveryear as reported or fifteen in constant currency q2 growth
+  drivers for business professionals consumers included sustained doubledigit
+  ending arr yearoveryear growth across all geographies acrobat and express mau
+  surpassed eight hundred and fifty million growing approximately twenty
+  yearoveryear acrobat ai assistant arr growing approximately 3x yearoveryear
+  and strong performance in the enterprise across both commercial and government
+  creative marketing professionals subscription revenue was four point five four
+  billion increasing thirteen yearoveryear or eleven in constant currency
+  WHISPER:  fy26 thank you thank you
+
+[153]
+  WHISPER:  and
+
+[154]
+  OFFICIAL: mau
+  WHISPER:  mal
+
+[155]
+  OFFICIAL: crossed
+  WHISPER:  across
+
+[156]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[157]
+  OFFICIAL: genstudio
+  WHISPER:  gen studio
+
+[158]
+  OFFICIAL: yearoveryear enterprise
+  WHISPER:  year over year previous
+
+[159]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[160]
+  OFFICIAL: macroeconomic
+  WHISPER:  macro economic
+
+[161]
+  OFFICIAL: yeartodate
+  WHISPER:  year to date
+
+[162]
+  OFFICIAL: fullyear
+  WHISPER:  full year
+
+[163]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[164]
+  OFFICIAL: fy two thousand and twentysix
+  WHISPER:  fy26
+
+[165]
+  OFFICIAL: billion
+
+[166]
+  WHISPER:  and
+
+[167]
+  OFFICIAL: billion
+
+[168]
+  WHISPER:  and
+
+[169]
+  OFFICIAL: professionals
+  WHISPER:  professional
+
+[170]
+  OFFICIAL: billion
+
+[171]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[172]
+  OFFICIAL: fy two thousand and twentysix
+  WHISPER:  fy26
+
+[173]
+  OFFICIAL: gaap
+  WHISPER:  app
+
+[174]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[175]
+  OFFICIAL: fy two thousand and twentysix
+  WHISPER:  fy26
+
+[176]
+  OFFICIAL: nongaap
+  WHISPER:  a nongap
+
+[177]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[178]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[179]
+  OFFICIAL: our fy two thousand and twentysix
+  WHISPER:  fy26
+
+[180]
+  OFFICIAL: mau freemium
+  WHISPER:  mow premium
+
+[181]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom ten copyright © two thousand and onetwo
+  thousand and twentysix factset callstreet llc
+
+[182]
+  OFFICIAL: fy two thousand and twentysix
+  WHISPER:  fy26
+
+[183]
+  OFFICIAL: billion
+
+[184]
+  WHISPER:  and
+
+[185]
+  OFFICIAL: billion
+
+[186]
+  OFFICIAL: creative
+  WHISPER:  government
+
+[187]
+  OFFICIAL: professionals
+  WHISPER:  professional
+
+[188]
+  OFFICIAL: billion
+
+[189]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[190]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[191]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[192]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[193]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[194]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[195]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc
+
+[196]
+  OFFICIAL: road map
+  WHISPER:  roadmap
+
+[197]
+  OFFICIAL: im
+  WHISPER:  i am
+
+[198]
+  OFFICIAL: what
+  WHISPER:  it
+
+[199]
+  OFFICIAL: technology is
+  WHISPER:  technologies
+
+[200]
+  OFFICIAL: question and answer section operator
+
+[201]
+  OFFICIAL: operator instructions and
+  WHISPER:  if you would like to signal with questions please press star one on
+  your touch tone telephone if youre joining us today using a speaker phone
+  please make sure mute function is turned off to allow your signal to reach our
+  equipment again that is star one if you would like to signal with questions
+
+[202]
+  OFFICIAL: turrin
+  WHISPER:  turin
+
+[203]
+  OFFICIAL: michael turrin analyst wells fargo securities llc q hey great
+
+[204]
+  WHISPER:  i
+
+[205]
+  OFFICIAL: and
+
+[206]
+  OFFICIAL: just realize
+  WHISPER:  it realized
+
+[207]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[208]
+  OFFICIAL: field
+  WHISPER:  feel
+
+[209]
+  OFFICIAL: just
+
+[210]
+  OFFICIAL: so maybe
+
+[211]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[212]
+  OFFICIAL: and
+
+[213]
+  OFFICIAL: finance
+  WHISPER:  financial
+
+[214]
+  OFFICIAL: top notch so
+  WHISPER:  topnotch
+
+[215]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom eleven copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc
+
+[216]
+  OFFICIAL: a
+  WHISPER:  an
+
+[217]
+  OFFICIAL: and
+
+[218]
+  OFFICIAL: all
+
+[219]
+  WHISPER:  last
+
+[220]
+  OFFICIAL: michael turrin analyst wells fargo securities llc q and
+
+[221]
+  OFFICIAL: thats
+  WHISPER:  that is
+
+[222]
+  OFFICIAL: sets
+  WHISPER:  set
+
+[223]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[224]
+  WHISPER:  i mean
+
+[225]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[226]
+  OFFICIAL: mau
+  WHISPER:  mao
+
+[227]
+  WHISPER:  you know
+
+[228]
+  OFFICIAL: been
+  WHISPER:  being
+
+[229]
+  OFFICIAL: mau
+  WHISPER:  mao
+
+[230]
+  WHISPER:  you know
+
+[231]
+  OFFICIAL: will
+  WHISPER:  well
+
+[232]
+  WHISPER:  you know
+
+[233]
+  WHISPER:  you know
+
+[234]
+  OFFICIAL: freemium
+  WHISPER:  premium
+
+[235]
+  OFFICIAL: michael turrin analyst wells fargo securities llc q
+  WHISPER:  i
+
+[236]
+  OFFICIAL: candor in
+  WHISPER:  camera
+
+[237]
+  OFFICIAL: shantanu shantanu narayen chair chief executive officer adobe inc a
+  WHISPER:  chuck
+
+[238]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom twelve copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc operator
+
+[239]
+  OFFICIAL: zukin
+  WHISPER:  zuchen
+
+[240]
+  OFFICIAL: wolfe
+  WHISPER:  wolf
+
+[241]
+  OFFICIAL: alex zukin analyst wolfe research llc q
+
+[242]
+  WHISPER:  i
+
+[243]
+  OFFICIAL: and
+  WHISPER:  i
+
+[244]
+  OFFICIAL: at
+
+[245]
+  OFFICIAL: mau
+  WHISPER:  mal
+
+[246]
+  OFFICIAL: –
+
+[247]
+  OFFICIAL: of
+
+[248]
+  OFFICIAL: so
+  WHISPER:  or
+
+[249]
+  OFFICIAL: just
+
+[250]
+  OFFICIAL: why
+  WHISPER:  wide
+
+[251]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[252]
+  WHISPER:  i mean
+
+[253]
+  OFFICIAL: – when we take a
+  WHISPER:  so lets
+
+[254]
+  OFFICIAL: acrobat express
+  WHISPER:  acrobatics press
+
+[255]
+  OFFICIAL: david wadhwani presidentcreativity productivity business adobe inc a
+  yeah and maybe alex
+
+[256]
+  OFFICIAL: shantanu
+  WHISPER:  chanten
+
+[257]
+  WHISPER:  is
+
+[258]
+  OFFICIAL: –
+
+[259]
+  OFFICIAL: right
+
+[260]
+  OFFICIAL: anils semrush
+  WHISPER:  the some rush
+
+[261]
+  OFFICIAL: summarize
+  WHISPER:  a summarized
+
+[262]
+  WHISPER:  we take them
+
+[263]
+  WHISPER:  have and
+
+[264]
+  OFFICIAL: paywall
+  WHISPER:  paywalls
+
+[265]
+  OFFICIAL: long term
+  WHISPER:  longterm
+
+[266]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom thirteen copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc
+
+[267]
+  OFFICIAL: seosem
+  WHISPER:  seo sem
+
+[268]
+  OFFICIAL: shantanu
+  WHISPER:  sean just
+
+[269]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[270]
+  OFFICIAL: mau
+  WHISPER:  amount of
+
+[271]
+  WHISPER:  and
+
+[272]
+  OFFICIAL: that
+  WHISPER:  with
+
+[273]
+  OFFICIAL: alex zukin analyst wolfe research llc q
+
+[274]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[275]
+  OFFICIAL: postponement
+  WHISPER:  post statement
+
+[276]
+  OFFICIAL: driving
+  WHISPER:  grinding
+
+[277]
+  OFFICIAL: zero point five
+  WHISPER:  a half a
+
+[278]
+  WHISPER:  dollar
+
+[279]
+  OFFICIAL: that
+  WHISPER:  thats
+
+[280]
+  OFFICIAL: youre –
+  WHISPER:  your
+
+[281]
+  OFFICIAL: successful strategy
+  WHISPER:  success was trying to do
+
+[282]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[283]
+  WHISPER:  you know
+
+[284]
+  WHISPER:  you know
+
+[285]
+  OFFICIAL: phase
+  WHISPER:  face
+
+[286]
+  OFFICIAL: –
+
+[287]
+  OFFICIAL: freemium
+  WHISPER:  premium
+
+[288]
+  WHISPER:  you know
+
+[289]
+  WHISPER:  you know
+
+[290]
+  OFFICIAL: freemium
+  WHISPER:  premium
+
+[291]
+  WHISPER:  you know
+
+[292]
+  OFFICIAL: mau
+  WHISPER:  amount
+
+[293]
+  WHISPER:  you know
+
+[294]
+  WHISPER:  are you know
+
+[295]
+  OFFICIAL: –
+  WHISPER:  you know
+
+[296]
+  WHISPER:  you know
+
+[297]
+  WHISPER:  you know
+
+[298]
+  OFFICIAL: two thousand and
+
+[299]
+  OFFICIAL: two thousand and
+
+[300]
+  WHISPER:  you know
+
+[301]
+  OFFICIAL: ph
+
+[302]
+  WHISPER:  you know
+
+[303]
+  OFFICIAL: trend
+  WHISPER:  strength
+
+[304]
+  OFFICIAL: wanted
+  WHISPER:  want it
+
+[305]
+  OFFICIAL: adobe inc adbe q2 two thousand
+
+[306]
+  OFFICIAL: twentysix earnings call corrected transcript elevenjuntwo thousand
+  and twentysix oneeight hundred and seventysevenfactset wwwcallstreetcom
+  fourteen copyright © two thousand and onetwo thousand and twentysix factset
+  callstreet llc operator operator instructions
+  WHISPER:  once again if you would like to signal with questions please press
+  star one on your touch tone telephone additionally please limit yourself to
+  one question
+
+[307]
+  OFFICIAL: from
+  WHISPER:  for
+
+[308]
+  OFFICIAL: matthew swanson analyst rbc capital markets llc q
+
+[309]
+  OFFICIAL: cannes
+  WHISPER:  can
+
+[310]
+  WHISPER:  to
+
+[311]
+  OFFICIAL: anil chakravarthy presidentcustomer experience orchestration
+  business adobe inc a
+
+[312]
+  WHISPER:  you know
+
+[313]
+  WHISPER:  in
+
+[314]
+  OFFICIAL: llms consumers
+  WHISPER:  llm customers
+
+[315]
+  OFFICIAL: on
+  WHISPER:  and
+
+[316]
+  OFFICIAL: thirdparty
+  WHISPER:  third party
+
+[317]
+  WHISPER:  the
+
+[318]
+  OFFICIAL: and
+
+[319]
+  WHISPER:  i believe
+
+[320]
+  OFFICIAL: matthew swanson analyst rbc capital markets llc q
+
+[321]
+  OFFICIAL: operator and
+
+[322]
+  OFFICIAL: brad zelnick analyst deutsche bank securities inc q
+
+[323]
+  OFFICIAL: david wadhwani presidentcreativity productivity business adobe inc a
+
+[324]
+  WHISPER:  brad i think its a there
+
+[325]
+  OFFICIAL: anil
+  WHISPER:  theyll
+
+[326]
+  OFFICIAL: introduced
+  WHISPER:  introduce to us
+
+[327]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom fifteen copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc
+
+[328]
+  OFFICIAL: create a
+
+[329]
+  OFFICIAL: endpoint
+  WHISPER:  endpoints
+
+[330]
+  OFFICIAL: –
+  WHISPER:  to
+
+[331]
+  OFFICIAL: chatgpt
+  WHISPER:  chat gpt
+
+[332]
+  WHISPER:  a
+
+[333]
+  OFFICIAL: so
+
+[334]
+  OFFICIAL: endtoend
+  WHISPER:  end to end
+
+[335]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a and
+
+[336]
+  OFFICIAL: nano banana
+  WHISPER:  nanobanana
+
+[337]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[338]
+  OFFICIAL: were
+  WHISPER:  where
+
+[339]
+  OFFICIAL: brad zelnick analyst deutsche bank securities inc q
+
+[340]
+  OFFICIAL: operator
+
+[341]
+  OFFICIAL: fitzsimmons
+  WHISPER:  fitzimmons
+
+[342]
+  OFFICIAL: billy fitzsimmons analyst piper sandler co q adobe inc adbe q2 two
+  thousand and twentysix earnings call corrected transcript elevenjuntwo
+  thousand and twentysix oneeight hundred and seventysevenfactset
+  wwwcallstreetcom sixteen copyright © two thousand and onetwo thousand and
+  twentysix factset callstreet llc
+
+[343]
+  WHISPER:  and
+
+[344]
+  WHISPER:  the
+
+[345]
+  OFFICIAL: moats in
+  WHISPER:  boats and
+
+[346]
+  OFFICIAL: back to
+  WHISPER:  that this
+
+[347]
+  WHISPER:  being you know
+
+[348]
+  OFFICIAL: auditability
+  WHISPER:  on ability
+
+[349]
+  OFFICIAL: of
+  WHISPER:  about
+
+[350]
+  OFFICIAL: repurchase
+  WHISPER:  repurchased
+
+[351]
+  OFFICIAL: –
+
+[352]
+  WHISPER:  in the end
+
+[353]
+  OFFICIAL: tuckin
+  WHISPER:  tuck in
+
+[354]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[355]
+  WHISPER:  you know
+
+[356]
+  OFFICIAL: well
+  WHISPER:  we will
+
+[357]
+  WHISPER:  you know
+
+[358]
+  WHISPER:  dollar
+
+[359]
+  WHISPER:  dollar
+
+[360]
+  WHISPER:  you know
+
+[361]
+  WHISPER:  you know
+
+[362]
+  WHISPER:  you know
+
+[363]
+  OFFICIAL: our
+  WHISPER:  a
+
+[364]
+  OFFICIAL: buy back
+  WHISPER:  buyback
+
+[365]
+  OFFICIAL: semrush
+  WHISPER:  temrush
+
+[366]
+  WHISPER:  you know
+
+[367]
+  WHISPER:  you know
+
+[368]
+  OFFICIAL: and
+  WHISPER:  in
+
+[369]
+  OFFICIAL: focused
+  WHISPER:  you know focus
+
+[370]
+  OFFICIAL: on
+
+[371]
+  WHISPER:  you know
+
+[372]
+  OFFICIAL: and to
+  WHISPER:  into
+
+[373]
+  OFFICIAL: in
+  WHISPER:  an
+
+[374]
+  OFFICIAL: in
+  WHISPER:  an
+
+[375]
+  OFFICIAL: in
+  WHISPER:  an
+
+[376]
+  OFFICIAL: so thats how i would describe our differentiation anybody who wants
+  to create content and use it for marketing thats adobe operator and our next
+  question will come from kirk materne with evercore isi kirk materne analyst
+  evercore isi q yeah thanks for taking the question i guess this ones maybe for
+  david david when we think about this push into freemium and changing that up a
+  little bit i guess how do
+
+[377]
+  OFFICIAL: get comfortable on sort of the longterm adobe inc adbe q2 two
+  thousand and twentysix earnings call corrected transcript elevenjuntwo
+  thousand and twentysix oneeight hundred and seventysevenfactset
+  wwwcallstreetcom seventeen copyright © two thousand and onetwo thousand and
+  twentysix factset callstreet llc economics in terms of lifetime value i guess
+  what are
+
+[378]
+  OFFICIAL: seeing in terms of those customers going through sort of a gestation
+  period then monetizing over a certain period of time can
+
+[379]
+  OFFICIAL: add some more color to that because i get the idea of adding a lot
+  more new users to the platform but just trying to get a sense on how you guys
+  get comfort about sort of the stickiness of those users after a certain period
+  of time and the ultimate monetization opportunity thanks david wadhwani
+  presidentcreativity productivity business adobe inc a yeah happy to take that
+  again just the foundation of the press here really starts with understanding
+  user intent and user behavior as i mentioned in the example of that transition
+  to increasing intentbased expression when theyre searching that just gives us
+  an opportunity to massively open up the top of funnel which youre starting to
+  see with the over forty increase in traffic to adobecom through those
+  activities and if you think about the journey the user goes from they go from
+  searching directly to using our product which does result – and we see that in
+  our stats that results in higher engagement which you then start to see in
+  terms of monthly active user growth and what we see is on the back end of that
+  when they convert to a paid user they tend to have much higher engagement and
+  usage patterns than those that go directly into paid which translates into
+  lifetime value and longterm value for the company and in terms of why now
+  again that question was asked earlier why now because we see all the right
+  signals right the product is there we see the traffic is up forty yearoveryear
+  we see the strong
+
+[380]
+  OFFICIAL: mau
+  WHISPER:  now
+
+[381]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[382]
+  OFFICIAL: arr
+  WHISPER:  into a our
+
+[383]
+  OFFICIAL: arr
+  WHISPER:  air our
+
+[384]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[385]
+  OFFICIAL: opportunity is
+  WHISPER:  opportunities
+
+[386]
+  WHISPER:  the you know
+
+[387]
+  WHISPER:  ours to
+
+[388]
+  OFFICIAL: operator
+
+[389]
+  OFFICIAL: thill
+  WHISPER:  feel
+
+[390]
+  OFFICIAL: jefferies brent thill analyst jefferies llc q shantanu
+  WHISPER:  jeffries sean
+
+[391]
+  WHISPER:  you know
+
+[392]
+  OFFICIAL: tectonic
+  WHISPER:  iconic
+
+[393]
+  OFFICIAL: boat
+  WHISPER:  mode
+
+[394]
+  OFFICIAL: and
+
+[395]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a yeah
+
+[396]
+  WHISPER:  you know
+
+[397]
+  OFFICIAL: –
+
+[398]
+  WHISPER:  you know
+
+[399]
+  WHISPER:  i
+
+[400]
+  WHISPER:  you know
+
+[401]
+  OFFICIAL: shortterm
+  WHISPER:  short term
+
+[402]
+  WHISPER:  you know
+
+[403]
+  WHISPER:  and
+
+[404]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom eighteen copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc
+
+[405]
+  WHISPER:  this is
+
+[406]
+  OFFICIAL: anils
+  WHISPER:  you know annals
+
+[407]
+  WHISPER:  you know
+
+[408]
+  OFFICIAL: brent thill analyst jefferies llc q
+
+[409]
+  OFFICIAL: operator
+
+[410]
+  OFFICIAL: saket kalia
+  WHISPER:  sakkalia
+
+[411]
+  OFFICIAL: saket kalia analyst barclays capital inc q
+
+[412]
+  WHISPER:  you know
+
+[413]
+  OFFICIAL: shantanu
+  WHISPER:  for shotnoo and and
+
+[414]
+  OFFICIAL: if
+  WHISPER:  you know as as
+
+[415]
+  WHISPER:  its
+
+[416]
+  WHISPER:  and i
+
+[417]
+  WHISPER:  is that some of
+
+[418]
+  WHISPER:  like
+
+[419]
+  WHISPER:  can
+
+[420]
+  WHISPER:  that
+
+[421]
+  WHISPER:  you know the you know
+
+[422]
+  WHISPER:  the
+
+[423]
+  OFFICIAL: than
+  WHISPER:  then you know
+
+[424]
+  OFFICIAL: david wadhwani presidentcreativity productivity business adobe inc a
+
+[425]
+  OFFICIAL: saket
+  WHISPER:  sakkalia
+
+[426]
+  WHISPER:  for
+
+[427]
+  WHISPER:  you know
+
+[428]
+  WHISPER:  and
+
+[429]
+  WHISPER:  you know
+
+[430]
+  OFFICIAL: and
+
+[431]
+  OFFICIAL: mobile
+  WHISPER:  mold
+
+[432]
+  WHISPER:  free
+
+[433]
+  WHISPER:  over the
+
+[434]
+  OFFICIAL: mau
+  WHISPER:  out
+
+[435]
+  WHISPER:  a
+
+[436]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom nineteen copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc
+
+[437]
+  WHISPER:  with
+
+[438]
+  WHISPER:  for
+
+[439]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc a
+
+[440]
+  OFFICIAL: saket
+  WHISPER:  sakith
+
+[441]
+  WHISPER:  you know
+
+[442]
+  WHISPER:  you know
+
+[443]
+  WHISPER:  yeah
+
+[444]
+  WHISPER:  you know
+
+[445]
+  WHISPER:  you know
+
+[446]
+  WHISPER:  i
+
+[447]
+  WHISPER:  you know
+
+[448]
+  OFFICIAL: in
+  WHISPER:  and
+
+[449]
+  WHISPER:  you know
+
+[450]
+  WHISPER:  would
+
+[451]
+  WHISPER:  i
+
+[452]
+  OFFICIAL: shantanu narayen chair chief executive officer adobe inc
+
+[453]
+  OFFICIAL: –
+
+[454]
+  WHISPER:  you know
+
+[455]
+  WHISPER:  you know
+
+[456]
+  WHISPER:  you know
+
+[457]
+  WHISPER:  you know
+
+[458]
+  WHISPER:  you know
+
+[459]
+  WHISPER:  you know
+
+[460]
+  OFFICIAL: cannes
+  WHISPER:  can you know
+
+[461]
+  OFFICIAL: adobe inc adbe q2 two thousand and twentysix earnings call corrected
+  transcript elevenjuntwo thousand and twentysix oneeight hundred and
+  seventysevenfactset wwwcallstreetcom twenty copyright © two thousand and
+  onetwo thousand and twentysix factset callstreet llc operator
+
+[462]
+  OFFICIAL: disclaimer the information herein is based on sources we believe to
+  be reliable but is not guaranteed by us and does not purport to be a complete
+  or error free statement or summary of the available data as such we do not
+  warrant endorse or guarantee the completeness accuracy integrity or timeliness
+  of the information
+
+[463]
+  OFFICIAL: must evaluate and bear all risks associated with the use of any
+  information provided hereunder including any reliance on the accuracy
+  completeness safety or usefulness of such informatio n this information is not
+  intended to be used as the primary basis of investment decisions it should not
+  be construed as advice designed to meet the particular investment needs of any
+  investor this re port is published solely for information purposes and is not
+  to be construed as financial or other advice or as an offer to sell o r the
+  solicitation of an offer to buy any security in any state where such an offer
+  or solicitation would be illegal any information expressed herein on this date
+  is subject to change without notice any opinions or assertions contained in
+  this i nformation do not represent the opinions or beliefs of factset
+  callstreet llc factset callstreet llc or one or more of its employees
+  including the writer of this report may have a po sition in any of the
+  securities discussed herein the information provided t o you hereunder is
+  provided as is and to the maximum extent permitted by applicable law factset
+  callstreet llc and its l icensors business associates and suppliers disclaim
+  all warranties with respect to the same express implied and statutory inclu
+  ding without limitation any implied warranties of merchantability fitness for
+  a particular purpose accuracy completeness and non infringement to the maximum
+  extent permitted by applicable law neither factset callstreet llc nor its
+  officers members directors partners affiliates business associates licensors
+  or suppliers will be liable for any indirect incidental special consequential
+  or punitive damages including without limitation damages for lost profits or
+  re venues goodwill work stoppag e security breaches viruses computer failure
+  or malfunction use data or other intangible losses or commercial damages even
+  if any of such parties is advised of the possibility of such losses arising
+  under or in connection with the information provid ed herein or any other
+  subject matter hereof the contents and appearance of this report are
+  copyrighted factset callstreet llc two thousand and twentysix callstreet and
+  factset callstreet llc are trademarks and service marks of factset callstreet
+  llc all other trademarks mentioned are trademarks of their respective
+  companies all rights reserved

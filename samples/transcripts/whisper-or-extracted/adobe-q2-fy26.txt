@@ -1,0 +1,964 @@
+[00:00] you
+[00:30] .
+[00:37] .
+[00:44] .
+[00:49] Good day and welcome to the Q2 FY
+[00:58] session.
+
+[01:00] I would like to turn the conference over to Doug Clark, Vice President of
+[01:04] Investor Relations.
+[01:06] Please go ahead.
+[01:08] Good afternoon and thank you for joining us.
+[01:11] With me on the call today are Chantanu Narayan, Adobe's chair and CEO, David
+[01:16] Wadwani, President of Creativity and Productivity, Anil Chakravarti, President of
+
+[01:21] Customer Experience Orchestration, and Steve Day, Senior Vice President, Corporate
+[01:26] Finance and CFO of Customer Experience Orchestration.
+[01:30] On this call, which is being recorded, we will discuss Adobe's second quarter
+[01:34] fiscal year 2026 financial results.
+[01:37] You can find our press release as well as PDFs of our prepared remarks and
+[01:41] financial results on Adobe's Investor Relations website.
+
+[01:45] The information discussed on this call, including our financial targets and
+[01:48] product plans, is as of today, June 11, and contains forward-looking statements
+[01:53] that involve risk, uncertainty, and assumptions.
+[01:56] Actual results may differ materially from those set forth in these statements.
+[02:00] For more information on those risks, please review today's earnings release
+[02:04] and Adobe's SEC filings.
+
+[02:07] On this call, we will discuss gap and non-gap financial measures.
+[02:10] Our reported results include gap growth rates and non-gap growth rates,
+[02:14] including constant currency rates.
+[02:16] During this presentation, Adobe's executives will refer to revenue growth
+[02:20] and constant currency rates unless otherwise stated.
+[02:23] Non-gap reconciliations are available in our earnings release and on
+
+[02:27] Adobe's Investor Relations website.
+[02:29] I will now turn the call over to Shontanu.
+[02:32] Thanks, Doug.
+[02:34] Good afternoon, everyone, and thank you for joining us.
+[02:37] We achieved $6.62 billion in revenue in Q2, representing 11% year over year
+[02:44] growth.
+
+[02:46] Gap earnings per share for the quarter was $4.25, representing 8% year over year
+[02:53] growth, and non-gap earnings per share was $5.96, representing 18% year over
+[03:00] year growth.
+[03:02] Strong revenue growth was driven by subscription bookings to revenue conversion.
+[03:07] We drove EPS growth through record-opline revenue and discipline
+[03:12] investments across the company.
+
+[03:15] At Adobe, we continue to be driven by our mission to empower everyone to create
+[03:20] and deliver innovative products to delight users based on our customer
+[03:25] strategy.
+[03:26] We're focused on business professionals and consumers, creators and creative
+[03:31] professionals, and marketing professionals.
+[03:34] For business professionals and consumers, we're delivering AI-powered quick and
+
+[03:39] easy apps to stand out through creativity and productivity.
+[03:43] For creators and creative professionals, we're delivering power and
+[03:47] precision to bring creative visions to life across any media type and
+[03:54] surface.
+[03:55] For marketing professionals, we're delivering customer experience
+[03:59] orchestration to create, deliver, and optimize personalized digital experiences.
+
+[04:07] As we reflect on the market context and our first-half performance, it is clear
+[04:12] that relative even to the beginning of fiscal 2026, AI is accelerating
+[04:17] customer behavior at an unprecedented speed, and we need to evolve our
+[04:22] strategy and execution to address these changing expectations.
+[04:28] Much like how developers have embraced and expanded the AI coding market,
+[04:33] there's a transformation underway for how consumers are discovering,
+
+[04:37] experiencing, onboarding, and purchasing products across all categories,
+[04:42] including creativity, productivity, gaming, and entertainment.
+[04:47] As it relates to creativity and productivity, there's an unprecedented
+[04:51] demand across additional surfaces for the combination of content consumption
+[04:56] and content creation.
+[04:58] Conversational interfaces and agents now orchestrate across tools to achieve
+
+[05:02] outcomes faster.
+[05:04] The proliferation of media generation models is reshaping and
+[05:08] democratizing content workflows from ideation through delivery.
+[05:13] AI-first applications that will serve broader audiences need to provide
+[05:19] free, intuitive onboarding that drive usage and monetization through paywalls.
+[05:25] Big picture, the immediate opportunity for Adobe is to accelerate new user
+
+[05:31] acquisition and lifetime value through a freemium offering.
+[05:35] As it relates to business professionals and consumers, we have dramatically
+[05:39] increased acrobat and express mile from greater than 700 million to greater
+[05:44] than 850 million year over year.
+[05:47] The opportunity is to serve billions of business professionals and
+[05:51] consumers through a comprehensive freemium funnel, building on the success
+
+[05:55] of the Adobe Reader model.
+[05:57] Over the last year, we've delivered tremendous innovation across AI
+[06:01] assistant, PDF spaces, express, and conversational interfaces and made
+[06:06] these innovations available across surfaces, including AI mode and reader,
+[06:11] edge, Chrome, and WhatsApp.
+[06:14] Business professional and consumer traffic on adobe.com seeking Adobe capabilities
+
+[06:19] is growing 35% year over year.
+[06:22] We believe this traffic is better served through a customized friction-free
+[06:26] onboarding experience without immediate paywalls and will result in greater
+[06:30] customer acquisition and deeper engagement over time.
+[06:34] Based on the early success and mile adoption of freemium journeys for acrobat and
+[06:39] express, we're ready to expand this experience more aggressively.
+
+[06:44] For next generation creators, the opportunity is to deliver an AI
+[06:48] production studio across web and mobile that seamlessly integrates with the
+[06:53] power and precision capabilities of Creative Cloud.
+[06:56] We have increased our creative freemium mile from 50 million to 90 million
+[07:01] year over year.
+[07:03] The opportunity is to attract hundreds of millions of additional creators
+
+[07:07] through a freemium funnel based on the early success of Firefly.
+[07:12] Over the last year, we have delivered tremendous innovation across ideation
+[07:16] through boards, generation with support for multiple media models, the
+[07:21] Mantic image and video editing, and conversational interfaces that are
+[07:25] available across surfaces, including mobile, web and flagship creative
+[07:30] cloud applications, such as Photoshop, Illustrator, and Premiere.
+
+[07:34] The new personalized journeys for creators drove approximately 50% increase
+[07:39] in Firefly ARR, quarter over quarter, through Firefly apps and credit
+[07:44] packs.
+[07:45] Based on this early success, we are confident that we should expand the
+[07:49] Firefly freemium experience to acquire and delight the next generation of
+[07:54] creatives.
+
+[07:55] Creative Cloud continues to perform well as the best of breed offering for
+[07:59] creative and marketing professionals globally.
+[08:02] While we focus on accelerating creator acquisition through the freemium
+[08:06] Firefly funnel, we have made the decision to defer previously planned
+[08:10] creative cloud second half line optimizations.
+[08:15] As it relates to the customer experience orchestration,
+
+[08:18] a gentic opportunity in the enterprise, marketing professionals are looking
+[08:22] to automate and rapidly create, deliver and personalize content at scale
+[08:26] across every channel in a way that drives customer engagement and elevates
+[08:31] their brand.
+[08:33] Content creation design specifically for marketing use cases is exploding.
+[08:39] New AI coworkers and agents offer organizations the ability to deliver
+
+[08:44] automation and outcomes powered by context, data, MCPs, and skills.
+[08:50] These address the dual needs of enterprises to expand consumer
+[08:55] centricity and cost savings in the era of AI.
+[08:58] Business models are expanding to include consumption and outcome based
+[09:02] pricing along with subscriptions.
+[09:05] The total marketing opportunity across people's software, agency and
+
+[09:09] channel span is enormous.
+[09:12] AI is changing enterprise behavior as they increasingly bringing more
+[09:16] marketing capabilities in house through their adoption of software platforms
+[09:20] and the creation of custom models that uniquely capture their brand
+[09:24] intelligence.
+[09:25] IT organizations are looking to Adobe to accelerate their provisioning,
+
+[09:30] development and customization to serve their consumers through the
+[09:34] availability of headless and agentic capabilities with pricing models that
+[09:39] address outcomes as well as AI usage.
+[09:42] Customer experience orchestration, AI first ARR grew 4x year over year,
+[09:48] reflecting how Adobe is the leader in both the traditional marketing
+[09:52] category and the emerging customer experience orchestration category.
+
+[09:57] The introduction of Adobe CX Enterprise and CX Enterprise co-worker at Adobe
+[10:02] Summit expands the vision and delivery of our category defining CXO solutions.
+[10:09] The successful acquisition of SEMrush unifies our search engine optimization,
+[10:14] generative engine optimization, and EEM solutions to further extend our CXO
+[10:20] offering.
+[10:21] We will deliver this integrated offering that addresses brand visibility at the
+
+[10:26] CanLion's Festival of Creativity later this month.
+[10:31] This combination of creativity and marketing uniquely differentiates Adobe.
+[10:35] No other company brings together what creatives and marketers can do across
+[10:40] our applications and delivery platforms.
+[10:44] Adobe Gen Studio ARR grew over 25% year over year, reflecting enterprise demand
+[10:50] for an end-to-end solution that spans workflow and planning, creation and
+
+[10:55] production, asset management, activation and delivery, and reporting and insights.
+[11:01] Adobe's AI innovation has driven an impressive 3x year over year increase in
+[11:07] AI first ARR to greater than 500 million.
+[11:11] We believe now is the time to aggressively acquire the next generation of Adobe
+[11:15] Loyalists.
+[11:17] The strategic shift to acquire more freemium customers through Adobe and Firefly
+
+[11:22] lowers our second half ARR growth expectations from individual subscribers.
+[11:27] We believe these changes do make Adobe even stronger.
+[11:33] We continue to target double digit total ARR growth for Adobe, which now includes
+[11:38] the SEMrush acquisition.
+[11:40] Based on our strong first half revenue performance and the inclusion of SEMrush,
+[11:45] we are pleased to raise our fiscal year revenue and non-gap EPS targets.
+
+[11:51] As we announced, Dan Dern has decided to pursue a new opportunity outside the
+[11:56] software industry.
+[11:57] I'd like to thank Dan for his contributions to Adobe and wish him well.
+[12:02] I'm pleased that Steve Day, who has been at Adobe for 20 years serving in numerous
+[12:08] financial leadership roles, will serve as interim CFO upon Dan's departure.
+[12:15] I continue to be incredibly energized by Adobe's long-term AI opportunity and
+
+[12:20] the innovative products we are delivering to a broader set of customers.
+[12:24] Given my decision to transition to board chair, I wanted to provide an update on
+[12:30] the CEO search, which is progressing well.
+[12:32] The board has been actively engaged in a comprehensive process.
+[12:36] While we all continue to be ruthlessly focused on driving execution, our goal is to have
+[12:42] Adobe's next CEO in place to put their stamp on planning for fiscal 27 and beyond.
+
+[12:48] I'll now turn it over to David.
+[12:52] Thanks, Shantu. Hello, everyone.
+[12:54] AI is rewriting how the world creates and gets work done, and the audiences for
+[12:59] creativity and productivity tools is bigger now than at any point in our history.
+[13:04] From social creators and students to business professionals in large enterprises,
+[13:08] the opportunity for Adobe is massive.
+
+[13:11] These customers are looking for a range of products from easy-to-use creative tools
+[13:16] to professional levels of power and precision, and are increasingly turning
+[13:20] to conversational experiences to accelerate their work.
+[13:23] Adobe is the only company that has the portfolio breadth to meet this broad range
+[13:28] of creativity and productivity needs.
+[13:30] We see this interest manifest in traffic growth, signaling demand for existing products
+
+[13:35] and accelerating demand for new AI-first experiences.
+[13:39] The demand for these new AI experiences begins with LLM conversations and intent-based searches
+[13:45] and requires immediate gratification, so is best served with friction-free experiences.
+[13:50] This shift in user behavior is playing out across business professionals and consumers
+[13:55] and creators and creative professionals.
+[13:57] While we continue to attract strong traffic to Adobe.com, which grew over 40% year over
+
+[14:03] year, our traditional direct-to-paid journeys may not always fulfill visitor intent.
+[14:08] As a growing number of new users are first looking to quickly complete their intended task,
+[14:14] as they begin their relationship with Adobe.
+[14:17] Given products like Adobe Firefly, Express, and Acrobat AI Assistant have friction-free
+[14:23] onboarding and significant adoption, we can now rebalance our journeys to better serve
+[14:27] this new generation of users, rather than send them predominantly to direct-to-paid journeys.
+
+[14:33] This shift will come at the cost of short-term error, but will accelerate user acquisition
+[14:38] and MAL, while building the foundation for long-term growth by removing friction
+[14:43] from user onboarding, enabling deeper user engagement, and driving stronger lifetime value.
+[14:49] In Q2, subscription revenue for business professionals and consumers was 1.85 billion
+[14:55] growing 15% year over year.
+[14:58] Bp&c traffic grew 35% year over year, with MAL growing from greater than 700 million
+
+[15:05] to greater than 850 million in Q2 year over year.
+[15:09] With significant contributions from AI Assistant, Express's creation, and PDF Spaces sharing.
+[15:15] This quarter, we introduced the Adobe Productivity Agent, shifting Acrobat from a static
+[15:21] document tool to an interactive experience.
+[15:24] The Productivity Agent is an AI experience built into Acrobat that draws on Adobe Acrobat's
+[15:30] document intelligence and Adobe Express's AI first creation capabilities to help business
+
+[15:36] professionals understand, create, and share information.
+[15:40] It can turn documents into rich outputs, like presentations, podcasts, and social content,
+[15:46] support conversational PDF editing, and power the new sharing capabilities in PDF Spaces.
+[15:52] Customers get the agent through Acrobat AI Plans.
+[15:56] Users can also now share branded PDF Spaces with customizable AI Assistance tailored to a specific
+[16:03] audience, whether for sales prospecting, content marketing, or research delivery.
+
+[16:08] Early adopters of PDF Spaces, including Vice Media, Kid Cuddy, Jessica Yellen, and Mindy Wise,
+[16:15] are using PDF Spaces to move audiences from passive reading to interactive engagement.
+[16:21] Additional business professional and consumer highlights include
+[16:24] Acrobat AI Assistant Paid Mow grew over 150% year over year, and lifetime AI users in
+[16:34] Acrobat tripled year over year, showing both monetization traction and broad-based engagement.
+[16:40] Express Mow grew more than 20% quarter-recorded, and Express users in Acrobat exported nine
+
+[16:46] times more content year over year, demonstrating that the integration is driving creative output
+[16:53] Acrobat's student spaces launched this quarter to strong early adoption, the number of higher education
+[16:58] students with access to Express Premium through their schools has grown more than 60% year over year.
+[17:04] And customer wins this quarter include Accenture, Datev, KPMG, Merck, NHL, New York State
+[17:14] and
+[17:18] U.S.
+
+[17:24] Department of Housing and Urban Development.
+[17:29] In Q2, Subscription Revenue for Creative and Marketing Professionals was 4.54 billion
+[17:34] growing 11% year over year.
+[17:42] Our strategy is to empower everyone to create, from first-time creators to seasoned professionals,
+[17:48] to large enterprises seeking to scale content production.
+[17:51] In Q2, CNCP traffic to Adobe.com grew over 50% year over year, with creative freemium
+
+[18:00] Mao growing from greater than 50 million to greater than 90 million.
+[18:04] This immense volume of traffic drawn to the Adobe brand includes users seeking to purchase
+[18:09] creative cloud, Photoshop, and other CC apps, and an increasing number of new users who are
+[18:15] looking for Adobe magic to complete a creative task with a friction-free experience.
+[18:22] Firefly freemium users who convert to our paid plans are highly engaged with early indications
+[18:30] of significant credit consumption.
+
+[18:33] Firefly ARR grew approximately 50% quarter of a quarter through Firefly apps and credit
+[18:38] packs.
+[18:40] We were excited to launch the Adobe Creative Agent beta in Q2.
+[18:44] The agent is available as part of creative cloud and Firefly subscriptions and provides
+[18:48] a conversational experience to achieve complex and repetitive creative tasks.
+[18:53] Agent usage will be monetized through our existing credit consumption model.
+
+[18:57] The Adobe Creative Agent is also available in CLOG, CHAT-GPT, and SOON, co-pilot and
+[19:04] Gemini.
+[19:05] Additional creators and creative professionals highlights include, in Premiere we launched
+[19:10] a brand new color mode, a first of its kind color grading experience built specifically
+[19:14] for video editors.
+[19:17] We continue to deepen AI capabilities across our flagship creative cloud applications.
+
+[19:22] Photoshop added rotate object and Illustrator release turntable, both enabling subscribers
+[19:27] to turn 2D photos and illustrations into 3D renditions they can rotate and harmonize
+[19:32] into their work.
+[19:34] Issues like these grow record AI usage within our flagship applications.
+[19:40] Firefly continues to support third party models, now with Cling 3.0 and Cling 3.0 Omni.
+[19:46] Firefly ending ARR across Firefly app, Firefly credit packs, and Firefly Enterprise is approaching
+
+[19:53] 300 million exiting Q2.
+[19:56] Firefly Enterprise spanning Firefly services, Adobe Firefly Foundry, and brand intelligence
+[20:02] is helping the world's largest brand's industrialized content production with brand
+[20:06] safe custom models.
+[20:08] The number of generated assets grew more than four times year over year, making it an AI
+[20:14] content engine for marketing at scale.
+
+[20:17] Our announced NVIDIA partnership will bring accelerated computing to Adobe Firefly Foundry
+[20:22] for faster, higher performing custom models across image, video, audio, vector, and 3D,
+[20:30] plus a cloud native 3D digital twin built on Omniverse and OpenUSD.
+[20:37] And Enterprise wins this quarter include Merck, SAP, ServiceNow, Tesco, the Coca-Cola company,
+[20:45] Workday, and Xfinity.
+[20:47] In summary, demand for creativity and productivity in the AI era is dramatically increasing as
+
+[20:53] evidenced by our record traffic on Adobe.com.
+[20:56] While we continue to fulfill demand for Acrobat and Creative Cloud, the early success of Firefly,
+[21:02] Express, and Acrobat AI Assistant gives us conviction that this is the time to aggressively
+[21:07] serve new users with a friction-free-premium journey.
+[21:11] We're confident that driving Mow, which has an impact on ARR, is the right tradeoff and
+[21:17] will drive future business growth.
+
+[21:19] I'll now turn it over to Anil.
+[21:22] Thanks, David.
+[21:23] Hello, everyone.
+[21:24] In Q2, AI continued to be a tailwind for our Enterprise business, enabling us to deliver
+[21:30] creative and marketing professional subscription revenue of $4.54 billion, growing 11% year
+[21:36] over year.
+
+[21:37] These results underscore the continued explosion in content and the imperative to deliver personalized
+[21:42] customer experiences at scale.
+[21:46] The opportunity for AI-powered marketing automation and customer experience orchestration is large
+[21:51] and growing.
+[21:52] And we are continuing to gain market share and expand our leadership.
+[21:56] We are focused on three critical AI-first solutions.
+
+[21:59] Adobe Experience Platform and Native Apps for customer engagement, Adobe Gen Studio for
+[22:05] content supply chain, and Adobe Experience Manager and Agintik Web Apps for brand visibility.
+[22:11] Q2 highlights included.
+[22:13] Gen Studio Ending ARR grew over 25% year over year as leading brands and agencies continue
+[22:19] to standardize on Adobe to power their content supply chain.
+[22:24] Subscripted revenue for AEP and Native Apps grew over 30% year over year.
+
+[22:29] AEP delivers over 70 billion profile activations and 35 trillion segment evaluations per day
+[22:36] as well as more than one trillion experiences per year.
+[22:41] Over 80% of AEP and AEM customers are now using agentic capabilities built into our products.
+[22:49] Over 1500 customer trials are underway for our agentic web offerings, Adobe LLM Optimizer,
+[22:55] Sites Optimizer, and Brand Concierge.
+[22:58] 60% quarter over quarter growth for forward deployed engineering and integrated services
+
+[23:03] offerings designed to co-innovate and deliver customized AI-powered CXO solutions.
+[23:11] Q2 industry analyst recognition, being named a leader in two Gartner Magic Quotrants including
+[23:16] customer journey analytics and orchestration and content marketing platforms and two Forester
+[23:22] Waves including email marketing service providers and customer analytics technologies.
+[23:28] And Global Enterprise Customer Win in Q2 included then Sue Merkow, Defense Information Systems
+[23:35] Agency, Diriya Company, Kaiser Foundation Hospitals, Merk-Shar Pandom, NHL, SAP, ServiceNow, Stagwell,
+
+[23:45] Atlantis, Tesco, and the Coca-Cola Company.
+[23:50] In April we closed the acquisition of SEMrush, a leading provider of search engine optimization
+[23:55] and generative engine optimization solutions.
+[23:58] SEMrush added $480 million ARR to our book of business and expands our ability to serve
+[24:06] marketers of every scale.
+[24:09] We are rapidly integrating SEMrush into Adobe, uniting SEMrush's discoverability intelligence
+
+[24:15] with Adobe's agentic web apps.
+[24:18] We look forward to unveiling a comprehensive brand visibility solution combining SEMrush
+[24:24] with Adobe at the Cannes Lions Festival of Creativity later this month.
+[24:28] At Adobe Summit in April, where we hosted over 14,000 in-person attendees, we launched
+[24:36] Adobe CX Enterprise, a new end-to-end agentic AI system that simplifies how enterprises
+[24:43] manage their entire customer lifecycle, from acquiring and engaging prospects to driving
+
+[24:49] conversion and lasting loyalty.
+[24:52] Adobe CX Enterprise brings together AI agents, agent skills, and model context protocol endpoints
+[25:00] with an intelligence and governance layer to deliver reliable and auditable agentic
+[25:05] workflows that enable highly personalized differentiated customer experiences.
+[25:13] Over 20,000 global brands have built their business on Adobe and CX Enterprise will help
+[25:19] usher them into the era of agentic AI.
+
+[25:24] As part of CX Enterprise, we announced CX Enterprise Co-worker, a specialized AI agent
+[25:31] that executes tasks based on business goals, dramatically increasing productivity and campaign
+[25:37] execution.
+[25:39] CX Enterprise Co-worker has garnered tremendous customer interest since launch, with over
+[25:45] 150 leading enterprises in the early adoption program prior to general availability this
+[25:51] week.
+
+[25:52] At Adobe Summit, we also introduced Adobe brand intelligence, a continuous learning system
+[25:59] that helps enterprises create and validate on-brand content faster and with less effort.
+[26:07] Adobe brand intelligence learns from creative and marketing team feedback, approvals, and
+[26:12] rejections in real time.
+[26:14] It is a headless platform exposed through APIs, so it can integrate with existing first and
+[26:21] third-party apps rather than running as a separate app.
+
+[26:26] Our experience is one of the first areas of AI-powered transformation for enterprises.
+[26:32] Around the world, our conversations with three-level executives reflect how they view Adobe
+[26:38] as the trusted partner for this transformation in the era of agentic AI.
+[26:44] In Q2, we announced native integrations with major enterprise AI platforms, including Microsoft
+[26:50] Co-pilot, Anthropic, OpenAI, and Google Gemini.
+[26:56] Our partnership with NVIDIA brings CX Enterprise Co-worker capabilities into the Nemo Claw
+
+[27:02] Enterprise Agent platform, enabling brands to deploy Adobe's customer experience intelligence
+[27:09] within NVIDIA's secure policy-governed Open Shell runtime.
+[27:16] Leading global agencies, including Denzoo, Havas, Amnikam, Publises, Stagwell, and WPP,
+[27:24] are standardizing on Adobe, combining our AI-powered capabilities with their unique
+[27:30] IP and industry expertise to co-develop innovative, differentiated solutions for joint clients.
+[27:40] Our vision, deep expertise in creativity and marketing, track record of innovation, and
+
+[27:46] broad partner ecosystem uniquely position Adobe as the partner of choice for AI-powered
+[27:53] customer experience orchestration.
+[27:57] Our extensive customer base, innovative CXO products, and robust pipeline give us confidence
+[28:04] for a seasonally strong second half.
+[28:07] I'll now pass it to Steve.
+[28:11] Thanks, Anil.
+
+[28:12] Today, I will start by summarizing Adobe's performance in Q2 FY26.
+[28:23] Thank you.
+[28:24] Thank you.
+[30:53] Q2 growth drivers for creative and marketing professionals included.
+[30:59] Growth in creative cloud driven by the CC Pro offering.
+[31:03] Creative freemium Mal, which includes web and mobile versions of Firefly, Express, Premiere,
+
+[31:10] Photoshop, and Lightroom, across 90 million, growing over 70% year over year.
+[31:17] Continued strong generative credit consumption, driven by video and audio.
+[31:22] Firefly ending ARR, including Firefly apps and credit plans and enterprise Firefly offerings
+[31:29] approaching 300 million, with the intent to drive more traffic to Firefly freemium in H2.
+[31:38] Ending ARR across Gen Studio, AEP and apps, and AEM and Agentic Web, growing over 20%
+[31:45] year over year.
+
+[31:47] Previous customers with over $10 million in ARR growing greater than 20% year over year.
+[31:54] And continued strength in retention across the enterprise customer base.
+[32:00] Let me now turn to our financial targets, which include SEMrush and assume current macro
+[32:05] economic conditions.
+[32:08] Given strong year to date performance, we are raising full year revenue and non-gap
+[32:13] EPS targets.
+
+[32:15] For FY26, we are targeting total Adobe revenue of $26.5 to $26.6 billion.
+[32:25] Business professionals and consumers subscription revenue of $7.44 to $7.48 billion.
+[32:34] Creative and marketing professional subscription revenue of $18.21 to $18.27 billion, which
+[32:41] now includes approximately $280 million from SEMrush.
+[32:47] Total Adobe ending ARR book of business growth of 10.2% year over year compared to our FY26
+[32:55] beginning book of business of $25.66 billion.
+
+[33:00] App EPS of $17.90 to $18 and non-gap EPS of $24.35 to $24.45.
+[33:15] Our FY26 targets assume a non-gap operating margin of approximately 45%.
+[33:21] A gap tax rate of approximately 22.5% and a non-gap tax rate of approximately 18%.
+[33:30] FY26 total Adobe ARR growth target of 10.2% now reflects both the addition of the SEMrush
+[33:39] book of business as well as the strategic choice to accelerate mow, premium growth and
+[33:45] defer previously planned creative cloud line optimizations.
+
+[33:50] We believe this is the right long-term strategy to expand our customer base and strengthen
+[33:55] the foundation for durable growth.
+[33:58] For Q3 FY26 we are targeting total Adobe revenue of $6.67 to $6.72 billion.
+[34:10] Business professionals and consumers subscription revenue of $1.87 to $1.89 billion.
+[34:18] Government marketing professional subscription revenue of $4.61 to $4.64 billion.
+[34:26] Gap EPS of $4.40 to $4.45 and non-gap EPS of $6.05 to $6.10.
+
+[34:37] For Q3 we assume non-gap operating margin of approximately 44% and a gap tax rate of
+[34:45] approximately 23% and a non-gap tax rate of approximately 18%.
+[34:51] We believe Adobe is well positioned to capitalize on the expanding AI opportunity.
+[34:57] Our focus remains on helping customers achieve better outcomes through innovation, relentless
+[35:02] execution and deep integration of AI across our portfolio.
+[35:07] We are expanding our user base, deepening engagement and investing with discipline in
+
+[35:13] the opportunities that will drive Adobe's next phase of growth.
+[35:18] Thanks Steve.
+[35:19] We are at a transformative moment in the industry and for the company.
+[35:24] The convergence of AI, agentic workflows and the explosion of content demand is creating
+[35:29] significant opportunities that play directly to Adobe's strength.
+[35:34] My focus continues to be driving execution against our product roadmap and successfully
+
+[35:39] expanding to new monetization models that reflect how the diversity of our customers
+[35:45] want to engage with Adobe.
+[35:46] I am committed to driving this as we finalize the right leader for Adobe's next chapter
+[35:52] of growth.
+[35:53] It gives me confidence beyond our products and groundbreaking technologies, our people.
+[35:58] Adobe remains one of the greatest places to work in the industry and the talent and culture
+
+[36:04] we have built over decades is the foundation for this transformation.
+[36:09] Thank you.
+[36:10] We will now take your questions.
+[36:13] Thank you.
+[36:15] If you would like to signal with questions, please press star one on your touch tone telephone.
+[36:21] If you're joining us today using a speaker phone, please make sure mute function is turned
+
+[36:25] off to allow your signal to reach our equipment.
+[36:28] Again, that is star one if you would like to signal with questions.
+[36:33] The first question will come from Michael Turin with Wells Fargo Securities.
+[36:39] Thanks very much.
+[36:41] I appreciate you taking the question.
+[36:45] I guess it realized it wasn't planned, but with Dan leaving, I think we are going to
+
+[36:50] feel questions on how the company manages through this level of transition in a world
+[36:55] where there are a lot of questions around disruption or changes to the market across
+[37:01] software.
+[37:03] You can just speak to how you maintain continuity with both the CEO search and CFO transition
+[37:11] in motion and maybe also touch on the profile of what you're looking towards or think the
+[37:16] company needs and its next stage at this point.
+
+[37:21] Sure, Michael.
+[37:22] Let me take that.
+[37:23] I will first start off by saying the leadership team that exists in the financial organization
+[37:30] is absolutely, absolutely seasoned and top-notch.
+[37:33] I wish Dan well it's clear that where he's going is where his background and expertise
+[37:39] has been, but I'm confident that we won't miss a beat.
+
+[37:44] I think as it relates to any other questions associated with the transition, I'm happy
+[37:49] to answer that, but my short answer is we have an incredibly seasoned leadership team.
+[37:56] I will continue to work with them closely as I have in the past to make sure that we
+[38:00] drive our last strategic objectives.
+[38:04] Just if I may, a follow-up just on the decision to defer line optimizations on Creative Cloud,
+[38:14] I assume we're coming up on just potential price increase there.
+
+[38:19] So maybe speak to why that is the right decision for Adobe today and how you think that kind
+[38:26] of set the creative business up for future growth?
+[38:30] Yeah, happy to Michael.
+[38:31] I mean, I think if we really look at it, we just look at what's happening with the AI
+[38:36] opportunity for creativity as this incredible opportunity that is upon us right now and
+[38:44] no other company is as well positioned given what we have across our models, across our
+
+[38:49] products and across our interfaces to take advantage of it.
+[38:53] So this is really about saying what we have done as it relates to capturing Mao with Acrobat
+[39:01] and Express, what we've done with respect to Firefly, the entire creative market.
+[39:06] You know, sometimes I like to also characterize this much like what's happened with the code
+[39:11] opportunity.
+[39:12] If you think about what's happened with the code opportunity across AI, it's just completely
+
+[39:17] being turned upside down and every company is thinking about how they can add to all
+[39:23] of the billions that is already spent in code.
+[39:27] The same opportunity exists, I think, in every single category, whether that's gaming, entertainment
+[39:32] and creativity.
+[39:34] And this is an opportunity for us, not just to focus on creative pros and communicators
+[39:39] who've traditionally been the strength of this company, but to actually become that AI
+
+[39:44] platform for all creativity across every single surface.
+[39:49] The success that we've seen associated with what we have done on these new products, we
+[39:55] talked about the Mao, we've talked about the ARR that's coming, we want to just have
+[40:00] a singular focus right now to make sure that we go capture that immense opportunity with
+[40:09] a singular focus and a clear marketing message.
+[40:12] It also is based on a complete confidence that we have that the creative business is
+
+[40:17] extremely stable, the amount of innovation that we have delivered in that space continues
+[40:22] to make us a category of one as it relates to our focus on that particular market.
+[40:29] And so, you know, that one we can differ, it's not going away, but anything that comes
+[40:34] in the way of the company aligning and the market understanding that we're going to go
+[40:39] after that entire creative opportunity right now, I think we'll detract from what is the
+[40:45] real price for this company.
+
+[40:46] So hopefully that gives you some color.
+[40:48] And I think in terms of, you know, the impact on ARR, you can think of it as maybe half
+[40:53] of the impact of ARR is as a result of what we are doing around deferring that creative
+[40:59] price line optimizations.
+[41:02] And the other half is about going, you know, full steam on what it takes to deliver the
+[41:08] premium experience.
+
+[41:09] I appreciate the camera.
+[41:11] Those responses, thanks, Chuck.
+[41:14] Thanks, Michael.
+[41:16] And the next question comes from Alex Zuchen with Wolf Research.
+[41:22] Hey, guys, I appreciate taking my question.
+[41:26] I apologize for any background noise.
+
+[41:29] Maybe just the risk of redundancy or simplification, just why now to accelerate the freemium mal
+[41:37] motion.
+[41:38] I think before we were thinking that the previous messaging was that it could actually positively
+[41:44] impact second half ARR, the freemium motion.
+[41:47] And now it's turning into a headwind as they convert.
+[41:53] Or maybe simplify wide now is the right time.
+
+[41:57] And then I've got a quick follow-up.
+[41:59] Sure.
+[42:00] I mean, I think you should think of it more in terms of does that early success that we're
+[42:05] having across all of them give you confidence to actually go even more aggressively about
+[42:11] this.
+[42:12] So that's how I think about this, Alex, in terms of why now.
+
+[42:16] We all recognize that when you look at the traffic that's coming to the Adobe site, that
+[42:21] traffic is just gushing.
+[42:22] And so when we think about how we can capture that with a unique value proposition associated
+[42:29] with delighting them and making sure we have a friction-free experience, anything that
+[42:33] comes.
+[42:35] So let's step back.
+
+[42:36] We have built this incredible business, but it's a balanced business.
+[42:39] We're always trying to figure out what we send to the freemium and what we send to ARR.
+[42:44] I think this singular clarity will enable us to capture way more people in the audience.
+[42:50] And so the why now has more to do with the fact that we are seeing the success associated
+[42:56] with what we've done, the products, whether it's acrobatics, press or firefly are there,
+[43:01] the ability to support third-party models is there, and I'll have David also add.
+
+[43:06] So it's really the success that we're seeing and the incredible amount of traffic that says,
+[43:11] if we don't take advantage of this opportunity right now, we will just unnecessarily diffuse
+[43:17] it, and we will send people other places when they want to come have that engagement with
+[43:22] Adobe and are looking for the Adobe brand and Adobe Magic to help them solve their creativity
+[43:27] needs.
+[43:28] David?
+
+[43:29] I'll just add on a couple examples to what Chanten was saying to demystify what we mean
+[43:34] by user behavior changing and evolving.
+[43:36] Let me give you one example with acrobat and one example with creativity and firefly
+[43:41] is to hopefully cement this a bit.
+[43:44] So what we see is a shift in or an emergence in terms of LLM usage, and that is driving
+[43:51] a lot more intent-based search.
+
+[43:53] So what is an intent-based search?
+[43:55] Someone might type into a search engine, summarize this PDF.
+[43:59] And what we do is we are using SEO and SEM and some of the some rush capabilities now
+[44:05] to make sure that we're ranking high when someone types in something like a summarized
+[44:10] PDF.
+[44:11] When the user clicks on our link, we take them, instead of taking them to adobe.com and talking
+
+[44:16] to them about acrobat, we're now taking them directly into acrobat web with a single call
+[44:22] to action which is upload your PDF, and then we summarize it for them.
+[44:27] And when we summarize it for them, we then introduce them to this idea that they can
+[44:30] use AI assistant to even have and ask some questions.
+[44:34] And we use this process to let them build habit before we start giving them paywalls.
+[44:38] So that's an evolution.
+
+[44:39] If we just took that traffic direct to a paid flow to buy acrobat and download acrobat,
+[44:45] it wouldn't produce as much opportunity long-term for adobe.
+[44:48] Similarly in firefly, we see things like a growth in terms like generate pixel art
+[44:54] for social media posts.
+[44:56] Again, we rank really high in SEO, SEM, then we take them directly into firefly so they
+[45:01] can upload an image of themselves, create this pixelated version, maybe introduce them
+
+[45:05] to this idea that you can convert that to video.
+[45:08] But it's a very different flow.
+[45:10] And that's where the world is going.
+[45:11] That's how users are engaging.
+[45:13] We want to lean into that.
+[45:14] And we think, as Sean just said, we have the right products for that now.
+
+[45:17] So this is the moment to go for it.
+[45:19] Maybe the last thing I'll say to that, to just punctuate what David said, is not only
+[45:23] are we seeing the amount of increase, but we're seeing the engagement and increase
+[45:29] then as a result of serving that first experience because they're looking for adobe.
+[45:34] So I think it's the satisfaction associated with completing their task that wants them
+[45:40] to engage with adobe more and those signals that give us confidence with now is the time.
+
+[45:46] And then maybe just to follow up then, if we think about the combination of that action
+[45:53] that you described and the post-
+[45:55] statement of the line optimizations as,
+[45:59] grinding roughly, I think, by our math about a half a billion dollar adjustment to the
+[46:04] organic ARR downward, like, what is the payback period on that?
+[46:10] So that's 500 million.
+
+[46:11] Let's say that you're investing in this motion.
+[46:14] What is the payback period and multiple that you think you can get as a result of the successful
+[46:19] strategy that your potential success was trying to do that you're embarking on?
+[46:24] Well, let me give you some color.
+[46:25] I think on the second one first, which is, you know, the creative pro line optimizations,
+[46:31] we can introduce them as we continue to deliver value.
+
+[46:34] So that one is just, you know, a face shift.
+[46:37] And as we add that, we will actually think, we believe that we're going to have better
+[46:41] offerings that are more differentiated.
+[46:44] The more these premium offerings are successful.
+[46:47] So that one, for us, we just look at it and say, you know, we're deferring it, but
+[46:51] not closing it.
+
+[46:52] So hopefully that gives you some color.
+[46:54] And then in terms of, you know, the traffic, if the disproportionate amount of traffic is
+[46:59] going to go to these premium offerings, you're right about, hey, how does that sort of start
+[47:05] to come back?
+[47:07] And, you know, we're already seeing some of it as it relates to the amount that we have
+[47:11] on Firefly.
+
+[47:12] So we shared some numbers on that as well as on Express, you know, which are, you know,
+[47:17] are growing well, but that will play out, I think, over 2027.
+[47:21] More important, I think it sets the company up for the right, you know, sort of really
+[47:27] growing our customer base, which, like we've done with reader, you know, then pays off
+[47:31] for decades.
+[47:32] And maybe the other thing just to give color, because I'm sure people will ask this question,
+
+[47:36] as you think about it in terms of how it plays out over the second half, you know, maybe the
+[47:41] way to think about it is if you go back and look at our fiscal 24 or our fiscal 25 results,
+[47:46] you know, you can understand whatever our second half, ARR expectations are, they probably
+[47:52] typically pay out 40 and 60 in Q3 and Q4, given we'll be making more of these changes
+[47:59] in Q3 as it relates to, you know, changing the traffic patterns.
+[48:04] And we expect our seasonal enterprise strength, the enterprise and everything we're doing
+
+[48:08] around content continues to be an area of strength for us.
+[48:12] That will be perhaps a little bit more proportionately in Q4 than it was in Q4 in the last few
+[48:19] years.
+[48:20] So hopefully that gives you both color on the line optimizations we can always introduce,
+[48:25] but we want it to be transparent with you.
+[48:27] I think as it relates to the moving of the freemium, hopefully we gave you a lot of indication
+
+[48:33] as to why now all of the early success that we're seeing.
+[48:36] And I just wanted to make sure you had color as to how that might play out in Q3 and Q4
+[48:41] as you do your modeling.
+[48:44] And once again, if you would like to signal with questions, please press star 1 on your
+[48:49] touch tone telephone.
+[48:50] Additionally, please limit yourself to one question.
+
+[48:54] And we'll take our next question for Matt Swanson with RBC Capital Markets.
+[48:59] Great.
+[49:00] Thank you guys so much for taking my question.
+[49:04] Not to front run can too much, but if we could focus a little bit on the brand visibility
+[49:09] solution and kind of the broader idea of what SEMrush brings to the Adobe platform.
+[49:14] Could you just kind of talk a little bit maybe more holistically on how that fits to your
+
+[49:19] broader portfolio and kind of what the maybe compounding benefit could be over time?
+[49:26] Thanks for the question Matt.
+[49:29] Brand visibility is a topic of huge interest to CMOs as you just heard from David as well.
+[49:35] You know, we're seeing a lot of that play out in our own traffic patterns and every
+[49:39] brand across the world wants to have the right placement in regardless of which LLM customers
+[49:45] are using.
+
+[49:46] They want to have the right message and they want to have their messages show up on LLM's
+[49:50] and social media and all the other new platforms that consumers are going to.
+[49:54] And we believe that the best way to do that is to take their content that they have already
+[49:59] within their content management system like Adobe Experience Manager and make sure it
+[50:03] gets out there whether it's the bots and the agents that these LLM's have or third
+[50:08] party sites which have credibility with these LLM's making sure that all the brand visibility
+
+[50:18] shows up in the right places.
+[50:20] That requires the integration of what SEMrush brings which is the outside in knowledge of
+[50:25] how what is actually being prompted for what's being searched for and that the database that
+[50:32] they have of all of the prompts and search queries and so on and combine it with the
+[50:38] inside out intelligence that we have with all the content marrying those two provides
+[50:43] us the opportunity to bring the most comprehensive brand visibility solution in the market.
+
+[50:48] That's what we're introducing at Cannes later this month.
+[50:51] So we are super excited about that and I believe we believe that this is going to be a must
+[50:54] have for every CMO.
+[50:59] Thank you.
+[51:01] The next question will come from Brad Zelnick with Deutsche Bank.
+[51:05] Oh great.
+
+[51:08] Thank you so much for taking the question.
+[51:10] Maybe on a different topic we saw the announcement on the creativity connector with Google Gemini.
+[51:16] Wondering how you're thinking about relationships with companies like Google that are seemingly
+[51:21] developing their own design tools versus making Adobe innovations available in their apps
+[51:26] and more broadly how are you thinking about competition partnerships and co-opetition
+[51:31] in the age of AI?
+
+[51:33] Yeah thanks for asking that question Brad.
+[51:36] I think it's a there we've made a lot of progress in terms of how we think about the evolution
+[51:42] of a creative agent and productivity agent and they'll also introduce to us basic customer
+[51:49] experience co-worker at Summit a couple of months ago.
+[51:53] Overall what we've done is we've taken all of our core capabilities in our creative flagship
+[52:00] applications as an example and we've used that to create a series of capabilities that are
+
+[52:09] accessible to the endpoints.
+[52:11] So in other words the creativity agent can now really access 50 creative tools across
+[52:17] our ecosystem and that AI assistant is then available in Firefly and to our creative
+[52:23] cloud subscribers but we've also to exactly to your point we've also taken that AI assistant
+[52:28] that creative agent and made it available inside of both chat GPT and inside of Claude
+[52:36] with co-pilot and Gemini coming very soon.
+
+[52:41] And what that lets us do is it lets us again similar to what we were talking about go
+[52:45] to where user experience and user intent actually initiate.
+[52:49] So if someone starts to want to do something with AI assistant to create a logo, convert
+[52:56] that logo to some merchandise, be able to post that merchandise across social media
+[53:01] networks you can do all of that conversationally at this point.
+[53:04] In that context if you have anything you want to do that goes beyond what you can do conversationally
+
+[53:09] we use that opportunity to journey them over to Firefly for a deeper richer AI tooling
+[53:16] experience.
+[53:17] The whole end to end experience here is about getting to users where they are, letting them
+[53:22] do a lot more conversationally really reducing the bar to create more content but then also
+[53:28] leveraging the opportunity to monetize them by converting them over to Firefly as an example.
+[53:32] And the last thing I'll say is the monetization model for these AI agents is similar in that
+
+[53:38] it's basically about credit consumption and we think it drives a lot more credit consumption
+[53:43] and opportunity for upsell.
+[53:45] As it relates to your question on partnerships maybe just add a couple more points.
+[53:51] Firstly you have to look at what the economic model is for a lot of these companies.
+[53:55] So whether it's Amazon, Microsoft or Google we are huge users of their cloud services
+[54:05] which at the end of the day is a significant revenue stream for them.
+
+[54:08] So we have great partnerships with all three of them.
+[54:12] I think with Google specifically we also partner on how we can jointly go to media
+[54:17] and entertainment.
+[54:19] We are a big user of their nano-banana within our application.
+[54:24] So I think there's a lot of synergy associated with that.
+[54:26] I think with OpenAI and with anthropic they are looking to say how can they become more
+
+[54:32] of a sort of platform of choice and provide us.
+[54:36] I think all of their focus right now I would say Brad is on code and that's where everybody
+[54:41] is doing a student body left on that and I think creativity is an area that we not
+[54:46] only have a passion for that we are uniquely qualified and so this is our time and our
+[54:52] opportunity to leverage everything that they are providing and so with every one of them
+[54:57] we have great partnership.
+
+[54:59] But I think as it relates to the consumer side of creativity which is where this is
+[55:03] going after where I think a company of one in terms of the focus that we can have on
+[55:10] that particular business.
+[55:13] Very helpful.
+[55:14] Thank you both.
+[55:17] And the next question will come from Billy Fitzimmons with Piper Sandler.
+
+[55:21] Hey guys thanks for taking the question and fitting me in.
+[55:28] I want to go back to the discussion earlier.
+[55:31] There's a lot of debates right now around kind of boats and software and if I think that
+[55:37] this summit there's a big focus on kind of what you're doing with AI agents internally
+[55:42] and I think there's an important emphasis on your differentiation of being you know
+[55:46] having 20 years of customer relationships and proprietary data around that as well as
+
+[55:51] being that governance and on ability layer for agentic workflows.
+[55:55] Can you just talk about the importance of that in the ecosystem and then if I could
+[55:59] sneak another one in and to be honest I don't really know who this is for at this point but
+[56:04] you announced a 25 billion share repurchased authorization at summit.
+[56:08] That's a significant chunk of your cap but we're also in a much more or it feels like
+[56:13] a more relaxed regulatory environment.
+
+[56:15] How do we think about kind of your ability and in the end, propensity to do kind of
+[56:21] tuck in M&A in this environment.
+[56:23] Thanks guys.
+[56:24] Maybe I'll start with the second and then you know we can all touch on the first and
+[56:29] we are all a team of one so you can ask anybody that question Billy and we will get
+[56:34] the same answer.
+
+[56:35] I think as it relates to the you know stock buyback I think you know we had a 25 billion
+[56:41] dollar authorization previously we added to that with another 25 billion dollar authorization
+[56:48] in April of the first authorization I think if you look at it there's 2 billion left and
+[56:56] you know we would have completed it in less than you know 11 quarters or so so you know
+[57:01] we're clearly showing a lot of confidence that we should be using a capital allocation
+[57:06] to buyback our stocks.
+
+[57:09] Temrush was a good acquisition we're confident about you know our ability to monetize that
+[57:14] it further differentiates our marketing solutions and I'll come to the marketing part but you
+[57:20] know we are continuously looking at a whole bunch of companies there's going to be some
+[57:24] very interesting tuckins as it relates to technology because none of them have business
+[57:30] models that are sustainable or monetizable so it is actually a good time for us to look
+[57:35] at technology companies.
+
+[57:37] I think as it relates to differentiation we always talk about content and the fact that
+[57:41] we have these behaviors and we have the data as a huge differentiator for us.
+[57:47] I know there's a lot of talk about what's happening in the enterprise.
+[57:50] The number of CEOs and CFOs who are coming to us and talking about hey we have this transformation
+[57:58] a big big component of that transformation is customer experience in Adobe.
+[58:02] You're the one who's going to help us with that in terms of both the content and the
+
+[58:06] understanding of the customer.
+[58:08] That's a huge differentiator I think we're clearly you know focus on that has separated
+[58:15] us from anybody else in the customer experience orchestration.
+[58:19] The creative pro as I continue to say you know our understanding of that customer base
+[58:24] is unique and this is now about saying how do we extend both of those into also the consumer
+[58:31] space in the era of AI and so that's how we look at it into your point.
+
+[58:35] Our ability to take the depth of our technology whether it's an audio whether it's an video
+[58:40] whether it's an imaging and bring that to firefly the speed and velocity by which we
+[58:45] can bring it has to do a lot with what the technology code base is underlying and the
+[58:51] understanding of behaviors.
+[59:15] you
+[59:45] you
+
+[60:15] you
+[60:46] usage of the product we see that now is up 70% year over year when looked at it and
+[60:53] we even talked about how that has started to translate into into a our growth with 50%
+[60:59] as an example air our growth that you see quarter over quarter for firefly so all of
+[61:05] those early indicators are there and really what we're working to do as we bring more
+[61:09] of that traffic over is that that just needs time to play out all of that sort of in the
+
+[61:14] backdrop of this is where the world is going the opportunities bigger than ever instead
+[61:20] of trying to balance the you know both things really go all in on this opportunity because
+[61:24] it's ours to ours to win we have all of the foundation here.
+[61:33] And our next question will come from Brent feel with Jeffries.
+[61:38] Sean one of the questions we get is just you know the reset for this next iconic shift
+[61:46] and I realize you're guiding margins down a bit but I think many investors believe that
+
+[61:54] you could be doing more and putting a much bigger mode and investment in to protect yourself.
+[62:00] I don't know if that view is right or wrong but I'm curious why not be a little more severe
+[62:07] in terms of the push in the pivot you went through this from perpetual subscription you
+[62:12] obviously nailed it and had incredible results from that pivot maybe it's not the right analogy
+[62:19] but I think we're doing a lot of questions on that.
+[62:24] I think Brent this is actually indication that we are you know really going to pivot
+
+[62:32] as you to use your words into getting you know this acquisition and customers I mean
+[62:37] I perhaps what's not as evident is under the surface how we're increasingly you know moving
+[62:44] all of the expenses that we have and spend that we have and the scrutiny on just making
+[62:49] sure that we find the money to spend so we will not be short term focused on this Brent
+[62:56] in terms of you know spending money to make sure we capitalize on the opportunity and
+[63:03] but we are spending on this and we will continue to whether it's on the models whether it's in
+
+[63:07] marketing whether it's in the product associated with these we do not intend to be short term at all
+[63:14] about trying this is as you point out correctly Brent this is not about balance this is about
+[63:20] saying hey be clear about your strategic intent and we are saying it's about becoming that platform
+[63:25] of choice for AI right now it is about getting those users to engage with Adobe and partner with Adobe
+[63:32] but be assured that as it relates to cloud spend what we are doing on models as well as what we
+[63:39] are doing in marketing we are spending the money the good news is we get a lot of you know
+
+[63:45] annals products relatively you know cheap in order to be able to use it so our efficiency on that
+[63:52] is probably better than anybody else in the industry thank you and moving on to sakkalia
+[64:03] with barclays okay great hey guys thanks for taking the question here
+[64:10] you know maybe for for shotnoo and and and david you know as as i think about the original freemium
+[64:17] business at adobe it's it's really acrobat and and i i think the hope here is that is that some of
+[64:25] some of your products like like express and firefly can can replicate that that success
+
+[64:31] maybe the question is can you just compare and contrast you know the you know maybe the the
+[64:37] next generation of freemium products in terms of what's similar what's different then you know
+[64:43] some of the really successful freemium businesses that we've built up over the years
+[64:49] yeah thanks sakkalia happy to share a little bit about this for for the broader context of folks
+[64:54] that may not have been tracking us as long as you have you know if you really take a step back we've
+[65:00] talked a lot in terms of the acrobat funnel as part of our data-driven operating model
+
+[65:05] and the level of scrutiny and and detail we understand around you know the breakup of when
+[65:11] we talk about the eight hundred fifty million monthly active users many of them are on desktop
+[65:16] reader some of them are in our chrome extension some of them are in microsoft edge extension
+[65:23] some of them are on mold devices we're able to look at the utilization of all of that
+[65:30] reader experience in those free free experiences and understand the specifics of how users are
+[65:37] engaging in each of those and look for the right opportunities in those surfaces to put up paywalls
+
+[65:43] and opportunities to convert so we found in that process things like edit pdf or redact pdf
+[65:50] inquiries are a great opportunity to take a user that's built up a habit using these products
+[65:56] and convert them to a long-term paid customer a lot of that same learning that infrastructure
+[66:02] that we have in place for acrobat that we've developed over the over the years that same
+[66:07] infrastructure applies to everything we're doing as you said with express with firefly with acrobat
+[66:12] AI assistant and the foundation of how we're taking that 90 million of creative freemium
+
+[66:19] out and converting that is identical maybe the difference that we see as an opportunity and this
+[66:25] goes back to why we're investing so heavily right now in going after where we see a user behavior
+[66:31] is that that intent no longer just starts in the product that intent now also starts as part of
+[66:38] their search history and the things they're doing in search and so the investment in terms of driving
+[66:44] a broader percentage of that search directly into the same flows and the same model that we've done
+[66:49] with with acrobat over the years i think that's really the opportunity to fundamentally change
+
+[66:54] and reshape this business for for decades to come so very excited about what we've learned
+[66:59] and there's growth that we can apply to new experiences as well maybe i'll just add a little
+[67:03] bit to it sakith having been there for that journey which was i think you know a lot of people may
+[67:09] not remember that we actually tried to charge for the acrobat reader and you know most customers told
+[67:16] us that hey yeah allow us to use it and you know you'll find different ways to monetize it and so you
+[67:21] know in addition to what david said i i would add that i think what's common across all of these
+
+[67:29] is product first and foremost which is how do you get usage in the reader case it was distribution in
+[67:35] this case the new model is freemium and that's the underlying theory behind both of those is get
+[67:43] the product right and get usage going because that's the way to monetize it i think as it relates to
+[67:50] the two other things that are i think learnings from what we will continue to do
+[67:55] on firefly how we can expand from firefly into creative cloud and we are doing a really great
+[68:01] job of that which is you try things in firefly and you want to expand to creative cloud that's
+
+[68:07] pretty seamless you want to start with creative cloud and have firefly that's also very seamless
+[68:12] in terms of you know how much innovation we've delivered it's slightly different with acrobat
+[68:17] express and that with acrobat express it's a little bit more of paywalls in terms of how we
+[68:22] are doing it so you know what would i look at when we see what we are doing is usage is common
+[68:28] getting the product is common and then making sure that at the appropriate times we find ways to
+[68:34] add value and find ways to monetize it and so i i think that's the learning that we have but usage
+
+[68:40] at the end of the day and since i believe that's the last question i mean let me just because i think
+[68:46] the whole set of questions has really been around hey as you think about this era of AI and as you
+[68:54] think about what's happening with creativity what gives you confidence associated with some of the
+[68:59] things and i'll repeat what i said which is we really think this is this unique opportunity for
+[69:05] creativity with everything that's changing with AI and user behavior and user intent and how users
+[69:13] discover products based on the early success to say now's the time to have the singular focus in
+
+[69:20] the company get the alignment and go really drive the creative cloud business continues to do well
+[69:27] that is not where you know tweaking it is going to you know allow us to get the next
+[69:33] hundreds of millions of customers and on the marketing side you know enterprises we just
+[69:38] continue to extend you know the offerings that we have and tying together content between
+[69:45] what we are doing on the client side and the enterprise that entire economic pool as i think
+[69:52] Anil talked about in terms of how much money is being spent across content creation marketing
+
+[70:00] folks practitioners the agencies as well as the channels that is only going to increase and that's
+[70:07] going to go the benefit of that and the economic pool is going to go to folks who can help automate
+[70:12] that and provide technology and software to do that so you know that's why we feel really good
+[70:18] about these changes and we feel this is the way to continue to drive we're also pleased with what
+[70:25] we have done as it relates to the conversion of ARR to revenue i should recognize that that's why
+[70:31] you've seen the overachievement and so you know that speaks to again the stability i think that
+
+[70:36] we see in the ARR from customers so thank you for joining us today and we look forward
+[70:43] for those of you who are going to be at CAN you know certainly stop by and see what Adobe has
+[70:48] to offer otherwise we'll see you at the next call thank you thank you that does conclude
+[70:56] today's conference we do thank you for your participation have an excellent day
+[71:26] you

@@ -1,0 +1,1032 @@
+[00:00] You can't do it.
+[00:02] You can't do it.
+[00:04] You can't do it.
+[00:06] You can't do it.
+[00:08] You can't do it.
+[00:10] You can't do it.
+
+[00:12] If you read any industry news,
+[00:14] you might have heard about the SaaS apocalypse.
+[00:16] SaaS apocalypse.
+[00:18] You're coming to the beginning of the day.
+[00:20] I'm in disruption for your talk.
+[00:22] It's not the end of software.
+
+[00:24] It's the end of software that makes humans do all the work.
+[00:26] So what's replacing it?
+[00:28] Software that listens.
+[00:30] Software that understands software that can actually do.
+[00:34] And once you see it,
+[00:36] there's no going back.
+
+[00:38] We're going to this incredible new world,
+[00:41] the Adgentic Enterprise.
+[00:43] Salesforce reports.
+[00:45] I'm seeing celerated revenue robust top and bottom line beat.
+[00:48] We're doing more cashflow gym than Walmart.
+[00:50] It's all about the Adgentic Enterprise.
+
+[00:52] The best companies in the world are doing this right now.
+[00:56] Data is everything for an Adgentic Enterprise.
+[00:59] The foundation layer is always data.
+[01:01] We have to get the data right.
+[01:03] Data 360 is at the heart of our infrastructure.
+[01:06] We can activate that data to make sure that they're getting the care that they need.
+
+[01:10] Salesforce service be marketing engine.
+[01:13] Salesforce was the one company that had all the tools in the toolbox.
+[01:17] And with Agent Force, it takes us to that next level.
+[01:20] Our agents now have encyclopedic knowledge.
+[01:23] It was in that moment that we knew Agent Force was the answer.
+[01:27] And all of this is being front-ended by Slack.
+
+[01:31] Having Agent Force, Data 360, Tableau, Integrative, and Slack.
+[01:35] All of a sudden, you know, it's a supercharged business.
+[01:37] It's the power of all of the technologies working together.
+[01:40] This is the Adgentic Enterprise.
+[01:43] Big companies are using Agent Force.
+[01:45] Agent Force is now an $800 million business.
+
+[01:48] Customers aren't going to deploy just one agent.
+[01:50] There's going to be many agents.
+[01:52] Salesforce, Headless 360, changes the way that your company works.
+[01:56] Everything in Salesforce is now exposed as an API, MCP, or CLI command.
+[02:04] Headless 360 is the biggest growth opportunity that any of us will see in our lifetime.
+[02:09] You can see the velocity.
+
+[02:10] Agents are participated in a quarter of a million consumer engagements.
+[02:16] Agent Force, we'll be a game changer.
+[02:19] Agent Force, give me more information about the job.
+[02:21] The subject of these four-day
+[02:23] And the cost savings is just unbelievable.
+[02:26] Twelve days we launched our first agent.
+
+[02:28] Saved us $2 million since we launched it.
+[02:30] Penfret was able to save 30,000 minutes per day.
+[02:34] By being able to bring our Salesforce Data into Slack, I've seen our time in the Dildec stages go down by up to 60%.
+[02:40] Slackbot truly is the ultimate teammate.
+[02:43] We've saved and made at least $4.5 million just because of how we're using Slack.
+[02:48] Slack is our operating system.
+
+[02:50] We've run our full business in Slack.
+[02:52] The Salesforce platform has allowed our providers to see 40% more patients every day.
+[02:58] Could do that without the agent to get a price.
+[03:00] For about $30 billion today, we can be a $60 billion firm on the Salesforce platform.
+[03:05] It's driving down costs and in the end just having a better service experience.
+[03:09] CSAT goes up, costs to deliver go down, customers are happier, we're getting them answers faster.
+
+[03:14] This is an incredible opportunity for all these businesses.
+[03:17] We run on Salesforce today, you're not SIP you don't.
+[03:19] I think we're a new era of agents enabling you.
+[03:22] That's really where the magic is.
+[03:24] Human being agent doing.
+[03:27] This is the agent to get a price.
+
+[03:30] At this time, I would like to welcome you to the Salesforce first quarter fiscal 2027 conference call.
+[03:42] This conference is being recorded and all lines have been placed on mute to prevent any background noise.
+[03:47] After the speakers prepared remarks, there will be a question and answer session.
+[03:51] At this time, I would like to turn the call over to Mike Spencer, Executive Vice President of Finance.
+[03:55] Sir, you may begin.
+[03:57] Good afternoon and thanks for joining us today on our fiscal 2027 first quarter results conference call.
+
+[04:03] Our press release SCC filings and a replay of today's call can be found on our website.
+[04:08] Joining me on the call today is Mark Benioff, Chair and CEO.
+[04:11] Robin Washington, Chief Operating and Finance Officer.
+[04:14] We also have Patrick Stokes, President and Chief Marketing Officer, Miguel Milano, President Chief Revenue Officer,
+[04:20] and Shrinney Talapargada, President and Chief Engineering and Success Officer, joining us for the Q&A portion of the call.
+[04:27] Some of our comments today may contain forward-looking statements that are subject to risks, uncertainties and assumptions, which could change.
+
+[04:34] Should any of these risks materialize, or should our assumptions prove to be incorrect, actual company results or outcomes could differ materially from these forward-looking statements?
+[04:43] A description of these risks, uncertainties and assumptions, or other factors that could affect our finance results or outcomes is included in our SCC filings, including our most recent report on forms 10K, 10Q, and any other SCC filings.
+[04:56] Acceptors required by law, we do not undertake any responsibility to update these forward-looking statements.
+[05:01] As a reminder, our commentary today will include non-gap measures,
+[05:06] reconciliation between our gap and non-gap results, and guidance can be found in our earnings materials and press release.
+[05:12] And with that, let me hand the call over to Mark.
+
+[05:14] All right, fantastic. Thanks so much, Mike. I'm so excited to be here with everybody, and great to do our second video earnings call with you.
+[05:23] It's really great. It's a quarter's day in San Francisco, and we're going to have a great time here with you.
+[05:28] We've even got a couple customers joining us, which we're really excited about.
+[05:32] Well, I think as everybody can see, this was really an outstanding quarter for Salesforce.
+[05:37] We have delivered record revenue, record deals, and just incredible cash flow.
+[05:42] And, of course, I think we've also returned record levels to our investors, and we're going to talk about that, and how important that is, especially during this unusual time.
+
+[05:52] So we're going to come into that. And also, by the way, we also mentioned we have some record token counts.
+[05:58] I think we're going to talk about how we've processed 28.6 trillion tokens up, 152 percent, quarter, quarter, no greater example of the tremendous adoption of these new agentic products by our customers,
+[06:13] and how we've converted those into 3.8 billion agentic work units.
+[06:18] Agentic AI, well, it's the biggest growth opportunity for our customers, for us at Salesforce.
+[06:24] And since we brought CRM into the cloud, we're just seeing tremendous new innovation every single day.
+[06:30] And you can see it in our products, you can see it in our customer momentum, you can see it in our results.
+
+[06:35] Salesforce has never been more essential to our customers. We're going to hear from them in just a second.
+[06:40] And we're the number one Agentic CRM, transforming every company into an Agentic enterprise.
+[06:46] Now, let me tell you about these amazing Q1 numbers. Revenue was 11.13 billion, up 13 percent year of a year, nominal, and 12 percent in constant currency, CRP 0.33.6 billion, up approximately 14 percent nominal, and 13 percent in constant currency.
+[07:04] And Q1, non-GAP operating margin of 34.8 percent, up 250 basis points. Again, hitting some record levels, GAP operating margin of 21.1 percent, up 130 basis points, pretty awesome.
+[07:18] And we delivered 6.7 billion in operating cash flow.
+[07:24] Tens of thousands of businesses across every industry are building their Agentic enterprise with Salesforce.
+
+[07:29] We're going to talk about that today. And OpenAI and Thropic Google companies building the future of AI, all of them Salesforce customers, all of them Slack customers, building these incredible new capabilities with Agentforce.
+[07:43] We secured a record 98 Q1 deals with over $1 million in new ACV in the quarter 98 Q1 deals with over $1 million.
+[07:54] Miguel is going to talk about that today. Organizations like LVMH, Chobani, the U.S. Air Force, which by the way, just signed a new $72 million ELA with us during the quarter.
+[08:05] Awesome. And we're seeing incredible demand for Agentforce with ARR now greater than $1 billion.
+[08:10] And combined with data 360 and Informatica Cloud, we've delivered $3.4 billion in AI and data ARR.
+[08:18] 50% of Agent Force and data 360 bookings were from existing customers expanding their commitment.
+
+[08:23] And to date, we processed 28.6 trillion tokens up 152% quarter of a quarter and converted them into $3.8 billion.
+[08:33] As I mentioned already, Agentic work units for our customers up 11%, sorry, up 111% quarter over quarter,
+[08:43] and the Agentforce now powering every customer 360 application and it's changing how organizations operate across service, sales, marketing, commerce and so much more.
+[08:52] Nowhere is this more evident than in customer service. Let's just start right there with Agentforce service.
+[08:57] Humans and agents collaborate across every channel. From first contact to first resolution across the Trinity channels, voice, website, apps.
+[09:05] A great example you're going to hear in a moment, UCLA Health. If you go to ucellahealth.org, you'll see right away, Agentforce is there to help you get your questions answered,
+
+[09:16] to connect with their physicians, to connect with their technology at UCLA.
+[09:21] It's a great example using our most current version of Agentforce.
+[09:26] And since we deployed Agentforce on help.sillsforce.com and on 1,800 no software, well only 15 months ago,
+[09:33] it's autonomously handled now 4 million inquiries. It's now double what human agents are handling.
+[09:39] Every customer can turn this on now. So many customers are seeing incredible results with Agentforce service.
+[09:46] Vivino, the world's largest wine company, supporting 74 million users with only 37 reps. Kind of hard to believe, but it's possible because it's Agent, Vivina.
+
+[09:56] Autonymously handles order status lookups, account questions, more autonomously slashing resolution time by 70%.
+[10:04] McAfee has selected our new Agentforce ITSM product, or what we call Agentforce IT service, to replace service now.
+[10:13] They are using it for everything. Ticket deflection, hardware provisioning, instant management, really cool.
+[10:19] And Florida prepaid a college savings plan provider, more than 200,000 accounts, is using the Agentforce voice to autonomously handle 75% of business hour calls and 100% of after hour calls.
+[10:31] And with Agentforce sales, we're powering the entire revenue lifecycle from first lead to closed deal.
+[10:37] And as I said before, over 25 years sales, sales forces generated tens of millions of leads. We never called back.
+
+[10:45] In Q1 alone, Agentforce sales worked 220,000 leads autonomously, generating 42 million dollars in pipeline. Awesome.
+[10:55] So, I'm more excited about what our customers are doing in service, in sales, in marketing, in Slack, and all of these things.
+[11:02] Another great example, cybersecurity leader Ford and Net using Agentforce sales to power predictive lead scoring, financial leader, Agarbank now built an SDR agent that instantly qualifies leads on WhatsApp.
+[11:14] You can go to salesforce.com and even see our own qualification system, running right on our homepage as well.
+[11:21] Okay, in Q1, we completed the acquisition, the qualified and integrated Piper.
+[11:26] Their SDR agent in the Salesforce brought all those great Salesforce alumni back home.
+
+[11:31] More than 700 customers are already using Piper. It's an incredible success.
+[11:36] And we deployed Piper on salesforce.com, as I mentioned.
+[11:39] So, you're going to be able to use it firsthand. I think that's so great.
+[11:43] It's engaging 50% of our traffic and qualifying thousands of leads and delivering 45% more pipeline than traditional web agents.
+[11:52] Also very excited about our new Agentforce co-worker, which we announced last week.
+[11:57] If you haven't heard about that, every single one of our Salesforce applications now comes with a built-in autonomous agent.
+
+[12:04] No complex configuration. You just turn it on. It becomes your co-worker finding answers, taking action, getting work done fast to give you an idea of the impact that co-worker will have people search for information inside Salesforce one billion times a month.
+[12:18] Co-worker turned search into answers and answers into action.
+[12:21] And one of our trailblazers, Andrew Russo, you probably saw him respond directly to me on X kind of was a surprise.
+[12:29] But he said, there's no way this is real life right now.
+[12:32] Agentforce co-worker was able to pull together and navigate our complex sales in the RP data to answer questions that just yesterday would have been 60 minutes of swivel cheering between screens and systems.
+[12:44] It was pretty cool to see that. And I'll tell you this quarter, we also announced Headless 360, again, making all of Salesforce accessible through our MCP clients, API, CLA prompts,
+
+[12:56] Headless 360 bringing together the humans, agents and Headless platforms so you can use Salesforce with any coding agent across any surface.
+[13:04] It's going to lead implementations, drive consumption, more actions, more workflow, more data, more intelligence, all compounding across Salesforce.
+[13:11] We're meeting our customers where they are since launch in April.
+[13:15] We've already processed 4.5 million MCP calls into our platform.
+[13:19] Q1 alone, we've processed nearly a trillion API calls. Incredible.
+[13:24] And with Headless 360, indeed, is building and deploying Agentforce agents right from cursor.
+
+[13:30] And Justie, take away one of the leading online food delivery platforms in Europe.
+[13:35] We just have them speak to our entire management team with such an amazing story is using Headless 360 already to bring agents into WhatsApp and other channels, engaging with 350,000 partners across 15 countries.
+[13:48] So now let's talk about our favorite Slack, which every AI company in the Bay Area here is using to run their business, including open AI and anthropic, transforming our customers into a Gentic enterprise.
+[14:02] Slack was nearly half of our million plus wins this quarter.
+[14:06] Up 80% year over year, it is a rocket ship to the moon. All of the AI companies run on Slack.
+[14:12] I mentioned, I don't think there's a startup or next-gen AI company that doesn't run on Slack and anthropic call Slack, it's core operating system.
+
+[14:19] And that's what Slack is becoming for every enterprise. All of our apps are Slack first.
+[14:24] So now a service agent can summarize a case, update the record, escalate to a human right in Slack.
+[14:30] And Slack bot is also an MCP client, so you can tell it to create a purchase order in NetSuite or update a project in JIRA, and it happens, no switching tools.
+[14:40] We've seen 1 million users of Slack MCP in the first six weeks, and Slack AWUs grew nearly 350% quarter over quarter.
+[14:48] In two years, there'll be more agents using Slack than people.
+[14:53] Every one of those agents needs the context and the data and the insights directly from Slack.
+
+[14:58] Every workflow needs the data, every action needs the integration, and every customer needs to see what's happening across the entire business.
+[15:05] We have the largest collection of trusted CRM context ever assembled between data 360 and Formatica MuleSoft Tableau manage and deliver all that context so that any agent can reason, act, and deliver real outcomes.
+[15:18] Informatica has an amazing acquisition and performed incredibly well this quarter.
+[15:23] It's doing the heavy lifting and data management that every customer needs to move from pilot to production.
+[15:29] All of this is why we're the number one, Agentix CRM, and we provide what every company needs to become an Agentix enterprise.
+[15:37] Okay, so now let's keep going, and with Slack-list 360, the entire platform is accessible.
+
+[15:43] We have some new people joining us at the table, so it's very exciting.
+[15:46] Great to see you, buddy.
+[15:47] And we're transforming, and more importantly, our customers are transforming too.
+[15:53] Great.
+[15:54] All right, anyway, here we are.
+[15:57] Let's move on to what's really important.
+
+[15:59] So welcome. Thank you for being here.
+[16:02] We're thrilled that you're here.
+[16:04] And would you just introduce yourself to everybody?
+[16:06] Because I don't think they know.
+[16:07] James Scank, President and CEO of PenFed Credit Union headquartered in Tyson, Virginia.
+[16:12] And is this your first time in San Francisco?
+
+[16:14] In here a few times.
+[16:15] Usually I see you in DC, so happy that you're here with us and grateful that you're here.
+[16:22] So why don't you tell us a little about, you know, you've been using Salesforce for
+[16:26] so while at PenFed, you've had this vision of becoming an Agentix enterprise.
+[16:30] Why don't you tell us, you know, what's happening?
+[16:32] We heard you a little bit on your earnings call.
+
+[16:34] I think everyone should hear you on earnings call too.
+[16:36] Let me just tell you the why.
+[16:37] So I started in financial services 25 years ago.
+[16:40] There's 18,400 banks in credit unions.
+[16:44] There's 8,000 today.
+[16:47] Think about that.
+
+[16:48] So you're a $500 credit unions and banks are either merged or beaten out of existence every year.
+[16:53] Amazing.
+[16:54] And so we knew we had to change.
+[16:56] We've been around for 91 years and to remain relevant, we realized we needed to partner
+[17:00] with somebody that can sort of rebuild our tech deck to take us to a new level.
+[17:04] So you're motivated?
+
+[17:05] Super motivated.
+[17:06] You've got to be hungry every day.
+[17:07] I was 6'5 like you when I started.
+[17:09] I'm 5'6 today.
+[17:10] All right.
+[17:11] So now tell us a little more about what have you done?
+
+[17:15] What's the vision?
+[17:16] Well, about two years ago, I was actually at your world tour in New York City and I saw
+[17:20] some other partners, their vision of what they thought it can do for the member experience.
+[17:24] When we're competing against 8,000 other firms, we got to deliver hyper personalization
+[17:30] and every transaction, we do about 500 transactions a second, 160 million member transactions a year.
+[17:37] They have to be right anywhere in the world real time.
+
+[17:40] So we built our entire platform over the last few years.
+[17:43] We have about 400 platforms down to literally 12 strategic partners.
+[17:47] Our call center, our mobile, our web, and our branches all run on Salesforce.
+[17:53] Every additional partner or tech siloed capability is a tax on innovation, is a tax on speed,
+[18:01] and is a tax on security.
+[18:03] So by building it around Salesforce, I really think it's taken me 25 years to realize Jim Collins'
+
+[18:08] flywheel effect.
+[18:10] We have 76 agents now running across operations, mortgages, IT, HR.
+[18:17] All of our areas are adopting it to make our employees be more productive.
+[18:22] We like to say they're bionic employees now.
+[18:24] We're not losing employees.
+[18:26] We're able to add more volume at scale, industrialize scale with the same number of people.
+
+[18:32] We're very proud of that.
+[18:33] Well, you know, you've heard the narrative on the SaaS apocalypse.
+[18:36] Everybody's heard of this crazy thing that these AI apps are transforming software, which
+[18:44] definitely is true.
+[18:45] You know, all of our products are just so much better because of it.
+[18:48] But how is it impacting how you're using Salesforce?
+
+[18:51] Let me just talk about how people make a buying decision.
+[18:54] Because I hear some of these stories.
+[18:55] Somebody knocks on your door.
+[18:57] Are you going to open the door and give them the keys to your safe or the code to your
+[19:01] safe, to your family's jewels?
+[19:02] So every day a CO of any firm is going to get 50 cold calls.
+
+[19:05] Somebody can do it different or better.
+[19:07] How is a decision really made?
+[19:09] First of all, is the firm, in this case Salesforce, have the product and service that we need.
+[19:13] Second, do you have the engineers, the architects, the professionals to work with my team in
+[19:18] order to bring it that vision to reality?
+[19:21] And then lastly, even if another firm had those first two, who is the firm standing behind it
+
+[19:26] that can be there through good times and bad times that's going to stand behind that product or service?
+[19:31] When you line up all three, that's where a good trusted partnership exists.
+[19:35] That's why we went with Salesforce.
+[19:36] So we worked with your team, literally hand in hand.
+[19:39] We still want to streamline processes.
+[19:40] We want to take out latency in the code.
+
+[19:42] We want to do X, Y, or Z.
+[19:44] Your team was there in the trenches at every level.
+[19:46] Engineers, architects, building out the vision.
+[19:49] But then it's not just pie in the sky on a white ship.
+[19:51] It's implementable.
+[19:52] We have 76 agents running side by side with our employees.
+
+[19:56] A good example is in our call centers.
+[19:58] We have Agent Wingman.
+[19:59] I'm an aviator.
+[20:00] So I think they named it because I like Wingman.
+[20:02] Agent Wingman is going to save me nearly 1.6 million this year.
+[20:06] It's decreased our call handle time 10% this year, 50% reduction in after call work times
+
+[20:12] and 40% reduction in held calls.
+[20:15] So better experience for the member.
+[20:17] Been a member.
+[20:18] They can go 8,000 other institutions.
+[20:19] I want them to have a great experience each and every time with Penfett.
+[20:22] It's got to be right each and every time.
+
+[20:24] Yet I want my employees to do the knowledge work, building trust in the relationship,
+[20:28] not entering what just happened on a phone call.
+[20:30] We have agents that listen to the phone call transcribe it.
+[20:33] The human still in the loop.
+[20:35] They approve what was just talked about.
+[20:37] But then it's 360.
+
+[20:38] If the transaction occurred in the branch, web, mobile.
+[20:41] So the next person that deals with that consumer, that member,
+[20:44] they know exactly the relationship.
+[20:46] They know what we might want to sell them next or what they need next for their daughter, their graduation.
+[20:50] So it's creating a hyper personalize, omni-channel experience without having 400 people I need to meet with.
+[20:56] They have 12 strategic partners that are allowing us to power the business.
+
+[20:59] And you've kind of alluded to this, but obviously thank you for your service as well.
+[21:03] And just tell us about your members and how important they are to our country.
+[21:06] We've been serving those.
+[21:07] We start out as the War Department Credit Union in 1935.
+[21:10] We support the men and women who serve our nation across the national security community
+[21:14] and all Americans who support them anywhere in the world.
+
+[21:16] That's why it has to be right.
+[21:17] Correct.
+[21:18] Real time, industrial strength.
+[21:19] And we're very proud of that.
+[21:20] Well, we're very proud to have you as a Salesforce customer.
+[21:23] Before we wrap it up today,
+
+[21:24] is there anything that you think other financial service leaders like yourself
+[21:28] or other folks who are thinking about implementing agent technology should know?
+[21:33] It occurs faster than you think.
+[21:35] So literally, we had the vision we saw was possible two years ago.
+[21:38] You can build it quickly.
+[21:39] The most important thing is having the right partner and not to have too many partners.
+
+[21:43] Too many partners slow things down.
+[21:45] Fantastic.
+[21:46] James, we couldn't be more thrilled to have you here today.
+[21:48] Thanks, Mark.
+[21:49] And it's great to have you in San Francisco.
+[21:51] And thanks for everything you're doing for the whole country.
+
+[21:53] Thank you for everyone.
+[21:54] Thank you so much.
+[21:55] Great to be with you.
+[21:56] Thank you.
+[21:57] All right.
+[21:58] We're so happy to have James here.
+
+[22:00] Thank you for coming to San Francisco.
+[22:01] Unbelievable.
+[22:02] Half of him here is so great.
+[22:04] And I think that that's such a critical message.
+[22:07] And then we have another customer with us as well, UCLA Health.
+[22:10] Another great customer.
+
+[22:11] They're using agent force to support 450 patients a day.
+[22:15] I'm not going to go through all the details.
+[22:17] Please welcome our good friends here.
+[22:21] We have a great group of visitors here today.
+[22:22] They've been working on an incredible highway.
+[22:23] They've been working on a lot of other things and we've been working on the other things.
+
+[22:26] We are so happy that we've been working on the other things.
+[22:29] We're so glad that we all have the opportunity to have you here.
+[22:31] Thank you.
+[22:32] Thanks, Mike.
+[22:33] Thanks for having us.
+[22:34] Well, why don't you tell us your story.
+
+[22:35] Just heard James story.
+[22:36] Why don't we hear your story down at UCLA Health?
+[22:37] I already told everyone to go to uclahealth.org and look at agent force.
+[22:40] But can you tell us a little about what you're doing.
+[22:45] Sure.
+[22:46] one single instance of Health Cloud,
+
+[22:49] and we've built on top of that with Marketing Cloud,
+[22:52] Data 360, and most recently launched
+[22:54] our first experiment with Agent Force,
+[22:57] and that's a customer-facing chatbot.
+[23:00] That just, it's right now, it's only scraping our website
+[23:06] to act as a little bit of a virtual concierge
+
+[23:08] to direct patients to where they need to go.
+[23:12] It's helping with MindA provider,
+[23:13] it's helping with general inquiries,
+[23:16] it's helping with clinical trials,
+[23:19] and the way I like to think about it
+[23:21] is each of those topics may have been a phone call,
+
+[23:24] they may have been an email,
+[23:26] they may have been an onus put upon the patient,
+[23:28] but now it's a one-stop shop for the patient
+[23:32] as opposed to them in a time of need,
+[23:35] it's getting them their answers faster.
+[23:39] Well, I'll tell you, it's so exciting to have you with us,
+
+[23:41] and there's so many healthcare institutions doing so much for you,
+[23:44] I actually have a press release here about CVS Health
+[23:47] is gonna launch something tomorrow with us,
+[23:50] and I just wanna just say, you guys are way ahead of everyone else,
+[23:54] there's so many people with a lot of conservatism
+[23:57] in the healthcare industry and deploying agents,
+
+[23:59] what's your message to them in regards to,
+[24:02] I already said you can go right to your website and see it,
+[24:04] but what is your message to your peers
+[24:06] or to others who are considering deploying agent technology?
+[24:12] I would say it took a while for us to sort of dip our toe in the water
+[24:17] in the customer facing space,
+
+[24:19] we're doing a lot on the back end when it comes to research,
+[24:24] but this really has an impact on our operations,
+[24:28] and we took a lot of precautions,
+[24:32] this particular product really helped us from a testing perspective,
+[24:38] there were a lot of protocols in place
+[24:41] that allowed us to validate every step that we were taking,
+
+[24:45] and that offered a lot of certainty for senior leadership
+[24:50] to kind of sign off on the first experiment that we took here.
+[24:54] Outstanding, Paul, give us the technical know-how, the detail here,
+[24:58] it's we're in the SaaS apocalypse, as you know,
+[25:01] so how do you look at the SaaS apocalypse,
+[25:04] you're an expert in this area,
+
+[25:06] you're deploying the technology, give us your insight.
+[25:09] Yeah, absolutely.
+[25:11] I think fundamentally we're looking at this technology
+[25:15] with our business problem in mind of healthcare systems are stretched so thin,
+[25:19] how do we help and support our healthcare workers,
+[25:22] and how do we help and support our patients get access to care faster?
+
+[25:25] So for us, this is a technology as is anything,
+[25:28] how do we best utilize this technology to service
+[25:30] and address those pain points operationally,
+[25:33] make our staff faster and help our patients?
+[25:35] That's really what's driving us and really how we approach this.
+[25:38] As Mike mentioned, we're using the same oversight,
+
+[25:40] same policies and procedures that we need to to deploy these types of technologies.
+[25:45] Well, Paul, you deployed our most current version of Agent Force,
+[25:48] incredible what you've done with it and the whole multimedia experience,
+[25:52] the integration with the call center,
+[25:54] every capability you're connecting your physicians,
+[25:58] you know, delivering the technical know-how of UCLA,
+
+[26:01] right to your clients,
+[26:05] just give us your biggest surprise,
+[26:09] deploying this technology.
+[26:11] What was it that you just really just hit you with that was like,
+[26:14] wow, this is what everybody should know?
+[26:18] I think with any technology implementation,
+
+[26:21] the biggest thing that we take away is how much debt we've built up
+[26:26] from a workflow standpoint, how much technical or people that we create,
+[26:32] and then we get mired in this, this is the way that things have to be.
+[26:35] So this is really an opportunity for us to open the door and say,
+[26:38] there's a way we can do things differently.
+[26:40] Can we solve the problems of yesterday and start to make a new enterprise for tomorrow?
+
+[26:45] So that's really how we've been approaching it.
+[26:48] We were excited that we were able to stand up our first state-at-use case at Mike Ludd
+[26:52] within eight months.
+[26:53] So we're really looking forward to what's next and how can we scale and capitalize on this technology next?
+[26:57] All right, Mike, there's the question, you know, what's next and how are you going to capitalize
+[27:01] on this technology as a next step?
+
+[27:04] That's actually the other great thing about this is there's been a lot of insights that
+[27:08] our own patients have let us down and Asian forces actually
+[27:13] been great about sort of consolidating and chunking each of those.
+[27:16] So whether it's what systems do we give Asian force access to?
+[27:22] What capabilities do we ask it to do for us?
+[27:27] So next we're looking at potential integrations with my chart.
+
+[27:32] I think that's probably one that's relatively high on the list.
+[27:38] But you know, we also want to start having some assistance with our back office functions as well.
+[27:43] So there's a couple of different things.
+[27:46] Well, I wanted to thank both of you for being on the call.
+[27:49] We're so thrilled to have you.
+[27:51] We're thrilled to have you as a customer and I hope you'll not only continue to drive us forward,
+
+[27:55] but also inspire our other customers as well.
+[27:57] And with that I'm going to turn over to Robin Washington.
+[27:59] Thanks a lot, Mark.
+[28:03] Well, you've just heard the case for Salesforce as the number one
+[28:06] agentic CRM.
+[28:08] The financials behind it tell the same story.
+
+[28:11] So let me start with the drivers behind the numbers.
+[28:14] Why our growth is durable and how we're funding it with operational excellence.
+[28:19] And I want to update you on our capital allocation strategy,
+[28:22] which as Mark said, is driving long term shareholder value.
+[28:27] One framing note before I walk you through the quarter.
+[28:30] This is our first quarter under the new FY27 revenue disclosure framework.
+
+[28:36] As agents transform how we build, sell, and serve customers, our new framework reflects that
+[28:42] agent force is now deeply embedded across every one of our applications.
+[28:47] So please review our earnings deck for additional details on this.
+[28:51] So starting with our durable growth drivers, sales, service, and slack are at the core of the
+[28:58] number one agentic CRM, collectively representing more than 60% of Q1 net new AOV.
+[29:06] A agent force ARR surprised the past the billion dollar mark this quarter.
+
+[29:13] Our largest applications, sales and service, saw year over year seat growth
+[29:19] with humans and agents both expanding on the platform.
+[29:23] Bookings for A1E and A4X are premium SKUs anchored in sales and service,
+[29:30] including the value from our agentic capabilities grew nearly 60% year over year.
+[29:38] As customers adopt agent force, they expand across our platform.
+[29:43] On average, our top 10 customers by Q1AW usage have increased their total
+
+[29:50] sales force spend by 1.5X in the last year.
+[29:56] And now with Informatica as part of data 360, we're already unlocking synergies with revenue
+[30:02] growth accelerating since the acquisition. This is the flywheel we laid out at our investor day
+[30:09] and it's working. Those signals show up in the headline numbers. Q1 revenue came in at 11.13
+[30:17] billion, up 12% in constant currency ahead of our guide. The outperformance was driven by
+[30:24] Informatica's on-prem business and professional services timing. CRPO ended the quarter at 33.6
+
+[30:32] billion, up approximately 13% in constant currency, driven by continued momentum in agent
+[30:39] force, data 360 and Slack. Both metrics were partially offset by softness and commerce and in
+[30:47] Tableau. We're driving durable growth through operational excellence. We call our internal playbook
+[30:54] customer zero. We're our own first customer, leveraging our products to run our business.
+[31:01] It's how we're building a lean agent to enterprise and driving profitable growth.
+[31:06] And it is keeping us on track for our FY30 rule of 50 framework. In Q1, AI coding tools enabled us
+
+[31:15] to double the amount of features and code shipped year over year, while simultaneously reducing
+[31:22] incidents and defects. Slackbot, which is embedded directly into the flow of work,
+[31:30] is now our fastest adopted AI tool in Salesforce's history. Driving 3.8 million hours of annualized
+[31:38] productivity gains for our employees. It has become a daily driver of my own productivity as well.
+[31:46] And discipline execution continues to underpin our responsible capital return strategy.
+[31:53] Underscoring our confidence in the future, we commence the largest ever 25 billion accelerated
+
+[32:00] share repurchase or ASR, representing half of our 50 billion share repurchase authorization.
+[32:08] Combined with our buyback program, this reduced Q1 diluted share count 10% year over year.
+[32:16] Our ASR alone decreased Q1 share count by 103 million shares, representing 11% of shares outstanding.
+[32:25] And it increased our Q1 non-gap earnings per share and gap earnings per share by 23 cents
+[32:32] and 14 cents respectively. Turning to our outlook for the year, building on the momentum from the
+[32:39] second half of last year, we expect first half net new ALV growth to outpace ALV growth and drive
+
+[32:49] organic revenue re-acceleration in the second half of FY27. Before discussing the numbers,
+[32:57] a few key assumptions in our guide. Our Q2 and FY27 revenue guidance reflect continued momentum
+[33:06] in Agent Force, Data 360, and Slack, partially offset by ongoing weakness in marketing and
+[33:14] commerce and increased softness in tableau bookings and renewals. We also expect greater license
+[33:22] revenue volatility with the addition of Informatica on-print revenue to our business. Now moving to
+[33:29] the numbers, we are raising the midpoint of our FY27 revenue guidance to 45.9 billion to 46.2
+
+[33:39] billion. And we continue to expect subscription and support growth of approximately 11% year over
+[33:46] year in constant currency. We are reiterating our non-gap operating margin guidance of 34.3%.
+[33:54] And adjusting our gap operating margin guidance to 20.6%, largely driven by higher restructuring.
+[34:04] Our recent debt issuance tied to the successful initial delivery of our ASR resulted in an
+[34:10] approximately five-point headwind to operating cash flow and free cash flow. As a result, we are
+[34:18] updating our guidance for both metrics to grow four to five percent year over year.
+
+[34:24] We expect Q2 revenue of 11.27 billion to 11.35 billion, growth of approximately 10% in constant
+[34:34] currency. Q2 CRPO growth is expected to be approximately 13% year over year in constant currency.
+[34:43] Our guidance reflects the strength of our balance portfolio and reinforces our confidence in our
+[34:50] second half revenue acceleration, enabling us to achieve our FY30 framework. And looking ahead,
+[34:58] the headless 360 strategy that Mark walked through expands our addressable market into surfaces
+[35:07] we've never previously monetized. That's the next leg of our path to FY30. Back to you, Mike.
+
+[35:15] Thank you, Robin. Operator, we'd like to move to questions now. I'll ask each participant to limit
+[35:21] to one question in respect for others on the call. With that operator, we'll take the first question.
+[35:28] We will now begin Q&A. For today's session, we'll be utilizing the raise hand feature.
+[35:32] If you'd like to ask a question, simply click on the raise hand button at the bottom of your screen.
+[35:37] Once you've been called on, please unmute yourself and begin to ask your question.
+[35:41] Please limit to one question. Thank you. We will now pause the moment to assemble the queue.
+
+[35:48] Your first question will come from Brentville with Jeffries. Please go ahead.
+[35:53] Good afternoon, Mark. I'm curious to get your thoughts and just the transformation to an AI
+[35:59] led story. The agent force numbers are great to see. But what else in terms of what you're most
+[36:08] excited about? What are you seeing in the signals from the customer pipeline in any other metrics
+[36:14] that you're excited about that you can share with us that perhaps we can't see? Thank you.
+[36:20] Well, that's why I thought it's so important that we move to this video
+
+[36:24] concept for the earnings call and also that you get to hear directly from the customers.
+[36:28] And I think we're trying to pick out a couple customers every quarter that can kind of,
+[36:32] you know, I would say that they are kind of represent all of our customers in transformation.
+[36:38] And I think that what's exciting is that the technology is really dramatically impacting how
+[36:42] these customers are able to deliver their own results, which is why we even saw James, you know,
+[36:48] bring this to his earnings call. So I'm going to say that what we're going to do is we're going
+
+[36:55] to continue to make that happen. Now, let me just give you my personal perspective. We're using it
+[37:00] ourselves more than ever before. I kind of mentioned in the quarter, you know, you see the service
+[37:04] numbers. If you go to help.salesforce.com that we've delivered more than 4 million autonomous
+[37:09] service transactions, you know, in a relatively short order, it's kind of hard to believe.
+[37:15] Even if you go to 1-800-No software and you press 2 and you get into the service queue and you
+[37:21] bypass our sales organization, you'll notice it's all autonomous. You even kind of authenticate
+
+[37:26] in autonomously. The agent force will work with you. And then at some point, agent force kind of
+[37:31] says it can't answer your question. It goes and then brings a human in directly to work with it
+[37:38] in resolving your problem. Also in the quarter, you saw like we qualified huge numbers of
+[37:45] leads autonomously. We've just really never been able to do that before. I think every customer
+[37:50] is going to be doing that. You saw we also bought qualified and we have this kind of SDR sales
+[37:56] agent kind of going outbound as well, helping, you know, to kind of understand our own business.
+
+[38:01] We're modeling this for all of our customers so that they can do this as well.
+[38:06] Or even in how I'm using Slack every day, I use Slack bot to kind of give me insights into my
+[38:11] business to really look at everything that's happening with my with my core business. I can then
+[38:17] get that insight. In every aspects of my business, agents are transforming how I operate my business.
+[38:24] As you heard in UCLA Health or in FedFED, it's transforming their business. From a technology
+[38:30] perspective, the biggest thing that happened in the quarter from my perspective was that agent
+
+[38:34] forces now available and replaces essentially Salesforce Search. So for those of you who are
+[38:40] Salesforce users, the millions of people who use Salesforce every day, the search bar is a
+[38:45] critical part of how the application operates. Now, Agentforce is that search bar. So you can
+[38:51] not only search and aggregate and get insights into information throughout every single app we
+[38:56] have, but also create agents. And those agents can appear in Slack and Microsoft Teams in other
+[39:03] applications, even in an app that's going to run directly on your phone called Salesforce
+
+[39:08] Co-worker. That is the biggest exciting technology because that is going to be technology that
+[39:13] you're not going to have to implement, you're not going to have to rebuild things. All of a
+[39:17] sudden, this agent technology is directly enhancing every single one of our applications
+[39:23] from our financial services cloud to our healthcare cloud every app we have. So that's what's really
+[39:31] exciting. And I just think that the speed of innovation and the speed of change is what's
+[39:37] awesome. And then the rate of innovation, you know, at far exceeds the ability for customer
+
+[39:42] adoption. That's why bringing these customers in to help model for other customers what they can
+[39:46] do is really mission critical right now. With that, looks like we have Keith up for the next question.
+[39:53] Keith. Excellent. Thank you guys for having me on the call. And congratulations with all the
+[40:00] momentum behind Agent Force and those AWUs accelerating in the quarter. I think the investor
+[40:08] debate right now is about the timing and how that translates into strength for the broader
+[40:14] business. And the question I wanted to ask was, where are you guys garner your confidence of a
+
+[40:19] back half organic subscription revenue acceleration? Because we haven't seen outperformance in CRPO
+[40:25] for the last two quarters. This quarter was spot in line with your guidance last quarter was as well.
+[40:30] And it feels like the bookings trends are lagging a little bit. It feels like Tableau is dragging
+[40:35] on the business a little bit, Commerce Cloud dragging on the business. So can you help us
+[40:39] put those two sides of the debate? Like really strong KPIs from Agent Force, but the bookings
+[40:45] not really looking to come through over the past two quarters and how you sustain confidence in
+
+[40:49] that back half acceleration? Yeah, Keith, maybe I'll start with the question. Have Miguel and others
+[40:55] chime in as well. So you're right. Overall, I would say Q1 and our Q2 guide show very strong
+[41:03] CRPO. It is a leading indicator for us. But also keep in mind we raised our overall guidance for
+[41:10] the year. And the two metrics that we've talked about going all the way back to October is the
+[41:15] acceleration of net new AOV greater than AOV. We saw that in the last half of FY26. And we also
+[41:24] are seeing it and have huge confidence in it for the first half of 27. What that will lead to
+
+[41:31] is a re acceleration of our core revenue growth in the second half of the year. And that's what I'd
+[41:36] really asked you to kind of hone into. There's a lot of momentum that dries behind that. We've
+[41:42] talked about our big deal motion. Miguel can talk about it more. Clearly, we've seen the success
+[41:47] with Agent Force and Data 360. I'd say that over 50% of those bookings came from existing
+[41:54] customers refilling the tank. So we're definitely seeing good usage. Our pipeline is very strong.
+[42:03] We've also seen an opportunity to expand our TAM. So I'll let Miguel maybe go into a little bit
+
+[42:09] more details. But I think not only about CRPO, I think about our commitment and confidence
+[42:15] relative to re acceleration growth is really the driver of how we see our bookings going forward.
+[42:20] Maybe thank you, Robin. Maybe to add a few other metrics under the hood a little bit.
+[42:26] We feel very comfortable. Obviously, we like the headline numbers. But I also like in particular
+[42:32] the strength of our core business. You alluded to the net new AOV acceleration. We're confident
+[42:37] under the re acceleration of our subscription and support business in cost and currency
+
+[42:42] organically. By the way, in the H2, we also have another business we acquired, which is Informatica.
+[42:48] Informatica was a business that was growing single digit both on bookings and revenue.
+[42:53] In just two quarters, we have significantly re accelerated that bookings of the chart
+[42:57] beyond anybody's expectation because Data is king. Well, my daughter told me that data is queen
+[43:03] because I have three daughters. But it's on the booking front, but on the revenue front,
+[43:08] we've seen a huge acceleration. Now, we are in the last quarter and this quarter,
+
+[43:12] we are obviously subject to the timing of some of the on-prem renewables, but we are in double digit growth.
+[43:19] So I like a lot of things about our core business, which is very important. You alluded to big deals.
+[43:24] Oh my God, Mark. 98 deals above a million dollars of net new AOV. In combination,
+[43:31] the top 10 deals focus on the top 10 deals. In combination, the whole booking, the annual
+[43:35] incremental booking grew 60%. When you look at the TCV, which goes in the RPO,
+[43:41] we added a personally 800 million dollars. That's two and a half times the same 10 deals last year,
+
+[43:46] the top 10 deals. This is a beautiful statistic. Seven of the top 10 deals added new seats.
+[43:53] This is the new way that we have to monetize AI. We have three new ways, three ways, and then
+[43:59] one more way that coming up as you alluded to. The first one is we are upgrading the existing
+[44:05] seats of our customers so that the same use as human users can use unlimited AI. This is the A1E,
+[44:13] that increased 60% in the quarter, because there is a big uplift on those seats. Second,
+[44:19] we are finding new pockets of seats that now with our transformed clouds, our clouds are not the
+
+[44:24] same. We transform individually every one of our cells of clouds. Our cells cloud I've been using
+[44:28] cells cloud for 15 years is totally different. Now we have a Gen2BDR. I can talk to my cells cloud.
+[44:36] I don't want to say this because Parker already said it. I log into my cells cloud less because
+[44:40] I have access to so many ways to interrogate my cells cloud, commerce cloud, marketing cloud.
+[44:46] Everything has been transformed. There is a big growth. Now the ROI of those clouds are higher.
+[44:53] So there are pockets of users that before they couldn't afford buying us, now they're buying
+
+[44:57] seven of the top 10 deals included. And then the biggest way that we have to monetize AI is
+[45:03] with customer-facing use cases by selling flex credits, by putting fuel in the tank,
+[45:10] six of the top 10 deals, six of the top 10 deals were ILAs, a limited enterprise license agreement,
+[45:15] where we threw in a bunch of flexed credits and customers are deploying use case after use case
+[45:20] channel after channel. They're going deterministic. They're going to voice. So I'm very confident
+[45:26] on the recs duration in H2. And we have an optimistic on the whole overall business.
+
+[45:31] Maybe the last thing I'd ask on CRPO Keith is remember it's also subject to renewal timing.
+[45:37] And the more we get this flywheel growing and think about consumption,
+[45:42] it's view as a leading indicator in how it's going to change relative to our revenue is
+[45:46] something that's developing over time. So I think we exactly it just comes shorter,
+[45:52] circle cycles. And by the way, the last huge and you put it like a and there is one more thing to
+[45:58] come. There is one more thing to come, which is the headless 360. We're going to bring our
+
+[46:03] authentic number one agent to CRM to every surface meeting customers where they are.
+[46:08] And we're going to work together with our customers and with our partners to find the right ways
+[46:12] to in a fairly in a fair way to monetize those new interactions and those new uses are accessing
+[46:18] our platform. So you've heard it straight from our CRO. We're very confident, right, relative to
+[46:23] re acceleration of our bookings, as well as our revenue for the second half of FY 27.
+[46:30] Thank you, Keith. Gabrielle, welcome. We'll take your question now.
+
+[46:35] Good afternoon. Thanks so much, Miguel. You take me up perfectly on headless here.
+[46:40] Mark and team, I would love to spend a little bit of time on your headless strategy and more
+[46:44] specifically how it intersects with the build versus buy debate. On the one hand, Robin was
+[46:50] talking about how it expands the opportunity and the surface area for sales first. On the other
+[46:54] hand, talk to us about how you protect your downside from potentially enabling value abstraction out
+[47:01] of sales first, perhaps customers want to build things more in house or perhaps it enables competitors
+
+[47:06] or value abstraction. So talk to us a little bit about your monetization strategy and how do
+[47:10] how do you protect yourself to the downside? Thank you. So you're right. Headless is probably the
+[47:16] most exciting announcement of the quarter and I'd love for Patrick to come in and Patrick is our
+[47:22] chief marketing officer. Patrick Stokes is here and Patrick, do you want to give us a little bit of
+[47:26] an insight into our headless strategy? Yeah, I'd love to. We were just backstage prepping for this
+[47:32] and we said, what did we say about headless at the last roundings call and I realized we didn't.
+
+[47:37] We were still getting ready to launch it at TDX. Right. Yeah, I mean, we hadn't even used the word
+[47:42] yet and now it's become such a key part of our strategy and our customer strategy and how we're
+[47:47] going to grow. It was just at TDX in March when we launched this and I think what's so exciting
+[47:53] about headless is two things. One, it's having a real impact on making it easier to implement
+[47:59] with Salesforce. So building out with Salesforce has now become easier than ever because we've seen
+[48:04] these coding agents, Claude and Codex from OpenAI. As you use these things, what you realize is you
+
+[48:11] need to be able to connect the underlying APIs which you do through this layer that's called MCP
+[48:16] and if you can connect those into the coding agents, it makes it faster than ever to implement and
+[48:21] deploy Salesforce. And I think we're seeing that show up in the numbers, just this quarter alone,
+[48:26] Agent Force customers in production grew by 50%. So I think we're starting to see a little bit of
+[48:31] that impact as not just our customers but also our global SIs across the entire platform,
+[48:38] absolutely implementing Data360, implementing Agent Force, implementing a service. All of this,
+
+[48:43] Life Sciences, all of this now becomes really just a conversation. So that's one end but the
+[48:49] other end is really what we heard from Miguel which is this is really changing how people get value
+[48:55] and consume Salesforce. In my experience, we're not seeing people take this capability and the
+[49:01] coding agents, for example, and try to build all of this stuff themselves. What they want to do is
+[49:06] they want to take this capability and they want to use Salesforce in different ways and get more
+[49:10] value out of it. So rather than logging into this discrete application and this application and
+
+[49:16] this application to get an answer to one question that might span multiple applications or multiple
+[49:22] kind of sources of information, you can now just take these MCP servers and plug them into any
+[49:28] tool that you want. They are inside our application of course with Agent Force co-worker as Mark
+[49:33] described right up at that search bar. If you're a Slack customer, you can get to it right with
+[49:37] Slackbot. That's really a headless experience as well. But if you want to plug these into Chatch EPT
+[49:42] and Claude, you can do that as well. And all of this just results in more and more value being
+
+[49:48] delivered to our customers from the Salesforce platform.
+[49:50] I would just add to that, I think even though we just announced it's been less than a month.
+[49:56] I think Salesforce historical has been very open and we got more than a trillion API calls
+[50:02] on our core platform just in this quarter. What we have seen is on a headless MCP tool calls have
+[50:08] been more than 1.5 million. So what people are using is they're using it not only in Salesforce,
+[50:15] where they do with co-worker and are regular of sites. They're also able to use it in their
+
+[50:20] flow of work. Similarly, we announced the headless MCP server for Slack and Slack has done 30 million,
+[50:28] 50 million tool calls. So what we are finding is there is a latent demand where people want to
+[50:35] use Salesforce in their flow of work, but they need that trusted infrastructure. They need an
+[50:40] operational infrastructure run it at scale with all the compliance, with all the sharing and
+[50:45] security models, with all the permissioning, with all the compliance. So they will use,
+[50:50] continue to use that while getting value. And like as Miguel said, what we want to do is it's a new
+
+[50:57] way. We want to capture value wherever the work is happening. And that's the conversation we are
+[51:03] having with our customers. And as we talk to our customers, ISV partners and all we'll figure out
+[51:10] the right value. So I think it's a new monetization area for us.
+[51:13] All right. Well, let's get down to one more level of detail. This was the quarter where as we used
+[51:20] head the word headless for the first time, we used it and we talked about it at Trailhead DX.
+[51:24] I used it in a tweet. The tweet went really viral. It was a surprise to me, I'll be honest,
+
+[51:30] because of course we had always been first on APIs and XML in soap, in rest,
+[51:41] and now in CLI and MCP. But the system was always built to be API first. It has always done
+[51:48] massive amounts of transactions and complex transactions. We've always reported those API
+[51:53] figures. And now we even have a new API, which is our whole user interface, basically spinning out
+[51:59] of the platform as an API. So we have that incredible capability. So in all cases, the platform has
+[52:10] always been API first. All the applications have been API first. But when we announced headless,
+
+[52:16] everybody's like, oh, they've got the top off of it or they've cut the applications off. They
+[52:21] kind of got confused in my opinion. They don't understand that all of our apps are rendered
+[52:26] dynamically with metadata that they're driven to metadata driven platform. So Patrick,
+[52:32] you're the marketing officer. Where did that confusion come from for people? Why do they
+[52:37] think headless means that there's no more application or Salesforce app?
+[52:41] Well, probably from the name headless, which does seem to imply that I can understand. But
+
+[52:46] that term, obviously, if you're in the technology world, it's been a term that's been used in
+[52:52] technology for quite some time to imply that the UI is not directly linked to the underlying
+[52:58] capabilities or services that are underneath it, in this case, in this case, APIs. And yes,
+[53:03] Salesforce has always been open. I think what people got so excited about here is this idea
+[53:09] that Salesforce was endorsing this way of working. We were basically saying, hey, we want you to
+[53:15] take the value of Salesforce and the value that you get from our apps from sales, from service,
+
+[53:19] from commerce and marketing. And we want you to be able to work however you want to work,
+[53:23] whether that's in Slack or whether that's in Claude or whether that's directly in the app.
+[53:28] That's what this capability really enables. And I think people were really excited about that.
+[53:32] And maybe a little inappropriately skeptical that we would have just locked it all down and said,
+[53:38] no, it has to be in our app. And that's never been the case for Salesforce. We've always been,
+[53:43] I think year after year, Postman says that Salesforce is the most used set of APIs on the planet.
+
+[53:49] And if you're building today, if you don't know what that means on this call, so you just explain it,
+[53:53] you won't cut it down to the inside baseball. Sure, sure. So what that means is when you're a
+[53:59] builder, when you're out there building something, and this is especially true today, because there's
+[54:03] now an ocean of builders that have been created as a result of this coding agent boom, when you go
+[54:08] to build something for your business, you at some point are likely going to want to connect to Salesforce.
+[54:15] That is what we see. And it doesn't matter what platform you're doing it on, you can be building
+
+[54:19] something on a competitive platform to Salesforce or on Google or AWS or one of our partners. But at
+[54:24] some point you're going to want to connect into Salesforce. And that's why those APIs have always
+[54:29] been hugely, hugely used. But when you are building with an agent, you need a slightly different type
+[54:35] of API. That's what we call MCP. And so by really putting those MCP servers out and saying, yes,
+[54:41] this is how we want people to build. I think it was a big surprise and a big move in the right
+[54:45] direction. And it also creates, I think, a real monetizable opportunity for us.
+
+[54:49] So if I could add one thing, because the fact that we announced Headless at TDX, it made people
+[54:55] think that this was just for builders, and that now they can take our CRM apart, and which they can
+[55:01] now also by the way. But I think the big breakthrough was not with the builder workers, but with the
+[55:07] knowledge workers. Let me give you two concrete examples. I met a hundred customers basically face
+[55:13] to face one-on-one since the beginning of the year. And let me two examples, Adeiko. Great customer
+[55:20] across the board. They used pretty much every cloud. They went into data cloud and agent force
+
+[55:25] last year. They did a big commitment in Q1, the beginning of Q1. They are basically design and
+[55:31] all the world. They have amazing recruiter agents going there, millions of transactions.
+[55:37] They're moving into voice. When we announced Headless, they called us, and they are like,
+[55:42] wait a minute, this is, let me try to understand what you're doing. So now because they are also
+[55:48] using other platforms to develop other agents. So they have agents with some of the AI labs
+[55:53] that they're also trying to access our data. Are you saying that now these agents that we are
+
+[55:58] building outside agent force can also leverage Salesforce? And we said, exactly, we did it for
+[56:03] that. So now there is going to be a lot of new agents that are going to be accessing our platform.
+[56:07] That's example number one. Example number two is Entropic. Entropic is one of our biggest users of
+[56:12] CRM, of Sales Cloud. I mean, and obviously Slack, their usage through Q1 has exploded five-fold,
+[56:21] because now they are using Sales Cloud from a Headless perspective. And they are approaching
+[56:26] from co-work, from other applications, from Slack, they're hitting Sales Cloud. So Sales Cloud has
+
+[56:32] become more prominent and more strategic for them and never because of Headless. These are
+[56:36] two examples, extreme examples, but this is every single conversation that I have with a customer.
+[56:41] Their smiles are big because of Headless. All right. Thank you, Gabriela. I hope you
+[56:47] felt the energy on that question. Operator, we'll go to the next question, please.
+[56:51] Your next question will come from Brad Zellnick with Deutsche Bank.
+[56:57] Great. Thanks so much for having me and nice to see everybody. Mark, the AWU and token consumption
+
+[57:03] metrics are some of the biggest and fastest growing in software and seems to validate that
+[57:08] customers are using and deriving value from the product. Can you help us translate the usage metrics
+[57:13] to revenue? Like the agent for say, ROR is impressive, but the usage suggests much faster
+[57:19] adoption and just as a related follow-up, the gross margins show no degradation despite
+[57:24] surging token demand. So can you just help us understand how you're able to do that? Thanks.
+[57:30] Yeah. Well, there's a lot of different points there. I'm not sure exactly where I want to go,
+
+[57:37] but I mean, you know, talk about the financial company. When we talk about the
+[57:43] enterprise, first and foremost, obviously sales force is a large scaled company in software of
+[57:49] the largest 83,000 employees. For the last couple of years, we have not been loading up a lot more
+[57:55] engineers with Shrinney. So Shrinney is here at the table. He's got what he's about, 15,000
+[58:00] engineers. And you've had the 15,000 engineers for about two years. It's been mostly flat, right?
+[58:06] And I would say that the reason it's been mostly flat is because we have been using AI to create
+
+[58:12] more efficiency for our engineers. And especially this year now with these new coding agents,
+[58:18] we're seeing even more dramatic capabilities. So that's a key part of our margin story is that
+[58:24] we're not hiring more engineers. We're not hiring more GA. We're mostly expanding only in one area.
+[58:33] You can see headcount has grown, but it's mostly growing in Miguel's area in sales because I think
+[58:39] we all realize the one thing that we're doing here with you selling and communicating that
+[58:45] agents are not exactly doing that. They can qualify. Okay, they can provide service. But in sales,
+
+[58:51] we still scale because there's so many different parts of the market that we have to get to. So
+[58:56] that will be a critical part of expanding our company, but at the same time expanding our margins.
+[59:04] I think on the other part of that that's really key is you're right. You know, we're trying to
+[59:08] really communicate that level of token usage. Maybe we're one of the first to really get out
+[59:13] and talk about, hey, not only do we have agents, but we've delivered 28.6 trillion tokens. I listened
+[59:18] to some of their earnings calls and I don't think that they're at that level of detail.
+
+[59:23] We've been gone down into this $3.8 billion dollar genteq work units where Patrick is really
+[59:28] pioneered this idea to how to communicate more effectively the level of depth that's really
+[59:34] going on with our customers actually implementing this technology. And that I think is also a
+[59:41] critical thing that we're only a couple years into this agentic revolution, but we see all this
+[59:48] adoption and usage. In every other product that we've rolled out, you know, you've never seen the
+[59:53] level of scale and growth of a new product like we've seen with agent force. And you're going to
+
+[59:58] see that in my opinion. I don't know, but I'm going to give you a vision. I think as we get
+[60:03] agent force co-worker, we're live for all of our customers. And it's just the ability for the
+[60:08] administrator to say now that it's available to these users like that experience that we had with
+[60:14] Andrew Russo. This idea that all of a sudden we're about to add a massive amount of new
+[60:19] functionality and capability into all of our apps. Overnight, you're going to see these token
+[60:25] numbers continue to expand and grow. Are we using more tokens internally? We are for our own
+
+[60:30] operations like in engineering. Are we using them for our customers? We are. And then we're
+[60:34] absorbing that into our margin structure. It's not that we're not spending a lot with OpenAI. We are.
+[60:41] We're using, you know, their platform. We're using codecs, you know, their coding tool. We're using
+[60:47] anthropic. We're using their platform and their coding tool, co-work. We're using both of these
+[60:52] platforms. Both of these companies are customers. We're very excited about how they're using it.
+[60:58] We use their products as well. They use our products very aggressively, both of them in Slack
+
+[61:02] and Sales Cloud and Service Cloud across the board. So that is really what's happening. Which part did
+[61:09] I not directly address? I think you have it all. Brad, maybe to add to your monetization point,
+[61:15] you're right. AWS is something that we use to measure how work gets done with our customers and
+[61:20] also internally as customers zero. But our top 10 AWU customers have spent more than 1.5x over
+[61:28] this past year with us. So it is being monetized over time, you know, via consumption and just
+[61:34] basically getting more value from our core. And I think we should probably just directly address
+
+[61:39] this head on. Look, we're not going to give guidance on attrition and all these things. We
+[61:43] never have. But Miguel, you're talking about how attrition is falling in the second quarter. And
+[61:48] what's your vision around attrition and heads in accounts and agents and what's happening in
+[61:53] these customers? I mean, our focus has been net new AWU. We did a lot of work to be able to focus
+[62:02] aligned everyone in the organization from product to back office to front office to professional
+[62:09] services. Everybody is aligned on one metric, which is net new AWU, which is the difference between
+
+[62:13] the new bookings and then the leakage, the attrition. And we managed to redirect and we show at the
+[62:20] investor's day how the curve was negative at some point, the negative growth. Well, the EU1 was a
+[62:24] very strong net new AWU. So quarter for you as well. Right. So what does that transfer? Tell us,
+[62:29] why is that transformation happening? The important thing is we're focusing on customer success,
+[62:34] which is being always a focus. But our some of the incentives were not aligned internally.
+[62:39] They've been aligned now, pretty much from the second half of the year. We saw net new
+
+[62:43] AWU are facing a heavy growth. We are very confident that in H1, we're going to see continued net
+[62:48] new AWU growth at facing a heavy growth. Obviously, that's both, both levers. We are obviously increasing
+[62:55] the new bookings and we are minimizing the pain of attrition. In some cases,
+[63:00] account executives, they swap products to make sure that customers are, are happy using the
+[63:06] products. So we're very confident on the net new UV in H1 also being growing more than
+[63:11] a UV and the re acceleration that we committed. And listen, when you'd commit something 12 to 18
+
+[63:16] months in advance, I mean, we're good professionals, but we're not magicians. And we didn't, I mean,
+[63:22] there was a probability that it could not have happened, but we were very firm. And it's, I mean,
+[63:27] I'm very happy that we actually couldn't ask per plan. In fact, a little bit better than plan
+[63:30] because you raise a guidance. So thank you so much.
+[63:34] Do you, the other thing I'd bring up to your point brought on margins, again, going back to
+[63:40] our F-R-I-30. It's really getting down to the depth of it, right?
+
+[63:44] Is that, you know, as we marched to F-Y 30 in that rule of 50, right, our ability to leverage
+[63:50] these tools to improve our productivity is a critical component of how we're going to get to rule of
+[63:55] 50 is McGouse that grow the top line, 63 billion plus with Informatica, but also improve margins
+[64:02] and operating profitability. So as I said earlier, customer zero is number one for us and it's going
+[64:08] to help us reach our framework as the lean, agentic enterprise. Excellent. Okay, great.
+[64:12] Let's move on to the next question. Okay, with that, operator, we'll take our last question now, please.
+
+[64:18] Your last question will come from Kirk Baterne with Evercore Partners.
+[64:22] Well, thanks very much for squeezing me in. I want to follow up on, Miguel, you made a comment on
+[64:28] one of your customers using Sales Cloud through Slack and I want to dive in on Slack a little bit
+[64:34] just as part of the broader headless strategy. Can you talk about Slack being potentially sort
+[64:39] of a gateway for broader agentic adoption in your customer base, what you're seeing now,
+[64:45] how that's sort of stacking up in your pipeline opportunities. It just seems like it's an
+
+[64:49] unbelievable network effect product and I was curious how that's having an impact
+[64:54] if at all right now or if you expected to on sort of broader agentic bookings as we go into the
+[65:00] back after. That's such a good question. I think each of these folks should address it, but Miguel,
+[65:04] why don't you start? So first of all, from a top line perspective and we'll talk about how
+[65:08] a strategic Slack has become, Slack has become one of the favorite platforms and surfaces for,
+[65:15] in this case, very specific, both the builders and the knowledge workers found in Slack the way to
+
+[65:23] is a multiplayer collaborative platform to access your applications to is your work operating system.
+[65:30] It's incredible what has happened on Slack, how we are leveraging by way great partnership with
+[65:35] one of the A Labs with Anthropic to launch Slackbot. Slackbot is our personal assistant. It has
+[65:42] increased the productivity of the whole company around 3% more or less. So now I do everything,
+[65:47] I ask everything to an agent. That agent has access to all my applications, all my approvals,
+[65:52] all my sharing models, all my conversations and the business is booming. By the way,
+
+[65:58] the bookings are booming, but also the NENUV of that business is very impressive. And the
+[66:03] key characteristic is, you know, when we talk about the NCB server tools calls on Slack, most of them
+[66:10] were done by the builders building applications that needed that rich context that the Slack
+[66:17] provides. So huge growth, AOV, top line growth, bookings growth, NENUV, very little attrition.
+[66:24] Also on the Slack, I think is the best man. When we say agents and humans work together,
+[66:31] you experience it in Slack. You know, when you're in a channel and suddenly in a lot of these
+
+[66:37] special ICs now in my engineering channels, like half the time, somebody puts a question or a
+[66:43] request on a Slack channel and the agent is listening and answering it, developers do a PR
+[66:50] request in Slack. And then suddenly the agent is speaking up and is trying to do it. They want
+[66:55] status reports. So I think Slack is where people can really understand the manifestation and they're
+[67:02] all asking questions as a human and Slack bot is even a better way of articulating that
+[67:08] in a packaged way. So that's like why, what is driving in the advanced use cases because the
+
+[67:13] developer community tends to try these tools. It's very embedded. They see this manifestation a lot
+[67:19] more and which is also the reason why some of our most advanced customers and labs and engineering
+[67:25] organizations are using Slack MCP even more than we thought. And I think that's a key interest
+[67:32] and I feel as it goes to the general population in the knowledge worker, Slack will become even
+[67:39] more prominent because people will say this is the way to work. And we always said Slack is the
+[67:45] operating system of work. And I think now people can really see it. And once they start using it
+
+[67:51] once, it looks like magic and that's why they say this is how it always meant to be.
+[67:56] Patrick, we're going to give you the last word here.
+[67:59] Great. Yeah. I mean, I think it's all about the experience that that Slack delivers. I mean,
+[68:03] when you get in and you use a product and it just works, that is a moment for you and you're going
+[68:08] to go back to that product. And I think that's exactly what Slack is. And it's more sophisticated
+[68:15] really than it's ever been. You know, we started as this collaboration tool, but it's become so
+
+[68:19] much more than that. It's not just a place where all of your institutional knowledge is, it now can
+[68:24] make calls out to other tools. You can have agents working right in there side by side with
+[68:29] humans. You know, you look at these coding projects and the incredible coding agents that have surfaced
+[68:35] in the last two years. But the thing about coding is like, that's not a single player job, right?
+[68:39] When you code, you're working with a team and Slack is the only place where you can have that
+[68:43] coding agent and the full team of all of your engineers and your developers all working towards
+
+[68:48] that one. These are support channels. It's there. Absolutely. And with Slack CRM,
+[68:53] this is all we brought back. So I think it's a natural place to work. So I really see that's what
+[68:59] is trying to say. Number one is this, you know, which is that when we bought this company, it was
+[69:03] doing less than a billion a revenue. And it was struggling. It was having problems. The management
+[69:08] team was really not clear how they were competing against Microsoft. But I think coupling with our
+[69:13] distribution capability now adding the value of our core applications. And I think this key point
+
+[69:18] that it drove nearly half of our million dollar wins this quarter, you know, up 80% year of year.
+[69:24] That means that Slack is really having, you know, it's absolute moment. And I think the second thing
+[69:28] that's really important is here's these Slack AWUs that have grown 350% quarter over quarter.
+[69:34] That is amazing. 350% quarter over quarter AWUs in two years, there's going to be more agents
+[69:41] using Slack than people. I mean, this is an incredible example of the future. And also how
+[69:47] this product is more valuable, being used more, has more data, more capability. And therefore,
+
+[69:53] it's going to have more intelligence and more, more value back to all of these customers as well.
+[69:57] Plus, you all of these companies can create Slack communication between each other as well. You
+[70:03] know, if you're a Slack customer, you can easily have a secure communication with another customer
+[70:08] as well. Miguel, do you want to add? Because that work graph that will become one of the richest
+[70:15] work context in the enterprise is getting richer and richer. So we build, I mean, the community
+[70:23] build 3 million custom apps on Slack in Q1. That's eight times quarter and quarter. I mean, there is
+
+[70:30] a huge boom. Out of those custom apps, there were 250,000 that were AI agents that were built,
+[70:38] third party AI agents. And that grew, that more than double in quarter and quarter grew eight
+[70:44] fold year and year. So everybody is working on Slack. Well, I think that it's safe to say,
+[70:50] and I'm not giving guidance by through what I'm saying, but sales is a 10 billion dollar cloud
+[70:55] already. Service is a 10 billion dollar cloud already. Data is already a 10 billion dollar cloud.
+[71:00] I think when we see the growth rate that's happening inside Slack, you saw the ACV was incredible in
+
+[71:04] the first quarter. This is going to be fast track from something we bought with less than a billion
+[71:09] dollars that I'm sure we'll be talking in short order about Slack being a 10 billion dollar cloud
+[71:14] as well. All right, with that, I'm going to turn it back over to you, Michael.
+[71:17] Yeah, thank you. And thank you, everyone, for joining us in the call. Just a quick reminder,
+[71:20] we have our quarterly webinar on Friday. Very timely given the questions today. We're going
+[71:25] to talk about Slack bot and our headless strategy in a deeper way with our product leadership. So
+
+[71:29] please join us for that on Friday. You can find the information on our website. And with that,
+[71:32] we'd like to thank everyone for joining us and we'll be seeing everyone in the coming weeks.
+[71:39] Thank you for joining. This concludes today's call and you may now disconnect.

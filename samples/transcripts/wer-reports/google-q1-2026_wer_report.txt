@@ -1,0 +1,6 @@
+WER: 0.0%
+Quality: Excellent (< 5%)
+Official word count: 9039
+Whisper word count: 9039
+
+Sample differences:

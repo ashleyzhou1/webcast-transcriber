@@ -1,0 +1,2636 @@
+WER: 63.5%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 5968
+Whisper word count: 5568
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+alibaba group march quarter two thousand and twentysix and full fiscal year two
+thousand and twentysix results conference call transcript wednesday thirteen may
+two thousand and twentysix march quarter two thousand and twentysix and full
+fiscal year two thousand and twentysix results wednesday thirteen may two
+thousand and twentysix two introduction lydia liu head of investor relations
+alibaba group original good day everyone thank you for joining alibaba groups
+march quarter and full fiscal year two thousand and twentysix earnings call on
+the call with me are joe tsai chairman eddie wu chief executive officer toby xu
+chief financial officer jiang fan chief executive officer of alibaba ecommerce
+business group i would like to remind you that this call is also being webcast
+on our corporate website a replay of the call will be available on our website
+later today now i will quickly cover the safe harbor todays discussions may
+contain forwardlooking statements particularly statements abo
+
+WHISPER (first 1000 chars):
+good day ladies and gentlemen thank you for standing by welcome to alibaba
+groups march quarter and full fiscal year two thousand and twentysix results
+conference call at this time all participants are in listen on the mode after
+managements prepared remarks there will be a qa session i would now like to turn
+the call over to lydia liu head of investor relations of alibaba please go ahead
+good day everyone thank you for joining alibaba groups march quarter and full
+fiscal year two thousand and twentysix earnings call on the call with me are
+jyotai chairman adi wu chief executive officer toby xu chief financial officer
+john fan chief executive officer of alibaba ecommerce business group as a
+reminder this call is being webcast alive a replay of the call will be available
+on our website later today on this call we may make four looking statements and
+discuss certain nongap financial measures the four looking statements reflect
+managements current expectations that are subject risks and u
+
+ALIGNED DIFFERENCES (all 643, via difflib sequence matching):
+============================================================
+
+[1]
+  WHISPER:  good day ladies and gentlemen thank you for standing by welcome to
+
+[2]
+  OFFICIAL: group
+  WHISPER:  groups
+
+[3]
+  OFFICIAL: two thousand and twentysix
+
+[4]
+  OFFICIAL: transcript wednesday thirteen may two thousand and twentysix march
+  quarter two thousand and twentysix and full fiscal year two thousand and
+  twentysix results wednesday thirteen may two thousand and twentysix two
+  introduction
+  WHISPER:  at this time all participants are in listen on the mode after
+  managements prepared remarks there will be a qa session i would now like to
+  turn the call over to
+
+[5]
+  WHISPER:  of
+
+[6]
+  OFFICIAL: group original
+  WHISPER:  please go ahead
+
+[7]
+  OFFICIAL: joe tsai
+  WHISPER:  jyotai
+
+[8]
+  OFFICIAL: eddie
+  WHISPER:  adi
+
+[9]
+  OFFICIAL: jiang
+  WHISPER:  john
+
+[10]
+  OFFICIAL: i would like to remind you that
+  WHISPER:  as a reminder
+
+[11]
+  OFFICIAL: also
+
+[12]
+  OFFICIAL: on our corporate website
+  WHISPER:  alive
+
+[13]
+  OFFICIAL: now i will quickly cover
+  WHISPER:  on this call we may make four looking statements and discuss certain
+  nongap financial measures
+
+[14]
+  OFFICIAL: safe harbor todays discussions may contain forwardlooking
+  WHISPER:  four looking
+
+[15]
+  OFFICIAL: particularly statements about our business prospects and expected
+  financial results
+  WHISPER:  reflect managements current expectations
+
+[16]
+  OFFICIAL: to
+
+[17]
+  OFFICIAL: which could cause actual results to differ materially from those
+  contained in the forwardlooking statements please refer to the safe harbor
+  statements that appear in
+
+[18]
+  OFFICIAL: press release and investor presentation provided today please note
+  that certain financial measures that we use on this call are expressed on a
+  nongaap basis our gaap
+  WHISPER:  gap
+
+[19]
+  OFFICIAL: reconciliations
+  WHISPER:  recommendations
+
+[20]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[21]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[22]
+  OFFICIAL: can be found
+  WHISPER:  is included
+
+[23]
+  OFFICIAL: our
+  WHISPER:  todays
+
+[24]
+  OFFICIAL: provided today
+  WHISPER:  our comments will be on yearoveryear comparisons
+
+[25]
+  WHISPER:  we state
+
+[26]
+  OFFICIAL: stated growth rate of all stated metrics mentioned during this call
+  refers to yearoveryear growth versus the same quarter last year
+  WHISPER:  and
+
+[27]
+  OFFICIAL: eddie march quarter two thousand
+  WHISPER:  adi go ahead josef
+
+[28]
+  OFFICIAL: twentysix and full fiscal year two thousand and twentysix results
+  wednesday thirteen may two thousand and twentysix three group business update
+  eddie wu ceo alibaba group translation
+  WHISPER:  ryo
+
+[29]
+  OFFICIAL: alibaba’s
+  WHISPER:  alibabas
+
+[30]
+  WHISPER:  plus
+
+[31]
+  OFFICIAL: yearoveryear1
+  WHISPER:  yearoveryear
+
+[32]
+  OFFICIAL: group’s
+  WHISPER:  groups
+
+[33]
+  OFFICIAL: eleventh
+  WHISPER:  11th
+
+[34]
+  OFFICIAL: business
+  WHISPER:  market
+
+[35]
+  OFFICIAL: ue
+
+[36]
+  WHISPER:  our across
+
+[37]
+  OFFICIAL: ai
+
+[38]
+  WHISPER:  next
+
+[39]
+  OFFICIAL: now
+
+[40]
+  WHISPER:  the
+
+[41]
+  OFFICIAL: businesses one
+  WHISPER:  business first
+
+[42]
+  OFFICIAL: group’s
+  WHISPER:  groups
+
+[43]
+  OFFICIAL: rmb
+
+[44]
+  WHISPER:  rmb
+
+[45]
+  WHISPER:  as
+
+[46]
+  OFFICIAL: that
+
+[47]
+  OFFICIAL: business’s
+  WHISPER:  businesss
+
+[48]
+  OFFICIAL: group’s
+  WHISPER:  groups
+
+[49]
+  OFFICIAL: full stack
+  WHISPER:  fullstack
+
+[50]
+  OFFICIAL: long term one this refers to that excluding revenue from sun art and
+  intime group revenue would have grown by eleven yearoveryear on a likeforlike
+  basis march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix four
+  WHISPER:  longterm
+
+[51]
+  OFFICIAL: ai’s
+  WHISPER:  ais
+
+[52]
+  OFFICIAL: cloud’s
+  WHISPER:  clouds
+
+[53]
+  OFFICIAL: ai compute
+  WHISPER:  aicompute
+
+[54]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[55]
+  OFFICIAL: over the
+  WHISPER:  this
+
+[56]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[57]
+  OFFICIAL: productionscale
+  WHISPER:  production scale
+
+[58]
+  OFFICIAL: in
+  WHISPER:  and
+
+[59]
+  OFFICIAL: rmb
+
+[60]
+  WHISPER:  rmb
+
+[61]
+  OFFICIAL: rmb
+
+[62]
+  WHISPER:  rmb
+
+[63]
+  OFFICIAL: yearend
+  WHISPER:  year end
+
+[64]
+  OFFICIAL: highmargin
+  WHISPER:  harm margin
+
+[65]
+  OFFICIAL: highquality
+  WHISPER:  high quality
+
+[66]
+  OFFICIAL: two
+  WHISPER:  second
+
+[67]
+  OFFICIAL: moat
+  WHISPER:  quote
+
+[68]
+  OFFICIAL: have
+
+[69]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[70]
+  OFFICIAL: aioriented
+  WHISPER:  ai oriented
+
+[71]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[72]
+  OFFICIAL: three
+  WHISPER:  third
+
+[73]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[74]
+  OFFICIAL: ainative
+  WHISPER:  ai native
+
+[75]
+  OFFICIAL: the newly established
+
+[76]
+  OFFICIAL: ainative
+  WHISPER:  ai native
+
+[77]
+  OFFICIAL: our qwen
+  WHISPER:  the qn
+
+[78]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[79]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[80]
+  OFFICIAL: greater
+  WHISPER:  creator
+
+[81]
+  OFFICIAL: qwen
+  WHISPER:  the qn
+
+[82]
+  OFFICIAL: seven
+  WHISPER:  the 7th
+
+[83]
+  OFFICIAL: qwen
+  WHISPER:  qn
+
+[84]
+  OFFICIAL: alibaba march quarter two thousand and twentysix and full fiscal
+  year two thousand and twentysix results wednesday thirteen may two thousand
+  and twentysix five
+
+[85]
+  OFFICIAL: four
+  WHISPER:  fourth
+
+[86]
+  OFFICIAL: businesses
+  WHISPER:  business
+
+[87]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[88]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[89]
+  WHISPER:  share that market
+
+[90]
+  WHISPER:  plus
+
+[91]
+  OFFICIAL: is
+  WHISPER:  are
+
+[92]
+  WHISPER:  plus
+
+[93]
+  OFFICIAL: at
+
+[94]
+  OFFICIAL: we will
+  WHISPER:  well
+
+[95]
+  OFFICIAL: fullstack
+  WHISPER:  full stack
+
+[96]
+  OFFICIAL: i will now
+  WHISPER:  next ill
+
+[97]
+  OFFICIAL: march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix six financial highlights toby xu cfo alibaba group original
+
+[98]
+  OFFICIAL: laserfocused
+  WHISPER:  laser focused
+
+[99]
+  WHISPER:  plus
+
+[100]
+  OFFICIAL: technology
+  WHISPER:  technological
+
+[101]
+  WHISPER:  plus
+
+[102]
+  OFFICIAL: fullstack
+  WHISPER:  full stack
+
+[103]
+  OFFICIAL: span
+  WHISPER:  spend
+
+[104]
+  WHISPER:  plus
+
+[105]
+  WHISPER:  the
+
+[106]
+  OFFICIAL: maas
+  WHISPER:  mass
+
+[107]
+  OFFICIAL: gives
+  WHISPER:  give
+
+[108]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[109]
+  OFFICIAL: let’s
+  WHISPER:  lets
+
+[110]
+  OFFICIAL: rmb243four
+  WHISPER:  rb two hundred and fortythree point four
+
+[111]
+  OFFICIAL: sun art
+  WHISPER:  sunnah
+
+[112]
+  OFFICIAL: intime
+  WHISPER:  inan time
+
+[113]
+  OFFICIAL: a
+
+[114]
+  OFFICIAL: would
+  WHISPER:  will
+
+[115]
+  OFFICIAL: ebita
+  WHISPER:  in the beta
+
+[116]
+  OFFICIAL: customer
+  WHISPER:  consumer
+
+[117]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[118]
+  OFFICIAL: rmb23five
+  WHISPER:  rb twentythree point five
+
+[119]
+  OFFICIAL: an
+  WHISPER:  and
+
+[120]
+  OFFICIAL: marktomarket
+  WHISPER:  marktomark
+
+[121]
+  OFFICIAL: sun art
+  WHISPER:  sunnah
+
+[122]
+  OFFICIAL: intime
+  WHISPER:  inan time
+
+[123]
+  OFFICIAL: ebita operating
+  WHISPER:  in beta an increase in
+
+[124]
+  OFFICIAL: rmb9four
+  WHISPER:  rb nine point four
+
+[125]
+  OFFICIAL: rmb17three
+  WHISPER:  rb seventeen point three
+
+[126]
+  WHISPER:  operating
+
+[127]
+  OFFICIAL: usd38
+  WHISPER:  usthirtyeight
+
+[128]
+  OFFICIAL: maturities
+  WHISPER:  maturity
+
+[129]
+  OFFICIAL: usd59
+  WHISPER:  usfiftynine
+
+[130]
+  OFFICIAL: march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix seven
+
+[131]
+  OFFICIAL: let’s first
+  WHISPER:  lets
+
+[132]
+  OFFICIAL: revenue for alibaba
+  WHISPER:  new from
+
+[133]
+  OFFICIAL: rmb122
+  WHISPER:  rb one hundred and twentytwo
+
+[134]
+  OFFICIAL: an
+  WHISPER:  and
+
+[135]
+  OFFICIAL: on
+
+[136]
+  OFFICIAL: spend
+  WHISPER:  span
+
+[137]
+  OFFICIAL: contra
+  WHISPER:  contract
+
+[138]
+  OFFICIAL: grew
+  WHISPER:  grow
+
+[139]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[140]
+  OFFICIAL: contra
+  WHISPER:  contract
+
+[141]
+  OFFICIAL: impact
+  WHISPER:  in half
+
+[142]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[143]
+  OFFICIAL: rmb20
+  WHISPER:  rb twenty
+
+[144]
+  WHISPER:  the
+
+[145]
+  WHISPER:  the
+
+[146]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[147]
+  OFFICIAL: ebita
+  WHISPER:  a beta
+
+[148]
+  OFFICIAL: rmb24
+  WHISPER:  rb twentyfour
+
+[149]
+  OFFICIAL: ebita
+  WHISPER:  beta
+
+[150]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[151]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[152]
+  OFFICIAL: aidc’s
+  WHISPER:  aidcs
+
+[153]
+  OFFICIAL: ebita
+  WHISPER:  beta
+
+[154]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[155]
+  OFFICIAL: breakeven
+  WHISPER:  break even
+
+[156]
+  OFFICIAL: unit economics
+  WHISPER:  unigromics
+
+[157]
+  OFFICIAL: the aliexpress’
+  WHISPER:  our express
+
+[158]
+  OFFICIAL: continued
+  WHISPER:  continue
+
+[159]
+  OFFICIAL: a
+
+[160]
+  OFFICIAL: let’s
+  WHISPER:  lets
+
+[161]
+  OFFICIAL: grow
+  WHISPER:  growth
+
+[162]
+  OFFICIAL: airelated
+  WHISPER:  ai related
+
+[163]
+  OFFICIAL: eleventh
+  WHISPER:  11th
+
+[164]
+  OFFICIAL: tripledigit
+  WHISPER:  triple digit
+
+[165]
+  OFFICIAL: continued
+  WHISPER:  continue
+
+[166]
+  OFFICIAL: accounting
+  WHISPER:  account
+
+[167]
+  OFFICIAL: quarter’s
+  WHISPER:  quarters
+
+[168]
+  OFFICIAL: rmb9
+  WHISPER:  rb nine
+
+[169]
+  OFFICIAL: approximately rmb36
+  WHISPER:  on the thirtysix
+
+[170]
+  OFFICIAL: usfive3billiontwo
+  WHISPER:  us dollar five point three billion
+
+[171]
+  OFFICIAL: ebita
+  WHISPER:  beta
+
+[172]
+  OFFICIAL: remained
+  WHISPER:  remain
+
+[173]
+  OFFICIAL: two annual revenue run rate is calculated using current quarter
+  revenue multiplied by four march quarter two thousand and twentysix and full
+  fiscal year two thousand and twentysix results wednesday thirteen may two
+  thousand and twentysix eight
+
+[174]
+  OFFICIAL: others
+  WHISPER:  other
+
+[175]
+  OFFICIAL: rmb65five
+  WHISPER:  rb sixtyfive point five
+
+[176]
+  OFFICIAL: sun art
+  WHISPER:  sunnah
+
+[177]
+  OFFICIAL: cainiao
+  WHISPER:  tanya
+
+[178]
+  OFFICIAL: freshippo
+  WHISPER:  freshipo
+
+[179]
+  OFFICIAL: amap
+  WHISPER:  amac
+
+[180]
+  OFFICIAL: ebita
+  WHISPER:  beta
+
+[181]
+  OFFICIAL: rmb21two
+  WHISPER:  rb twentyone point two
+
+[182]
+  OFFICIAL: increased
+  WHISPER:  increase the
+
+[183]
+  OFFICIAL: consumerfacing qwen
+  WHISPER:  consumer facing queen
+
+[184]
+  OFFICIAL: usone
+  WHISPER:  us dollar one
+
+[185]
+  OFFICIAL: see
+  WHISPER:  seek
+
+[186]
+  OFFICIAL: and
+  WHISPER:  in
+
+[187]
+  OFFICIAL: are
+  WHISPER:  of
+
+[188]
+  OFFICIAL: up
+
+[189]
+  OFFICIAL: march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix nine qa lydia liu original
+
+[190]
+  OFFICIAL: you are
+  WHISPER:  youre
+
+[191]
+  OFFICIAL: a
+  WHISPER:  the
+
+[192]
+  OFFICIAL: management’s
+  WHISPER:  management
+
+[193]
+  WHISPER:  thank you thank you if you wish to ask a question please press star
+  one on your telephone and wait for your name to be announced if you wish to
+  cancel your request please press star two if you are on a speakerphone please
+  pick up the handset to ask your question to give people the opportunity to ask
+  questions please keep yourself to know more than one question at a time your
+  first question comes from
+
+[194]
+  OFFICIAL: keung
+  WHISPER:  kung with
+
+[195]
+  OFFICIAL: original
+  WHISPER:  thank you joe eddie toby fan and lydia and
+
+[196]
+  OFFICIAL: maas
+  WHISPER:  math
+
+[197]
+  WHISPER:  so
+
+[198]
+  OFFICIAL: our
+
+[199]
+  OFFICIAL: qwen
+  WHISPER:  qan
+
+[200]
+  OFFICIAL: maas
+  WHISPER:  math
+
+[201]
+  OFFICIAL: our
+  WHISPER:  how
+
+[202]
+  OFFICIAL: eddie wu translation
+  WHISPER:  thank you thank you for that question
+
+[203]
+  WHISPER:  marks the first time that
+
+[204]
+  OFFICIAL: disclosed a new metric our
+  WHISPER:  announced the latest figure for
+
+[205]
+  OFFICIAL: this revenue currently
+  WHISPER:  that really
+
+[206]
+  WHISPER:  mainly
+
+[207]
+  OFFICIAL: main components api service
+  WHISPER:  things on the one hand it includes
+
+[208]
+  WHISPER:  api calls on mass on
+
+[209]
+  OFFICIAL: model studio maas
+  WHISPER:  bilean
+
+[210]
+  OFFICIAL: and subscription revenue
+  WHISPER:  it also includes revenues
+
+[211]
+  OFFICIAL: ainative
+  WHISPER:  ai
+
+[212]
+  WHISPER:  subscriptions
+
+[213]
+  WHISPER:  most of
+
+[214]
+  OFFICIAL: large majority
+  WHISPER:  revenue is coming from the first
+
+[215]
+  WHISPER:  those two pieces but
+
+[216]
+  OFFICIAL: revenue comes from model studio maas api services that said alibaba
+  cloud’s model studio
+
+[217]
+  OFFICIAL: a relatively
+  WHISPER:  an
+
+[218]
+  OFFICIAL: on which
+  WHISPER:  so
+
+[219]
+  OFFICIAL: host
+  WHISPER:  are providing access
+
+[220]
+  WHISPER:  to our proprietary models as well as thirdparty models including
+  opensource models and closed models but for the time being most of that
+  revenue is coming from
+
+[221]
+  OFFICIAL: and thirdparty models
+
+[222]
+  OFFICIAL: both opensource models and closedsource models in terms of revenue
+  scale the vast majority still comes from our proprietary models including qwen
+  our foundation models
+  WHISPER:  qan as well as tmoar
+
+[223]
+  WHISPER:  generating
+
+[224]
+  WHISPER:  and then we will be able to make sure that the data is available
+
+[225]
+  OFFICIAL: is
+  WHISPER:  was
+
+[226]
+  OFFICIAL: key
+  WHISPER:  really important
+
+[227]
+  WHISPER:  because in the past quarter
+
+[228]
+  OFFICIAL: quarter and in recent
+  WHISPER:  few
+
+[229]
+  OFFICIAL: the industry has undergone
+  WHISPER:  we have seen
+
+[230]
+  OFFICIAL: significant
+  WHISPER:  large
+
+[231]
+  WHISPER:  in the market where
+
+[232]
+  OFFICIAL: transitioning
+  WHISPER:  shifting
+
+[233]
+  WHISPER:  functioning as a
+
+[234]
+  OFFICIAL: chatbots
+  WHISPER:  chatbot
+
+[235]
+  OFFICIAL: agentic workloads
+  WHISPER:  providing agent capabilities so these
+
+[236]
+  WHISPER:  are increasingly capable of solving for very complex problems
+  meaning that they need to do a lot more inferencing than in the past and
+  precisely because these agents can
+
+[237]
+  WHISPER:  to solve very complex tasks
+
+[238]
+  OFFICIAL: complete highly complex reasoning tasks which has driven a sustained
+  steep rise in customer demand
+  WHISPER:  acceptance
+
+[239]
+  OFFICIAL: model inference march quarter two thousand
+  WHISPER:  higher prices
+
+[240]
+  OFFICIAL: twentysix and full fiscal year two thousand and twentysix results
+  wednesday thirteen may two thousand and twentysix ten because our models can
+  now help customers complete far more complex work customer acceptance has
+  remained very high even after the increase in overall api
+  WHISPER:  we have increased per
+
+[241]
+  WHISPER:  is good
+
+[242]
+  WHISPER:  the
+
+[243]
+  OFFICIAL: has been consistently strong
+  WHISPER:  continues to be high and growing
+
+[244]
+  OFFICIAL: as things currently stand
+
+[245]
+  WHISPER:  ability to
+
+[246]
+  WHISPER:  this demand
+
+[247]
+  OFFICIAL: still
+
+[248]
+  OFFICIAL: fully meet customer
+  WHISPER:  keep up with all the growth and
+
+[249]
+  OFFICIAL: and
+
+[250]
+  WHISPER:  actually
+
+[251]
+  OFFICIAL: long waitlist
+  WHISPER:  lot
+
+[252]
+  OFFICIAL: clients against this backdrop we believe
+  WHISPER:  customers still waiting to access the service inherently mass will
+  have higher growth margin than i ask thats important to know and i can also
+  add a few important points on top of
+
+[253]
+  WHISPER:  the
+
+[254]
+  WHISPER:  is that
+
+[255]
+  OFFICIAL: maas business inherently carries a higher gross margin profile
+  compared to the iaas business several other points are also noteworthy first
+  inference
+  WHISPER:  development of reasoning or inferencing
+
+[256]
+  WHISPER:  still
+
+[257]
+  WHISPER:  so every quarter were seeing new results in terms of optimization in
+  reasoning
+
+[258]
+  OFFICIAL: each quarter we are seeing improvements translate into sustained
+  WHISPER:  inferencing with continuous
+
+[259]
+  OFFICIAL: gains
+  WHISPER:  effects
+
+[260]
+  WHISPER:  terms of the
+
+[261]
+  OFFICIAL: output
+
+[262]
+  OFFICIAL: per
+  WHISPER:  of a single
+
+[263]
+  OFFICIAL: per gpu second
+  WHISPER:  a single cart at the same time
+
+[264]
+  OFFICIAL: model
+  WHISPER:  the
+
+[265]
+  WHISPER:  of models
+
+[266]
+  WHISPER:  and price of the models continues to increase in the next year or
+  two
+
+[267]
+  OFFICIAL: expect model pricing to remain on
+  WHISPER:  see that this should be
+
+[268]
+  OFFICIAL: sustained upward trajectory
+  WHISPER:  process of continued price improvement so i think from this point of
+  view the rapid growth in this business
+
+[269]
+  OFFICIAL: one to two years from this perspective we believe the rapid growth
+  of our maas business
+  WHISPER:  few quarters
+
+[270]
+  OFFICIAL: have
+  WHISPER:  result in
+
+[271]
+  OFFICIAL: significantly
+  WHISPER:  very
+
+[272]
+  WHISPER:  profit
+
+[273]
+  OFFICIAL: in the coming quarters
+  WHISPER:  your next question comes from
+
+[274]
+  OFFICIAL: fong
+  WHISPER:  bong with
+
+[275]
+  OFFICIAL: original
+  WHISPER:  hi good evening management thanks for taking my questions and
+
+[276]
+  OFFICIAL: progress
+  WHISPER:  focus
+
+[277]
+  OFFICIAL: invested
+  WHISPER:  investing
+
+[278]
+  OFFICIAL: investments
+  WHISPER:  investment so
+
+[279]
+  OFFICIAL: investments
+  WHISPER:  investment
+
+[280]
+  OFFICIAL: external revenue
+
+[281]
+  OFFICIAL: group’s
+  WHISPER:  group
+
+[282]
+  OFFICIAL: ebita
+  WHISPER:  ebitda
+
+[283]
+  OFFICIAL: what
+  WHISPER:  and more so management
+
+[284]
+  OFFICIAL: the management framework
+  WHISPER:  going to be
+
+[285]
+  OFFICIAL: earnings
+  WHISPER:  earning
+
+[286]
+  OFFICIAL: toby xu translation let me address the first part as i imagine many
+  investors will be interested in how we manage free cash flow given
+  WHISPER:  thank you thanks kenneth for
+
+[287]
+  OFFICIAL: it was negative this quarter first as you can see the negative free
+  cash flow was primarily driven by our ai investments over the past year it is
+  precisely because we have recognized this historic opportunity that we have
+  been highly resolute in making these investments
+  WHISPER:  question
+
+[288]
+  WHISPER:  toby and im going to start by answering that first question because
+  i think its important and of interest to everybody
+
+[289]
+  OFFICIAL: main
+  WHISPER:  question is the
+
+[290]
+  WHISPER:  and how we are managing that so starting there the answer is that
+  the negative free cash flow is primarily due to the very significant
+  investments weve been making in ai over the past year and weve been extremely
+  resolute in making those investments precisely because weve seen the historic
+  opportunity of ai so weve been very resolute in making those investments over
+  the past year and looking forward to the next two years we intend to be
+  equally resolute in continuing these investments again because we see this as
+  a critical window of opportunity that will be open for that period for the
+  next couple of years additionally theres really been no big change in the way
+  that we look at cash flow first of all the major contributor of operating cash
+  flow for the group is taobao and timal and that cash flow is very stable im
+
+[291]
+  OFFICIAL: we
+  WHISPER:  in terms of quick commerce the losses
+
+[292]
+  OFFICIAL: remain equally resolute in making these investments because this
+  window of opportunity may only last a few years for us march quarter two
+  thousand and twentysix and full fiscal year two thousand and twentysix results
+  wednesday thirteen may two thousand and twentysix eleven
+  WHISPER:  narrow very substantially
+
+[293]
+  OFFICIAL: there has been no material change in our operating cash flow let me
+  highlight
+  WHISPER:  aidc will develop from making
+
+[294]
+  OFFICIAL: few points first on the consumer side taobao and tmall are our most
+  important contributors of operating cash flow and overall operating cash flow
+  generation is very stable
+  WHISPER:  loss to being profitable so we see these developments
+
+[295]
+  OFFICIAL: quick commerce losses narrow significantly and aidc moves toward
+  profitability we expect
+  WHISPER:  being highly positive for
+
+[296]
+  OFFICIAL: overall consumer business to deliver very strong positive operating
+  WHISPER:  net
+
+[297]
+  OFFICIAL: that’s the first
+  WHISPER:  another important
+
+[298]
+  OFFICIAL: i want
+
+[299]
+  OFFICIAL: make second also very importantly
+  WHISPER:  be added is that
+
+[300]
+  WHISPER:  ongoing
+
+[301]
+  OFFICIAL: continue to drive revenue acceleration and gross margin improvement
+  in
+  WHISPER:  increase the revenues that we can achieve from
+
+[302]
+  WHISPER:  and
+
+[303]
+  OFFICIAL: business as eddie discussed earlier this
+  WHISPER:  offerings at the same time we
+
+[304]
+  OFFICIAL: further enhance operating
+  WHISPER:  increase gross margins in those very same offerings so in those ways
+  we expect that we can achieve higher net
+
+[305]
+  OFFICIAL: segment which
+  WHISPER:  and ai business and that cash flow
+
+[306]
+  OFFICIAL: also
+  WHISPER:  in terms be used to
+
+[307]
+  OFFICIAL: our continued investment in cloud
+  WHISPER:  the development of the relevant
+
+[308]
+  OFFICIAL: third
+  WHISPER:  an additional point is that
+
+[309]
+  OFFICIAL: our current
+  WHISPER:  as of march thirtyone two thousand and twentysix we held
+  approximately thirtyeight billion us dollars in
+
+[310]
+  OFFICIAL: position is approximately usthirtyeight billion
+  WHISPER:  and
+
+[311]
+  OFFICIAL: we
+  WHISPER:  you
+
+[312]
+  OFFICIAL: maturities
+  WHISPER:  maturity
+
+[313]
+  OFFICIAL: is
+  WHISPER:  position stands at
+
+[314]
+  OFFICIAL: usfiftynine
+  WHISPER:  fiftyeight
+
+[315]
+  OFFICIAL: this
+  WHISPER:  us dollars so that
+
+[316]
+  OFFICIAL: provides solid support
+  WHISPER:  also gives us confidence to reinvest
+
+[317]
+  OFFICIAL: our investments in cloud infrastructure finally
+  WHISPER:  growth and beyond that i would also add that
+
+[318]
+  OFFICIAL: also
+
+[319]
+  WHISPER:  a very
+
+[320]
+  WHISPER:  capacity for pursuing
+
+[321]
+  OFFICIAL: capabilities
+
+[322]
+  OFFICIAL: can access various forms of financing
+  WHISPER:  we have the capability
+
+[323]
+  OFFICIAL: meet
+  WHISPER:  raise capital from the markets as we need to support
+
+[324]
+  OFFICIAL: strategic
+
+[325]
+  OFFICIAL: needs
+
+[326]
+  OFFICIAL: that’s my
+  WHISPER:  i wanted to open with that in
+
+[327]
+  OFFICIAL: flow including on how we are positioning ourselves to ensure ample
+  cash flow let me now turn it over to eddie
+  WHISPER:  flows and ill pause there
+
+[328]
+  OFFICIAL: he
+  WHISPER:  eddie
+
+[329]
+  OFFICIAL: eddie wu translation on your question
+  WHISPER:  thank you you asked
+
+[330]
+  WHISPER:  investments in
+
+[331]
+  OFFICIAL: investments
+
+[332]
+  OFFICIAL: future
+
+[333]
+  OFFICIAL: let me take this opportunity
+  WHISPER:  on those investments going forward so on top of what toby has
+  already said id like
+
+[334]
+  OFFICIAL: share our views as well looking at how the ai business is developing
+  today
+  WHISPER:  add a few notes regarding where were heading
+
+[335]
+  OFFICIAL: it
+  WHISPER:  the best analogy
+
+[336]
+  OFFICIAL: like a
+
+[337]
+  OFFICIAL: business
+  WHISPER:  in other words
+
+[338]
+  OFFICIAL: generate
+  WHISPER:  manufacture more and sell more in the future and achieve
+
+[339]
+  OFFICIAL: we need
+  WHISPER:  what were doing today is investing capital
+
+[340]
+  OFFICIAL: core “factories” the scale of these two
+
+[341]
+  OFFICIAL: will determine how large our future revenue scale can be
+  WHISPER:  if you like
+
+[342]
+  OFFICIAL: “ai
+  WHISPER:  ai
+
+[343]
+  OFFICIAL: factory” and
+  WHISPER:  factory
+
+[344]
+  WHISPER:  we can call
+
+[345]
+  OFFICIAL: “ai inference factory”
+  WHISPER:  inferencing factory and
+
+[346]
+  OFFICIAL: these “factories” are underpinned
+  WHISPER:  those factories need to be powered
+
+[347]
+  OFFICIAL: the buildout of
+  WHISPER:  our
+
+[348]
+  OFFICIAL: which i believe will consume a significant amount
+  WHISPER:  and that requires the investment
+
+[349]
+  OFFICIAL: the group’s free
+
+[350]
+  WHISPER:  today
+
+[351]
+  WHISPER:  looking to
+
+[352]
+  OFFICIAL: path
+  WHISPER:  future the pathway
+
+[353]
+  OFFICIAL: returns
+  WHISPER:  achieving a solid return
+
+[354]
+  OFFICIAL: our
+
+[355]
+  OFFICIAL: this essential data center infrastructure
+  WHISPER:  those factories in those areas
+
+[356]
+  OFFICIAL: these data centers have a clear commercialization path
+
+[357]
+  OFFICIAL: enterprise
+  WHISPER:  toby
+
+[358]
+  WHISPER:  by monetizing our toby offerings
+
+[359]
+  OFFICIAL: through cloud iaas services
+
+[360]
+  OFFICIAL: maas platform
+  WHISPER:  cloudbased ias as well as mass of course
+
+[361]
+  OFFICIAL: ainative applications which march quarter two thousand
+  WHISPER:  ai native apps
+
+[362]
+  OFFICIAL: twentysix and full fiscal year two thousand and twentysix results
+  wednesday thirteen may two thousand and twentysix twelve generate additional
+  revenue on top of the models
+  WHISPER:  i can tell you that
+
+[363]
+  OFFICIAL: is virtually not
+  WHISPER:  isnt
+
+[364]
+  OFFICIAL: idle gpu in
+  WHISPER:  card on
+
+[365]
+  OFFICIAL: given
+  WHISPER:  that is idle so we see
+
+[366]
+  OFFICIAL: demand we anticipate over
+  WHISPER:  roi on this investment in
+
+[367]
+  OFFICIAL: five years we have invested heavily in ai data center construction
+  and there is a high degree of certainty in the investment returns
+  WHISPER:  fiveyear period as being extremely clear next question please your
+  next question comes from
+
+[368]
+  OFFICIAL: jefferies original
+  WHISPER:  with jeffries hi i could give an thanks management for taking my
+  question
+
+[369]
+  OFFICIAL: quick commerce you have talked
+  WHISPER:  quickcommerce well talk
+
+[370]
+  OFFICIAL: ue
+  WHISPER:  vg
+
+[371]
+  OFFICIAL: prepared remarks i
+  WHISPER:  prepare we must
+
+[372]
+  WHISPER:  a
+
+[373]
+  WHISPER:  and
+
+[374]
+  OFFICIAL: quick commerce
+  WHISPER:  quickcommerce
+
+[375]
+  OFFICIAL: ue
+  WHISPER:  ugi
+
+[376]
+  OFFICIAL: jiang fan translation
+  WHISPER:  thank you well
+
+[377]
+  OFFICIAL: a year of investment we have
+  WHISPER:  our strong investments at quickcommerce weve
+
+[378]
+  WHISPER:  very
+
+[379]
+  OFFICIAL: our quick commerce business
+  WHISPER:  quickcommerce over the past year
+
+[380]
+  WHISPER:  very
+
+[381]
+  OFFICIAL: share
+  WHISPER:  position
+
+[382]
+  OFFICIAL: march
+
+[383]
+  OFFICIAL: — that is before our
+  WHISPER:  which was of course prior to all this
+
+[384]
+  OFFICIAL: investment—both
+  WHISPER:  investment both
+
+[385]
+  WHISPER:  our
+
+[386]
+  OFFICIAL: in januarymarch
+
+[387]
+  OFFICIAL: period
+  WHISPER:  quarter
+
+[388]
+  OFFICIAL: tripling yearoveryear since
+  WHISPER:  at three times from
+
+[389]
+  WHISPER:  onwards
+
+[390]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[391]
+  WHISPER:  as well as
+
+[392]
+  OFFICIAL: and further increases in aov in particular
+  WHISPER:  so
+
+[393]
+  OFFICIAL: fy27 alongside
+  WHISPER:  fiscal year twentyseven while optimizing
+
+[394]
+  OFFICIAL: optimization
+
+[395]
+  OFFICIAL: quick commerce we are
+  WHISPER:  quickcommerce were
+
+[396]
+  OFFICIAL: quick commerce
+  WHISPER:  quickcommerce
+
+[397]
+  OFFICIAL: the
+  WHISPER:  new
+
+[398]
+  OFFICIAL: quick commerce
+  WHISPER:  quickcommerce
+
+[399]
+  OFFICIAL: particularly by
+  WHISPER:  as demonstrated in
+
+[400]
+  OFFICIAL: new
+
+[401]
+  OFFICIAL: needs
+  WHISPER:  demands
+
+[402]
+  OFFICIAL: all this helped drive the overall development
+  WHISPER:  in terms
+
+[403]
+  OFFICIAL: taobao and tmall march quarter two thousand and twentysix and full
+  fiscal year two thousand and twentysix results wednesday thirteen may two
+  thousand and twentysix thirteen we
+  WHISPER:  categories quickcommerce
+
+[404]
+  OFFICIAL: see quick commerce driving
+  WHISPER:  drive
+
+[405]
+  OFFICIAL: growth
+
+[406]
+  OFFICIAL: relevant
+  WHISPER:  various
+
+[407]
+  OFFICIAL: contributing
+  WHISPER:  and healthcare and contributed
+
+[408]
+  OFFICIAL: freshippo
+  WHISPER:  fresh abos
+
+[409]
+  OFFICIAL: supermarket’s
+  WHISPER:  supermarkets
+
+[410]
+  WHISPER:  so in
+
+[411]
+  OFFICIAL: posted relatively
+  WHISPER:  we saw gmv and cmr demonstrate
+
+[412]
+  WHISPER:  momentum
+
+[413]
+  OFFICIAL: in both gmv
+
+[414]
+  OFFICIAL: cmr on a likeforlike basis quick commerce
+  WHISPER:  quickcommerce
+
+[415]
+  OFFICIAL: definitively positive
+  WHISPER:  vital
+
+[416]
+  OFFICIAL: this
+  WHISPER:  that
+
+[417]
+  OFFICIAL: jialong shi nomura translation i want to follow up on the maas
+  business
+  WHISPER:  next question please your next question comes from gia longshae with
+  nomara good evening management im wondering when
+
+[418]
+  OFFICIAL: discussed in your opening remarks i’d like to get your thoughts on
+  alibaba’s competitive advantages in the maas space compared to the other major
+  ai platforms and ai startups
+  WHISPER:  think well see that kind of growth
+
+[419]
+  OFFICIAL: the united states we’ve seen ai agents and
+  WHISPER:  terms of
+
+[420]
+  OFFICIAL: in particular emerge as the fastestgrowing area for ai
+  commercialization i am wondering when you expect
+
+[421]
+  OFFICIAL: might see similar growth rates for ai coding in china separately
+  WHISPER:  also know that
+
+[422]
+  OFFICIAL: enterprises have historically been
+  WHISPER:  customers are
+
+[423]
+  WHISPER:  than us customers
+
+[424]
+  OFFICIAL: products
+  WHISPER:  so
+
+[425]
+  OFFICIAL: makes
+  WHISPER:  that means that
+
+[426]
+  OFFICIAL: commercial prospects for
+  WHISPER:  future commercialization of chinese
+
+[427]
+  OFFICIAL: in china
+  WHISPER:  might have
+
+[428]
+  OFFICIAL: promising
+  WHISPER:  potential
+
+[429]
+  OFFICIAL: in
+  WHISPER:  we see with
+
+[430]
+  OFFICIAL: eddie wu translation alibaba cloud’s maas
+  WHISPER:  counterparts thank you well the way we define our mass
+
+[431]
+  WHISPER:  bilien
+
+[432]
+  OFFICIAL: positioned
+
+[433]
+  OFFICIAL: ai inference
+  WHISPER:  aiinferencing
+
+[434]
+  OFFICIAL: currently
+  WHISPER:  certainly at present
+
+[435]
+  OFFICIAL: its
+  WHISPER:  biliens
+
+[436]
+  WHISPER:  own
+
+[437]
+  WHISPER:  but
+
+[438]
+  WHISPER:  i think that
+
+[439]
+  OFFICIAL: a
+
+[440]
+  OFFICIAL: larger
+  WHISPER:  higher
+
+[441]
+  WHISPER:  different
+
+[442]
+  OFFICIAL: that said because these
+  WHISPER:  in contrast those
+
+[443]
+  WHISPER:  may
+
+[444]
+  OFFICIAL: single model or a
+  WHISPER:  very
+
+[445]
+  WHISPER:  particular
+
+[446]
+  WHISPER:  segment and
+
+[447]
+  OFFICIAL: have strong technology and
+
+[448]
+  OFFICIAL: better strategic intuition purely
+  WHISPER:  that kind of focus and strictly
+
+[449]
+  OFFICIAL: the maas space
+  WHISPER:  our mass business i think
+
+[450]
+  WHISPER:  really
+
+[451]
+  OFFICIAL: for us
+  WHISPER:  rather than competitors but
+
+[452]
+  OFFICIAL: a certain degree at
+
+[453]
+  OFFICIAL: however
+
+[454]
+  OFFICIAL: emphasize broadbased rd
+  WHISPER:  particularly place emphasis on our model capabilities and developing
+  them
+
+[455]
+  WHISPER:  different spaces and all verticals to serve a very broad and diverse
+  set of needs including our coding
+
+[456]
+  OFFICIAL: domains from our codingfocused qwen foundation
+  WHISPER:  capabilities including imagebased
+
+[457]
+  OFFICIAL: to our video models including wanxiang
+  WHISPER:  so both ones
+
+[458]
+  OFFICIAL: happyhorse our more forwardlooking
+  WHISPER:  happy horse as well as these new
+
+[459]
+  OFFICIAL: our speech
+  WHISPER:  of course voice
+
+[460]
+  WHISPER:  as well so
+
+[461]
+  OFFICIAL: believe that going forward users across diverse scenarios will need
+  WHISPER:  aim
+
+[462]
+  OFFICIAL: draw on multiple model capabilities in combination
+  WHISPER:  provide all different kinds of models
+
+[463]
+  OFFICIAL: their business
+  WHISPER:  all different kinds of
+
+[464]
+  OFFICIAL: so thats a key difference between us
+
+[465]
+  OFFICIAL: the leading ai
+  WHISPER:  this is different i think from those
+
+[466]
+  OFFICIAL: these
+  WHISPER:  those
+
+[467]
+  OFFICIAL: can also be cooperation
+  WHISPER:  are our
+
+[468]
+  OFFICIAL: for model studio to a certain extent march quarter two thousand and
+  twentysix and full fiscal year two thousand and twentysix results wednesday
+  thirteen may two thousand and twentysix fourteen
+  WHISPER:  the other part of
+
+[469]
+  OFFICIAL: on
+  WHISPER:  was about when we can see the similar kind of growth in china as is
+  being witnessed in the us around
+
+[470]
+  OFFICIAL: is also a good one you asked when
+  WHISPER:  and i would say in terms of what were seeing based on the trends
+  that we are seeing on by leanne as well as the experience of some of these ai
+  startups in
+
+[471]
+  OFFICIAL: might see similar growth rates and our view is that
+  WHISPER:  who work closely with us i would say
+
+[472]
+  OFFICIAL: based on what we’re
+  WHISPER:  most of the growth that were
+
+[473]
+  OFFICIAL: on our own model studio platform as well as what is being observed
+  by others
+
+[474]
+  OFFICIAL: the industry — including ai startups that cooperate with us — the
+  surge in api demand
+  WHISPER:  utilization
+
+[475]
+  WHISPER:  say november or december of
+
+[476]
+  OFFICIAL: november–december
+  WHISPER:  year through
+
+[477]
+  WHISPER:  of
+
+[478]
+  OFFICIAL: largely
+
+[479]
+  OFFICIAL: improvements
+  WHISPER:  capability upgrades
+
+[480]
+  WHISPER:  terms of coding and these models are not just able to replace
+  software engineers basically theyre able to solve a wide array of very complex
+  tasks beyond just coding per se in any kind of digitalized productivity
+  scenario so weve seen
+
+[481]
+  OFFICIAL: ai
+  WHISPER:  improve significantly in both the us and in china and these
+  capabilities are capable of supporting much more than just
+
+[482]
+  OFFICIAL: isnt simply about replacing the work
+  WHISPER:  per se it can address a whole wide range
+
+[483]
+  OFFICIAL: software engineers with the advancement of ai model capabilities and
+  with the integration of ai coding into the broader agent runtime environment —
+  what is known as “harness engineering” — along with the integration of related
+  data domains we are seeing ai codingdriven complextask agents that can now
+  complete
+  WHISPER:  very complex
+
+[484]
+  OFFICIAL: across virtually every type of digital work so whether
+
+[485]
+  OFFICIAL: us or
+  WHISPER:  workplace
+
+[486]
+  OFFICIAL: china the growth in this current wave of ai demand is being driven
+  primarily by improvements in ai coding when these enhanced capabilities are
+  integrated with computers and digital tool environments in theory they
+  WHISPER:  so far as those tasks
+
+[487]
+  OFFICIAL: handle nearly all of the complex tasks of digital work going forward
+  this will
+
+[488]
+  OFFICIAL: a very important growth trend over
+  WHISPER:  digitalized so looking ahead to
+
+[489]
+  OFFICIAL: regarding your comment about chinese enterprises historically having
+  lower
+  WHISPER:  we see this is a very very important growth driver so we see i think
+  that we are meaning to coach we dance today im relying around a beginner
+  system to actively follow for todays platformll go ahead we see what you can
+  do to papa with a lot more to host for achieve
+
+[490]
+  WHISPER:  in china
+
+[491]
+  WHISPER:  however
+
+[492]
+  OFFICIAL: believe
+  WHISPER:  think that is poised to change as
+
+[493]
+  OFFICIAL: large model era represents a fundamental shift as ai
+
+[494]
+  OFFICIAL: genuinely capable of completing
+  WHISPER:  are able to truly solve for very
+
+[495]
+  WHISPER:  very complex problems as they are providing truly valuable
+  intelligence i think we can expect to see the same demand for that kind of
+  service
+
+[496]
+  OFFICIAL: users’ actual workflows what were seeing — across both
+  WHISPER:  china as in the
+
+[497]
+  OFFICIAL: and chinese enterprises — is that
+  WHISPER:  in a certain sense when the value provided by tokens exceeds the
+  cost of those tokens
+
+[498]
+  OFFICIAL: to pay
+
+[499]
+  OFFICIAL: ai capabilities that deliver real work outcomes is equally strong in
+  both markets in theory as long as the value created by this work within the
+  enterprise exceeds the token cost demand for api
+
+[500]
+  OFFICIAL: becomes
+  WHISPER:  will become infinite
+
+[501]
+  OFFICIAL: effectively unlimited from this perspective
+  WHISPER:  so
+
+[502]
+  OFFICIAL: the underlying
+
+[503]
+  OFFICIAL: having very strong
+  WHISPER:  a
+
+[504]
+  OFFICIAL: let me
+  WHISPER:  and i can
+
+[505]
+  WHISPER:  with you in terms of the growth that were seeing
+
+[506]
+  WHISPER:  our own bilean platform from november december last year through
+
+[507]
+  OFFICIAL: model studio platform
+  WHISPER:  may of this year its higher than ten times
+
+[508]
+  OFFICIAL: has been extremely rapid we expect mayjune data to show more than a
+  tenfold increase from novemberdecember levels recently our
+  WHISPER:  in terms of
+
+[509]
+  WHISPER:  its
+
+[510]
+  OFFICIAL: exceeded rmb
+  WHISPER:  over
+
+[511]
+  OFFICIAL: it’s
+  WHISPER:  this quarter its
+
+[512]
+  OFFICIAL: an
+
+[513]
+  OFFICIAL: rmb
+
+[514]
+  OFFICIAL: this quarter ultimately what were seeing is that the willingness to
+  pay
+  WHISPER:  next question please your next question comes from la yang with
+  macquarie good evening management thank you very much
+
+[515]
+  OFFICIAL: ai intelligence that helps complete realworld business tasks is
+  universal across chinese and us enterprises alike ellie jiang macquarie
+  original
+  WHISPER:  taking my question
+
+[516]
+  WHISPER:  that
+
+[517]
+  OFFICIAL: comparisons
+  WHISPER:  comparison so
+
+[518]
+  WHISPER:  that
+
+[519]
+  OFFICIAL: workflows
+  WHISPER:  workloads
+
+[520]
+  OFFICIAL: and the monetization
+  WHISPER:  endemitization
+
+[521]
+  OFFICIAL: lagged
+  WHISPER:  lag so
+
+[522]
+  OFFICIAL: multi fronts
+  WHISPER:  multifronts
+
+[523]
+  OFFICIAL: qwen app
+  WHISPER:  qaap
+
+[524]
+  OFFICIAL: qwen app
+  WHISPER:  qaap
+
+[525]
+  OFFICIAL: maas march quarter two thousand
+  WHISPER:  mac thank you thank you well there is a lot
+
+[526]
+  OFFICIAL: twentysix
+  WHISPER:  its really crucial for bringing in that
+
+[527]
+  OFFICIAL: full fiscal year two thousand
+  WHISPER:  how to not even be affected by these issues differences that are
+  measurable in becoming more relevant
+
+[528]
+  OFFICIAL: twentysix results wednesday thirteen may two thousand and twentysix
+  fifteen eddie wu translation
+  WHISPER:  being inclusive so i recently found a challenging the short term
+  setting of masks being more hell rid of masks thank you felan qa yen n eignson
+  ha is currently in the economic administration department of communications
+  please do not resistant to privacy by the community centers talking about
+  ground water restoration that we will have help about renewable system nanjing
+  in i think thats a good question i think
+
+[529]
+  WHISPER:  from the perspective of
+
+[530]
+  OFFICIAL: represents a revolution
+  WHISPER:  development its really all about paradigm shift
+
+[531]
+  OFFICIAL: paradigms ultimately the goal of
+  WHISPER:  and its about leveraging
+
+[532]
+  OFFICIAL: revolution is
+  WHISPER:  new technology
+
+[533]
+  WHISPER:  whoever they are to
+
+[534]
+  OFFICIAL: or
+  WHISPER:  and
+
+[535]
+  OFFICIAL: more effectively in this regard i
+  WHISPER:  and that applies equally on the 2c side as well as on the 2b side
+  now certainly at present we
+
+[536]
+  OFFICIAL: the enterprise and consumer sides as essentially the same that said
+  as things stand today — both globally and in china — the highest
+  WHISPER:  higher
+
+[537]
+  OFFICIAL: is indeed
+
+[538]
+  OFFICIAL: enterprise
+  WHISPER:  2b
+
+[539]
+  OFFICIAL: roi is
+  WHISPER:  its
+
+[540]
+  OFFICIAL: quantify so the majority
+  WHISPER:  show a business case with compelling roi for a business and at
+  present most
+
+[541]
+  OFFICIAL: inference
+  WHISPER:  infrastructure
+
+[542]
+  OFFICIAL: currently allocated
+  WHISPER:  therefore channeled
+
+[543]
+  OFFICIAL: enterpriseside commercialization
+  WHISPER:  the 2b side
+
+[544]
+  WHISPER:  at the end of the day
+
+[545]
+  WHISPER:  ultimately
+
+[546]
+  OFFICIAL: ultimately positioned as
+
+[547]
+  OFFICIAL: assistant
+  WHISPER:  invention thats there to be a helper and assisted
+
+[548]
+  OFFICIAL: whether it functions as
+  WHISPER:  to help humans with
+
+[549]
+  WHISPER:  whole range of things spanning their own daily life their studies
+  and their
+
+[550]
+  OFFICIAL: assistant a personal assistant or a learning assistant the core
+  objective
+  WHISPER:  and what ai does really
+
+[551]
+  OFFICIAL: basically
+
+[552]
+  OFFICIAL: ai is there to help people complete tasks
+  WHISPER:  across all of
+
+[553]
+  OFFICIAL: tasks may fall on the enterprise side or the consumer side or span
+  learning work
+  WHISPER:  scenarios its about solving problems
+
+[554]
+  OFFICIAL: daily life we believe that on the consumer side given current levels
+  of user adoption
+  WHISPER:  thats true for 2b
+
+[555]
+  WHISPER:  for 2c so certainly theres less
+
+[556]
+  WHISPER:  today for 2c but were already seeing
+
+[557]
+  OFFICIAL: certain investment cycle
+  WHISPER:  business model where consumers are paying for individual usage in
+  the us and im confident that the same
+
+[558]
+  WHISPER:  come to
+
+[559]
+  OFFICIAL: required but we also believe consumer ai assistants will also
+  gradually develop their own business models
+  WHISPER:  the case in china especially
+
+[560]
+  OFFICIAL: advances
+  WHISPER:  improves
+
+[561]
+  OFFICIAL: user adoption grows and as they are
+  WHISPER:  its better
+
+[562]
+  OFFICIAL: users complete more
+  WHISPER:  them solve real problems in their daily lives
+
+[563]
+  OFFICIAL: more tasks
+  WHISPER:  so
+
+[564]
+  OFFICIAL: are already seeing
+  WHISPER:  think that ultimately
+
+[565]
+  OFFICIAL: kind of
+  WHISPER:  will be the same
+
+[566]
+  WHISPER:  internationally and i think well probably get there
+
+[567]
+  OFFICIAL: overseas markets we expect to see more progress on consumerside ai
+  monetization
+  WHISPER:  china
+
+[568]
+  OFFICIAL: domestic market within the
+
+[569]
+  WHISPER:  say
+
+[570]
+  WHISPER:  next question please your next question comes from
+
+[571]
+  OFFICIAL: ju
+  WHISPER:  she is with
+
+[572]
+  OFFICIAL: translation i’d like to follow up
+  WHISPER:  thanks m mvwei ill go with sheikan thanks m cost sorry at least i
+  said that essentially without burning down yet so if its worth what would be
+  theclairs focus
+
+[573]
+  OFFICIAL: earlier discussion about
+  WHISPER:  algorithm is that right thanks management i have a followup question
+  also on
+
+[574]
+  OFFICIAL: beyond
+  WHISPER:  and id just like to understand what your view is on ebitda margins
+  in
+
+[575]
+  OFFICIAL: topline acceleration could management speak to the outlook for ebita
+  margin specifically
+  WHISPER:  cloud business
+
+[576]
+  WHISPER:  do you think
+
+[577]
+  OFFICIAL: growth continues to accelerate
+  WHISPER:  this business accelerates we
+
+[578]
+  OFFICIAL: we
+
+[579]
+  OFFICIAL: a margin expansion trend
+
+[580]
+  WHISPER:  margins as we see in your international peers i think when it comes
+
+[581]
+  OFFICIAL: that
+  WHISPER:  the deep penetration
+
+[582]
+  OFFICIAL: overseas peers eddie wu translation we believe
+
+[583]
+  OFFICIAL: and its penetration
+
+[584]
+  WHISPER:  all different
+
+[585]
+  WHISPER:  were still really in the early days of that long process but our
+  objective
+
+[586]
+  OFFICIAL: still at an early stage the primary
+  WHISPER:  clear our
+
+[587]
+  OFFICIAL: for alibaba cloud and our ai business currently
+
+[588]
+  WHISPER:  to achieve growth to drive growth to drive
+
+[589]
+  OFFICIAL: users
+
+[590]
+  WHISPER:  to acquire a larger
+
+[591]
+  WHISPER:  so
+
+[592]
+  OFFICIAL: march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix sixteen
+  WHISPER:  the other thing to be pointed out is
+
+[593]
+  OFFICIAL: said there are several very clear industry dynamics at play right
+  now first it remains difficult to assess how ai industry demand will be met
+  over
+  WHISPER:  for
+
+[594]
+  OFFICIAL: to
+  WHISPER:  or even
+
+[595]
+  OFFICIAL: because of numerous
+  WHISPER:  to come there are
+
+[596]
+  OFFICIAL: bottlenecks — the construction cycle for ai data centers the
+  WHISPER:  constraints on
+
+[597]
+  OFFICIAL: cycles
+  WHISPER:  production capacity
+
+[598]
+  OFFICIAL: and
+  WHISPER:  for
+
+[599]
+  OFFICIAL: across the industry
+  WHISPER:  for
+
+[600]
+  OFFICIAL: buildout of fabs and overall capacity growth within a three
+  WHISPER:  things that are needed
+
+[601]
+  OFFICIAL: fiveyear horizon supply will struggle to keep up with the
+  WHISPER:  support all this
+
+[602]
+  OFFICIAL: ai
+
+[603]
+  OFFICIAL: historically it capex has benefited
+  WHISPER:  and the advantage that we have at alibaba cloud is the scale of our
+  customer base as well as the scale effect
+
+[604]
+  OFFICIAL: strong customer and asset scale effects but because
+  WHISPER:  all
+
+[605]
+  OFFICIAL: current tightness
+  WHISPER:  capex that weve put
+
+[606]
+  OFFICIAL: supply
+  WHISPER:  over these years but in this environment of market scarcity were
+  already seeing that
+
+[607]
+  OFFICIAL: of deploying a new server today is more than double what it cost
+  WHISPER:  for
+
+[608]
+  OFFICIAL: essentially
+  WHISPER:  one new server this year is double what that same server would have
+  cost a year ago
+
+[609]
+  OFFICIAL: same hardware two years ago
+
+[610]
+  OFFICIAL: this rising
+  WHISPER:  so given that higher
+
+[611]
+  OFFICIAL: for new servers is driving upward
+  WHISPER:  effect we have certain
+
+[612]
+  OFFICIAL: on cloud services for both existing and
+  WHISPER:  with respect to
+
+[613]
+  WHISPER:  and also old customers so i think in the long term the asset pricing
+  effect will be positive for our revenues going forward secondly
+
+[614]
+  OFFICIAL: believe this will have a positive effect on driving pricing power
+  upward for all kinds of cloud services over the longer term second were also
+  seeing
+  WHISPER:  see very
+
+[615]
+  OFFICIAL: alibaba clouds maas business because maas revenue is
+  WHISPER:  mas as we reported to you and
+
+[616]
+  WHISPER:  as we said mas represents
+
+[617]
+  WHISPER:  much
+
+[618]
+  OFFICIAL: grossmargin business than our traditional iaas and itassetbased
+  businesses at the same time as inference technology continues to improve
+  pergpu capacity keeps increasing so what were seeing now is that the same
+  server if allocated to model studio generates higher revenue and
+  WHISPER:  level of
+
+[619]
+  OFFICIAL: if
+  WHISPER:  ias or traditional types of
+
+[620]
+  OFFICIAL: were allocated
+  WHISPER:  operations so as demand for inference continues
+
+[621]
+  OFFICIAL: traditional
+  WHISPER:  grow exponentially we expect this will be very positive for growth
+  margin and due to the optimization of our reasoning technology the output
+  capacity the productivity of a single cart will continue to rise an additional
+  factor is as we continue to scale up the deployment of the thead the thead
+  chips represent the highest value for money compute power on the
+
+[622]
+  OFFICIAL: computing services as maas’s revenue contribution grows we believe
+  it
+  WHISPER:  platform and that also
+
+[623]
+  OFFICIAL: lift our
+  WHISPER:  contribute to a better
+
+[624]
+  OFFICIAL: going forward third
+  WHISPER:  but for several objective reasons that ive outlined i think overall
+  in the next two to three years
+
+[625]
+  OFFICIAL: have a fullstack technology advantage theads proprietary ai chips
+  development and future production at scale will enable us
+  WHISPER:  can expect
+
+[626]
+  OFFICIAL: be potentially the most costeffective inference platform in china we
+  believe this inference platform can generate superior gross margins and create
+  strong synergies with our models in conclusion because of these objective
+  factors we expect alibaba cloud’s
+  WHISPER:  see significantly higher
+
+[627]
+  WHISPER:  for alibaba cloud and we can expect
+
+[628]
+  OFFICIAL: improve meaningfully over
+  WHISPER:  start to see that in
+
+[629]
+  OFFICIAL: years this momentum should be visible within
+  WHISPER:  quarters oh peter lets take
+
+[630]
+  OFFICIAL: next one or two quarters
+  WHISPER:  last question thank you your last question comes from
+
+[631]
+  OFFICIAL: yu
+  WHISPER:  hu with
+
+[632]
+  OFFICIAL: original
+  WHISPER:  hi for the opportunity
+
+[633]
+  OFFICIAL: capex
+  WHISPER:  capac so
+
+[634]
+  OFFICIAL: capex
+  WHISPER:  capacs
+
+[635]
+  OFFICIAL: maas
+  WHISPER:  mas
+
+[636]
+  OFFICIAL: longterm
+  WHISPER:  long term
+
+[637]
+  WHISPER:  and
+
+[638]
+  OFFICIAL: alibaba cloud
+  WHISPER:  arigalao and
+
+[639]
+  OFFICIAL: what
+
+[640]
+  OFFICIAL: uplift
+  WHISPER:  of level
+
+[641]
+  OFFICIAL: march quarter two thousand and twentysix and full fiscal year two
+  thousand and twentysix results wednesday thirteen may two thousand and
+  twentysix seventeen eddie wu translation your first question is also an
+  important one in fact during our prepared remarks last quarter we shared the
+  ambitious revenue target we have set for the next five years that target
+  represents a roughly 10x increase compared to alibaba cloud’s external revenue
+  in two thousand and twentytwo and two thousand and twentythree prior to the ai
+  large model boom by way of rough calculation then our data center footprint
+  needs to expand at least 10x relative to two thousand and twentytwo in order
+  to support our longterm business objectives that is our overall target for our
+  buildout encompassing both our capex investments and the substantial compute
+  we are currently securing through opex arrangements that means that the
+  capital we need to deploy over the next five years to secure this compute
+  capacity will far exceed the original budget of rmb three hundred and eighty
+  billion over three years that we had previously shared of course the situation
+  is more complex now and not all of these compute centers will be selfbuilt
+  using our own capex for example we will secure some through opex leasing
+  arrangements also as thead’s chip production scales we may sell thead ai
+  servers to various compute or data center service providers and cobuild with
+  them so we will expand our data center capacity in a variety of different ways
+  but in terms of fundamental data center requirements we are benchmarking
+  against a scale that is ten times our two thousand and twentytwo footprint
+  before the ai large model boom regarding proprietary chip deployment on
+  alibaba cloud penetration remains at a relatively low level to share further
+  context i’d like to highlight that thead’s chip portfolio extends beyond our
+  own gpus to include proprietary cpus storage chips and networking chips so
+  going forward we have the opportunity to run our full stack — gpus cpus
+  storage and networking chips — all on proprietary silicon for now penetration
+  remains low due to various objective factors including relatively limited
+  domestic semiconductor manufacturing capacity although it has been expanding
+  in recent years as thead’s fullstack proprietary chips gain penetration the
+  impact on our gross margins will be very substantial that said the magnitude
+  of this impact is currently being moderated by several interacting factors for
+  example because china’s domestic semiconductor manufacturing process nodes
+  still lag overseas ones a chip of comparable specifications will still show
+  some gap whether in power consumption or efficiency versus advanced foreign
+  chips that said gross margins on mainstream foreign ai chips are very high
+  basically in the sixty to eighty range so even if domestic chips still fall
+  somewhat short on overall performance or power efficiency the high margins on
+  advanced foreign chips leave domestic chips with enormous headroom for
+  costperformance gains march quarter two thousand and twentysix and full fiscal
+  year two thousand and twentysix results wednesday thirteen may two thousand
+  and twentysix eighteen how much of that costperformance upside ultimately
+  flows through to our overall gross margin will depend as capacity expands on
+  the substitution ratio that domestic chips can achieve lydia liu original
+
+[642]
+  OFFICIAL: this brings us to the end of today’s earnings call we appreciate
+  your time and participation and we look forward to speaking with
+  WHISPER:  thank
+
+[643]
+  OFFICIAL: soon end of transcript
+  WHISPER:  thank you thank you thank you thank you thank you thank you thank
+  you thank you thank you thank you thank you thank you thank you thank you
+  thank you thank you thank you thank you thank you thank you thank you thank
+  you thank you thank you thank you thank you thank you thank you thank you
+  thank you thank you thank you thank you thank you thank you thank you

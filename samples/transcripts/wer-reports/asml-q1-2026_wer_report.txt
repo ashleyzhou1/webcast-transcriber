@@ -1,0 +1,1386 @@
+WER: 523.7%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 1693
+Whisper word count: 9437
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+public public transcript video interview with asml ceo christophe fouquet and
+cfo roger dassen q1 two thousand and twentysix results hello and welcome to the
+asml q1 two thousand and twentysix results video welcome christophe and roger
+roger if i could start with you and ask you to give us a summary of our q1 two
+thousand and twentysix results for the quarter total net sales came in at €eight
+point eight billion that was within guidance included in the €eight point eight
+billion was €two point five billion for installed base revenue that was a little
+bit above the guidance if you look at the gross margin for q1 fiftythree that
+was at the high end of the gross margin that we guided if you look at the
+installed base business i just mentioned the installed base business was higher
+than we anticipated if you look at the components in the installed base business
+there were components in there that actually come in at quite some strong gross
+margins as a result of that a pretty high gross ma
+
+WHISPER (first 1000 chars):
+good day and thank you for standing by welcome to the asml two thousand and
+twentysix first quarter financial results conference call on april 15th two
+thousand and twentysix at this time all participants are in a listen only mode
+after the speakers introduction there will be a question and answer session to
+ask a question during the session you will need to press star one and one on
+your telephone you will then hear an automated message advising your hand is
+raised to withdraw your question please press star one and one again please be
+advised that todays conference is being recorded i would now like to hand the
+conference call over to mr jim cavanaugh please go ahead thank you operator
+welcome everyone this is jim cavanaugh head of investor relations at asml
+joining me today on the call are asml ceo christoph fouquet and our cfo roger
+daffa the subject of todays call is asml two thousand and twentysix first
+quarter results the link to the call will be sixty minutes and questions will
+
+ALIGNED DIFFERENCES (all 187, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: public public transcript video interview with
+  WHISPER:  good day and thank you for standing by welcome to the asml two
+  thousand and twentysix first quarter financial results conference call on
+  april 15th two thousand and twentysix at this time all participants are in a
+  listen only mode after the speakers introduction there will be a question and
+  answer session to ask a question during the session you will need to press
+  star one and one on your telephone you will then hear an automated message
+  advising your hand is raised to withdraw your question please press star one
+  and one again please be advised that todays conference is being recorded i
+  would now like to hand the conference call over to mr jim cavanaugh please go
+  ahead thank you operator welcome everyone this is jim cavanaugh head of
+  investor relations at asml joining me today on the call are
+
+[2]
+  OFFICIAL: christophe
+  WHISPER:  christoph
+
+[3]
+  WHISPER:  our
+
+[4]
+  OFFICIAL: dassen q1
+  WHISPER:  daffa the subject of todays call is asml two thousand and twentysix
+  first quarter results the link to the call will be sixty minutes and questions
+  will be taken in the order in which they are received this call is also being
+  broadcast live over the internet at wwwasmlcom a transcript of managements
+  opening remarks and replay of the call will be available on our website
+  shortly following the conclusion of this call before we begin i would like to
+  caution listeners that comments made by management during this conference call
+  will include forward looking statements within the meaning of the federal
+  securities laws these forward looking statements involve material risks and
+  uncertainties for discussion of risk factors i encourage you to review the
+  safe harbor statement contained in todays press release and the presentation
+  found on our website at wwwasmlcom and in asmls annual report on form 20f and
+  other documents as filed with the securities and exchange commission with that
+  i would like to turn the call over to christoph fouquet for a brief
+  introduction mr jim welcome everyone and thank you for joining us for our
+  first quarter two thousand and twentysix resource conference call before we
+  begin the qa session fouquet and i would like to provide an overview and some
+  commentaries on the first quarter
+
+[5]
+  OFFICIAL: hello
+  WHISPER:  as well as provide some additional comments on the current business
+  environment and on our future business thank you christoph
+
+[6]
+  OFFICIAL: to
+  WHISPER:  everyone i will first review
+
+[7]
+  OFFICIAL: asml q1
+  WHISPER:  first quarter
+
+[8]
+  OFFICIAL: results video welcome christophe
+  WHISPER:  financial accomplishments
+
+[9]
+  OFFICIAL: roger roger if i could start with you and ask you to give us a
+  summary
+  WHISPER:  then provide guidance on the second quarter
+
+[10]
+  OFFICIAL: our q1
+
+[11]
+  OFFICIAL: results
+  WHISPER:  let me start with our first quarter accomplishments in the first
+  quarter of two thousand and twentysix total net sales were eight point eight
+  billion euros which is within our guidance net system sales were at six point
+  three billion euros which includes over four point one billion euros from ev
+  system sales including sales from two high na systems and over two point one
+  billion euros from non ev system sales net system sales were almost equally
+  split between logic at fortynine and memory at fiftyone installed base
+  management sales
+
+[12]
+  OFFICIAL: total net sales came in
+  WHISPER:  of kmen
+
+[13]
+  OFFICIAL: €eight point eight billion that was within guidance included in the
+  €eight point eight billion was €two
+  WHISPER:  two
+
+[14]
+  OFFICIAL: for installed base revenue that was a little bit
+  WHISPER:  euros slightly
+
+[15]
+  WHISPER:  our guidance
+
+[16]
+  OFFICIAL: guidance if you look at the gross
+  WHISPER:  first
+
+[17]
+  OFFICIAL: q1 fiftythree that
+  WHISPER:  the quarter
+
+[18]
+  WHISPER:  our guidance at fiftythree primarily due to
+
+[19]
+  OFFICIAL: gross
+  WHISPER:  contribution of very high
+
+[20]
+  OFFICIAL: that we guided if you look at the
+  WHISPER:  components within our
+
+[21]
+  OFFICIAL: i just mentioned
+  WHISPER:  on operating expenses we came in as guidance our new expenses were
+  rounded at one point two billion euros and as
+
+[22]
+  OFFICIAL: installed base business was higher than we anticipated if you look
+  at the components in the installed base business there were components in
+  there that actually come
+  WHISPER:  gna expenses came
+
+[23]
+  OFFICIAL: quite some strong gross margins as a result of that a pretty high
+  gross margin fiftythree net income
+  WHISPER:  zero point three billion euros the effective tax rates for q1 was
+  seventeen point one
+
+[24]
+  OFFICIAL: quarter €two point eight billion q2
+  WHISPER:  full year
+
+[25]
+  OFFICIAL: guidance can you also provide us
+  WHISPER:  the expected annualized effective tax rate is around seventeen net
+  income in q1 was eight point eight billion euros representing thirtyone point
+  four of total net sales and resulting in earnings per share of seven point one
+  five euros turning to the balance sheet we ended the first quarter
+
+[26]
+  OFFICIAL: guidance
+  WHISPER:  cash cash equivalents and shortterm investments at a level of eight
+  point four billion euros our q1 free cash grow was negative two point six
+  billion euros largely driven by the timing of down payment with that i would
+  like to turn to our expectations
+
+[27]
+  OFFICIAL: q2
+  WHISPER:  the second quarter of
+
+[28]
+  OFFICIAL: for q2
+
+[29]
+  OFFICIAL: €eight point four to €nine billion of
+  WHISPER:  q2
+
+[30]
+  OFFICIAL: included in there again €two
+  WHISPER:  to be between eight point four billion euros and nine billion euros
+  we expect our q2 installed base management sales to be around two
+
+[31]
+  OFFICIAL: of installed base business we expect the gross
+  WHISPER:  euros first
+
+[32]
+  WHISPER:  for q2 is expected
+
+[33]
+  OFFICIAL: market dynamics christophe if
+  WHISPER:  the expected rd expenses for q2 are around one point two billion
+  euros and as the gna is expected to be around zero point three billion euros
+  moving to our cash return to our shareholders in q1 asm outpaid a third
+  interim dividend over two thousand and twentyfive of one point six euro per
+  ordinary share is malentans declared total dividend for the year two thousand
+  and twentyfive of seven point five euro per ordinary share which is a
+  seventeen increase compared to two thousand and twentyfour recognizing the
+  three interim dividends of one point six euro per ordinary share paid in
+  twentyfive and twentysix this needs to a final dividend proposal to the annual
+  general meeting of two point seven euro per ordinary share in q1 two thousand
+  and twentysix we purchase shares for total amount of around one point one
+  billion euros and with that
+
+[34]
+  OFFICIAL: can switch
+  WHISPER:  would like
+
+[35]
+  WHISPER:  turn the call back over to christoph thank
+
+[36]
+  OFFICIAL: can i ask you
+  WHISPER:  roshi as roshi highlighted we finished the first quarter with good
+  financial reserves looking ahead with respect
+
+[37]
+  OFFICIAL: give us an outlook on
+
+[38]
+  OFFICIAL: and how youre seeing things at
+
+[39]
+  OFFICIAL: moment well i think we see that
+  WHISPER:  growth outlook for
+
+[40]
+  OFFICIAL: growth
+
+[41]
+  OFFICIAL: this is still very much
+
+[42]
+  WHISPER:  primarily
+
+[43]
+  WHISPER:  ai related infrastructure investment these
+
+[44]
+  OFFICIAL: in ai infrastructure so this translates into a lot of
+  WHISPER:  are increasing
+
+[45]
+  OFFICIAL: memory for advanced
+
+[46]
+  OFFICIAL: we expect
+  WHISPER:  and member of chips
+
+[47]
+  OFFICIAL: fact that the supply will not meet the demand
+  WHISPER:  many areas and
+
+[48]
+  OFFICIAL: so
+  WHISPER:  demand will continue to outpace supply
+
+[49]
+  OFFICIAL: is creating a strong constraint in the
+  WHISPER:  creates constraints across
+
+[50]
+  OFFICIAL: pc as a result
+  WHISPER:  pcs which is driving
+
+[51]
+  OFFICIAL: are strongly invited
+
+[52]
+  OFFICIAL: create more
+  WHISPER:  aggressively add
+
+[53]
+  OFFICIAL: so if we look at
+  WHISPER:  in the
+
+[54]
+  OFFICIAL: what our
+  WHISPER:  business many
+
+[55]
+  OFFICIAL: tell us is
+  WHISPER:  have called
+
+[56]
+  OFFICIAL: two thousand
+  WHISPER:  the remaining of the year
+
+[57]
+  OFFICIAL: twentysix and their
+  WHISPER:  that they expect the
+
+[58]
+  OFFICIAL: constraints will last
+  WHISPER:  limitation to persist
+
+[59]
+  OFFICIAL: for advanced
+  WHISPER:  despite their plans to add significant capacity in the
+
+[60]
+  OFFICIAL: we see
+  WHISPER:  business
+
+[61]
+  OFFICIAL: building
+  WHISPER:  are adding
+
+[62]
+  OFFICIAL: for several
+  WHISPER:  across multiple advanced
+
+[63]
+  WHISPER:  to support demand
+
+[64]
+  WHISPER:  continuing to ramp the two nanometer node in support of next
+  generation hpc and mobile application
+
+[65]
+  OFFICIAL: continue to ramp
+  WHISPER:  expect supply limitation across those advanced nodes beyond
+
+[66]
+  OFFICIAL: nm in order to address the ai products then i guess its fair to say
+  a lot of those capacity additions are adding positively to our own outlook
+  well absolutely we see our
+  WHISPER:  thousand and twentysix also
+
+[67]
+  WHISPER:  are responding to this unprecedented demand by
+
+[68]
+  OFFICIAL: their
+
+[69]
+  OFFICIAL: expenditure
+  WHISPER:  expenditures
+
+[70]
+  OFFICIAL: trying to accelerate basically their
+  WHISPER:  accelerating
+
+[71]
+  OFFICIAL: ramp in two thousand and twentysix
+  WHISPER:  expansion plans this year
+
+[72]
+  OFFICIAL: whats also very interesting is that a lot of this demand is
+  WHISPER:  those investments are
+
+[73]
+  OFFICIAL: longterm commitment from
+  WHISPER:  long term agreement with
+
+[74]
+  OFFICIAL: customers on top of that we see
+  WHISPER:  own customer in addition to expanding capacity
+
+[75]
+  OFFICIAL: memory customers
+  WHISPER:  advanced
+
+[76]
+  OFFICIAL: customers
+
+[77]
+  OFFICIAL: advanced
+
+[78]
+  OFFICIAL: continuing
+  WHISPER:  continue
+
+[79]
+  OFFICIAL: public public increase
+  WHISPER:  further adopt ev and immersion dpv on new process nodes which
+  further increases
+
+[80]
+  OFFICIAL: adoption of euv but also immersion so this translates basically into
+  higher litho intensity and a higher litho
+
+[81]
+  OFFICIAL: asml so were going
+  WHISPER:  lithography as a resource ismr order intake continues
+
+[82]
+  OFFICIAL: continue to work
+  WHISPER:  be
+
+[83]
+  WHISPER:  strong and we stay
+
+[84]
+  WHISPER:  aligned
+
+[85]
+  WHISPER:  support their needs at the same time we offer customers productivity
+  upgrade for their install base to
+
+[86]
+  WHISPER:  their short term output requirements turning to
+
+[87]
+  OFFICIAL: we are doing that in two thousand and twentysix we will continue to
+  do that in two thousand and twentyseven then maybe roger just adding onto that
+  can you provide a little bit more color and details on what we are actually
+  going to do in terms of adding capacity to support market demand so i think
+  christophe said it right were very clearly working with our customers fully
+  align with customers to give them what they need that is in a combination of
+  capacity in terms of new shipments making sure that the performance of systems
+  is upgraded as best as we can and also provide installed base products so in
+  that combination we try to give customers what they need specifically when it
+  comes to our own capacity what were looking at for this year
+  WHISPER:  expansion plan
+
+[88]
+  OFFICIAL: believe we can drive
+  WHISPER:  are executing on
+
+[89]
+  OFFICIAL: for this year
+  WHISPER:  plan
+
+[90]
+  OFFICIAL: systems for
+
+[91]
+  OFFICIAL: euv thats what we’re currently
+  WHISPER:  uv system and despite a slow start as discussed last quarter
+
+[92]
+  OFFICIAL: added
+  WHISPER:  output of our immersion system close
+
+[93]
+  WHISPER:  in two thousand and twentyfive based on these developments in demand
+  and order intake we are quarter by quarter increasing the move rates for our
+  hpm product raising low na uv capacity to at least eighty system next year and
+  scaling dpv and application products in alignment we continue to see a strong
+  year ahead and expect ismr to grow in two thousand and twentysix therefore we
+  are updating our two thousand and twentysix guidance both narrowing and
+  increasing the expected revenue range to between thirtysix billion euros and
+  forty billion euros while maintaining our expectation of a gross margin
+  between fiftyone and fiftythree we are revenue weighted to the second half of
+  the year as we said last quarter last quarter uv revenue is expected to raise
+  significantly this year driven by the dynamics in advanced logic and the ram
+  markets mentioned earlier for noneu revenue we previously expected this to be
+  similar to last year but given continued demand momentum we now expect gross
+  as a resource of customer adding more dpv lithography to support their
+  expansion plans we also expect install base management revenue to grow
+  significantly this year driven by service revenue from our expanding uv
+  install base and customer demand for performance upgrades to support their
+  increasing capacity requirements we expect that the bandwidth in our two
+  thousand and twentysix guidance accommodates potential outcomes of ongoing
+  discussions around export control turning to technology we continue to make
+  very good progress on this front with several developments recently
+  highlighted at the stie advanced lithography and patterning conference this
+  february in san jose at the conference we presented an updated low naiv
+  productive roadmap that reflects improvement to both our short term and long
+  term plans for these products this includes the ability to reach at least
+  three hundred and thirty wafer per hour on low naiv at the start of the next
+  decade enabled in large part by our continued source powered improvement as
+  evidenced by our recent one thousand wat source demonstration in the short
+  term all nxe3800 e system can benefit from an upgrade that provides an
+  increase of ten wafer per hours with two hundred and thirty wafer per hours
+  available immediately to all customer for nxe3800 f system we have raised the
+  wafer per hour specification from two hundred and fifty wafer to two hundred
+  and sixty wafer per hours we plan to start shipping that system in two
+  thousand and twentyseven with full volume slated for two thousand and
+  twentyeight we also shared that the ine platform has now processed over half a
+  million wafers and achieved over eighty availability so at the conference we
+  saw customers presenting several strong papers highlighting the progress with
+  ine these presentations demonstrated use cases in both logic and in dram in
+  which a single ine exposure can replace complex multipatterning processes that
+  today require free or fall low na exposures for some critical layers ine can
+  reduce the number of opposite steps by a factor of ten the progress being made
+  throughout the ecosystem especially with resist allows us to target line and
+  speed pitches of eighteen nanometer for logic and contact pitches below
+  twentyeight nanometer for dram this means that ine can support single exposed
+  for at least three nodes in logic and dram we continue to work to further
+  mature the platform alongside our customer as they start to test the
+  technology on product wafers and move closer to bringing ine into high volume
+  manufacturing looking more broadly what we have seen over the past few months
+  has further confirmed our view on the positive impact of ai on customer demand
+  for our advanced product and especially for our evc stem in both advanced
+  memory and logic we see the end market dynamic supporting a shift in product
+  mix towards more demand for our advanced lithography product and an increase
+  in nether intensity our strong productivity on map on low na in combination
+  with the introduction of ine supports for the cost of technology reduction for
+  our customer in summary demand remains strong for the entire product portfolio
+  with that we will be happy to take your questions thank you raje and thank you
+  christoph the operator will instruct you momentarily on the protocol for the
+  qa session beforehand i would like to ask you to kindly limit yourself to one
+  question with one short follow up if necessary this will allow us to get
+  through as many callers as possible now operator could we have your final
+  instructions and then the first question please thank you as a reminder to ask
+  a question you will need to press star one and one on your telephone and wait
+  for your name to be announced to withdraw your question please press star one
+  and one again we will now take the first question and your first question
+  today comes from the line of joe khatriki from wells fargo please go ahead
+  yeah thanks for taking the question maybe i just start with the updated two
+  thousand and twentysix revenue guide do you talk about taking up your emerging
+  outlook and your duv outlook how much of that is coming from china versus
+  nonchina and did the euv outlook change at all its a high growth for jay this
+  is primarily nonchina when it comes to emerging china remains at the midpoint
+  around twenty thats the expectation that we have for the china business so
+  that view has not changed as we mentioned on the last call we
+
+[94]
+  OFFICIAL: duv
+  WHISPER:  immersion and said given the supply chain situation and immersion we
+  said we doubt whether we can get immersion to the level that we had last year
+  weve been working extremely hard and right now were at a point where we
+  believe we can get immersion close to the levels that we had last year that
+  would primarily flow to the nonchinese customer thats where that is thats a
+  major driver of the uptick and also in euv we believe there is a bit more that
+  can be done its in that combination and as you can see from our achievements
+  and also our expectations for the insult based business that one is strong as
+  well i would say its actually a combination but clearly immersion is an
+  important part of the uptake of the guidance thats helpful then just as a
+  follow up on the gross margin the range not changing but clearly immersion
+  increasing i know thats a bit higher gross margin just any put and take there
+  while the gross margin guides say its the same for twentysix yeah youre right
+  i mean for the entire year the gross margin remains in spite of a bit more
+  immersion but its also clear that were increasing the move rate quite a bit of
+  course increasing the move rate means that youre hiring people hiring people
+  training people that also cost a bit of money so every ramp you always have a
+  little bit of cost before you have the benefit of that thats the other side of
+  the equation thats why we believe that the guidance range as we have it taken
+  into consideration all the puts and takes we believe keeping it as we
+  articulated it as the water would go is the right way to go thank you youre
+  welcome thank you your next question comes from the line of chris sankar from
+  td cowan please go ahead we have time to take my question i do have them first
+  run rosie okirstoff im kind of curious what is the visibility youre getting
+  from your customers does that extend into two thousand and twentyeight based
+  on how to think about asm as good profile in twentyseven and twentyeight
+  either qualitatively or quantitatively well i think two thousand and
+  twentyeight is still quite far away and i think a lot of the discussion we
+  have with our customer today are still a bit about two thousand and twentysix
+  as rosie mentioned were still working hard even
+
+[95]
+  OFFICIAL: as i mentioned
+  WHISPER:  with our customer to make sure we deliver what they need and of
+  course
+
+[96]
+  OFFICIAL: couple
+  WHISPER:  lot
+
+[97]
+  OFFICIAL: months ago when it comes to immersion duv we actually had a bit of a
+  slow start because in the course of last year we were looking at a
+  significantly lower demand for immersion that has now reversed itself i would
+  say in spite of that slow start were still for this year expecting to get
+  pretty close to the immersion sales that we had last year in terms of unit
+  numbers so thats for two thousand and twentysix when it comes
+  WHISPER:  discussion are moving
+
+[98]
+  OFFICIAL: in terms of capability were increasing
+  WHISPER:  which is also why we are also there working very hard to increase
+  the capacity but two thousand and twentyeight is a bit too far away i think is
+  there a way to think about twentyseven at this moment chris starfall well i
+  think we mentioned already that we are growing
+
+[99]
+  OFFICIAL: really
+  WHISPER:  every
+
+[100]
+  OFFICIAL: on quarter when
+  WHISPER:  so i think we are still in a dynamic where we believe that we have
+  to create more space for our customer i think weve explained in our
+  introduction that we are preparing to build at least eighty lowend uv system
+  next year so i think these are the sign if
+
+[101]
+  OFFICIAL: look specifically at low na euv
+  WHISPER:  need any that of course the discussion
+
+[102]
+  OFFICIAL: expect that were able to get to an output for
+  WHISPER:  have about
+
+[103]
+  OFFICIAL: again if customer demand really underpins
+  WHISPER:  are currently around making sure
+
+[104]
+  WHISPER:  have enough capacity for our customer carl another quick followup i
+
+[105]
+  OFFICIAL: that
+  WHISPER:  you mentioned how you are undershipping demand today if you start
+  looking at two thousand seven hundred and eighty unit capacity for low na are
+  you meeting demand are you still undershipping demand at eighty units next
+  year well i think on those discussion and i think the number
+
+[106]
+  OFFICIAL: can get to
+  WHISPER:  share today are i will say the results of very close discussion with
+  our customers we talked about
+
+[107]
+  OFFICIAL: low na euv units
+  WHISPER:  because those discussions are still ongoing i think you have seen of
+  course the dynamic in the last couple of quarters so i think we said that also
+  last quarter we
+
+[108]
+  OFFICIAL: also looking at having the noneuv business being
+  WHISPER:  working every day very closely with our customer to make sure
+  basically that we stay
+
+[109]
+  OFFICIAL: customers
+  WHISPER:  they need i think we have of course a very strong mission to meet
+  their demand so thats what those number reflects i think thats the results of
+  where our discussion
+
+[110]
+  OFFICIAL: asking
+  WHISPER:  today thank you kristoff youre welcome thank you your next question
+  comes from the line of cd me is from contell its gerald please go ahead yeah
+  good morning good afternoon thank you
+
+[111]
+  WHISPER:  taking the question i guess first question going back to gross
+  margins and if we isolate march versus june march your revenue to ina zero i
+  think it embedded in june and so i get kind of the upgrades as a real positive
+
+[112]
+  OFFICIAL: all
+  WHISPER:  march but i would have thought the higher low in euv and immersion
+  would have led to higher gross margins i understand youre adding edgout but
+  that still seems pretty severe so wondering if theres anything else in that
+  mix thats driving that change no theres nothing in the mix really cj it really
+  is down to the elements that you just referred to so a few put on takes puts
+  on takes but the primary ones being the very high margin elements in the
+  upgrade business that we had in q1 were not counting on such a strong pattern
+  in the upgrade business in q2 so thats an important element and then indeed to
+  the point that i made earlier on the increase in hub counts that were going
+  through to prepare for optics for upgrades in the move rate so its pretty low
+  elements as a result
+
+[113]
+  OFFICIAL: their nodes fullyear two thousand
+  WHISPER:  which were now narrowing the bandwidth for this particular quarter
+  to fiftyone
+
+[114]
+  OFFICIAL: twentysix
+  WHISPER:  fiftytwo of course you would see that the second half of the year
+  that volume is more skewed towards the second half of the year right if you
+  look at our adorac items so its also appropriate to see more of the benefits
+  of the increase of the ramp that were doing in that in the second half of the
+  year as a result of that we maintain the
+
+[115]
+  OFFICIAL: specifically on two thousand and twentysix can you give us an update
+  then on our own business
+
+[116]
+  WHISPER:  at fiftyone to fiftythree perfect mix and i guess as a follow up
+  kristoff to try to talk about the supply side obviously under shipping and
+  demand today curious how you working internally at asml outside of headcount
+  what kind of things are you doing to help drive productivity and extra supply
+  and also with your supply chain particularly around the optics and mirror
+  fronts what is necessary there and if you are considering eighty plus euv what
+  does that mean from an immersion unit perspective in twentyseven thanks
+
+[117]
+  OFFICIAL: clearly two thousand
+  WHISPER:  much i think were working on many many fronts i would say you
+  mentioned the supply chain i think we have been mostly explaining the last few
+  years that we were preparing the supply chain basically to be able to go to a
+  capability of ninety
+
+[118]
+  OFFICIAL: twentysix
+  WHISPER:  low na and to a capability of six hundred and four for dpuv total
+  dpuv and i think what we see in these frames
+
+[119]
+  OFFICIAL: panning out
+  WHISPER:  that a lot of the preparation is paying off so i think that of
+  course you always have challenge with the supply chain but i will say so far
+  also our supply chain has been able to support our move rate increase quarter
+  by quarter and thats included by the way zeiss to name them thats included the
+  optic where i think we had major challenges a few years ago in the previous
+  frames i think we are in a much better shape there i think thats also true
+  with what we have prepared in terms of capacity here in isml so im talking
+  about the space we need to build the tools both euv and dpuv and this allows
+  as roger mentioned that to basically now add the people we will need to meet
+  the move rate that is required the other element id like to stress we also
+  talked a lot about the thirtyeight and the e in the last few years as you have
+  noticed the matching tool is a much better place than it was a year ago which
+  also allows us to make great progress on cycle time in our factory and of
+  course a shorter cycle time gives us opportunity for more tools so we have
+  many many parameters that we drive i would say all at the same time
+
+[120]
+  OFFICIAL: nicely
+  WHISPER:  aggressively basically to get more output thats true for euv thats
+  true for dpuv twentyseven is a bit far for dpuv so i think that the
+  expectation as i mentioned before is that the number of dpuv tools the number
+  of immersion tools the demand there will scale pretty much with what we see on
+  euv i think cj
+
+[121]
+  WHISPER:  also important to recognize cj that and christoph said it we are
+  working with customers to understand what the capacity requirements are that
+  they have were very much focusing on unit numbers i would say there is
+
+[122]
+  OFFICIAL: very strong year
+  WHISPER:  lot more that
+
+[123]
+  WHISPER:  doing to give customers their productivity first off and christoph
+  said it the maturity of the tool is going up but also the productivity of the
+  tool is going up so the fact that were now
+
+[124]
+  OFFICIAL: strong growth year based on all the customer dynamics that
+  christophe was talking about we are actually narrowing the window and also
+  increasing the window of our expectation to €thirtysix to €forty billion for
+  this year if you look at the different moving parts as we already expected euv
+  strong this year so euv in combination of low na euv and high na euv a strong
+  year there on the noneuv business previously we were expecting that to be flat
+  in comparison to last year right now what were looking at is in fact an
+  increase of demand there as well so increased revenue on the noneuv business
+  is public public what were expecting i already mentioned what were doing on
+  immersion but also the dry business is doing quite nicely also the application
+  business so we believe in contrast to where we were a couple of months ago
+  were looking at an increase for the noneuv business when it comes to the
+  installed base business strong growth there because obviously it is a very
+  fast way for our customers to increase their capacity to cater to the demand
+  that christophe was talking about i would say that within the guidance that we
+  provided with the €thirtysix to €forty billion we believe we can accommodate
+  potential outcomes of the export control discussions that are currently
+  ongoing how about the gross margin for two thousand and twentysix for the
+  gross margin we maintain our expectation of fiftyone to fiftythree technology
+  update switching gears a bit to technology christophe can you give us some
+  insights and latest updates on how were progressing with the technology and
+  our roadmap we continue to execute very nicely on our technology roadmap every
+  year we use the spie conference to give a bit of an update to the entire world
+  about what we have achieved a few important news facts this year the first one
+  was our demonstration of the one thousand watt source this is very important
+  because it means that we can secure the extensibility of low na euv for many
+  many years it means in fact that two thousand and thirtyone we will be able to
+  run this
+
+[125]
+  OFFICIAL: at three hundred and thirty wafers per hour which is a major step up
+  from what we have today now the progress on euv also has a good impact on the
+  short term we have been able to increase the throughput of our nxe3800e
+
+[126]
+  OFFICIAL: wafers
+  WHISPER:  a wavers per hour as you know in two thousand and twentyseven were
+  going to introduce the f model that gets you two hundred and sixty wavers per
+  hour so you have the unit numbers that everyone is very much focused on but
+  then you should also look at the properties that were making in terms of
+  productivity and if you take that into consideration last year we had
+  fortyfour tools if youre just looking at eighty tools we say at least eighty
+  but if you just look at eighty tools those eighty tools give you double the
+  way for our capacity that we would have shipped in two thousand and twentyfive
+  and on top of that were helping customers upgrade their installed days so as
+  christoph said were really working hand in glove with the customers to look at
+  what is your capacity need whats the easiest way and also the most economical
+  way for you to get to the productivity that you need and were executing on all
+  fronts on availability on productivity on unit numbers capacity and on
+  upgrading the installed days and last one i want to make because roger make a
+  very good point or so on those productivity upgrades which you heard in the
+  introduction we have accelerated i think our customers are extremely happy
+  with that because these allow them to get capacity right away when you buy new
+  system you have to wait a bit in this case i think this is reflected in the
+  strength of the install base sales this is something we can provide
+  immediately most of the time by the way with the software switch and some
+  qualifications so i think what is right i think in our case capacity is a lot
+  more than one pony trick we feel quite blessed that we have all of these
+  because we have many many tools we can use to basically make sure we deliver
+  what our customer needs youre welcome thanks thank you your next question
+  comes from a line of sunday best sunday from jp morgan please go ahead yeah hi
+  thanks for letting me on the question my first question is regarding your dpv
+  capacity i mean when you look at it christoph i mean in the last up cycle you
+  sold a lot more dpv outside china than you are selling in the last few years
+  as you go into the next build cycle dont you think that you will need to add
+  more dpv capacity if china remains at these sort of levels that youre seeing
+  im not sure senate what do you mean by the next build cycle what are you
+  referring to what i mean is in two hundred and twentyseven when you look into
+  twentyseven where youre seeing these eighty v tools at the minimum that youre
+  going to ship if you see the number of dpv tools you sold for the whatever
+  number of ev tools you sold in the last big capacity build cycle because
+  theres not been a lot of massive capacity building that youre now going to see
+  in the industry over the next two three years would you say that you would
+  need more dpv capacity because you have about six hundred tool capacity at
+  this point is that enough for you in terms of dpv well i think six hundred is
+  for total dpv and i think that when we look at the total i think we still feel
+  pretty good about that and a bit like uv you know we have other means to play
+  with that number if needed when it comes to immersion i think well we believe
+  that for nonchinese customers the demand on immersion will scale with the
+  demand for uv because as you know there is a pretty clear relationship between
+  the two and if you had uv capacity you would be also adding some immersion
+  capacity so i would say we pay for sure the same amount of attention to our
+  dpv ramp our immersion ramp that we do on uv because the two are of course
+  extremely linked especially when it comes to nonchina thanks mr saff i mean
+  maybe raje i would like to go back to this question of mix and asp i mean you
+  have indicated for this year that youve got more three thousand six hundred
+  there are some three thousand six hundred shipping this year versus next year
+  there should not be any three thousand six hundred there should also be this
+  next generation of e and then the f which starts shipping next year how should
+  we be looking at the mix of uv tools that you ship next year and how that will
+  drive you know your revenue growth into uv next year so this year as you say
+  you know the lions share is still east right so there is a bit of these in
+  there but the lions share is clearly still east and i would say about twenty
+  maybe is east and the rest is east for next year i think hardly is any east
+  and i would say the lions share of it is east there will of course we ask we
+  will introduce the f but just the way customers are planning to ramp their
+  nodes i believe that the lions share of the tools by fortytwo thousand and
+  twentyseven will still be so there will be ease at that point with the high
+  throughput that we just talked about the two hundred and thirty that will go x
+  factory at that level and there will be a number of fs but that will be a
+  clear money so would you say that your fps will grow next year because of how
+  the mix is shifting from this year to next year oh yes yeah clearly the mix
+  next year is more favorable than this year no no these and a bunch of fs so
+  clearly the asp next year will improve over this year thank you youre welcome
+  thank you your next question comes from the lion of francois beauvigny from
+  ubs please go ahead thank you very much my first question is on high and air i
+  mean a bit beyond twentyseven there is obviously a very high demand in
+  advanced logic and memory and i was wondering if high and air could play a
+  role in that tight market as high and air could save low and capacity i mean
+  christopher you referred the three mask i mean one instead of three mask you
+  know with high and air so if we go into twentyseven twentyeight twentynine
+  twenty thirty could that tightness help adoption of high and air i think you
+  know im not going to build ninetyone on the tools of low and air and
+  necessarily if high and air can actually replace with the mask so i just
+  wondering if it could help adoption in other words high and air with the
+  tightness of the market yeah yeah i think francois i think its a bit too early
+  to answer the question i think what we see today is that several of our
+  customers are going to test ina on real product with her so its basically they
+  demonstrate for themselves the ability to use this tool on real product we see
+  that with some logic customer we see that with some dram customer its a
+  discussion that is ongoing pretty strongly right now so they continue to make
+  a step basically to you know have this option if they want and of course if
+  the maturity of the tool allowed that to use the tool i will say whenever they
+  want and you know especially when it comes to dram i will say the threshold to
+  start using ina on existing product is pretty low so i think thats a
+  possibility i think that you know as things evolve in the next few months
+  accommodation of again capacity requirement that continue to be strong plus
+  progress on ina i will not exclude that i think its just a bit too early to
+  respond to the question via the affirmative today thank you kristoff and maybe
+  roger its a followup on this f model and maybe the isp so actually kristoff
+  you talked about two hundred and sixty was a
+
+[127]
+  OFFICIAL: also helping on
+  WHISPER:  an nice increase from
+
+[128]
+  OFFICIAL: short term with capacity our customers are very happy to be able to
+  get more wafers out on any tool we are also increasing the specs of our next
+  system the nxe3800f to two hundred and sixty wafers per hour it used to be
+
+[129]
+  OFFICIAL: wafers
+  WHISPER:  originally which is roughly fifteen higher one five higher than the
+  e model so is it the right isp increase we should expect you know fifteen
+  higher throughput and fifteen higher isp you know it could be more because you
+  also increase or improve availability and overlay like you suggested so how
+  should we think about the isp of the f versus the e yeah all of that is
+  through but you also know that we typically share the benefits between the
+  customers and ourselves but you know youre right that historically the
+  correlation between throughput and asp is very very strong so you know were
+  not negotiating in this call with our customers but i think the proxy approach
+  that you just followed doesnt lead you to a very bad outcome thank you very
+  much thank you your next question today comes from the line of didya see mama
+  bank of america please go ahead yes thank you for taking my question i just
+  wanted to sort of get your thoughts maybe on the numbers youve given at the
+  cmd november twentyfour you said one hundred and sixty thousand west of top
+
+[130]
+  OFFICIAL: hour this will help us also with
+  WHISPER:  month
+
+[131]
+  OFFICIAL: around
+  WHISPER:  edition in dra per year twentyfive to
+
+[132]
+  OFFICIAL: twentyeight also
+  WHISPER:  thirty and i think two hundred in advanced logic how do you feel
+  about those numbers where we in the right ballpark twentyfive and how are we
+  looking
+
+[133]
+  OFFICIAL: spie there
+  WHISPER:  twentysix and beyond and im going to follow up thank you well i
+  think that we will agree that things have changed a bit with ai in the last
+  couple of years i think we have to go back and most really look at those
+  numbers again i think we are going to most really share the results for nazis
+  next year in the capital market day i would say most probably the place where
+  we see the biggest change is draam i think we have talked about that for a few
+  quarters i think draam is very strong right now most probably the added
+  capacity per year is above the number we have discussed at least this year and
+  we have to try to understand exactly how this will really play on the longer
+  term so i think too early to say a lot of change in the last few quarters if
+  you remember two quarters ago we
+
+[134]
+  OFFICIAL: some updates
+  WHISPER:  having a bit of a different discussion
+
+[135]
+  WHISPER:  the market so give us a bit of time i think we are mostly going to
+  come back to all of you with
+
+[136]
+  OFFICIAL: high na platform progress can you share
+  WHISPER:  latest view on the long term market next year in the capital market
+  day so give us
+
+[137]
+  OFFICIAL: little there
+  WHISPER:  bit of time to really digest everything that is happening and try to
+  translate that into a bit of a long term view of the market i mean
+
+[138]
+  OFFICIAL: was good about spie
+  WHISPER:  im hearing
+
+[139]
+  WHISPER:  youre tracking towards the upper end of your guidance for two
+  thousand and thirty im not going to put words in your mouth maybe a follow up
+  on that maybe for roger i think you said fiftysix to sixty percent on
+  fortyfour to sixty billion of revenue so lets take a wild guess lets say you
+  are above sixty billion do you think your gross margins can be above that
+  range or are they constrained by other elements that we have taken into
+  account i think the same applies to what chris stump has just saying its very
+  difficult to take out one element so ive given the moving parts in the past
+  the moving parts on the gross margin a lot of it is an euv and its on the one
+  hand us improving the productivity of the tool and you see how well were
+  executing on that front and thats the earlier question it comes with a
+  commensurate increase in the asp and leads to gross margin improvement so
+  thats an important element the second important element is high in a volume
+  and dj that is very critical right because the number of tools that we have at
+  that stage and in the number of tools that can absorb the fixed cost
+  associated with ina obviously is very critical in determining what your gross
+  margin is on that front then we see continued improvement of possibility in
+  the insult base and we have some ideas in dpv its really in that border that
+  things need to be addressed but as christops said lets wait for the next year
+  where we have our capital market say and can revisit all of these assumptions
+  perfect thank you welcome thank you your next question today comes from the
+  line of alexander duvall from goldman sachs please go ahead yes good afternoon
+  many thanks for the question a year ago i think there was some discussion in
+  the market about a market structure for customers where asml had essentially
+  one very significant customer in the foundry side and two others lagging
+  significantly since then some have seen progress from two of the players on
+  foundry relative to where we were in the past so curious to what extent youre
+  baking in a contribution from those foundry players in the coming year and to
+  the extent that those players are ultimately successful how beneficial could
+  this be in terms of market inefficiency secondly as a quick follow up there
+  have been news articles talking about how asml is looking to do more to help
+  the hybrid bonding process i wondered if you could help us understand to what
+  extent you see hybrid bonding as important and how you think about the ways
+  that asml could contribute to customer efforts related to this many thanks
+  maybe i will start with the second one i think we explain a few months ago in
+  fact we started a capital market day that we sought that free the integration
+  will become an important part of the tools
+
+[140]
+  OFFICIAL: start
+  WHISPER:  have basically
+
+[141]
+  OFFICIAL: talk
+  WHISPER:  deliver density either a followup or for dram and as a result we
+  started to create all kind of activities in asml in order to support our
+  customers there you talked
+
+[142]
+  OFFICIAL: high na
+  WHISPER:  hybrid bonding i would like to mention that one of the things we see
+  happening today first is with her to with her bonding which is going to be
+  used by dram biologic and where we think that our autistic lithography product
+  meaning the combination of metrology and process control in our tool can help
+  enormously our customer basically to adopt this new technology and deliver
+  basically the performance
+
+[143]
+  OFFICIAL: reported
+  WHISPER:  need on their weather i think we also announced that we were
+  entering you know advanced packaging with the xc260 this has been an important
+  tool we continue to see good traction there and on top of that were looking
+  again at
+
+[144]
+  WHISPER:  more
+
+[145]
+  WHISPER:  some of them have to do with lithography in advanced packaging and
+  for process such as hybrid bonding i think we are continuing to look at the
+  opportunity to support our customer in their activity and that can be done in
+  many different forms i think right now were looking still at a limited amount
+  of use practically a hybrid bonding especially in frontend so not too much
+  activity with our customer but i will say some discussion for the future on
+  how maybe we could help there so thats
+
+[146]
+  OFFICIAL: thing
+  WHISPER:  part yeah back to the question you had on the foundry business and
+  the potential for samsung and intel its pretty clear that the demand in the
+  foundry business is huge and is outweighing the supply right so that leaves a
+  bit of room for others than the market leader and i think thats room that the
+  other players are trying to enter into we all know about the plans of samsung
+  and taylor so thats real and of course that also requires shipment for us
+  which is happening the us player in this business already has quite some
+  capacity i would say so weve said it before that for this year were not
+  counting on a huge number of shipments in that regard because they already
+  have quite a bit of capacity then you ask about the longer term of course the
+  market that is characterized by multiple players at least will guarantee
+  innovation and that i think is what is important i think the market leader has
+  been tremendously innovative so you cannot say that even in the market that
+  was dominated by one player you would still see a lot of innovation i think
+  thats what weve seen in the past couple of years but having three players in
+  there will probably guarantee even more innovation and i ultimately think that
+  that is good for the ecosystem hi thanks thank you our next question today
+  comes from the line of chris carter from wolf research please go ahead yes
+  thank you much has been discussed on the call about your own actions to
+  increase your capacity to supply it could just speak about your customers
+  capacity constraints specifically the clean room constraints as well and i
+  guess this is perhaps a better question for next year perhaps but to what
+  extent is your ability to ship constrained by your own ability to produce
+  tools your customers clean room space or is demand going to be constrained is
+  it going to be a supply constrained environment or a demand constrained
+  environment well i think we talked quite a bit about that last quarter where i
+  think we saw a lot of demand coming in so this was a bit coming very very fast
+  i think we mentioned that the clean room capacity was one of the factor if not
+  the key factor on what we could do this year i think you have seen us
+  increasing our range for two thousand and twentysix which means that we have
+  progress there we have even increased a per part of the range so i think that
+  we see that the plan for two thousand and twentysix are really solidifying
+  getting more and more clarity about the number of pedestal that will be
+  available when so thats clear i mean wake up two thousand and twentyseven i
+  think that well you know there is supply limitation right now i think i
+  mentioned before we see our customer having a lot less agitation to really
+  accelerate their capital expenditure i think you of course have noticed that
+  our dram customer are doing extremely well thanks to the price of memory right
+  now i think roger just mentioned for logic or so that you know the capacity
+  limitation is quite high so i would say there is no agitation whatsoever in
+  the mind of our customer at this point of time not only to invest also because
+  sometimes they even get guarantee from their own customer on the investment
+  but also as a resource to move as quickly as possible so thats the dynamic we
+  are in and i think thats why we see our outlook improving this year and we
+  continue to have i would say very very active discussion with our customer to
+  prepare next year but i would say right now everyone is really moving towards
+  you know the more the faster the better right thats clear as a follow up to
+  that you know given whats happening in dram now could you speak to what that
+  means for lifo intensity and you know weve seen one of the remedies for the
+  tight supply is migrating to some of the new nodes you know how does that
+  affect lifo intensity and does it have any effect on high and a adoption at
+  your dram customers in an effort to address some of the supply constraints
+  well i think first for dram i think you know dram has been a bit the perfect
+  storm for isml because of course we have this capacity buildup but as we
+  mentioned a few times we have seen a major adoption of uv in dram in two
+  thousand and twentyfive and you may have noticed that our i would say us dram
+  customer also made this announcement that they were shifting also pretty
+  strongly on uv and the reason for that
+
+[147]
+  WHISPER:  performance but its also capacity because if you are going to use
+  more uv layers you are going to need less multipatterning and multipatterning
+  takes a lot of space also in
+
+[148]
+  OFFICIAL: fact
+  WHISPER:  faps i think this is also definitely another argument in favor of uv
+  i think this was mentioned by the way by this us customer in their call so i
+  would say the first is also
+
+[149]
+  OFFICIAL: high na can allow them to reduce
+  WHISPER:  is first more adoption of lowna uv which i think is also translated
+  into
+
+[150]
+  OFFICIAL: of masks significantly dram and logic customers were talking about
+  going from three to one mask
+  WHISPER:  roshi was mentioning before with i would say a very high point on
+  our memory business this year thats also true
+
+[151]
+  OFFICIAL: euv using high na they also mentioned that this can reduce the
+  number of process steps from one hundred to ten which is
+  WHISPER:  uv now
+
+[152]
+  OFFICIAL: significant thats
+  WHISPER:  whats true for lowna today i think we expect to be true for inn to
+  feature so this is again not prime time for inn today but i can only say that
+  more lowna uv adoption today can only help for more inn adoption in the future
+  because the logic
+
+[153]
+  OFFICIAL: course
+  WHISPER:  inn is
+
+[154]
+  OFFICIAL: reason why we have high na public public we have seen also great
+  progress on
+  WHISPER:  same its going to single expose simplifying
+
+[155]
+  OFFICIAL: ecosystem some
+  WHISPER:  process getting more space et cetera et cetera so i think dram has
+  been really a
+
+[156]
+  OFFICIAL: presentations with some of our resist partners pointing to the fact
+  that high na can be extended
+  WHISPER:  story
+
+[157]
+  WHISPER:  lethal intensity in twentyfive and i think its translating very
+  strongly into uv demand this year and most of the years to come clear thank
+  you youre welcome thank you your next question today comes from the line of
+  timey key from paramburg please go ahead hi thank you for taking my question
+  so hopefully on the dram sector or memory sector in general so we have learned
+  that the memory sector has been all siding those three to five years agreement
+  so with your customers visibility higher on their own and market do you see
+  any behavioral change from your site either more willing to give you more
+  visibility of order for your tools going forward and also at the same time
+  because of their currently desperate for capacity do you see any room for
+  charge more or upgrade more ie your own business or memory business will be
+  more profitable for you and high visibility than it was previously yeah so in
+  terms of visibility and behavioral change the visibility to us customers are
+  very very open by the way thats also the case on the
+
+[158]
+  WHISPER:  side and its very its very open
+
+[159]
+  OFFICIAL: eighteen nm
+  WHISPER:  us and theyre very openly discussing with us also their expansion
+  plans for this year but also beyond its also clear that if you look at the
+  scale of the fads that theyre building its pretty significant right so if you
+  look at the more recent fads that are being built by our customers its pretty
+  clear that they allow for quite some expansion so if you talk about behavioral
+  change i think thats probably the number one behavioral change out there
+  visivir theyre just very very open in terms of how they see the market and how
+  they see their further capacity expansion now in our model of pricing as you
+  know our model of pricing is not based on you know the squeeze that our
+  customers find ourselves in thats not the way we do business the way we do
+  business is that we look at the value that we provide to our customers you
+  know generation on generation tool on tool and we take our fair share in that
+  and you know you might say in the current climate you know cant you squeeze
+  out a little bit more i understand that but its also true that you know when
+  the market goes down a little bit and the customers are going through more
+  difficult times that it also pays these dcdcs so you know fundamentally we
+  believe that the model that we have is a fair model its also a model that is
+  fair to all the players because i would find it difficult to explain why were
+  charging more in lets say the memory environment versus the logic environment
+  thats just not the way we do business so were very very happy with the
+  business model that we have which is based on the value of our tools and we
+  would gladly continue with that approach okay thank you and next one is on
+  your at at least at capacity for two thousand and twentyseven so your at least
+  if i understand correctly is the at is based on what customer have told you
+  for the time being and is that at least based on customer is limited by clear
+  room space so that they dont know and dont want to commit further or something
+  else i was driving that at least at least is you know the alignment that we
+  currently have with customers which takes on board their you know their gauge
+  of the market situation their gauge of the progress that are having in fab
+  building and you know our gauge of the ability to whats the right way to give
+  them capacity i told you unit numbers is one way to provide capacity but there
+  is more so this really is the alignment that we currently have based on the
+  signals that were having based on the signals that theyre providing us and
+  what we think is the appropriate way to give them that capacity okay thank you
+  youre welcome thank you your next question today comes from the
+
+[160]
+  WHISPER:  of lee simpson from morgan stanley please go ahead great good
+  morning good afternoon thanks for squeezing me in maybe just a quick
+  clarification question on the install based management i just want to
+  understand while i assume at least that most all of the performance in q1
+  margin came from that thats larger because i think you said earlier there was
+  a high incidence of upgrades business that quarter
+
+[161]
+  OFFICIAL: space pitches
+  WHISPER:  that most if not all of the rest of the year will be more of the
+  maintenance type of business thanks no that would not be fair so we expect to
+  we expect upgrades business to continue throughout the year but even in the
+  upgrade business you have different margin profiles of the upgrade services
+  that you provide and it just happens to be that the business in the install
+  based business that we had in q1 just happened to be the kind of business that
+  is associated with very very high growth margins no no we definitely expect
+  the install based business and the upgrade business in that install based
+  business to continue thats also what you would expect in an environment like
+  this where as we said before you know customers are really asking for upgrades
+  but you know even within the upgrade business you have the other ones
+  primarily software based which come with very high growth margins and then
+  ones with maybe a little bit less growth margins thats the mix effect within
+  the install based that we were calling out maybe just on that mixed effect it
+  does look a little more and more the sort of warrantylike business that you
+  have now with install based and euv is coming through so how much of a gap are
+  we seeing closure between what is traditional maintenance and what is
+  traditional upgrade cycle are we talking about less than ten percentage points
+  gap between those two elements now but
+
+[162]
+  WHISPER:  you say ten percentage point you mean in terms of gross margin or
+  what in terms of gross margin yeah in terms of gross margin i cannot say that
+  lee its too diverse as i just mentioned the margin profile is very very
+  diverse so its very much dependent on what kind of upgrade to upgrade business
+  i mean on the service front weve given you updates in previous years on the
+  progress that were making on euv service gross margin so you know four or five
+  years ago we were bleeding money we actually have negative gross margins and
+  gradually we were able to improve that and were now at a gross margin that you
+  know is no longer you know no longer very much apart from i would say the
+  corporate gross margin so weve gotten that i think to a level which i think is
+  distancewise the right level for us to aspire to on the upgrade business that
+  very much depends on what
+
+[163]
+  OFFICIAL: comes
+  WHISPER:  is so the profile is so different that it would not be appropriate
+  for me
+
+[164]
+  OFFICIAL: memory
+  WHISPER:  give you a number there that makes sense i mean maybe we could take
+  a step back and look again at the capacity as a multiyear proposition here
+  because clearly we are going into a massive upcycle with ai and now weve got a
+  gentike ai and driving
+
+[165]
+  OFFICIAL: twentyeight nm hole size
+  WHISPER:  a different whole discussion on what the autoi could be in and
+  around ai
+
+[166]
+  WHISPER:  our sense here is that euv is becoming a bottleneck as other tools
+  are in the system and if we look at your own cleanroom buildout
+
+[167]
+  OFFICIAL: means basically that not only high na is getting ready for prime
+  WHISPER:  did look as though you took maybe and correct me if im wrong took
+  maybe two or three years to get this set up which was sensible given the
+  positive of demand at the
+
+[168]
+  WHISPER:  could
+
+[169]
+  OFFICIAL: already
+  WHISPER:  see this accelerating could we see you
+
+[170]
+  WHISPER:  a concrete poor shell build one year and then the next year fit out
+  and it happened consecutively whereby you could have two or three cleanroom
+  projects at the same time which i guess is me asking you know how much land
+  bank can we secure in the immediate vicinity well i think the first thing id
+  like to say is
+
+[171]
+  OFFICIAL: high na can
+  WHISPER:  we do not want euv to
+
+[172]
+  OFFICIAL: extended mostly for three or four nodes which is
+  WHISPER:  the bottleneck so i think id like to say that very very strongly and
+  as we discussed a bit before we have many many different ways to drive
+  capacity up being
+
+[173]
+  WHISPER:  the number of tools we manufacture which also depend on our cycle
+  time the speed at which we manufacture them productivity et cetera et cetera
+  and of course you know adding more footprint is another one and i will say
+  that we will use whatever is needed in the future to meet our customer demand
+  and we are reviewing this
+
+[174]
+  WHISPER:  carefully on a monthly basis where some as you know longterm
+  visibility because of the lead time of our tools and today i think we are not
+  in such a situation and we have the ability again to use any of the tools we
+  just discussed to make sure we continue and thats something well continue to
+  do so i would just say again
+
+[175]
+  OFFICIAL: important
+  WHISPER:  strongly we do not want to be the bottleneck
+
+[176]
+  OFFICIAL: customers finally maturity of
+  WHISPER:  customer and so far we have been using all
+
+[177]
+  OFFICIAL: tool is important
+  WHISPER:  tools we have at hand to make sure we dont get there and
+
+[178]
+  OFFICIAL: see better availability data more wafers per day more wafers out
+  WHISPER:  do that and the key thing that weve done lee on that front
+
+[179]
+  OFFICIAL: just
+  WHISPER:  a process that is to get the long lead time items in place thats
+  what weve done that gives us many degrees
+
+[180]
+  OFFICIAL: course becoming
+  WHISPER:  freedom including you talked about the land bank including making
+  sure that we have sufficient you know sufficient room to expand you know weve
+  worked on that extremely hard in this region to get that accomplished and weve
+  recently able to you know to get that done so we have a lot of the greed of
+  freedom on the goforward basis with the long lead time items in place and that
+  gives us the kind of flexibility that that press office is talking about to
+  give customers what we think they need yeah and maybe to illustrate that if
+  you compare a bit what we did in twentyfive which is what we could do in
+  basically twentyseven with the at least eighty system we
+
+[181]
+  OFFICIAL: and more important as
+  WHISPER:  than double basically the total uv capacity
+
+[182]
+  OFFICIAL: see
+  WHISPER:  can ship to
+
+[183]
+  OFFICIAL: starting
+  WHISPER:  this is down basically in about two years and we do that i would say
+  without blinking too much so were still on top of our game there and i think
+  again the combination of all the elements we gave you is really putting us in
+  a good position
+
+[184]
+  OFFICIAL: test high na
+  WHISPER:  continue to grow and also to continue to do that because this has
+  been some time you concern when the market was not so good without spending
+  too much money i think thats also important so i know that question of
+  bottleneck comes back very often i think we dont feel at all that we are the
+  bottleneck today were very closely working with our customer and again we have
+  many many many tools in our hands to make sure we keep it this way thanks so
+  much well done in the quarter thank you very much okay im afraid that is all
+  the time we have for today so
+
+[185]
+  OFFICIAL: real products id
+  WHISPER:  behalf of asml i would
+
+[186]
+  OFFICIAL: both
+  WHISPER:  all
+
+[187]
+  OFFICIAL: thanks very much pleasure
+  WHISPER:  operator if you could formally conclude the call i would appreciate
+  it thank you this concludes the asml two thousand and twentysix first quarter
+  financial results conference call thank you for participating you may now
+  disconnect thank you

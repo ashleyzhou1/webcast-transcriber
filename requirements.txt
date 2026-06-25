@@ -15,4 +15,7 @@ requests==2.33.1
 beautifulsoup4==4.14.3
 pypdf==5.9.0
 playwright
-yt-dlp
+yt-dlpanthropic
+jiwer
+num2words
+cryptography

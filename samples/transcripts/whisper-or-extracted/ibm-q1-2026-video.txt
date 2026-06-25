@@ -1,0 +1,914 @@
+[00:00] Welcome and thank you for standing by.
+[00:01] At this time all participants are in a listen only mode.
+[00:06] Today's conference is being recorded.
+[00:08] If you have any objections you may disconnect at this time.
+[00:13] Now I will turn the meeting over to Olympia McNerney, IBM's Global Head of Investor Relations.
+[00:19] Olympia, you may begin.
+
+[00:22] Thank you.
+[00:23] I'd like to welcome you to IBM's first quarter 2026 earnings presentation.
+[00:27] I'm Olympia McNerney and I'm here today with Arvin Krishna, IBM's Chairman, President
+[00:32] and Chief Executive Officer and Jim Kavanaugh, IBM Senior Vice President and Chief Financial
+[00:37] Officer.
+[00:38] We'll post today's prepared remarks and a replay of today's webcast on the IBM Investor
+
+[00:43] website within a couple hours.
+[00:45] The earnings presentation is already available.
+[00:47] To provide additional information to our investors, our presentation includes certain
+[00:51] non-GAT measures.
+[00:53] For example, all of our references to revenue and signings growth are a constant currency.
+[00:58] We provided reconciliation charts for these and other non-GAT financial measures at the
+
+[01:03] end of the presentation which is posted to our investor website.
+[01:07] Finally, some comments made in this presentation may be considered forward looking under the
+[01:11] Private Securities Litigation Reform Act of 1995.
+[01:14] These statements involve factors that could cause our actual results to differ materially.
+[01:21] Additional information about these factors is included in the company's SEC filings.
+[01:25] So with that, I'll turn the call over to Arvin.
+
+[01:29] Thank you for joining us today.
+[01:32] Let me start with our first quarter results and then provide context on what we are seeing
+[01:36] across the business.
+[01:39] IBM is off to a strong start to 2026.
+[01:43] Revenue in the first quarter grew 6% and combined with strong margin expansion grew
+[01:48] of 13% growth in free cash flow.
+
+[01:52] These results reflect the durability of our portfolio, the mission critical nature of
+[01:57] the work we do for clients and the continued execution of our strategy.
+[02:01] Let me first touch on the macro.
+[02:04] While we are operating in a dynamic environment, Middle East developments didn't impact us
+[02:09] in the first quarter.
+[02:12] Uncertainties remain what are diversity across businesses, geographies, industries and large
+
+[02:18] enterprise clients position us well.
+[02:22] Promissations we are having with clients remain consistent.
+[02:25] Enterprises are investing in capabilities that increase resiliency, productivity and
+[02:31] accelerate growth.
+[02:32] They are modernizing core systems.
+[02:34] They are scaling AI and they are making deliberate choices about where workload should run and
+
+[02:41] who controls the infrastructure underneath them.
+[02:44] These are structural priorities and they align directly with IBM strengths.
+[02:50] This quarter's performance reinforces the strategic choices we have made over the last
+[02:55] several years to advance IBM as a software led hybrid cloud and AI platform company.
+[03:04] Software revenue grew 8% with data and red hat growing double digits.
+[03:09] Software grew 12% with another record Z quarter up 48%.
+
+[03:16] We also had strong performance in distributed infrastructure as generative AI increases
+[03:21] demand for our storage offerings.
+[03:24] Consulting grew 1% with momentum in enterprise data and business application transformations
+[03:31] as clients modernize to deploy AI securely and at scale.
+[03:36] The durability of our portfolio is a defining feature of IBM today.
+[03:41] Let me spend a few minutes on AI.
+
+[03:45] Enterprises are still figuring out where to deploy this technology and where competitive
+[03:50] advantage truly sits.
+[03:53] Every major technology wave has followed a pattern.
+[03:57] Value begins with infrastructure, moves to enabling platforms and ultimately concentrates
+[04:02] in the workflows where businesses operate.
+[04:06] Right now the spotlight is on foundation models.
+
+[04:09] Enterprises are building portfolios, frontier models for some workloads, smaller models
+[04:14] running on premise for others and open source models where control and flexibility matter
+[04:19] the most.
+[04:22] Enterprises will want to retain control of the proprietary data.
+[04:25] AI will run everywhere across public cloud, private and sovereign clouds and on premise.
+[04:32] The core challenge is making all of this work together.
+
+[04:36] This includes orchestrating across models, agents and workflows, governing enterprise
+[04:41] data and securing these systems at scale.
+[04:46] And that is exactly where IBM operates.
+[04:48] We are building the platform that lets enterprises put AI to work on their terms, wherever it
+[04:54] runs, whichever models they choose and under governance they control.
+[04:59] But portfolio is built around world-class security, support and integration for an enterprise
+
+[05:05] environment.
+[05:08] Red Hat provides a common open platform that lets enterprises run applications and AI consistently
+[05:14] across any infrastructure.
+[05:16] More AI adoption means more demand for open flexible infrastructure.
+[05:22] In automation the logic is similar.
+[05:25] Institutions multiply applications, integrations and execution paths.
+
+[05:31] Managing that's role requires a control plane to provision infrastructure, integrate applications,
+[05:37] secure environments and manage costs.
+[05:41] This is what our end-to-end automation portfolio provides.
+[05:45] In an air driven world, security risks are rising.
+[05:49] IBM Concert identifies vulnerabilities proactively and automates remediation, helping enterprises
+[05:55] maintain resilience at scale.
+
+[05:59] Our data business is seeing similar AI tailwinds.
+[06:02] AI is only as good as the data it can access.
+[06:06] And increasingly that data is not static.
+[06:10] It is generated continuously across transactions, applications and interactions.
+[06:15] To deliver real-time AI outcomes, data must be available in motion, governed and delivered
+[06:21] securely to models and agents wherever they are running.
+
+[06:25] Confluent, which we close this past quarter, solves that directly.
+[06:30] It streams live, governed data to models and agents across the hybrid environment.
+[06:36] And the orchestration layer ties it together.
+[06:39] In a multi-model world, clients need to route between models, manage agent workflows and
+[06:45] maintain governance.
+[06:47] That is what Watson X orchestrate and our Watson X platform deliver.
+
+[06:51] We have also created AI editions of critical software products like DB2, Cognos and MQ.
+[06:59] These embed agent AI that can reason, act and automate at scale while preserving IBM
+[07:05] grade security and trust.
+[07:09] Infrastructure remains a critical differentiator as AI moves into the core of enterprise operations.
+[07:15] IBM Z delivers the lowest unit cost architecture at scale for workloads that require end-to-end
+[07:21] encryption, continuous availability and ultra-high throughput.
+
+[07:27] Clients rely on our Z platform to process billions of transactions reliably with 6 to
+[07:32] 8 nines of availability.
+[07:35] They run AI inferencing directly in line with those transactions.
+[07:39] Our SPIRE accelerator lets clients run AI on 100% of their transaction volume without
+[07:46] moving data off platform, allowing them to embed AI directly into their transaction flows.
+[07:52] Financial services clients are using this for real-time fraud detection, saving tens of
+
+[07:57] millions of dollars.
+[07:59] At the same time, AI assisted modernization, including code understanding, refactoring
+[08:06] and API integration makes it easier to evolve applications without compromising the guarantees
+[08:12] the platform provides.
+[08:14] Our WhatsAppX assistance for Z were made available over two years ago.
+[08:19] They helped clients preserve the architectural strengths that deliver resilience, security
+
+[08:24] and scalability while making the platform more productive.
+[08:28] Clients who have deployed WhatsAppX code assistance for Z are growing MIPS capacity three times
+[08:34] faster than those who have not.
+[08:38] In consulting, AI is both a growth driver and a productivity engine.
+[08:44] As agents take on more work, delivery becomes faster, more software-driven and more scalable.
+[08:50] IBM is leaning into the shift through our consulting advantage platform and unique integrated
+
+[08:56] value setting side-by-side with software.
+[09:00] This helps clients operationalize AI while improving our own efficiency.
+[09:05] A man continues to accelerate as clients move beyond experimentation and focus on transforming
+[09:11] applications, data and workflows to embed AI into core operation.
+[09:17] All of this allows us to drive value for clients.
+[09:21] ServiceNow is leveraging WhatsAppX for automated data quality and observability to deliver AI-ready
+
+[09:27] data and core generation to refresh legacy applications to modern application run-times
+[09:34] including ServiceNow.
+[09:37] Visa continues to work with IBM on ongoing software and data modernization efforts supporting
+[09:43] the scale, resiliency and performance of VisaNet.
+[09:48] With Nestle, we are using NVIDIA Accelerated WhatsAppX data to embed AI directly into core
+[09:55] order-to-cache operations enabling faster real-time insights across Nestle's global
+
+[10:01] supply chain.
+[10:03] This highlights how quickly we can bring research to bear for commercial value.
+[10:08] Nestle was ideal for this proof of concept because of its strong digital backbone.
+[10:14] In infrastructure, clients such as NatWest and RBC are modernizing their mainframe environments
+[10:20] using AI and automation capabilities including WhatsAppX Assistant and WhatsAppX Core Assistant
+[10:27] for Z to improve resiliency, security and developer productivity.
+
+[10:33] We continue to accelerate organic innovation.
+[10:37] IBM Bob, our AI-based software development system, is now generally available.
+[10:43] Our entire developer workforce is using Bob with average productivity gains of 45%.
+[10:50] Bob automates the full software lifecycle from legacy modernization to security using
+[10:56] specialized agents and multi-model optimization.
+[11:00] It drives developer productivity and predictable costs.
+
+[11:04] We also introduce Sovereign Core, software that lets organizations run AI workloads under
+[11:11] their own operational authority within a defined jurisdiction and auditable controls.
+[11:17] PC sovereignty becoming a bigger factor in where and how workloads run.
+[11:23] Every enterprise and every nation is waking up to the same reality.
+[11:28] They need AI and cloud infrastructure they control.
+[11:32] Infrastructure no one can turn off or tamper with because of the geopolitics.
+
+[11:38] During the quarter, we also announced strategic collaborations with NVIDIA, expanding our
+[11:43] work across GPU native analytics.
+[11:46] In addition, we announced a strategic collaboration with ARM to expand how AI workloads run across
+[11:53] IBM infrastructure.
+[11:55] By enabling the ARM software ecosystem within mission-critical environments like IBM Z,
+[12:02] clients can scale AI closer to the data while preserving the security and resilience they
+
+[12:07] require.
+[12:08] These partnerships reflect our approach, open, flexible and on the infrastructure clients
+[12:14] choose.
+[12:16] We continue to make progress in quantum and remain on track to deliver the first large-scale
+[12:22] fault-oriented quantum computer by 2029.
+[12:26] Here are some signposts of progress.
+
+[12:29] In March, researchers used IBM Quantum hardware to simulate a 300 atom system with the Cleveland
+[12:36] Clinic, demonstrating that quantum computers can serve as reliable tools for pharmaceutical
+[12:42] discovery.
+[12:44] As a team accurately simulated real magnetic materials, magnetism is central to new forms
+[12:51] of energy and electrification.
+[12:54] These are significant demonstrations to date that quantum computers can serve as reliable
+
+[12:59] tools for scientific discovery.
+[13:02] We also released a new blueprint for quantum centric supercomputing that outlines the architecture
+[13:08] for integrating quantum and classical systems at scale.
+[13:12] We strongly believe that our partners will achieve the first examples of quantum advantage
+[13:17] this year leveraging IBM hardware.
+[13:22] In closing, we are executing on our strategy of accelerating revenue growth and delivering
+
+[13:28] higher profitability.
+[13:31] Given our strong start to the year, we remain confident in our ability to sustain revenue
+[13:36] growth of 5% plus and grow free cash flow by about 1 billion this year.
+[13:43] With that, let me hand it over to Jim to go through the financials.
+[13:47] Thanks, Arvin.
+[13:49] In the first quarter, we delivered 6% revenue growth, 140 basis points of operating pre-tax
+
+[13:55] margin expansion, 17% adjusted a bit of growth, 19% diluted operating earnings per share growth,
+[14:04] and $2.2 billion of free cash flow growing 13% year to year, representing our highest
+[14:11] first quarter free cash flow in a decade and free cash flow margin in reported history.
+[14:18] This performance reflects the work we have done to strengthen our software-led platforms,
+[14:24] deliver innovation, value to clients, and the durability of our financial model.
+[14:31] Now I'll dive deeper into our segment performance.
+
+[14:35] Software revenue grew 8%, marking a strong start to the year.
+[14:40] This reflects the diversity of our portfolio, ongoing genii innovation, continued shift
+[14:47] to higher growth end markets, and flexible consumption model.
+[14:52] Our ARR was solid at $24.6 billion, up 10% since last year.
+[15:00] China revenue grew 16%, fueled by demand for our genii products, strengthened our strategic
+[15:07] partnerships, and inorganic contribution from data stack and confluent, which closed in
+
+[15:14] mid-March.
+[15:16] Red heck growth accelerated 2 points sequentially to 10%, largely driven by the stabilization
+[15:24] of consumption-based services revenue growth that we expected.
+[15:29] Engine shift is now $2 billion ARR business with strong growth, and virtualization continues
+[15:36] to gain traction, with over $600 million of contract signed since the beginning of 2024.
+[15:46] Automation grew 7%, with February marking the one-year anniversary of the acquisition of
+
+[15:52] HashiCorp.
+[15:54] Over the last year, we have seen record HashiCorp bookings leveraging IBM's go-to-market
+[16:00] scale and achieved adjusted at EBITDA accretion ahead of expectations.
+[16:07] Transaction processing grew again, up 2%, as we monetize on the strong Z17 program.
+[16:16] In infrastructure, our revenue grew 12% this quarter, with hybrid infrastructure up
+[16:22] 25%, and infrastructure support down 6%.
+
+[16:27] Within hybrid infrastructure, growth was broad-based, with strong demand for our offerings across
+[16:33] IBM Z, power and storage.
+[16:37] IBM Z continues to outperform prior programs, growing 48% this quarter.
+[16:45] Governments are investing in IBM Z as they modernize mission-critical workloads, driven
+[16:51] by requirements for resiliency, security, and compliance, while enabling new AI capabilities
+[17:00] on the platform.
+
+[17:03] Distributed infrastructure grew double digits, with strength in both power and storage.
+[17:09] Software growth was driven by demand for Power 11, with its resiliency and performance
+[17:15] advantages supporting data-intensive workloads.
+[17:20] In storage, growth reflected strong adoption of our new flash offerings introduced in the
+[17:26] first quarter, which incorporate industry-leading, agentic AI capabilities.
+[17:34] In consulting, our revenue grew 1% this quarter, reflecting momentum in the business as client
+
+[17:40] demand continues to shift towards enterprise-wide transformation.
+[17:46] Signings returned to growth, up 6%, with strength across our application and data transformation
+[17:53] offerings, driven by clients modernizing their environments to support AI adoption and capture
+[18:00] value.
+[18:02] Energy growth was balanced across the portfolio, with both strategy and technology and intelligent
+[18:09] operations up 1%.
+
+[18:12] Generative AI is now firmly integrated across our consulting engagements, representing
+[18:18] about 30% of our backlog.
+[18:21] This reflects how Generative AI has become embedded in the work we do.
+[18:27] Our differentiated asset-led delivery model continues to drive productivity and speed
+[18:33] to value, combining deep domain expertise with software, automation, and reusable assets
+[18:41] to help clients deploy AI securely and at scale.
+
+[18:46] Let me now discuss profitability.
+[18:50] Several years ago, we set an ambitious objective to reinvent our enterprise operations for
+[18:56] greater speed, lower friction, and structurally lower cost.
+[19:02] Through discipline execution, eliminating manual touch points, simplifying processes,
+[19:09] and applying data, automation, and AI at scale, we have built a proven, repeatable AI-enabled
+[19:17] transformation engine that is accelerating.
+
+[19:22] That's 2023.
+[19:24] This has driven $4.5 billion of productivity savings, with an additional $1 billion expected
+[19:31] in 2026.
+[19:34] Our success is enabling us to accelerate investments in innovation, strengthen our competitive
+[19:41] advantages, client zero, and fuel our growth flywheel while expanding our margins.
+[19:48] You can see this in the results this quarter, with productivity, revenue scale, and mix
+
+[19:55] driving expansion of operating gross profit margin by 110 basis points, adjusted even
+[20:02] a margin by 170 basis points, and operating pre-tax margin by 140 basis points, all ahead
+[20:10] of expectations.
+[20:14] Content profit margins expanded by 720 basis points in infrastructure and 60 basis points
+[20:21] in software.
+[20:24] Consulting segment profit margin declined modestly, reflecting currency headwinds from
+
+[20:30] geographic mix of the business, and the reinvestment of productivity gains amid an approving demand
+[20:37] environment.
+[20:39] In the quarter, we generated $2.2 billion of free cash flow, up about $300 million
+[20:46] year over year.
+[20:48] The primary driver of this growth is adjusted even up, up about $600 million year over year,
+[20:55] partially offset by higher net interest expense and increased investments in CAPX, as we expected
+
+[21:04] coming into 2026.
+[21:07] We exited the first quarter with a strong liquidity position and a solid investment
+[21:12] grade balance sheet, with cash of $11.8 billion.
+[21:18] We invested $10.5 billion in acquisitions, driven by the closing of confluent, and returned
+[21:26] $1.6 billion to shareholders in the form of dividends.
+[21:31] Our debt balance ending the quarter was $66.4 billion, including debt of $12.8 billion
+
+[21:40] for our financing business, with the receivable's portfolio that is 80% investment grade.
+[21:48] Let me now pivot to discuss our expectations going forward.
+[21:52] The strong start to the year drives our confidence in delivering constant currency revenue growth
+[21:58] of 5% in 2026, and free cash flow growth of about $1 billion year over year.
+[22:07] Given where we are in the year, we believe it is prudent to maintain our guidance, even
+[22:13] as the underlying performance and execution are off to an encouraging start.
+
+[22:19] The combination of our focus portfolio, investment in innovation, and our diversity across businesses
+[22:27] drives the durability of our performance.
+[22:31] Our revenue expectations are underpinned by our accelerating software business, which
+[22:37] we now expect to grow 10 plus percent this year.
+[22:42] In consulting, the quality of our backlog and momentum in GNAI, with backlog penetration
+[22:50] at about 30%, continue to support an acceleration in revenue growth to low to mid-single digits
+
+[22:57] for the year.
+[22:59] We are off to a great start with Z17, and four quarters into Z17's launch, we prudently
+[23:07] continue to expect infrastructure revenue to be down low single digits for the year, representing
+[23:14] about a half a point impact to IBM.
+[23:18] We remain confident this will be our strongest Z cycle, given the AI innovation value we
+[23:24] are delivering to clients.
+
+[23:27] The momentum in our productivity flywheel is fueling margin expansion, while enabling
+[23:33] investment in innovation.
+[23:36] Last quarter, we disclosed that we anticipated absorbing about $600 million of dilution
+[23:42] from Confluent in 2026.
+[23:46] Over largely by stock-based compensation and interest expense.
+[23:51] While we are absorbing incremental dilution given the early closing of Confluent, actions
+
+[23:58] we are taking to accelerate our cost synergies enable us to stay on track to expand operating
+[24:05] pre-tax margins by about a point this year.
+[24:09] Our operating tax rate for the year should be in the mid-teens, and the timing of discrete
+[24:15] items can cause the rate to vary within the year.
+[24:20] For free cash flow, we continue to expect to grow about $1 billion for the full year,
+[24:26] driven primarily by growth and adjusted EBITDA.
+
+[24:30] The headwinds I discussed heading into the year of higher cash taxes, higher CAPX, and
+[24:36] higher net interest expense remain the same.
+[24:41] According to the second quarter, we expect our constant currency revenue growth rate
+[24:46] to be similar to the full year.
+[24:49] And for operating pre-tax margin, we expect about 50 basis points of expansion as software
+[24:55] mix and productivity are offset by dilution from the early closing of Confluent.
+
+[25:03] Our second quarter operating tax rate should be in the mid-teens.
+[25:08] AI is fundamentally reshaping our clients' operating environments, increasing complexity,
+[25:14] risk, and the need for flexibility.
+[25:17] IBM's flywheel for growth built on trust, security, and governance, a portfolio that
+[25:25] helps enterprise put AI to work on their terms and sustain productivity that fuels rapid
+[25:32] innovation positions us to deliver value for our clients.
+
+[25:38] We feel confident in our outlook and are excited about what's ahead.
+[25:43] Arvin and I are now happy to take your questions.
+[25:47] Olympia, let's get started.
+[25:50] Thank you, Jim.
+[25:51] Before we begin Q&A, I'd like to mention a couple of items.
+[25:54] First, supplemental information is provided at the end of the presentation.
+
+[25:58] And then second, as always, I'd ask you to refrain from multi-part questions.
+[26:02] Operator, let's please open it up for questions.
+[26:06] Thank you.
+[26:07] And at this time, we'll begin the question and answer session of the conference.
+[26:11] If you would like to ask a question, please press star 1 on your telephone keypad.
+[26:18] A confirmation tone will indicate that your line is in the question queue.
+
+[26:22] You may press star 2 if you would like to remove your question from the queue.
+[26:27] For participants using speaker equipment, it may be necessary to pick up your handset
+[26:32] before pressing the star keys.
+[26:35] And our first question comes from Amit Darganani with Evercore ISI.
+[26:43] Please state your question.
+[26:45] Thanks a lot.
+
+[26:47] Good afternoon, everyone.
+[26:49] Arvin, it's really nice to see the pickup in Red Hat, growth, and soft fix iteration
+[26:53] broadly, especially as investors are debating software durability right now.
+[26:57] When you step back and look at IBM's software portfolio, I want to understand how would
+[27:03] you characterize your mix between infrastructure versus applications, consumption versus subscription
+[27:08] kind of stuff.
+
+[27:09] And as AI adopts you with these scales, there in that stack, do you see the most incremental
+[27:14] value occurring to IBM versus the ecosystem?
+[27:16] If you just frame how you think of software that puts and takes in an AI-centric world,
+[27:20] it would be really helpful.
+[27:22] Thank you.
+[27:23] Ah, good to hear from you, Amit.
+
+[27:26] And as you can imagine, that's the question that occupies us.
+[27:30] Actually, occupies our clients.
+[27:32] And I know it occupies many investors' minds.
+[27:36] So let me first directly frame the answer in the dimensions that you laid out.
+[27:42] If I think of infrastructure versus applications, I think if I count right, 4% of our portfolio
+[27:53] is, if I'm to be generous, it could be called an application.
+
+[27:57] Specifically, I think the only part of our portfolio that is applications would be maximal.
+[28:04] And even that, which is looking at maintenance and asset management operations, even that
+[28:11] many people would not really call an application because it is the system of record as utilities
+[28:18] and other people with very expensive infrastructure keep their maintenance records, including
+[28:24] where a part may have come from 30 years ago.
+[28:27] So why do I say that?
+
+[28:28] So if you look at the Red Hat portfolio, that's operating systems and container-based software
+[28:34] and automation and runbook software.
+[28:37] I think we would correctly call that all enabling software.
+[28:41] The word 30 years ago would have been middleware, but that word has sort of gone away.
+[28:47] If I look at our data portfolio, it is data basis, both relational and non-redational.
+[28:54] And then there is data movement.
+
+[28:56] And then there is AI enabling.
+[28:57] But data movement is confluent.
+[28:59] And by AI, it's what's an export folio.
+[29:03] In automation, it's all about helping people take complexity out of how they manage their
+[29:08] IT infrastructure, be that a bonomic or aptio or HashiCorp.
+[29:15] And then there is mainframe software, which is largely very similar to the first three
+
+[29:19] I mentioned, but for mainframe.
+[29:21] If you look at these, that is all, I think in your words, I'll call it infrastructure,
+[29:27] but I'll call it more enabling software.
+[29:30] Second part of your question was on subscription versus consumption.
+[29:36] I think our entire portfolio is very tied to consumption.
+[29:38] We sometimes use the word capacity because on mainframe, it is capacity, but capacity
+
+[29:45] is equal to consumption.
+[29:47] It's literally the MIPS that people use.
+[29:49] It's not actually the installed capacity of the machine.
+[29:53] And off the mainframe in the distributed world, whether on the cloud or on premise, a lot
+[29:59] of it is sometimes tied to amount of compute capacity that the software runs on.
+[30:04] That's consumption in a lot of sense.
+
+[30:06] Nobody's going to put it on processes if you're not actually consuming it.
+[30:10] And that's the vast majority of our software portfolio.
+[30:15] So it is very much tied to that.
+[30:18] But then I think the implicit question you're asking is, why would that get a tailwind from
+[30:22] AI as opposed to a headwind?
+[30:26] So ask people get serious about AI because when they start experimenting, they may take
+
+[30:31] a little bit of the data, they make a copy of it, they put it on a public cloud, they
+[30:35] run it on some public frontier model, they get some results, and that's exciting to them.
+[30:40] As they get to scale, they've got to use the data from their internal systems.
+[30:45] If they're using data from the internal systems, many parts of our portfolio, be it red hat,
+[30:51] be it confluent, will come to be consumed more and more.
+[30:55] As that gets consumed more and more, the automation part of the portfolio gets consumed more and
+
+[31:00] more.
+[31:01] As people do more and more fraud protection, not on sampling one in ten transactions in
+[31:06] the mainframe, but every single.
+[31:08] That causes the mainframe consumption to go up, and we can see that, by the way, in
+[31:12] the mainframe numbers, we printed in the first quarter.
+[31:15] So as we go through all of this, I think that this is a tailwind because of the model that
+
+[31:21] we picked, and by their point out, this is not a model that's an accident of history.
+[31:26] We have very consciously, over the last seven years, driven the portfolio into this because
+[31:33] we remain convinced that there is value in the underlying data layers, there is value
+[31:38] in the business logic, and then there's the interaction layer.
+[31:43] Value is going to decrease in that interaction layer because as agents replace people for
+[31:48] some fraction, we can debate how much of the interactions, then the interaction layer by
+
+[31:54] itself is not sticky.
+[31:56] The agents are going to be interacting much more with the underlying data and the business
+[32:00] logic, and we saw that coming six, seven years ago, and that is why we picked the portfolio
+[32:07] we did.
+[32:08] I think that that hopefully gives you the sense, and we can see in our numbers that AI is structurally
+[32:15] increasing the demand for the portfolio, but that is also why both the organic products
+
+[32:24] that we are building, for example, are software development, and some of the acquisition targets
+[32:30] we have had is to play into the tailwinds of AI demand.
+[32:35] Obrar, let's take the next question.
+[32:39] Our next question comes from Wamsi Mohan with Bank of America.
+[32:43] Please state your question.
+[32:45] Yes, thank you so much.
+
+[32:48] You cite greater than 10% growth in software now in 2026.
+[32:53] The early close of confluence itself should add about a point of growth just by itself.
+[32:58] How are you seeing the growth trajectory for the remainder of the software portfolio as we go through 2026?
+[33:05] And Arvin, maybe quickly for you, is IBM's appetite for M&A changing other confluence
+[33:11] closes behind you and given the broader de-rate in the software space?
+[33:16] Thanks, Wamsi, for the question.
+
+[33:19] I appreciate it.
+[33:21] Let's break down our software portfolio.
+[33:24] First of all, we exit first quarter feeling very confident in our software portfolio,
+[33:30] the innovation value, and the value proposition.
+[33:34] And I think that goes to the core of Amet's question and how Arvin answered it about how
+[33:37] we're playing central to the thesis of where enterprise software and AI come together.
+
+[33:45] That has always been predicated on our innovation strategy, our capital investment strategy,
+[33:51] and our M&A strategy.
+[33:53] And I think what you see in the first quarter is a reflection of the diversification of our
+[33:58] portfolio and the durability of our software model coming out of the first quarter.
+[34:04] But if you dial back 90 days ago, what did Arvin and I say entering 2026?
+[34:10] We felt very confident about the strategic repositioning of software.
+
+[34:15] Why?
+[34:16] One, portfolio shift, the higher growth then markets.
+[34:20] Two strong annuity base that we've been building up both organically and inorganically.
+[34:26] By the way, we exit first quarter approaching $25 billion, growing 10%.
+[34:31] Three new innovation and gen AI realization.
+[34:35] And we could talk about that.
+
+[34:37] M&A growth synergies.
+[34:38] And now we're into the second year of a very encouraging TP monetization opportunity.
+[34:45] And for the full year, how is it going to play out?
+[34:48] We talked about entering the year, 10% growth.
+[34:53] Now we see it growing 10 plus percent accelerating.
+[34:57] Data, data we started out extremely strong, growing 16%.
+
+[35:02] We are taking data up for the year.
+[35:04] Yes, we close confluent early.
+[35:06] Let's call it a couple months overall.
+[35:09] Close it at the end of March.
+[35:11] We were assuming somewhere in the mid-May time period in the end of second quarter.
+[35:16] We now see data up low 20 plus percent range.
+
+[35:20] That's going to deliver five points of software growth.
+[35:25] That's representative of new innovation, gen AI, the value of our platform centric model
+[35:32] and strategic partnerships.
+[35:34] And then also M&A contribution from confluent, which would be about a little bit north of
+[35:39] 15 points of that 20 to 25% growth overall for the year.
+[35:44] So it's very strong organic.
+
+[35:46] Hybrid cloud, Red Hat entered the year we accelerated, delivered as expected.
+[35:51] We posted 10% growth.
+[35:54] Underneath that contributed two and a half points to IBM for the year.
+[35:58] And we're well positioned for that.
+[35:59] Our subscription business accelerated.
+[36:03] We got revenue under contract double digits.
+
+[36:05] Red Hat OpenShift accelerating $2 billion ARR virtualization now north to $600 billion.
+[36:12] And consumption model return back to expectation.
+[36:15] We are monitoring well.
+[36:17] Well did decelerate.
+[36:18] I think that's a function of the federal lack of signings and the closure of the government
+[36:24] in the fourth quarter that played through, but also a very dislocated hardware supply
+
+[36:30] chain market.
+[36:31] Formation on model delivering over two points of growth.
+[36:35] Hashi, great first year record signings.
+[36:40] We generated over 200 million and new incremental ARR.
+[36:44] That should position 2026 well, new innovation, M&A growth synergies and NTP continued growth.
+[36:52] And we're off to a tremendous start record start in our new Z 17.
+
+[36:57] We actually feel very good and more optimistic than where we were 90 days ago on software.
+[37:03] Well, let me just address the M&A question, Ramsi, very quickly.
+[37:10] Yes, the values that are out there right now are very attractive.
+[37:14] That does not always mean that the sellers are willing to accept these values.
+[37:19] That may take a few months for them to acknowledge that this is the new baseline.
+[37:23] So if that's the case, I'm acknowledging that these are very attractive values.
+
+[37:27] Now, we have been a very disciplined acquirer.
+[37:31] One, let us make sure that we fully integrate in and get all the benefits from confluence.
+[37:37] So that is going to take some months to get done.
+[37:40] As we get through that, and as the markets are at these values,
+[37:44] that does open up our appetite perhaps more than it would in a normal year.
+[37:49] But it's going to take a few months before we can go acknowledge whether or not that's going
+
+[37:54] to happen. And that's where I would sort of give you the better for color.
+[37:58] So second half, if things stay where they are, and if the values are where they are,
+[38:04] maybe we can do something in the second half as we build up our cash balances.
+[38:08] And we are 100% sure that confluence is off to a strong start.
+[38:12] Operator, let's take the next question.
+[38:15] Our next question comes from Ben Ritesus with Malia's research.
+
+[38:19] Please state your question.
+[38:21] Hey guys, thanks.
+[38:23] Appreciate it.
+[38:24] Arvind and Jim, I just want to talk about guidance.
+[38:28] You guys rarely raise guidance after first quarter I get it.
+[38:32] I think there's just some concern out there as to,
+
+[38:36] are you seeing something in Europe that keeps you at bay right now?
+[38:43] Are you seeing evidence of something slowing that keeps you from raising guidance?
+[38:47] I mean, there's so many good things that are going on with regard to infrastructure
+[38:52] and the software that you went through.
+[38:54] So just wanted to clarify that.
+[38:57] And then also with regard to guidance, the free cash flow was better than expected in the quarter.
+
+[39:05] Why not raise it?
+[39:06] Arvind, you just need to see more evidence.
+[39:08] Thanks so much.
+[39:10] Great. Ben, let me start out with just describing a little bit of the macro and what we are seeing
+[39:16] as evidence and then why we are being a little bit prudent and then Jim will address all your
+[39:23] questions on the specific guidance.
+
+[39:27] Let me start with the Middle East.
+[39:30] We had the strongest growth we have seen in decades, not years, decades in the Middle East.
+[39:38] So that gives you a sense that we are not seeing.
+[39:40] There is no signal.
+[39:43] I would tell you that I would expect the second quarter will play out similar to the first quarter
+[39:47] in the Middle East.
+
+[39:49] Our clients there, be it the larger enterprises, be it government, they are clear.
+[39:55] They need to use and leverage technology to improve their own business.
+[40:00] In the first quarter, Europe was also strong.
+[40:03] You can see that in the supplemental materials that we have provided.
+[40:08] So there is nothing in the what has already transpired.
+[40:13] There has been no slowdown in deals.
+
+[40:15] Deals have actually progressed at the rate and pace that we would want.
+[40:20] If I look at pipeline and demand signals of the second quarter, we are not seeing any of this slowing
+[40:27] down. The only macro comment that we make is if the straits stay closed for another few weeks,
+[40:36] then we know that there could be energy impacts in Europe, but that is speculative.
+[40:41] That is not what we are seeing.
+[40:44] And I expect that actually some of that we will be able to absorb and maintain our acceleration.
+
+[40:49] It is only if it crosses a certain level.
+[40:51] So just based on only three months of the year we have gone by, is why we are making the prudent
+[40:57] comment.
+[41:00] Yeah, Ben, thanks for the question.
+[41:02] Let's take a step back and put this in perspective because I think you teed it up extremely well.
+[41:08] I have been in this role now nine years.
+
+[41:10] Arvin has been in the role six, seven years.
+[41:13] I do not think we have ever raised guidance in the first quarter.
+[41:16] But let us talk about the mentality.
+[41:19] We have done a lot of work about strategically repositioning our portfolio,
+[41:24] our business operating model, and the structural competitiveness of this business.
+[41:30] And part of that was around how we were going to build discipline around execution in this company.
+
+[41:38] And that execution mentality was around always a beat mentality at the end of the day.
+[41:48] The numbers speak for themselves in the first quarter.
+[41:51] Strongest first quarter revenue growth that we have had in over a decade.
+[41:55] Arvin talked about the macro environment arguably yes we're operating in a dynamic world.
+[42:01] And there's more uncertainty than there was 90 days ago as we all know.
+[42:06] But within our lens of what we're looking at, we're executing extremely well across our high
+
+[42:13] value innovation software, infrastructure, and consulting that sees signs of progress.
+[42:20] Underneath that, look at what's happening to the fundamentals of our business.
+[42:25] Our operating margins are up 140 basis points.
+[42:29] Our earnings are up nearly 20% profits up 23%.
+[42:35] This is an extremely strong start to the year.
+[42:39] And now you get the free cash flow, which I know is a valuation measure as I spent a lot of time
+
+[42:45] out with our investors talking about our strategic narrative and our financial investment thesis.
+[42:52] Yes, free cash flow generation is the multiple that people more and more are valuing IBM.
+[42:58] And I would agree with that completely.
+[43:02] We started out with the strongest free cash flow position in over a decade highest free cash flow
+[43:08] margin up mid teens. Let's put this in perspective. Less than 15% of what's required for the year.
+[43:18] We got a lot of work ahead of us.
+
+[43:21] Well, let's also put it in perspective.
+[43:22] Dow back a year ago. Same call, same question.
+[43:28] Look at how we executed on that mentality that Arvin's been trying to drive in this company.
+[43:35] We had that same discussion. We executed well.
+[43:38] We took up free cash flow throughout the year.
+[43:40] And then we booed through it in the fourth quarter.
+
+[43:43] And I will tell you coming out of the first quarter, there's no different mentality that we
+[43:47] have here today. The underlying fundamentals are adjusted.
+[43:51] EBITDA, by the way, all of this is high quality, sustainable, high value realization overall.
+[43:59] That is our free cash flow engine flywheel. That provides tremendous investment flexibility for
+[44:06] us to continue to invest in drive long term sustainable competitive advantage.
+[44:12] And we don't see any different coming out of first quarter.
+
+[44:15] But again, first quarter in, we're 90 days into an extremely important year.
+[44:20] In our view is we should be prudent.
+[44:24] Copper, let's take the next question.
+[44:26] Your next question comes from Fatima Bulani with City Group. Please stay your question.
+[44:32] Good afternoon. Thank you for taking my question.
+[44:35] Arvin, I wanted to go on a thread in your prepared remarks with respect to the main
+
+[44:40] frame potentially being a destination for more emerging use cases, especially around AI inferencing.
+[44:48] So call them not your traditional or conventional main frame use cases.
+[44:53] I was hoping you could put some quantitative framing around that.
+[44:57] You know, what type of a workload mix are you seeing today that is,
+[45:01] you know, you would consider conventionally main frame.
+[45:04] And what is that velocity of potential mix shift?
+
+[45:08] And then as a related matter, as we think about the transaction processing and the
+[45:13] midst growth momentum, how should that transpire and be expressed in the business in terms of
+[45:21] the growth cadence for that particular segment as a follow through appreciate.
+[45:25] There's a little bit of a lag there, but we love your and engine comments on that.
+[45:29] Thank you. Great. Thanks for the question, Fatima.
+[45:33] Let me address the first part of your question, and then I'll actually give it to Jim to address
+
+[45:37] some of the quantification of those workloads. So if we step back and look at it,
+[45:46] over the last 60 years, mainframe has driven two great ways to monetize it.
+[45:52] One has been what we call the classic MIPS.
+[45:55] Or these are the compute parameters underneath that drive the transactional workloads
+[46:00] that are great for the mainframe. Many people actually don't realize, but there are also,
+[46:06] we call them Linux MIPS that are associated with the mainframe, that people have been using
+
+[46:10] to great effectiveness. But let me acknowledge it is more sparse Linux workloads as opposed to
+[46:17] the highly, highly intense Linux workloads. AI is adding a third kind of compute capacity into
+[46:25] the mainframe. So just to make it very simple, today, if people are doing a payment authorization,
+[46:33] almost all the credit card companies in the world use the mainframe for their credit card
+[46:39] authorizations. If they want to do fraud, they can run a few rules in that engine, but then they'll
+[46:46] take a sampling of the transactions, let's call it 10% off the platform, because the latency that
+
+[46:53] it introduces to take it off platform, you can't take them all, it'll just slow the whole system down.
+[46:58] That's what they do off. What happens if you could run a 20, 30 billion parameter model
+[47:04] right on the mainframe? Suddenly, because that is only milliseconds of latency,
+[47:09] you can do that to every single transaction. So if you can take your fraud rate down from 50 basis
+[47:15] points to 40, you can now do the math on what that is. They are all seeing that. So as I do that,
+[47:22] we can do that for credit card authorizations. We can do it for retail banking transactions.
+
+[47:28] We can do it for other payment operations. We can do it for claims and billing purposes.
+[47:34] So those are the workloads that are now coming on. So it is effectively a new capacity of the mainframe
+[47:43] that previously was either very small, but outside the mainframe or running on systems that
+[47:52] are what we would call distributed infrastructure. We believe that this is going to play out.
+[47:58] We see a large majority of our clients asking for the capacity. And currently, I believe if we
+[48:06] have a fully populated system, we can do about 450 billion inferences a day on the mainframe.
+
+[48:14] So that gives you a sense of that. We monetize that both through the extra hardware that is sold.
+[48:22] But also by the supporting software for all of the AI inferencing that then runs on that
+[48:30] increased capacity. So with that, then hopefully that gives you some color on what is happening.
+[48:35] I'll give it to Jim. Yeah, thank you, Fenneman, for the question overall. I mean, mainframe
+[48:40] modernization increases the strategic importance of IBM Z as Arbon talked about. Why? Because the
+[48:47] source of value is architectural. It's the platform. It's not the language. It's the tight
+
+[48:52] integration of software, hardware, database, security, runtime, resiliency. And as Arbon talked about,
+[49:00] this is a whole new monetization area of opportunity for us on that platform stack.
+[49:08] What is the driver of growth? Yes, 450 billion AI inferences. By the way, I have one millisecond
+[49:15] of response time, 25 billion encryptions, transactions per day, up to eight nines of availability,
+[49:22] quantum safe encryption, and a TCO advantage of running it on mainframe on-prem versus a cloud
+[49:30] anywhere from three to 15x, depending on the size and complexity of that platform.
+
+[49:38] So that's why mainframe runs 73% of the world's transaction volumes in terms of value,
+[49:45] 45 to top 50 banks, 9 of the top 10 retailers, 4 to 5 top airlines, etc. Now you go to your
+[49:52] second question about how do we monetize that value? One is the monetization of the platform of
+[49:58] hardware. Arbon talked about AI MIPS. Second is that stack economic multiplier. Historically,
+[50:07] we've been averaging about three to four x stack multiplier for every hardware dollar we land.
+[50:14] Let me give you a stat. We just we just anniversaryed our first full year of Z 17. That first full
+
+[50:22] year is Z 17 versus the prior program Z 16 first full year, which by the way was the best on record
+[50:31] at that point in time. We've increased hardware placement value by over a billion dollars.
+[50:40] Now you take that billion dollars and you think about the future monetization opportunity that
+[50:46] we get. That's that three to four x multiplier that will play out over time. A big chunk of that
+[50:52] being our TP software, but it's also our storage attach. It's our maintenance business. It's our
+[50:57] financing business. We monetize that value based on how many MIPS are shipped in the market
+
+[51:06] and for four quarters in a row on Z 17, we've shipped over 100% growth of new MIPS in the market,
+[51:14] including first quarter. Why is that matter? Higher capacity is higher monetization opportunity,
+[51:22] higher price opportunity, it's higher value creation opportunity. We feel pretty good about that
+[51:28] future monetization and multiplier effect as we play out 2026 and 2027.
+[51:35] Next question operator. Our next question comes from Brent Phil with Jefferies. Please get your
+[51:41] question. Hey, Jim, just on the constant currency for software, not to nitpick, but if you look at
+
+[51:47] last year, 9% growth and Q1, I think it was 811 and Q4. So investors are asking, you know,
+[51:54] you're seeing a little bit of a down tick. Is that due to seasonality? Maybe your contract signs
+[52:00] were better and Q1, but maybe are being reflected in the reported numbers. Again, I know it's a
+[52:07] modest deceleration, but anything to point out there. Yeah, Brent, thank you very much for the
+[52:15] question overall. I fully expected this one because when you just look at the media,
+[52:20] print and the press release, fourth quarter, we posted blue over 11% growth. This quarter,
+
+[52:27] we posted 8% growth. What gives you feel still strong strength about your portfolio, your business,
+[52:34] your investments, your new innovation. I think you nailed it right up front. One,
+[52:39] understanding our business, our software portfolio, high value recurring revenue, about 80% of our
+[52:47] annual business, about 30 billion plus trailing 12 months, 80% of that is high value annuity
+[52:55] based business. 20% is a transactional engine underneath it. It's a big component of our
+[53:04] perpetual license model, but it's a component of our subscription model, etc. If you look at it,
+
+[53:12] the entire three point drop, quarter to quarter, is the fundamentals of the mix of the portfolio.
+[53:20] In fourth quarter, we have about 30% of our business in a fourth quarter is transactional.
+[53:27] In the first quarter, that's about 10%. When you look at the underpinnings of the core
+[53:33] annuity by itself, we're actually accelerating that fourth quarter to first quarter. I think I
+[53:39] said earlier on the call, our annuity ARR exiting first quarter approaching 25 billion, that's up 10%.
+[53:48] Throughout the rest of the year, we'll go from a transactional quarter of about 10% first,
+
+[53:54] and we'll peak probably in a fourth quarter of about 30% plus percent. On average, we'll be in
+[53:59] the 20% overall. That will accelerate growth. That coupled with M&A growth synergies,
+[54:07] our Genn
+[54:25] 10%. Now we're saying, yes, we closed Confluent earlier, and we're confident now in accelerating
+[54:32] that to 10+.
+[54:34] Operator, let's take the next question.
+
+[54:37] Our next question comes from Eric Woodring with Morgan Stanley. Please get your question.
+[54:42] Awesome. Thank you for taking my question tonight, guys. Jim, you briefly alluded to it earlier,
+[54:48] but can you maybe just detail how IBM is broadly managing and or mitigating some of these supply
+[54:56] chain headwinds, whether that's higher memory costs or supply challenges, meaning how material
+[55:03] is memory within the infrastructure base? How are you mitigating? How are customers responding?
+[55:09] Has it impacted your outlook on growth and margins? If you could just maybe dig into
+
+[55:12] us, that would be super helpful. Thank you very much.
+[55:15] Yeah, absolutely. Thank you, Eric, for the question, overall. You understand our business
+[55:20] extremely well. Underneath the Arvin's leadership, we have strategically repositioned this portfolio.
+[55:27] It's been a lot of work around portfolio optimization. By the way, that's both leveraging the strength
+[55:33] of our cash flow or financial flexibility to buy high value, innovative based companies
+[55:39] in category leading technologies with structural growth profiles to help IBM.
+
+[55:46] But it's also around the vestigures of portfolio. But where I'm going with this is today, when you
+[55:51] look at IBM's portfolio, we're a human capital asset IP based business that 75% on its way
+[55:59] to 80% by the way, underneath that software 45% on its way to 50% plus overall. Our hardware business
+[56:07] is extremely important as a value creator to IBM. But top line, it's about 25% of our business,
+[56:15] but that's high value innovation on mainframe platform overall. Now you look underneath it
+[56:21] around the supply chain dislocation, around commodity cost increases, in particular around
+
+[56:26] memory. It has a de minimis impact to us overall. Think about mainframe overall. Well, it impacts
+[56:32] storage and potentially some components of our distributed infrastructure, absolutely.
+[56:38] But look underneath it, we're able to, one, we've been in existence for 115, 16 years overall.
+[56:46] We know how to run global supply chains. We drive supplier optimization, supply chain diversification,
+[56:53] procurement strategies overall. And I think we've been able to mitigate this
+[56:59] dislocation overall. The area we're watching it is in the software area around rail. I mean,
+
+[57:05] rail's tied to enterprise hardware placements overall. And we'll continue monitoring that.
+[57:11] But look at our hardware performance, we accelerated growth that 15% are distributed infrastructure,
+[57:18] at actual rates grown 17, constant currency grown 13. By the way, I didn't even talk about it.
+[57:24] Our infrastructure pre-tax margins are up 720 basis points. So we know how to manage global
+[57:31] supply chains and commodity costs inside the company and extract value overall. Jim, let me
+[57:36] just add a couple of sentences to your statement. Eric Jim mentioned that we have worked with a lot
+
+[57:41] of these suppliers for a number of years and decades. They like working with us, partly because of the
+[57:49] relationships we have built up with them over the years, but also because we help them stress
+[57:54] test new capabilities. And they like the fact that our systems are very high performing because
+[58:00] that gives them brand reputation as they go out to the wider market. That does help not completely,
+[58:06] but somewhat mitigate some of the supply chain constraints because we are early users of their
+[58:12] new S-memory technologies. Operator, next question? Your next question comes from Jim Schneider with
+
+[58:19] Goldman Sachs. Please state your question. Good afternoon. Thanks for taking my question. I was
+[58:24] wondering if you could maybe comment on the AI bookings, which is a metric you previously given,
+[58:31] but I think you just commented as a percentage of your total bookings right now. Do that accelerate
+[58:36] or do you accelerate in the quarter? And maybe just kind of comment on any update you see for
+[58:41] the consulting business this year, either given more macro uncertainty, do you expect any kind of
+[58:46] diminution in the growth rate you expect this year? Thank you. Yeah, thanks, Jim. As we talked
+
+[58:51] about, you know, we exited last year with a book of business around AI, which as you know, we talked
+[58:58] about consulting and software within that. Vanacal, I think it was important over the last couple years
+[59:05] because as the explosion of Gen AI hit, we had to give a perspective about whether we were
+[59:12] winning and capitalizing and participating in that market. We exited last year what? 12 and a half
+[59:17] billion dollar over 12 and a half billion dollar book of business. But now let's bring it back,
+[59:21] because in January, we talked about it's embedded across our portfolio. It's embedded in software.
+
+[59:27] It's central thesis to how we run our consulting business right now. It's embedded across our
+[59:34] infrastructure business. And we said coming into 2026, we were going to talk about it more
+[59:40] from an outcome base, revenue base, and value contribution base overall. But let's talk about
+[59:47] software. Software, Gen AI continues to be a tailwind overall. The positioning of our portfolio,
+[59:56] with the explosion of AI, with the applications agents, with us owning the foundational layer of
+[60:02] Linux and containerization, you see that play out with the acceleration of our redhead open ship
+
+[60:09] business now, $2 billion growing north, I think high 20% wrote overall. Second, the importance of
+[60:18] the data layer. I've been talked about confluent positioning us to be the cross platform as a data
+[60:24] connector, automation, the need for resiliency, observability, FinOps software. Let's talk about
+[60:32] one, it's accelerating our growth profile overall. But let me put some numbers behind it versus just
+[60:38] an overarching book of business. Our software book, you know, from an annualized revenue
+[60:44] trailing to a month, we finished last year $30 billion, right? 80% of that, as I said earlier,
+
+[60:50] high value recurring revenue, 20% transactional, read that about $6 billion. Over the last trailing
+[60:57] 12 months on an accelerating basis, our AI platform, agents, assistance, orchestration,
+[61:05] is north of a billion and a half dollars. It's already about 25% penetrated and our software business
+[61:15] growing north of 40%. It's contributing two points of growth on an annualized basis.
+[61:22] And the thing we love about it, it has a multiplier effect over time. So it's an acceleration
+[61:29] error. Consulting, consulting is about 40% of our signings, 30% of our backlog is GNAI now,
+
+[61:37] over 20% of our revenue. And on a ARR revenue perspective, in the first quarter, we eclipse
+[61:45] $4 billion ARR. So it is central to the way we run a services as software model overall.
+[61:54] And an infrastructure both Arvin and I talked about, it's embedded on the chip of Z17,
+[62:00] sphere inferencing. I think Arvin talked about it in prepared remarks, clients that have
+[62:06] implemented Watson code assistant for Z, we're seeing 3x differential on growth and capacity.
+[62:15] And you see in our distributed infrastructure, we're accelerating growth. Now, your second
+
+[62:19] question around consulting. We are seeing signposts of progress overall. One, our demand profile,
+[62:28] our backlog quality, our GNAI, which I just talked about, our strategic partnership,
+[62:34] ped room opportunity, our portfolio mix composition, more to higher growth areas,
+[62:39] and our services as software model, which we think we have an industry leading position
+[62:45] with our IBM consulting advantage platform. But let me put some stats on it. One, signings,
+[62:51] we return to growth. Great quarter overall, large transformational deals around GNAI,
+
+[62:57] the health and mix of net new business and expansions up seven points year to year,
+[63:04] up four points quarter to quarter, 400 new clients captured in the first quarter,
+[63:10] our backlog quality overall, our erosion is stable, our duration continues to come down,
+[63:17] our backlog realization is actually accelerating throughout the year. And our backlog yields are
+[63:24] up four points year over year talking about the quality and value we're able to deliver.
+[63:29] And I talked about GNAI. 80% of our GNAI book of business right now is coming from captured from
+
+[63:36] net new clients overall. And I'll stress that over $4 billion revenue ARR. So that positions
+[63:43] our confidence in the year of us accelerating our revenue growth around low single digits. And
+[63:50] you know, if things go well, can we do better than that? Obviously, yes.
+[63:55] Operator, let's take one last question.
+[63:58] Our last question comes from Matt Swanson with RBC capital markets. Please state your question.
+[64:05] Great. Thank you so much for squeezing me in here. Arva is really interesting going over the
+
+[64:10] software segments. When you showed how low of an exposure you have to the application space,
+[64:15] there's obviously been a ton of debate right now around who's going to kind of win the GNAI
+[64:20] workloads of application. We've seen you operate as such a strong kind of Switzerland foundational
+[64:27] player in the hybrid cloud. When we look at AI, like how are you setting IBM up to win kind of
+[64:34] regardless what ends up being the winner of the GNAI application layer? And what kind of investments
+[64:40] does that take? Matt, thanks for that question. So we made the decision about three years ago
+
+[64:49] that we were going to be neutral and Switzerland-like also on our usage of frontier models.
+[64:56] Because I think when he is saying the GNAI applications, I think for many people that is
+[65:01] synonymous with the frontier model providers, not just the frontier models, but all the surrounding
+[65:08] software accoutrements that all of them are giving. So we are going to play where clients want to be
+[65:15] hybrid. The clients may want to function across multiple clouds or also because of either sovereignty
+[65:22] or brand or privacy or in the end economics, they might also have a private addition in addition
+
+[65:30] to what they use on public. So as we go across that, we are building, for example, our software
+[65:37] development AI product, Project Bob. It is out. We actually chose not to announce it.
+[65:46] Nevertheless, 200 people signed up to use it. So that gives us a signal that we have something.
+[65:53] Now, why would they use us as opposed to just one of the core X or equivalent models is if they also
+[66:00] have a lot of code that they do not want to actually take out in public. And also they want to address
+[66:06] the entire software development, meaning including testing, including patching, including documentation,
+
+[66:13] including maintenance, all the kinds of things that we provide. Ditto, as we look at how they
+[66:20] might want to use agents that come inside their enterprise, then we use Confluent to go manage
+[66:27] and control how they expose data from inside things. So as we sort of look at that mat,
+[66:35] I think we're very clear. Right. There will be people who will be frontier model providers.
+[66:42] You can debate others half a dozen or a dozen today. It's somewhere in that range.
+[66:48] We actually do not want to even predict which of them will be their venture winners. We want to
+
+[66:53] work with all of them. Then we also work with open weight models and we produce models where we have
+[67:00] either doing expertise or people may want much smaller models to be able to run them on premise
+[67:06] or I'll say euphemistically on a one to four GPU server node as opposed to a very, very large cluster.
+[67:14] So that's the model place. We are going to then help our clients deploy these models to gain value.
+[67:21] As we have unlocked, Jim talked about the four and a half billion dollars of internal value.
+[67:26] How do you reduce your total tax expense? How do you reduce procurement expense?
+
+[67:31] How do you reduce accounts payable? How do you reduce court to cash? As we walk across these
+[67:37] processes, we get a lot of knowledge on how to capture that into agents, but then we are not
+[67:43] going to be fixated whichever model you want to use, you can use and wherever you want to run them,
+[67:50] we'll help you run them and we think that's a good half of the world is interested in that
+[67:55] paradigm and that's how Matt we are going to be able to go when in this world as it unfolds going
+[68:02] forward. So just to close, the innovation value we are delivering to our clients and our strong
+
+[68:10] start to the year reinforce our confidence in our growth trajectory. We look forward to
+[68:18] continuing this dialogue as we move through the year. Thank you, Arvin. Operator, let me turn it
+[68:23] back to you to close out the call. Thank you for participating on today's call. The conference has
+[68:29] now ended. You may disconnect at this time.

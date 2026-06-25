@@ -1,0 +1,2290 @@
+WER: 10.6%
+Quality: Acceptable (10-20%)
+Official word count: 10114
+Whisper word count: 10411
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+one meta platforms inc meta first quarter two thousand and twentysix results
+conference call april 29th two thousand and twentysix kenneth dorell director
+investor relations thank you good afternoon and welcome to meta platforms’ first
+quarter two thousand and twentysix earnings conference call joining me today to
+discuss our results are mark zuckerberg ceo and susan li cfo our remarks today
+will include forward‐looking statements which are based on assumptions as of
+today actual results may differ materially as a result of various factors
+including those set forth in today’s earnings press release and in our annual
+report on form tenk filed with the sec we undertake no obligation to update any
+forwardlooking statement during this call we will present both gaap and certain
+non‐gaap financial measures a reconciliation of gaap to non‐gaap measures is
+included in today’s earnings press release the earnings press release and an
+accompanying investor presentation are availa ble on our websi
+
+WHISPER (first 1000 chars):
+good afternoon my name is krista and i will be your conference operator today at
+this time i would like to welcome everyone to metas first quarter two thousand
+and twentysix earnings conference call all lines have been placed on mute to
+prevent any background noise after the speakers remarks there will be a question
+and answer session if you would like to ask a question please press star one on
+your telephone keypad to withdraw your question again press star we ask that you
+limit yourself to one question and this call will be recorded thank you very
+much can mr rell metas director of investor relations you may begin thank you
+good afternoon and welcome to meta platforms first quarter two thousand and
+twentysix earnings conference call joining me today to discuss our results are
+mark zuckerberg ceo and susan lee cfo our remarks today will include
+forwardlooking statements which are based on assumptions as of today actual
+results may differ materially as a result of various factors inclu
+
+ALIGNED DIFFERENCES (all 605, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: one meta platforms inc meta
+  WHISPER:  good afternoon my name is krista and i will be your conference
+  operator today at this time i would like to welcome everyone to metas
+
+[2]
+  OFFICIAL: results
+  WHISPER:  earnings
+
+[3]
+  OFFICIAL: april 29th two thousand
+  WHISPER:  all lines have been placed on mute to prevent any background noise
+  after the speakers remarks there will be a question
+
+[4]
+  OFFICIAL: twentysix kenneth dorell
+  WHISPER:  answer session if you would like to ask a question please press star
+  one on your telephone keypad to withdraw your question again press star we ask
+  that you limit yourself to one question and this call will be recorded thank
+  you very much can mr rell metas
+
+[5]
+  WHISPER:  of
+
+[6]
+  WHISPER:  you may begin
+
+[7]
+  OFFICIAL: platforms’
+  WHISPER:  platforms
+
+[8]
+  OFFICIAL: li
+  WHISPER:  lee
+
+[9]
+  OFFICIAL: forward‐looking
+  WHISPER:  forwardlooking
+
+[10]
+  OFFICIAL: today’s
+  WHISPER:  todays
+
+[11]
+  OFFICIAL: tenk
+  WHISPER:  10k
+
+[12]
+  OFFICIAL: no
+  WHISPER:  new
+
+[13]
+  OFFICIAL: non‐gaap
+  WHISPER:  nongaap
+
+[14]
+  OFFICIAL: non‐gaap
+  WHISPER:  nongaap
+
+[15]
+  OFFICIAL: today’s
+  WHISPER:  todays
+
+[16]
+  OFFICIAL: availa ble
+  WHISPER:  available
+
+[17]
+  OFFICIAL: i’d
+  WHISPER:  id
+
+[18]
+  OFFICIAL: mark zuckerberg ceo
+  WHISPER:  all right
+
+[19]
+  OFFICIAL: actives
+  WHISPER:  activities
+
+[20]
+  OFFICIAL: whatsapp
+  WHISPER:  whats app
+
+[21]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence
+
+[22]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence
+
+[23]
+  OFFICIAL: two
+
+[24]
+  OFFICIAL: and
+
+[25]
+  WHISPER:  and
+
+[26]
+  WHISPER:  that
+
+[27]
+  WHISPER:  that
+
+[28]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[29]
+  OFFICIAL: in
+  WHISPER:  and
+
+[30]
+  OFFICIAL: wil l
+  WHISPER:  will
+
+[31]
+  OFFICIAL: i n
+  WHISPER:  in
+
+[32]
+  WHISPER:  and
+
+[33]
+  OFFICIAL: engag ement
+  WHISPER:  engagement
+
+[34]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[35]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[36]
+  OFFICIAL: 1gw
+  WHISPER:  one gigawatt
+
+[37]
+  OFFICIAL: amounts
+  WHISPER:  amount
+
+[38]
+  OFFICIAL: compliment
+  WHISPER:  complement
+
+[39]
+  OFFICIAL: meta compute
+  WHISPER:  metacomput
+
+[40]
+  OFFICIAL: three
+
+[41]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[42]
+  OFFICIAL: meta optics
+  WHISPER:  metaoptics
+
+[43]
+  OFFICIAL: allday wear
+  WHISPER:  all day where
+
+[44]
+  OFFICIAL: investor
+  WHISPER:  investors
+
+[45]
+  OFFICIAL: in dustry
+  WHISPER:  industry
+
+[46]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[47]
+  WHISPER:  and
+
+[48]
+  WHISPER:  and
+
+[49]
+  OFFICIAL: well
+  WHISPER:  we will
+
+[50]
+  OFFICIAL: alright
+  WHISPER:  all right
+
+[51]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence
+
+[52]
+  OFFICIAL: bi llions
+  WHISPER:  billions
+
+[53]
+  OFFICIAL: im
+  WHISPER:  i am
+
+[54]
+  OFFICIAL: susan li cfo
+
+[55]
+  OFFICIAL: let’s
+  WHISPER:  lets
+
+[56]
+  OFFICIAL: a
+  WHISPER:  the
+
+[57]
+  OFFICIAL: in
+  WHISPER:  and
+
+[58]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[59]
+  OFFICIAL: year overyear
+  WHISPER:  yearoveryear
+
+[60]
+  OFFICIAL: ad
+  WHISPER:  add
+
+[61]
+  OFFICIAL: four
+
+[62]
+  OFFICIAL: broadbased
+  WHISPER:  broad based
+
+[63]
+  OFFICIAL: labs
+  WHISPER:  lab
+
+[64]
+  OFFICIAL: year overyear
+  WHISPER:  yearoveryear
+
+[65]
+  OFFICIAL: third party
+  WHISPER:  thirdparty
+
+[66]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[67]
+  OFFICIAL: in
+  WHISPER:  and
+
+[68]
+  OFFICIAL: and
+  WHISPER:  in
+
+[69]
+  WHISPER:  negative
+
+[70]
+  WHISPER:  negative
+
+[71]
+  OFFICIAL: u nited
+  WHISPER:  united
+
+[72]
+  OFFICIAL: five
+
+[73]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[74]
+  OFFICIAL: reels time
+  WHISPER:  realtime
+
+[75]
+  WHISPER:  and
+
+[76]
+  OFFICIAL: in
+  WHISPER:  and
+
+[77]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[78]
+  OFFICIAL: in
+  WHISPER:  and
+
+[79]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[80]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[81]
+  OFFICIAL: e nabling
+  WHISPER:  enabling
+
+[82]
+  OFFICIAL: haven’t
+  WHISPER:  havent
+
+[83]
+  OFFICIAL: sameday
+  WHISPER:  same day
+
+[84]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[85]
+  OFFICIAL: autotranslating
+  WHISPER:  auto translating
+
+[86]
+  OFFICIAL: viewer’s
+  WHISPER:  viewers
+
+[87]
+  OFFICIAL: aitranslated
+  WHISPER:  ai translated
+
+[88]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[89]
+  OFFICIAL: llms
+  WHISPER:  loms
+
+[90]
+  OFFICIAL: longerterm
+  WHISPER:  longer term
+
+[91]
+  OFFICIAL: ads
+  WHISPER:  adds
+
+[92]
+  OFFICIAL: llmbased
+  WHISPER:  lom based
+
+[93]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence
+
+[94]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[95]
+  OFFICIAL: six
+
+[96]
+  OFFICIAL: weekoverweek
+  WHISPER:  week over week
+
+[97]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[98]
+  OFFICIAL: roll out
+  WHISPER:  rollout
+
+[99]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[100]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[101]
+  OFFICIAL: this
+  WHISPER:  the
+
+[102]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[103]
+  OFFICIAL: roll out
+  WHISPER:  rollout
+
+[104]
+  OFFICIAL: in
+  WHISPER:  and
+
+[105]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[106]
+  OFFICIAL: ads
+  WHISPER:  ad
+
+[107]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[108]
+  OFFICIAL: lattice’s
+  WHISPER:  lattices
+
+[109]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[110]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[111]
+  OFFICIAL: llmscale
+  WHISPER:  llm scale
+
+[112]
+  OFFICIAL: surfaces
+  WHISPER:  services
+
+[113]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[114]
+  OFFICIAL: campaigns
+  WHISPER:  customers
+
+[115]
+  OFFICIAL: surfaces
+  WHISPER:  services
+
+[116]
+  OFFICIAL: surfacing
+  WHISPER:  servicing
+
+[117]
+  OFFICIAL: re sults
+  WHISPER:  results
+
+[118]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[119]
+  OFFICIAL: —
+  WHISPER:  and
+
+[120]
+  OFFICIAL: seven
+
+[121]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[122]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[123]
+  OFFICIAL: asiapacific
+  WHISPER:  asia pacific
+
+[124]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[125]
+  OFFICIAL: highestvalue
+  WHISPER:  highest value
+
+[126]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[127]
+  OFFICIAL: 20b
+  WHISPER:  twenty billion dollars
+
+[128]
+  OFFICIAL: overyear
+  WHISPER:  over year
+
+[129]
+  OFFICIAL: partnership
+  WHISPER:  partnerships
+
+[130]
+  OFFICIAL: runrate
+  WHISPER:  run rate
+
+[131]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[132]
+  WHISPER:  dollars
+
+[133]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[134]
+  OFFICIAL: the
+
+[135]
+  OFFICIAL: meta
+  WHISPER:  metah
+
+[136]
+  OFFICIAL: enter ing
+  WHISPER:  entering
+
+[137]
+  OFFICIAL: sec ure
+  WHISPER:  secure
+
+[138]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[139]
+  OFFICIAL: multi year
+  WHISPER:  multiyear
+
+[140]
+  OFFICIAL: eight
+
+[141]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[142]
+  OFFICIAL: a lso
+  WHISPER:  also
+
+[143]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[144]
+  WHISPER:  to
+
+[145]
+  WHISPER:  dollars
+
+[146]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[147]
+  WHISPER:  to
+
+[148]
+  WHISPER:  dollars
+
+[149]
+  OFFICIAL: twentyfiveone
+  WHISPER:  twentyfive to one
+
+[150]
+  WHISPER:  dollars
+
+[151]
+  OFFICIAL: fifteenone
+  WHISPER:  fifteen to one
+
+[152]
+  WHISPER:  dollars
+
+[153]
+  OFFICIAL: absent
+  WHISPER:  apps and
+
+[154]
+  OFFICIAL: thirteensixteen lastly
+  WHISPER:  thirteen and sixteen finally
+
+[155]
+  OFFICIAL: youthrelated
+  WHISPER:  youth related
+
+[156]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[157]
+  OFFICIAL: on
+
+[158]
+  OFFICIAL: let’s
+  WHISPER:  lets
+
+[159]
+  OFFICIAL: operator
+
+[160]
+  OFFICIAL: lines
+  WHISPER:  line
+
+[161]
+  OFFICIAL: touch tone
+  WHISPER:  touchstone
+
+[162]
+  OFFICIAL: today’s
+  WHISPER:  todays
+
+[163]
+  OFFICIAL: nine
+
+[164]
+  OFFICIAL: nowak
+  WHISPER:  noah
+
+[165]
+  OFFICIAL: brian nowak
+
+[166]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[167]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[168]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[169]
+  OFFICIAL: roic on
+  WHISPER:  roicn
+
+[170]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[171]
+  OFFICIAL: it’s meta ai
+  WHISPER:  its medai
+
+[172]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[173]
+  OFFICIAL: roic on
+  WHISPER:  roicn
+
+[174]
+  OFFICIAL: mark zuckerberg that’s
+  WHISPER:  thats
+
+[175]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[176]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[177]
+  OFFICIAL: that’s we’re
+  WHISPER:  i think thats were
+
+[178]
+  OFFICIAL: and
+  WHISPER:  then
+
+[179]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[180]
+  OFFICIAL: don’t i mean like i don’t
+  WHISPER:  dont
+
+[181]
+  OFFICIAL: monthovermonth
+  WHISPER:  month over month
+
+[182]
+  OFFICIAL: i’m
+  WHISPER:  im
+
+[183]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[184]
+  OFFICIAL: highquality
+  WHISPER:  high quality
+
+[185]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[186]
+  OFFICIAL: products
+  WHISPER:  product
+
+[187]
+  OFFICIAL: where
+  WHISPER:  were
+
+[188]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[189]
+  OFFICIAL: ten
+
+[190]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[191]
+  OFFICIAL: that
+
+[192]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[193]
+  OFFICIAL: operator
+
+[194]
+  OFFICIAL: shmulik
+  WHISPER:  smulik
+
+[195]
+  OFFICIAL: mark shmulik
+
+[196]
+  WHISPER:  you know
+
+[197]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[198]
+  OFFICIAL: kind of
+
+[199]
+  OFFICIAL: are
+  WHISPER:  do
+
+[200]
+  OFFICIAL: thinking
+  WHISPER:  think
+
+[201]
+  OFFICIAL: team’s
+  WHISPER:  teams
+
+[202]
+  OFFICIAL: kind of
+
+[203]
+  OFFICIAL: on to
+  WHISPER:  onto
+
+[204]
+  OFFICIAL: kind of
+
+[205]
+  OFFICIAL: kind of
+
+[206]
+  OFFICIAL: product
+  WHISPER:  products
+
+[207]
+  OFFICIAL: kind of
+
+[208]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[209]
+  OFFICIAL: brian’s
+  WHISPER:  brians
+
+[210]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[211]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[212]
+  OFFICIAL: mention
+  WHISPER:  mentioned
+
+[213]
+  OFFICIAL: stepup
+  WHISPER:  step up
+
+[214]
+  OFFICIAL: kind of
+
+[215]
+  OFFICIAL: the
+
+[216]
+  OFFICIAL: mark zuckerberg
+
+[217]
+  OFFICIAL: is
+
+[218]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[219]
+  OFFICIAL: we’re
+  WHISPER:  were you know
+
+[220]
+  OFFICIAL: and
+  WHISPER:  when
+
+[221]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[222]
+  OFFICIAL: the
+  WHISPER:  this
+
+[223]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[224]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[225]
+  OFFICIAL: we’re
+  WHISPER:  you were
+
+[226]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[227]
+  OFFICIAL: a
+
+[228]
+  OFFICIAL: model
+  WHISPER:  models
+
+[229]
+  WHISPER:  you know
+
+[230]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[231]
+  WHISPER:  over
+
+[232]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[233]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[234]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[235]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[236]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[237]
+  OFFICIAL: eleven
+
+[238]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[239]
+  OFFICIAL: susan li
+
+[240]
+  OFFICIAL: aren’t
+  WHISPER:  arent
+
+[241]
+  WHISPER:  you know
+
+[242]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[243]
+  OFFICIAL: o ur
+  WHISPER:  our
+
+[244]
+  WHISPER:  wrapping
+
+[245]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[246]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[247]
+  OFFICIAL: operator
+
+[248]
+  OFFICIAL: eric sheridan
+
+[249]
+  OFFICIAL: maybe
+
+[250]
+  OFFICIAL: i
+  WHISPER:  you
+
+[251]
+  WHISPER:  in the
+
+[252]
+  OFFICIAL: agentic
+  WHISPER:  a a a a a a a
+
+[253]
+  OFFICIAL: you’ve
+  WHISPER:  youve
+
+[254]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[255]
+  OFFICIAL: to
+  WHISPER:  would
+
+[256]
+  OFFICIAL: agentic
+  WHISPER:  a gem take
+
+[257]
+  OFFICIAL: as
+  WHISPER:  is
+
+[258]
+  OFFICIAL: smbs
+  WHISPER:  smes
+
+[259]
+  OFFICIAL: haven’t
+  WHISPER:  havent
+
+[260]
+  OFFICIAL: susan li
+
+[261]
+  WHISPER:  you know
+
+[262]
+  WHISPER:  our existing
+
+[263]
+  OFFICIAL: smbs
+  WHISPER:  smes
+
+[264]
+  OFFICIAL: twelve
+
+[265]
+  WHISPER:  you know
+
+[266]
+  WHISPER:  you know
+
+[267]
+  WHISPER:  you know
+
+[268]
+  WHISPER:  you know and i would say some of these are a little bit further out
+  you know
+
+[269]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence you know
+
+[270]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[271]
+  OFFICIAL: a
+
+[272]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[273]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[274]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[275]
+  OFFICIAL: q2
+  WHISPER:  q two
+
+[276]
+  WHISPER:  you know we
+
+[277]
+  OFFICIAL: longerterm
+  WHISPER:  longer term
+
+[278]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[279]
+  WHISPER:  services
+
+[280]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[281]
+  OFFICIAL: operator
+
+[282]
+  OFFICIAL: youssef squali
+  WHISPER:  use of squally
+
+[283]
+  OFFICIAL: truist
+  WHISPER:  truest
+
+[284]
+  OFFICIAL: youssef squali
+
+[285]
+  OFFICIAL: the
+
+[286]
+  OFFICIAL: rayban
+  WHISPER:  ray band
+
+[287]
+  OFFICIAL: continue
+  WHISPER:  continues
+
+[288]
+  OFFICIAL: essilorluxottica
+  WHISPER:  its a lot of exotic that
+
+[289]
+  WHISPER:  know you
+
+[290]
+  OFFICIAL: rif
+  WHISPER:  riff
+
+[291]
+  OFFICIAL: implementation
+  WHISPER:  implementations
+
+[292]
+  OFFICIAL: susan li
+
+[293]
+  WHISPER:  your
+
+[294]
+  WHISPER:  you know
+
+[295]
+  OFFICIAL: i’m
+  WHISPER:  im
+
+[296]
+  OFFICIAL: the
+  WHISPER:  these
+
+[297]
+  WHISPER:  you know the
+
+[298]
+  WHISPER:  the the
+
+[299]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[300]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[301]
+  OFFICIAL: thirteen we’re
+  WHISPER:  were
+
+[302]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[303]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[304]
+  OFFICIAL: we’re
+  WHISPER:  that were
+
+[305]
+  WHISPER:  do we would have than we
+
+[306]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[307]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[308]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[309]
+  WHISPER:  was about
+
+[310]
+  OFFICIAL: we’re
+  WHISPER:  you know were
+
+[311]
+  OFFICIAL: q1
+  WHISPER:  q one
+
+[312]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[313]
+  OFFICIAL: rayban
+  WHISPER:  ray bed
+
+[314]
+  WHISPER:  higher you know
+
+[315]
+  WHISPER:  higher higher resolution video
+
+[316]
+  WHISPER:  sorry
+
+[317]
+  OFFICIAL: we’re
+  WHISPER:  were you know
+
+[318]
+  WHISPER:  you know the
+
+[319]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[320]
+  OFFICIAL: rayban
+  WHISPER:  ray band
+
+[321]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[322]
+  OFFICIAL: there is
+  WHISPER:  theres
+
+[323]
+  OFFICIAL: yes
+  WHISPER:  yeah
+
+[324]
+  WHISPER:  this is a
+
+[325]
+  WHISPER:  an understanding of how we can do this that we continue to be
+  excited about
+
+[326]
+  OFFICIAL: operator
+
+[327]
+  OFFICIAL: justin post
+
+[328]
+  OFFICIAL: mark it
+  WHISPER:  market in
+
+[329]
+  OFFICIAL: muse
+  WHISPER:  you
+
+[330]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[331]
+  WHISPER:  to
+
+[332]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[333]
+  OFFICIAL: how is
+  WHISPER:  and hows
+
+[334]
+  OFFICIAL: enterprise
+  WHISPER:  price
+
+[335]
+  OFFICIAL: mark zuckerberg
+
+[336]
+  OFFICIAL: i’m
+  WHISPER:  im
+
+[337]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[338]
+  OFFICIAL: as
+  WHISPER:  is
+
+[339]
+  OFFICIAL: that’s
+  WHISPER:  that thats
+
+[340]
+  WHISPER:  that
+
+[341]
+  OFFICIAL: and
+
+[342]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[343]
+  OFFICIAL: we’ve
+  WHISPER:  weve
+
+[344]
+  WHISPER:  that
+
+[345]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[346]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[347]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[348]
+  OFFICIAL: fourteen
+
+[349]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[350]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[351]
+  WHISPER:  yeah
+
+[352]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[353]
+  OFFICIAL: aren’t
+  WHISPER:  arent
+
+[354]
+  WHISPER:  you know
+
+[355]
+  OFFICIAL: we’re
+  WHISPER:  this were
+
+[356]
+  WHISPER:  and
+
+[357]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[358]
+  WHISPER:  you know we
+
+[359]
+  WHISPER:  like
+
+[360]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[361]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[362]
+  WHISPER:  you know
+
+[363]
+  WHISPER:  of this
+
+[364]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[365]
+  WHISPER:  you know
+
+[366]
+  WHISPER:  was
+
+[367]
+  OFFICIAL: meta ai
+  WHISPER:  medai
+
+[368]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[369]
+  OFFICIAL: i’m
+  WHISPER:  im
+
+[370]
+  OFFICIAL: highlevel
+  WHISPER:  high level
+
+[371]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[372]
+  OFFICIAL: operator
+
+[373]
+  OFFICIAL: ross sandler yes mark
+  WHISPER:  yeah well
+
+[374]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[375]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[376]
+  OFFICIAL: would build
+  WHISPER:  that good
+
+[377]
+  OFFICIAL: poke
+  WHISPER:  pope
+
+[378]
+  WHISPER:  the you know
+
+[379]
+  OFFICIAL: code
+  WHISPER:  curred
+
+[380]
+  OFFICIAL: in
+  WHISPER:  and
+
+[381]
+  OFFICIAL: mark zuckerberg yes
+  WHISPER:  yeah so
+
+[382]
+  WHISPER:  on
+
+[383]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[384]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[385]
+  WHISPER:  you know
+
+[386]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[387]
+  WHISPER:  like
+
+[388]
+  OFFICIAL: there’s
+  WHISPER:  theres you know
+
+[389]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[390]
+  OFFICIAL: we’re fifteen
+  WHISPER:  were
+
+[391]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligence
+
+[392]
+  WHISPER:  of
+
+[393]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[394]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[395]
+  OFFICIAL: i’m
+  WHISPER:  and im
+
+[396]
+  OFFICIAL: then
+  WHISPER:  that
+
+[397]
+  WHISPER:  you know
+
+[398]
+  OFFICIAL: as
+  WHISPER:  is
+
+[399]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[400]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[401]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[402]
+  WHISPER:  you know
+
+[403]
+  OFFICIAL: people’s
+  WHISPER:  peoples
+
+[404]
+  WHISPER:  you know
+
+[405]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[406]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[407]
+  OFFICIAL: people’s
+  WHISPER:  peoples
+
+[408]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[409]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[410]
+  WHISPER:  in the world and then were
+
+[411]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[412]
+  OFFICIAL: costs
+  WHISPER:  cost
+
+[413]
+  OFFICIAL: i think that that’s
+  WHISPER:  thats
+
+[414]
+  WHISPER:  about
+
+[415]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[416]
+  OFFICIAL: we’ve
+  WHISPER:  you know weve
+
+[417]
+  OFFICIAL: sixteen
+
+[418]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[419]
+  OFFICIAL: selfimprovement
+  WHISPER:  self improvement
+
+[420]
+  OFFICIAL: can’t
+  WHISPER:  cant
+
+[421]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[422]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[423]
+  OFFICIAL: can’t
+  WHISPER:  cant
+
+[424]
+  OFFICIAL: so you’re
+  WHISPER:  its like youre
+
+[425]
+  OFFICIAL: that’s
+  WHISPER:  thats how
+
+[426]
+  OFFICIAL: and
+  WHISPER:  an
+
+[427]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[428]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[429]
+  WHISPER:  that
+
+[430]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[431]
+  OFFICIAL: they’re
+  WHISPER:  and theyre
+
+[432]
+  OFFICIAL: products
+  WHISPER:  product
+
+[433]
+  OFFICIAL: think
+  WHISPER:  know thats like
+
+[434]
+  OFFICIAL: i’m
+  WHISPER:  im not
+
+[435]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[436]
+  OFFICIAL: but
+
+[437]
+  OFFICIAL: conflate
+  WHISPER:  can flate
+
+[438]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[439]
+  OFFICIAL: selfimprovement
+  WHISPER:  self improvement
+
+[440]
+  OFFICIAL: superintelligence
+  WHISPER:  super intelligent
+
+[441]
+  OFFICIAL: operator
+
+[442]
+  OFFICIAL: josey
+  WHISPER:  josie
+
+[443]
+  OFFICIAL: citigroup
+  WHISPER:  city group
+
+[444]
+  OFFICIAL: ronald josey
+
+[445]
+  OFFICIAL: my
+  WHISPER:  the
+
+[446]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[447]
+  WHISPER:  with
+
+[448]
+  OFFICIAL: muse now live
+  WHISPER:  and using our lives
+
+[449]
+  OFFICIAL: in
+  WHISPER:  and
+
+[450]
+  WHISPER:  in the in
+
+[451]
+  OFFICIAL: shortterm mediumterm longterm
+  WHISPER:  short term medium term long term
+
+[452]
+  OFFICIAL: i’m
+  WHISPER:  im
+
+[453]
+  OFFICIAL: it’s a neverending
+  WHISPER:  its never ending
+
+[454]
+  OFFICIAL: short or
+  WHISPER:  shorter
+
+[455]
+  WHISPER:  are are
+
+[456]
+  OFFICIAL: could
+  WHISPER:  if
+
+[457]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[458]
+  OFFICIAL: maybe
+  WHISPER:  may be
+
+[459]
+  OFFICIAL: rating
+  WHISPER:  ranking
+
+[460]
+  WHISPER:  are
+
+[461]
+  OFFICIAL: tooth
+  WHISPER:  two
+
+[462]
+  WHISPER:  as
+
+[463]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[464]
+  WHISPER:  any help
+
+[465]
+  OFFICIAL: would
+
+[466]
+  OFFICIAL: mark zuckerberg
+
+[467]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[468]
+  OFFICIAL: shortterm
+  WHISPER:  short term
+
+[469]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[470]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[471]
+  OFFICIAL: seventeen
+
+[472]
+  WHISPER:  you know
+
+[473]
+  WHISPER:  you know
+
+[474]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[475]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[476]
+  WHISPER:  you know
+
+[477]
+  WHISPER:  a um a
+
+[478]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[479]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[480]
+  OFFICIAL: susan li
+
+[481]
+  WHISPER:  you know
+
+[482]
+  WHISPER:  theyre you know
+
+[483]
+  OFFICIAL: we’ll
+  WHISPER:  well
+
+[484]
+  WHISPER:  you know
+
+[485]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[486]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[487]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[488]
+  WHISPER:  you know
+
+[489]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[490]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[491]
+  OFFICIAL: user’s
+  WHISPER:  users
+
+[492]
+  OFFICIAL: someone’s interests
+  WHISPER:  someones interest
+
+[493]
+  OFFICIAL: interests
+  WHISPER:  interest
+
+[494]
+  OFFICIAL: interests
+  WHISPER:  interest
+
+[495]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[496]
+  OFFICIAL: tuneyour
+  WHISPER:  to neural
+
+[497]
+  WHISPER:  the the
+
+[498]
+  OFFICIAL: length
+  WHISPER:  line
+
+[499]
+  OFFICIAL: operator
+
+[500]
+  OFFICIAL: anmuth
+  WHISPER:  and move
+
+[501]
+  OFFICIAL: jpmorgan
+  WHISPER:  jp morgan
+
+[502]
+  OFFICIAL: douglas anmuth thanks so much for taking the
+  WHISPER:  any
+
+[503]
+  OFFICIAL: muse
+  WHISPER:  use
+
+[504]
+  OFFICIAL: what are
+  WHISPER:  where
+
+[505]
+  OFFICIAL: eighteen
+
+[506]
+  OFFICIAL: agentic
+  WHISPER:  a gender
+
+[507]
+  OFFICIAL: susan li i’ll
+  WHISPER:  thanks ill
+
+[508]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[509]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[510]
+  WHISPER:  sort of the
+
+[511]
+  WHISPER:  smaller ads businesses
+
+[512]
+  WHISPER:  to
+
+[513]
+  WHISPER:  sort of
+
+[514]
+  OFFICIAL: there’s
+  WHISPER:  there theres
+
+[515]
+  WHISPER:  a
+
+[516]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[517]
+  WHISPER:  the
+
+[518]
+  OFFICIAL: haven’t
+  WHISPER:  havent
+
+[519]
+  OFFICIAL: too
+  WHISPER:  to
+
+[520]
+  OFFICIAL: run time
+  WHISPER:  runtime
+
+[521]
+  OFFICIAL: and codesign
+  WHISPER:  we designed
+
+[522]
+  OFFICIAL: subsecond
+  WHISPER:  sub second
+
+[523]
+  OFFICIAL: computeintensive
+  WHISPER:  compute intensive
+
+[524]
+  OFFICIAL: increased inference roi
+  WHISPER:  increase and increase
+
+[525]
+  OFFICIAL: there’s
+  WHISPER:  theres
+
+[526]
+  OFFICIAL: operator
+
+[527]
+  OFFICIAL: gawrelski
+  WHISPER:  gorelsky
+
+[528]
+  OFFICIAL: kenneth gawrelski
+
+[529]
+  OFFICIAL: two
+
+[530]
+  WHISPER:  could
+
+[531]
+  OFFICIAL: on
+  WHISPER:  about
+
+[532]
+  OFFICIAL: muse
+  WHISPER:  music
+
+[533]
+  OFFICIAL: you’ve
+  WHISPER:  she
+
+[534]
+  OFFICIAL: dive
+  WHISPER:  have
+
+[535]
+  OFFICIAL: dive
+  WHISPER:  add
+
+[536]
+  OFFICIAL: twentyone ‘twentytwo
+  WHISPER:  twentyonetwentytwo
+
+[537]
+  WHISPER:  then youre going to be able to do that on instagram and
+
+[538]
+  OFFICIAL: that
+
+[539]
+  OFFICIAL: there
+  WHISPER:  are these are
+
+[540]
+  OFFICIAL: nextgen marketplacetype
+  WHISPER:  next year and marketplace type
+
+[541]
+  OFFICIAL: nineteen
+
+[542]
+  OFFICIAL: can
+  WHISPER:  if
+
+[543]
+  OFFICIAL: the
+
+[544]
+  OFFICIAL: where
+
+[545]
+  OFFICIAL: at
+  WHISPER:  it
+
+[546]
+  OFFICIAL: could
+  WHISPER:  just can
+
+[547]
+  WHISPER:  your
+
+[548]
+  OFFICIAL: mark zuckerberg yes
+  WHISPER:  yeah
+
+[549]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[550]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[551]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[552]
+  OFFICIAL: than
+  WHISPER:  then
+
+[553]
+  WHISPER:  you know
+
+[554]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[555]
+  OFFICIAL: be able
+  WHISPER:  build
+
+[556]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[557]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[558]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[559]
+  WHISPER:  a
+
+[560]
+  OFFICIAL: ai
+  WHISPER:  a i
+
+[561]
+  WHISPER:  our
+
+[562]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[563]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[564]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[565]
+  OFFICIAL: we’re
+  WHISPER:  were
+
+[566]
+  OFFICIAL: twenty
+
+[567]
+  WHISPER:  you know
+
+[568]
+  OFFICIAL: don’t
+  WHISPER:  dont
+
+[569]
+  OFFICIAL: they’re
+  WHISPER:  theyre
+
+[570]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[571]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[572]
+  WHISPER:  or
+
+[573]
+  OFFICIAL: what’s
+  WHISPER:  whats
+
+[574]
+  WHISPER:  and
+
+[575]
+  OFFICIAL: you’re
+  WHISPER:  youre
+
+[576]
+  OFFICIAL: individual’s
+  WHISPER:  individuals
+
+[577]
+  OFFICIAL: it’s
+  WHISPER:  its
+
+[578]
+  OFFICIAL: susan li gosh
+
+[579]
+  OFFICIAL: has
+  WHISPER:  as
+
+[580]
+  WHISPER:  you know
+
+[581]
+  OFFICIAL: what’s
+  WHISPER:  you know whats
+
+[582]
+  WHISPER:  you know
+
+[583]
+  OFFICIAL: q2
+  WHISPER:  key to
+
+[584]
+  OFFICIAL: we’ve
+  WHISPER:  weve you know the
+
+[585]
+  WHISPER:  you know
+
+[586]
+  WHISPER:  you know
+
+[587]
+  OFFICIAL: higherlevel
+  WHISPER:  higher level
+
+[588]
+  OFFICIAL: will
+  WHISPER:  you know well
+
+[589]
+  OFFICIAL: i’m
+  WHISPER:  is im
+
+[590]
+  OFFICIAL: team’s
+  WHISPER:  teams
+
+[591]
+  WHISPER:  to
+
+[592]
+  OFFICIAL: finetuned
+  WHISPER:  fine tune
+
+[593]
+  OFFICIAL: i’ve
+  WHISPER:  ive
+
+[594]
+  OFFICIAL: of
+
+[595]
+  OFFICIAL: roibased
+  WHISPER:  our our live based
+
+[596]
+  OFFICIAL: that’s
+  WHISPER:  thats
+
+[597]
+  WHISPER:  you know
+
+[598]
+  OFFICIAL: it’s
+  WHISPER:  its you know
+
+[599]
+  WHISPER:  of
+
+[600]
+  WHISPER:  you know
+
+[601]
+  WHISPER:  you and as
+
+[602]
+  WHISPER:  you know
+
+[603]
+  OFFICIAL: kenneth dorell
+
+[604]
+  OFFICIAL: operator
+
+[605]
+  OFFICIAL: today’s
+  WHISPER:  todays

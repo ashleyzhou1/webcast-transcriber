@@ -1,0 +1,761 @@
+I'll search for Oracle's executive team and earnings call participants to properly label the speakers.
+I now have all the information I need. Let me also check the Brad Zelnick question and the remaining Q&A details to confirm speaker attributions.
+
+Here is a summary of the confirmed participants before the annotated transcript:
+
+**Executives:**
+- **Lisa** — Operator (conference call operator)
+- **Ken Bond** — SVP of Investor Relations, Oracle
+- **Hilary Maxson** — CFO, Oracle *(Whisper transcribed as "Hillary Maxson" — close enough; Whisper also misheard her intro as "CSO" — left as-is per instructions)*
+- **Mike Sicilia** — CEO, Oracle *(Whisper transcribed as "Mike Cecilia")*
+- **Clay Magouyrk** — CEO, Oracle *(Whisper transcribed as "Clay McGurk" in the intro)*
+
+**Analysts:**
+- **John DiFucci** — Guggenheim Securities *(Whisper transcribed as "John D'Fuchee")*
+- **Brad Zelnick** — Deutsche Bank *(Whisper transcribed as "Brad. Does that all next to what you think?" — garbled introduction)*
+- **Mark Moerdler** — Bernstein *(Whisper transcribed as "Mark Mourdler")*
+- **Keith Bachman** — BMO Capital Markets *(Whisper transcribed as "Keith Bachmann from Bank of Montreal")*
+- **Raimo Lenschow** — Barclays *(Whisper transcribed as "Ramo Lenshaw")*
+- **Kirk Materne** — Evercore ISI *(Whisper transcribed as "Kirk Materne")*
+
+---
+
+Now, the fully annotated transcript:
+
+---
+
+[OPERATOR - Lisa]:
+[00:00] Well, good day everyone and welcome to the Oracle Corporation fourth quarter fiscal year
+[00:05] 2026 earnings call.
+[00:07] Just a reminder, this call is being recorded.
+[00:10] If you have a question today, please press star one on your telephone keypad.
+[00:13] Please limit your questions to one.
+[00:15] I would now like to hand the conference over to Mr. Ken Bond.
+[00:18] Please go ahead, sir.
+
+[KEN BOND - SVP, Investor Relations, Oracle]:
+[00:19] Thank you, Lisa.
+[00:21] And good afternoon, everyone.
+[00:23] Welcome to Oracle's fourth quarter and fiscal year 2026 earnings conference call.
+[00:28] On the call today are Chief Executive Officer Mike Cecilia, Chief Executive Officer Clay
+[00:33] McGurk, and Chief Financial Officer Hillary Maxson, a copy of the press release, including
+[00:40] financial results, tables, supplemental financial metrics and guidance are now available from
+[00:44] the investor relations website.
+[00:47] Also is the slide deck being introduced this quarter, which you'll see momentarily, a
+[00:50] gap to non-gap reconciliation, other supplemental financial information, and list of many customers
+[00:56] who purchased Oracle Cloud Services or went live on Oracle Cloud recently.
+[01:00] These items will be available after today's call.
+[01:03] As a reminder, today's discussion will include forward-looking statements and we will make
+[01:09] some important comments around factors relating to our business.
+[01:12] These forward-looking statements are also subject to risks and uncertainties that may cause
+[01:17] actual results to differ materially from statements being made today.
+[01:21] As a result, we caution you against placing undue reliance on these forward-looking statements
+[01:26] and we encourage you to review our most recent reports, including our 10K and 10Q and any
+[01:31] applicable amendments.
+[01:32] And finally, we are not obligating ourselves to revise our results for these forward-looking
+[01:37] statements in light of new information or future events.
+[01:40] Before taking any questions, we'll begin with a few prepared remarks.
+[01:44] And with that, I'll turn the call to Hillary.
+
+[HILARY MAXSON - CFO, Oracle]:
+[01:46] Thanks, Ken.
+[01:47] Hi, everyone.
+[01:48] Great to be here with you today.
+[01:49] And as soon as CSO, I thought I'd start with the few thoughts on why I'm so excited
+[01:56] to join Oracle at this time.
+[01:57] I've set my career all around the world by companies that use technology and data to
+[02:04] drive transformation, both internally and for customers.
+[02:10] And I believe that the most valuable transformational change sits at the juxtaposition of the physical
+[02:16] and virtual worlds across business models from infrastructure to enterprise software.
+[02:24] Oracle understands that intersection and is now uniquely positioned for one of the most
+[02:29] significant technology transitions we've seen in decades.
+[02:34] Very few companies can help customers across the entire technology stack, from the cloud
+[02:40] infrastructure that powers AI workloads to the mission-critical applications that run
+[02:45] their businesses.
+[02:46] Oracle can do both.
+[02:48] Plus, this is a company with deep technical expertise, differentiated technology, and
+[02:54] a long history of helping customers turn technology innovation into tangible business
+[03:00] value.
+[03:01] And now I've only been here for two months.
+[03:03] Everything I've seen has reinforced my confidence in the company's strategy, execution, and
+[03:10] opportunity ahead.
+[03:12] I'm excited to be part of the team and look forward to helping Oracle capitalize on the
+[03:16] opportunities in front of us to drive return on investment and shareholder value.
+[03:22] And as we pursue these opportunities, we'll remain focused on disciplined capital allocation,
+[03:28] maintaining a strong balance sheet, and preserving our investment-grade credit rating.
+[03:34] With that, let me turn to our Q4 and fiscal year 26 results.
+[03:39] And like Ken said, we've introduced a short presentation to accompany our earnings calls,
+[03:43] so you can follow along with the numbers and key comments we'll make today.
+[03:47] In terms of Q4, it was a record quarter, driven by strengths in both our cloud infrastructure
+[03:55] and cloud apps business.
+[03:57] Revenue was $19.2 billion, up 21% in US dollars.
+[04:02] My infrastructure revenue grew 93%, reflecting strong demand for both AI workloads and our
+[04:09] database services, and cloud apps was up double-digit at plus 10%.
+[04:15] And my play will give more detail on these businesses in just a moment.
+[04:20] Our non-gasp operating income increased 22% in US dollars to $8.6 billion, driven by our
+[04:27] strong revenue progression.
+[04:30] Our operating margin increased slightly, with our gross margin declining, driven by
+[04:35] impacts from ramping up our data centers, and the acceleration in our infrastructure revenue.
+[04:41] This was more than offset in the quarter by a reduction in operating costs, and for us,
+[04:46] that's the lines in our P&L, starting with sales and marketing, due to efficiency actions
+[04:51] in our cost structure.
+[04:54] Our non-gasp ETS reached $2.11, an increase of 24% in US dollars to the quarter, due to
+[05:01] a one-time net gain on investment.
+[05:04] Excluding this, our non-gasp ETS increased by 20%.
+[05:08] Turned into the full year, we surpassed revenues of $67 billion for the first time, which translated
+[05:17] into strong, non-gasp operating income of 29 billion, up 16% in US dollars for the
+[05:24] year.
+[05:25] Our non-gasp ETS was up 27% in US dollars to $7.63, including one-time gains on investment.
+[05:36] Excluding these gains, our non-gasp ETS was $6.83.
+[05:42] In the full year, our gross margin stepped down around five points, as expected, as we
+[05:47] start to see the impacts from the build-out of our infrastructure business, and the acceleration
+[05:53] in its revenues, primarily offset by lower operating costs as a percentage of revenue,
+[05:59] driven by operating efficiencies.
+[06:03] All of this translated into strong cash flow from operations of $32 billion, up 54%.
+[06:11] We did continue with our program of capital investments tied to unlocking the strong growth
+[06:16] opportunities in front of us.
+[06:19] Our net cash outlay for capital expenditures for the full year was $48 billion, taking
+[06:25] into account free payments and timing and facts of around $8 billion.
+[06:31] You can set the table showing the details of net cash outlay for capex in our press release.
+[06:37] We think this measure is important to better understand our funding needs.
+[06:42] And our remaining performance obligations, or RPO, finished at $638 billion of 363%.
+[06:52] This unprecedented level of RPO provides exceptional visibility into our future revenue growth,
+[06:59] all supported by long-term contractual customer commitments, and reflects the strong customer
+[07:05] demand we see across both AI infrastructure and cloud services.
+[07:09] To give a bit more detail on our RPO, we expect 12% to be recognized in the next 12 months,
+[07:16] and another 34% between 13 and 36 months.
+[07:21] And these percentages are both expected to accelerate over the coming quarters based
+[07:26] on our current long-term outlook.
+[07:28] My complaint will now get into a bit more detail on our cloud businesses, and then I'll
+[07:32] be back with our outlook for fiscal year 27 and 21.
+
+[MIKE SICILIA - CEO, Oracle]:
+[07:37] Thank you, Hillary, and welcome to Oracle.
+[07:39] So I'm going to cover our cloud apps and cloud database business in a bit more detail,
+[07:44] both have been performed quite well in P4.
+[07:48] We're on the front of one of the most interesting times in the technology business.
+[07:52] Our customers are now focused on how to leverage AI in their own businesses.
+[07:57] They want AI to increase productivity, enhance customer service,
+[08:01] and create real content and advantages.
+[08:04] They go through it quickly and within their existing budget novel.
+[08:09] Oracle's UND advantage is that we deliver the applications, the data, the infrastructure,
+[08:16] the AI tooling, and the industry expertise together.
+[08:20] That combination invariably puts us at the center of customer conversations,
+[08:25] whether they're assisting Oracle customers or not.
+[08:28] And our customers have moved past the experiment stage of AI.
+[08:31] They are ready to implement enterprise-free, complete agentic solutions to help run their businesses.
+[08:38] Over the past year, we have delivered more than 1,000 AI agents across our application suites.
+[08:44] These agent-based offerings can reason, decide, and execute work across processes.
+[08:52] So the quickest, most affordable, and most productive way customers can begin consuming AI
+[08:59] is just to continue using Oracle's applications.
+[09:03] Since every three months, they get more and more of the AI features built for them and ready to go.
+[09:10] This is a major shift in enterprise software, and Oracle is uniquely positioned to lead it.
+[09:16] And you can see it in our Q4 results, Oracle Cloud Applications,
+[09:19] generated revenues of $4.1 billion, which is up 10%.
+[09:23] And our stats of third revenue was up 16% in the quarter.
+[09:28] Across the company, we took thousands of customers' live less order,
+[09:31] over 300 infusion alone.
+[09:34] Exelarn adopted our utility platform to manage operations.
+[09:38] Wright County Sheriff's Office went live with our public safety suite.
+[09:41] Westfield Insurance implemented Fusion ERP,
+[09:44] and Myrais Bank went live with the Oracle banking, just to name a few.
+[09:49] All of these customers are upgrading to a better and modern applications platform
+[09:53] that also comes with AI built right in.
+[09:57] In Q4, we also continue our electronic health record deployment
+[10:01] at the United States Department of Veterans Affairs.
+[10:03] In Q4, we added four VA medical centers in Michigan,
+[10:07] and in early June added another four VA medical centers in Ohio.
+[10:12] The Oracle now supports 14 VA medical centers serving 29,000 clinicians
+[10:17] and 500,000 veterans across the United States.
+[10:21] Okay, well, on our part of our Q4 bookings,
+[10:24] the United States government office of personnel management today
+[10:27] announced an agency-wide award to Oracle Perfusion ACM.
+[10:32] So this is obviously a strong start for us in our ECFLY 27 applications business.
+[10:39] In addition to discussions around AI within our applications,
+[10:42] I'm also having very interesting conversations with our customers
+[10:46] around leveraging their own proprietary datasets with AI.
+[10:50] Much of this data already sits in an Oracle database
+[10:53] or is generated by Oracle applications.
+[10:56] For many enterprises,
+[10:57] referencing against decades of rich operations data
+[11:01] is where the benefits of AI compound exponentially.
+[11:05] Oracle's full stack offerings allow customers to get up and running quickly,
+[11:09] leveraging AI together with their private datasets.
+[11:13] This is like Claro, a major telecommunications provider in Latin America
+[11:17] chose OCI, field services applications,
+[11:21] and our AI data platform to automate customer service
+[11:25] for their 30 million subscribers this quarter.
+[11:28] UK National Health Services share business services,
+[11:31] oldest of Brazilian retailers,
+[11:33] and QXO, the fastest growing building products distributor in the United States,
+[11:39] combined AI-ready Oracle infrastructure,
+[11:41] or database products with Oracle applications
+[11:44] to move their businesses forward.
+[11:46] Again, just to name a few.
+[11:49] Last quarter, we also released a long list of major new AI functionality
+[11:54] in the Oracle database.
+[11:55] Here are just two examples.
+[11:56] The Oracle AI agent memory is a library that helps developers build agents
+[12:00] that can remember, reason, and act with enterprise context.
+[12:05] Oracle deep data security adds data access goals at the database level.
+[12:10] This protects against both unauthorized access
+[12:14] and limits precisely what data a user and any AI agent
+[12:19] acting on their behalf can see where active on.
+[12:23] All of these innovations I've just described and many more are available
+[12:27] in our cloud, our partners' clouds, and in our customers' environments.
+[12:32] In Q4, our cloud database business revenue grew by 29%,
+[12:36] but mostly cloud growing much faster.
+[12:40] Both cloud revenue was up 404% year over year,
+[12:43] and bookings were up to 325% year over year.
+[12:48] One example of an enterprise using a wide range of Oracle technologies in Bota-Poh,
+[12:52] who turned to less than Q4 to consolidate and modernize their operations.
+[12:57] Bota-Poh selected OCI-identicated region and their data centers,
+[13:02] our multi-cloud database offering and a partner cloud,
+[13:05] and our applications to reduce costs and run their processes faster,
+[13:09] in some cases, up to 16% faster.
+[13:14] Finally, we are working with our customers to deliver quick ROI within their AI budgets.
+[13:19] To do so, we are simplifying how customers consume and pay for agentability capabilities.
+[13:25] Our new agent pricing aligns with customer value.
+[13:29] Now, much of our AI innovation in our core applications continues to be included
+[13:35] at no extra charge.
+[13:37] However, customers can also purchase additional agent capacity
+[13:42] in a simple, predictable way by purchasing bundles of tokens
+[13:46] that can be used across their application suites.
+[13:50] We're also introducing outcome-based commercial models
+[13:53] that align pricing directly to the value derived.
+[13:57] For example, interview agents that are priced based on the number of candidates' rate,
+[14:03] or hospitality of sale agents priced on the percentage of end consumer of sale transactions.
+[14:11] In Q4, we started a limited rollout of our token bundles and had 33 customers,
+[14:16] like AON Services Corporation and Liberty Energy,
+[14:20] repurchase tokens that have access to more advanced reasoning in models.
+[14:25] All of this helps our customers control their costs
+[14:28] and align their spending with the value being generated.
+[14:32] And with that, I will turn it over to Clay.
+
+[CLAY MAGOUYRK - CEO, Oracle]:
+[14:35] Thanks, Mike.
+[14:37] OK, you just heard from Mike about our applications and database businesses.
+[14:41] Oracle has been in need of businesses for decades,
+[14:43] and they continue to impress us because of their ability to continually grow
+[14:46] aggregate margins of dollars through a combination of durable differentiation
+[14:50] and increase in market size.
+[14:52] I want to share how we see our infrastructure business in that same category
+[14:55] and the evidence that enforces that in-depth.
+[14:58] OK, differentiation comes in many forms.
+[15:02] Technological innovation, supply chain execution,
+[15:04] operational ability in-work.
+[15:06] We created OCI as the most highly secure, highest performance,
+[15:10] most flexible, lowest cost infrastructure available anywhere.
+[15:14] We delivered that through innovation across all layers,
+[15:17] from deploying the smallest and the largest clouds
+[15:19] to inventing technologies like Solaron that provide the highest performance
+[15:23] and lowest cost networks.
+[15:24] We combined the power of OCI infusion applications
+[15:27] to implement incredibly efficient and flexible supply chains.
+[15:30] We architect across data center design, power distribution, data
+[15:34] whole layout, and networking to deliver the most efficient
+[15:36] and the most flexible infrastructure available to you where.
+[15:40] Oracle had a long track record of durable differentiation.
+[15:43] This is because we know the real differentiator is the organization,
+[15:46] the people, the company itself that can adapt to new requirements,
+[15:50] invent solutions, and deliver them to customers wrapped.
+[15:53] OCI has been the fastest growing cloud provider for years.
+[15:56] And now with AI infrastructure, we've shown to everyone
+[15:59] the power of the organization we built, the technology we've created,
+[16:02] and the value we're delivering to customers.
+[16:04] OCI is continually releasing new services,
+[16:07] hardware, networks, and cloud regions to ensure we are always the best place
+[16:11] for our customers in production workloads.
+[16:14] Cloud infrastructure has become a very large market
+[16:17] because of the ever growing demand for server-side computing.
+[16:20] AI infrastructure makes the existing cloud infrastructure market look small.
+[16:24] Everything we see shows this market size is trillions of dollars per year.
+[16:28] Combined with our previously outlined 30 to 40 percent margin profile,
+[16:32] OCI should grow into an extremely large and extremely profitable business.
+[16:37] These beliefs are supported by compelling and multiplying announced evidence.
+[16:41] We've signed $67 billion to AI infrastructure contract disorder,
+[16:45] the majority of which would either bring your own hardware or prepaid.
+[16:49] This increases our combination of bringing your own hardware
+[16:51] or prepaid customer contracts $75 billion,
+[16:55] with those contracts having no degradation and margin compared to our other contracts.
+[16:59] Customers are showing that they chose OCI to deliver their infrastructure,
+[17:03] even when they are bringing the capital themselves.
+[17:06] Design, delivery, and operation of this large-scale infrastructure is extremely demanding.
+[17:11] Q4 finalized an impressive FY26, where we delivered more than 1.2 gigawatts of customers.
+[17:18] Our pace of delivery continues to accelerate,
+[17:20] with our FY27 and Q1 delivery approaching 1 gigawatt,
+[17:24] nearly the same capacity as we delivered in the previous four quarters combined.
+[17:29] There will be many winners named, and our strategy is to have them all as customers.
+[17:33] We continue to diversify across our largest customers,
+[17:36] with four customers contracting for more than $8 billion this quarter.
+[17:40] Our infrastructure is fundamentally multi-tenant,
+[17:42] and we continually allocate capacity between customers.
+[17:45] In Q4, 35,000 GPUs, from 59 separate customers were out for renewal.
+[17:52] That's 49% of those customers renewed for 92% of those GPUs.
+[17:57] That doesn't mean, though, that 8% of those GPUs are out.
+[18:00] Most of those GPUs themselves were subsequently sold to other customers in the same order.
+[18:05] Our global GPU utilization rate is 97.5%.
+[18:10] It's also clear that AI is here today.
+[18:13] AI is delivering value on multiple fronts,
+[18:15] but the most clear and obvious is agent coding.
+[18:18] This is an area where we have a front-row seat as both the provider and the consumer.
+[18:22] Agent coding tools have completely changed at Oracle operates,
+[18:25] and we see no slowdown in our own demand for such capabilities.
+[18:28] The same is true for all the customers and partners we work with.
+[18:32] The demand for AI infrastructure in this domain alone is enormous.
+[18:35] Ignoring the many, many other growth areas.
+[18:38] Okay, now, before I end, let's look at the summary of our five largest sites
+[18:43] and the significant progress we're seeing across all of them.
+[18:46] To begin, let's look at Abilene, Texas.
+[18:49] Abilene, Texas today has delivered 42% of the total capacity.
+[18:53] An additional 35% of capacity will be delivered in the next 90 days
+[18:57] with the remainder delivering in the subsequent quarter.
+[19:00] Moving forward to Shackleford, Texas,
+[19:02] we contracted this in August of 2025.
+[19:05] Customer delivery begins in the first half of that by 20%.
+[19:08] Sorry, the first half of calendar year 20%.
+[19:11] A hundred and fifteen megawatts of power capacity is already available online,
+[19:15] more than one month ahead of schedule.
+[19:18] If we take a look at Donia and I found the new Mexico,
+[19:21] we contracted this in September of 2025.
+[19:25] Customer delivery begins in the first half of calendar year 27 as well.
+[19:29] Power design is based on gigawatts of clean, energy efficient,
+[19:32] bloom fuel cells.
+[19:34] We look at Celine Michigan.
+[19:37] We contracted this in October of 2025.
+[19:40] Customer delivery begins in the second half of 20%.
+[19:44] The network core is ahead of schedule and delivered at the end of this calendar year.
+[19:49] And then to the final site I want to touch on,
+[19:51] Port Washington, Port Washington, Wisconsin.
+[19:54] This is contracted in September of 2025.
+[19:56] And delivery begins in the second half of calendar year 27.
+[20:02] I think you can see from all of these pictures,
+[20:04] the massive progress that we're making across a very large number of sites.
+[20:09] It's an incredible time to be in technology and to have the privilege of doing that
+[20:12] in a company like Oracle.
+[20:13] It's especially fun to have an inside view of the birth of a new business
+[20:17] that can join the likes of our application and database businesses.
+[20:20] Hopefully these beliefs and the data points give you some insight
+[20:23] into why we are so excited about Oceon and where that's going to take over.
+[20:27] And with that, I'm going to hand it back to Hillary.
+
+[HILARY MAXSON - CFO, Oracle]:
+[20:29] Thanks, Cly.
+[20:31] Before I get to our fiscal year 27 and Q1 guidance,
+[20:34] I'd like to share some comments on our funding expectations.
+[20:38] We already mentioned throughout the call the compelling opportunities
+[20:41] we see at Oracle based on our portfolio positioning.
+[20:45] And our strong Q4 results reflect this well.
+[20:49] Customer demand and our growing visibility into future revenues
+[20:53] is what underpins the long-term financial outlook we shared at our most recent analyst day
+[21:00] of plus 31% revenue taker and plus 28% EPS taker through our fiscal year 2030.
+[21:09] In order to unlock this unique growth opportunity,
+[21:12] we started a program of capital investments.
+[21:15] We'll continue those investments in our fiscal year 2027
+[21:20] with an expected net cash outlay for capital expenditures of around $70 billion.
+[21:27] This includes customer prepayments and timing impacts
+[21:31] expected at around $20 to $25 billion.
+[21:34] So our reported capex will be higher by this amount.
+[21:38] Importantly, these investments are being driven by committed customer demand
+[21:43] reflected in our record RPO, giving us confidence in our long-term outlook
+[21:48] as well as strong returns on the capital we're deploying.
+[21:52] As Clay already mentioned, this demand is allowing us to garner customer prepayments
+[21:57] and bring your own hardware at similar or better markings than the rest of our contracts.
+[22:03] To support our capital investments program,
+[22:06] we expect to raise around $40 billion in debt and equity in our fiscal year 27
+[22:12] and that includes our already announced $20 billion at the market equity issuance.
+[22:18] We don't anticipate raising additional debt funding in calendar year 2026.
+[22:25] To our fiscal year 2027 guidance, you can start to see the strong translation
+[22:31] of our RPO into revenues.
+[22:33] With expected growth in our total revenues of plus 34% in constant currency,
+[22:39] surpassing the five-year revenue taker included in our long-term outlook.
+[22:44] Our fiscal year 2027 gross margins will step down due to timing for the ramp up
+[22:49] of our data center project into their full revenue contribution, plus impacts from mix.
+[22:56] While these investments are creating pressure on the near term to gross margins
+[23:00] in our infrastructure business, we expect margin performance and infrastructure
+[23:05] to improve rapidly as we reach full contractual revenue levels at our data centers.
+[23:11] Operating costs, we expect to be slightly negative year over year
+[23:15] in dollar terms due to efficiency actions driving improved operating leverage.
+[23:21] NetNet, we expect our non-GAS BTS for the year to be $8.05, up 18% in constant currency,
+[23:29] excluding the net one-time investment gains we booked in fiscal year 26
+[23:33] from ampere and bloom energy.
+[23:36] Offedage with guidance for our Q1 2027.
+[23:40] In Q1, we'd expect growth in total revenues of between 27 and 29% in US dollars.
+[23:47] Of that, we expect growth in cloud revenues of between 58 and 64%.
+[23:53] In non-GAS BTS, we expect between $1.72 and 176, up between 17 and 20% in US dollars.
+[24:02] And anticipate revenues and earnings will accelerate in the second half of the year
+[24:07] as we bring further megawatts online at our data centers to fulfill customer demand.
+[24:13] I look forward to speaking further with all of you over the next few weeks and months leading into our Q1
+[24:18] and at our next Oracle Investor Day scheduled for October 28th in Las Vegas.
+[24:23] With that, I'll turn the call back to Ken for the Q&A.
+
+[KEN BOND - SVP, Investor Relations, Oracle]:
+[24:27] Thank you, Hillary. Lisa, if you please pull the audience for any questions they might have.
+
+[OPERATOR - Lisa]:
+[24:31] Absolutely, and ladies and gentlemen, once again, that is star one.
+[24:35] If you have a question, we ask that you limit your questions to one.
+[24:39] The first question comes from John D'Fuchee from Guggenheim Securities.
+
+[JOHN DIFUCCI - Analyst, Guggenheim Securities]:
+[24:43] Thank you.
+[24:49] So my question is a question that I've dealt with all this quarter.
+[24:55] In Clay, that was a ton of information you gave, which is helpful, really helpful.
+[24:59] But there's one little nuance here.
+[25:02] You spend a little bit more of this quarter on CAPX than we expected.
+[25:06] And that's sort of the topic a little bit that adds into it.
+[25:10] We all know that component costs have gone up a lot, especially memory,
+[25:15] grown significantly, right?
+[25:16] And even though you said that most 3Q and 4Q contracts are large-scale AI contracts
+[25:21] that were prepaid for GPUs, you have a lot of other contracts.
+[25:27] You know, this has been an issue for a lot of software companies
+[25:31] and large cloud companies.
+[25:32] I don't think it's as much of an issue for you given my understanding
+[25:36] of how you construct your contracts.
+[25:39] But can you explain that to investors, like when it comes to these very long-term contracts,
+[25:43] like between you and the end customer and the suppliers?
+
+[CLAY MAGOUYRK - CEO, Oracle]:
+[25:49] Sure, yeah. Good question, John.
+[25:52] Good to talk to you again, as always.
+[25:55] But I'll answer any of that in two parts.
+[25:57] In terms of the capital expenditures, at least from what we're seeing in Q4,
+[26:03] any increase in CAPX that is not due to component prices from our perspective,
+[26:09] that's largely around timing, right?
+[26:12] I mean, part of my job is to figure out ways to actually accelerate CAPX.
+[26:17] It's till we're in tough life.
+[26:19] My job is to try to spend the money a little bit faster so I can give RAM revenue sometimes.
+[26:23] So I don't see that in the way that the component prices.
+[26:27] Now, talking about component prices in general, look, I think everyone knows that memory prices
+[26:33] have definitely gone up as a seed price, as hard drive prices, et cetera.
+[26:37] So one of the things that we do, John, is it's actually quite simple.
+[26:41] When we're selling stuff in a time period where we have certainty,
+[26:45] whether that be certainty because the capacities are either sold or we have certainty
+[26:49] because we have lost prices across the spectrum,
+[26:51] whether it be space and power costs, energy costs, people costs, component costs.
+[26:56] When we know those costs, we will then do fixed price contracts.
+[27:00] Sometimes we don't know those costs because it's out too far in the future
+[27:05] or we have too much supply chain risk, whether that be due to just the way the world works
+[27:11] or a lack of things being locked in.
+[27:13] We then do not do fixed price contracts with our customers.
+[27:17] And we have a mechanism whereby those costs end up being flipped.
+[27:22] So, you know, I don't like it when costs go up.
+[27:26] Our customers don't like it when costs go up.
+[27:28] And honestly, I don't think our suppliers do.
+[27:30] I think they'd love to be able to deal with everything we want.
+[27:33] But when the costs do go up, we have a, I think, a very robust set of mechanisms
+[27:38] that ensure that Oracle is not sitting there with reduced margins.
+
+[JOHN DIFUCCI - Analyst, Guggenheim Securities]:
+[27:44] That is really helpful. It makes a ton of sense.
+[27:47] And if I could, just a quick one, Hillary kind of alluded to what I'm going to ask,
+[27:52] but this is a second question I get a ton of questions on.
+[27:55] You have a long-term targets out there.
+[27:58] You're a new CFO, right? And congrats.
+[28:00] It's great to have you on the line.
+[28:03] But can you just comment on those long-term targets at all?
+[28:08] I know you've only been there a couple of months.
+
+[HILARY MAXSON - CFO, Oracle]:
+[28:13] You know, I think, and that would be the intention of putting it in the slide,
+[28:17] I think that we're reconfirming those long-term targets in the sense of the cakers
+[28:22] that we put into the slide today.
+[28:24] So, we feel comfortable with that.
+[28:26] And you can see the RPO building to the level that you can start to have a lot of belief, I think,
+[28:32] in those long-term targets, exactly.
+[28:35] So, full re-confirmation from my slide on the long-term targets.
+
+[JOHN DIFUCCI - Analyst, Guggenheim Securities]:
+[28:40] All very clear. Thank you very much. Nice job, guys.
+
+[OPERATOR - Lisa]:
+[28:45] The next question comes from Brad. Does that all next to what you think?
+
+[BRAD ZELNICK - Analyst, Deutsche Bank]:
+[28:50] Great. Thank you so much for taking the question.
+[28:52] And Hillary, welcome to Oracle.
+[28:55] Hillary, as you've come to Oracle from a capital intensive business in another industry,
+[29:00] how would you suggest that investors evaluate Oracle's progress
+[29:05] and returns during this period of heavy investment?
+
+[HILARY MAXSON - CFO, Oracle]:
+[29:11] Yeah, so the way I think about it, and as we said in the earnings call,
+[29:14] we feel the returns for the infrastructure business, so that CPU and GPU business are quite strong.
+[29:20] Probably from a back-event envelope standpoint,
+[29:23] the way I'd think about returns from that business model is in return on invested capital.
+[29:29] And what we see is return on invested capital in the high 20s at a steady state.
+[29:34] So, once the revenues have ramped for large projects at the project level,
+[29:39] and that doesn't take into account up sides like who knows if the GPUs don't need to be replaced over the long-term
+[29:46] and things like that. Just purely in the steady state,
+[29:49] when we're at the steady state of the contract that we have.
+[29:53] And as we're generally able to preserve and improve margins,
+[29:56] in the case of things like bring your own hardware, the ROIC structures,
+[30:00] the ROIC for those types of structures will be even higher.
+[30:03] And again, that back-up envelope, I'm just calculating return on invested capital
+[30:07] as after-tax operating margin plus depreciation divided by gross investment.
+[30:12] So, total gross cap eggs at the project level.
+[30:15] Maybe that gives you a little bit of an idea.
+[30:17] And of course, we're happy to talk more about that over the next couple quarters.
+
+[BRAD ZELNICK - Analyst, Deutsche Bank]:
+[30:22] That's really helpful, Vilarie. Thank you.
+[30:24] And congrats to the whole team on the execution this quarter.
+[30:27] Nice shop to everybody. Thank you.
+
+[OPERATOR - Lisa]:
+[30:31] Up next, we'll take a question from Mark Mourdler from Bernstein.
+
+[MARK MOERDLER - Analyst, Bernstein]:
+[30:37] Thank you very much for taking my question and also congrats on the quarter.
+[30:41] And Hilary, welcome. And we're really looking forward to working with you.
+[30:44] Clay and Hilary, with so many vendors entering the market to deliver AI data centers,
+[30:49] including the NEO clouds, SpaceX, which is now going to build data centers in space, etc.
+[30:56] Where does Oracle see itself in the competitive landscape?
+[31:00] And how do you see that increase in capacity impacting your ability to one retain customers,
+[31:06] renew contracts to capture new customers and three maintain or improve margins?
+[31:12] Thank you.
+
+[CLAY MAGOUYRK - CEO, Oracle]:
+[31:15] Yeah, thanks. Thanks, Mark.
+[31:16] Look, I think that first, I think it's very important that we stay focused on customers.
+[31:24] So the nice thing is that, think whether you see it from existing RPO or increased contracts that we're getting.
+[31:31] Yes, there's a lot of things happening in the market, but we have a large diverse set of customers,
+[31:37] both very large and also smaller customers.
+[31:40] And what I spend all of my time doing is I wake up every day and I go,
+[31:44] how do I make sure those customers are as happy as possible to us?
+[31:47] And that's, you know, when I share the numbers, for example,
+[31:51] in my, in the, in the prepared remarks about the extremely high utilization rate,
+[31:56] even when things come back for renewal, they're instantly snapped up.
+[31:59] Those are all indicators that we have great customer relationships.
+[32:03] They're happy with the products and they're very satisfied with the prices that we're charging for them.
+[32:08] But I think there's going to be a lot of people who've been in the space.
+[32:12] I think there's clearly, you know, several years in,
+[32:15] there's still a massively higher demand than there is supply.
+[32:18] And so I think that's going to, there are going to be more and more people trying to figure out how to meet that demand.
+[32:23] But I don't worry about that. I really focused on how to remake sure that we can meet as much of that demand at a regional margin profile.
+[32:29] And that's what I think you've seen us invent new business models to go out and try to serve.
+[32:35] In terms of how does that affect our future renewals,
+[32:38] I find that largely what affects future renewals is the several years relationship that we're going to have between now and then.
+[32:46] And we're fundamentally in the service business.
+[32:48] It's one, if you think that you're just buying something and then you're done with it, it's not the way it works, right?
+[32:54] These people are relying on what we do in Oracle to run and maintain these massive clusters every day.
+[32:59] And our ability to do that extremely well creates an extremely positive relationship that then ensures that the newals go well.
+[33:08] And then in terms of the margin profile, look, you know, I've been in Oracle now for 12 years.
+[33:14] The whole time I've been working on OCI.
+[33:16] What I can tell you is it's not easy to build an extremely efficient, highly secure, robust cloud.
+[33:21] So I think that our customers see and appreciate the value of what we provide.
+[33:27] The flexibility that we give them, the comprehensive set of services that we provide.
+[33:32] So I think that over time as, you know, the market continues to mature and we deploy more and more of our research and development dollars into making more efficient.
+[33:43] I think there's ways that Oracle gets higher and higher margins, but we actually can offer lower and lower prices to our customers.
+[33:50] That's ultimately the job that is on our shoulders and what we've been doing over the past decade and it's like the biggest and most robust customers come our way.
+
+[MARK MOERDLER - Analyst, Bernstein]:
+[34:00] That's really helpful. I do really appreciate it.
+[34:03] Thank you.
+
+[OPERATOR - Lisa]:
+[34:05] The next question today is Keith Bachmann from Bank of Montreal.
+
+[KEITH BACHMAN - Analyst, BMO Capital Markets]:
+[34:12] Yes, thank you very much for the question. Mike, I wanted to direct this to you. If I could.
+[34:18] You mentioned two things as net new one was moving towards outcome based commercial pricing models.
+[34:26] The other was rolling out some incremental token packages and I wanted to see if you could flush out the wide and more specifically on the commercial outcome based commercial pricing models.
+[34:38] How do you think this reduces friction and what is this related to what modules in other words, I assume this is the SAS portfolio ERP, ACM, what models might this relate to.
+[34:53] And then finally, how do you think this might impact Brooks? That's it for me. Many thanks.
+
+[MIKE SICILIA - CEO, Oracle]:
+[34:58] Sure. Yeah, thanks for the question.
+[35:00] So, so, so, I was just pressing is not entirely new for us. So this is something we've been doing in our construction business based upon construction value under management subcontractor, a general contractor, a subcontractor cash flow and payments.
+[35:16] Also, Leo, as I mentioned, I prepared marks with hospitality and even in healthcare in our new AI based automated agents where we're automating doctors notes for automating lab owners, we're able to measure and actually price based on patients.
+[35:29] Which is, which is what the providers, one of the things providers fear about is how many people can we get through a healthcare system reduce weight and cues to be better serviced patients.
+[35:39] What's doing, what is you, is that we're now expanding that offering across our entire fleet. And as you mentioned, across all of our applications, including, including, including our future fees.
+[35:50] Now, the, the sort of difficulty is if you're not created the outcome in the first place, that's, that's a tricky thing, a tricky thing to press in. But since we made this full stack invested, it seems we're able to very easily take, you know, the best of the output from the large language models who are our customers.
+[36:07] And so, we have a very, very, very very, very very good outcome that's a very good outcome for our customers.
+[36:11] And as I mentioned, you know, one of the things we're increasingly here as customers is how much are we going to spend on, on AI and how do I get ROI very quickly.
+[36:25] So I think we have a very unique advantage since we're in the infrastructure business.
+[36:29] a large, along the vendor's training on there.
+[36:31] We've got all of our applications,
+[36:33] business of the horizontal and vertical businesses.
+[36:36] We're naturally generating these outcomes for customers,
+[36:39] and it really gives us the ability
+[36:41] to help them understand their own AI budgets,
+[36:43] as well as align that to the value,
+[36:46] again, which is really easy to measure.
+[36:49] So I think it's a unique offering.
+[36:52] It relies on the full stack investment that we made.
+[36:55] And as I mentioned, early days,
+[36:57] but certainly resonating very, very, very, very customers.
+[37:01] They appreciate the transparency.
+[37:03] They appreciate being able to align outcomes to AI spec.
+[37:08] I also mentioned the token bundles.
+[37:10] Customers want this again.
+[37:12] A lot of what we're doing are fusion applications,
+[37:13] are industry applications.
+[37:15] We can see them to add at no additional charts.
+[37:18] The customers want access to advanced reasoning,
+[37:20] and they want it, they want it, they want to, you know,
+[37:21] essentially, for more tokens at the models,
+[37:25] we have free package bundles to allow them to do that.
+[37:28] So we're allowing as much flexibility,
+[37:30] and as much aligned with the value in our pricing models,
+[37:33] across our entire applications as we possibly can.
+[37:37] And I expect that that will continue to resonate well with customers
+[37:42] as it did in the quarter,
+[37:44] and as we roll it out across our entire fleet,
+[37:45] you know, certainly should be helpful for our growth story as well.
+
+[OPERATOR - Lisa]:
+[37:49] Thanks, Mike.
+[37:54] Your next question is from Ramo Lenshaw from Barclays.
+
+[RAIMO LENSCHOW - Analyst, Barclays]:
+[37:58] Hey, perfect.
+[38:00] And welcome to the team as well for me.
+[38:02] The question I had was,
+[38:06] we talked a lot about like AI and, you know,
+[38:09] the great, great moment you have today,
+[38:11] but you still have like the classic Oracle business
+[38:13] that we all grew up with.
+[38:15] And, you know, there's a lot of noise in the market
+[38:19] at the moment, especially on the investor side,
+[38:20] what's happening to software, et cetera.
+[38:22] Can you kind of address a little bit what you're seeing
+[38:24] on the database side, you know, there's OCI, Azure, et cetera,
+[38:28] and overall database momentum, and then on the application side,
+[38:32] the growth is kicked down a little bit,
+[38:34] but then you also mentioned on the call some very nice customer awareness.
+[38:39] Can you see what you see?
+[38:41] Can you talk to what you see in the classic business?
+[38:43] Thank you.
+
+[MIKE SICILIA - CEO, Oracle]:
+[38:44] Yeah, sure.
+[38:44] Mike, so I'll take a stab here in the next place,
+[38:48] you jump in as well.
+[38:50] So on the applications business,
+[38:53] we think double digit growth on an encoder.
+[38:57] It's all, you know, encoder run rate of $4.1 billion,
+[38:59] is pretty good, and we're certainly happy with our continued double digit growth.
+[39:05] As I mentioned, our deferred transition in the quarter grew by 16%.
+[39:08] So when our deferred position is going fast,
+[39:10] so that our encoder revenue gives us confidence.
+[39:14] You know, as far as impact this has pop-up, I would say,
+[39:17] maybe a couple quarters ago,
+[39:19] there were some delayed decision cycles out there,
+[39:21] as customers saw through that, but really, particularly in the mission
+[39:26] critical system space, which is where we play at Oracle,
+[39:29] people have quickly moved on to that and realized that, you know,
+[39:33] enterprise software, particularly when you have AI built into our SaaS solutions,
+[39:37] is, you know, it's certainly a very good approach
+[39:41] and is necessary to move forward for the modernization
+[39:44] and protection of our businesses.
+[39:46] So I expect that our applications business will continue to be a healthy contributor
+[39:51] to Oracle as it has been.
+[39:53] As far as database, they've caught an innovation of 29% in the quarter,
+[39:57] with multi-clarity revenue growing at 4x,
+[40:01] both in the growing 3.25x in the quarter.
+[40:04] And here's some really good news on database.
+[40:07] We're in early innings, very early days on multi-clarity database.
+[40:11] We continue to unlock new regions and unlock new partnerships
+[40:15] in some cases with our competitor, Klaus.
+[40:18] We expect that there's just a continue to be, you know,
+[40:21] on-size growth and engine for or going forward.
+[40:24] And I'll say the final piece is that in addition to multi-clarity,
+[40:29] the innovation in the database, I mentioned a couple of the details,
+[40:33] security and agent memory that we put at the database, you know,
+[40:36] things like vector database searching and features that we've been adding
+[40:39] into the database are part and parcel to companies, AI strategies,
+[40:43] data strategy matters, data architecture matters.
+[40:46] And as the emergency market starts to take hold, which is, again,
+[40:52] also in early days, a lot of that data system in Oracle database across the world.
+[40:58] And we expect to see a continuing investment in growth on our database business as a result.
+[41:03] Multi-cloud, you know, all facets of database, Oracle Cloud, Multi-cloud,
+[41:09] as an underpinning support pillar for all of our applications
+[41:12] and all of the support workloads in the world that are running Oracle database
+[41:16] for our businesses is very good.
+
+[RAIMO LENSCHOW - Analyst, Barclays]:
+[41:18] Perfect. Thank you.
+
+[OPERATOR - Lisa]:
+[41:23] And our last question today comes from Kirk Materne from Evercore ISI.
+
+[KIRK MATERNE - Analyst, Evercore ISI]:
+[41:29] Yeah, thanks very much for taking the question.
+[41:31] I had one, maybe sort of two-parter around the bring your own hardware
+[41:35] and prepaid dynamics, maybe for Clay and then for Hillary.
+[41:39] I guess Clay for you, you know, about 12% of RPOs now related to these type of deals.
+[41:44] You know, when you look at the pipeline, where do you think that split could ultimately go?
+[41:48] And when you go into these type of deals, especially on the bring your own hardware side,
+[41:51] you know, what's the value differentiation that maybe those deals have that, you know,
+[41:55] some of the ones that include use, you know, are, I guess, how is that different versus the, you know,
+[42:00] the GPU type deals?
+[42:02] And then Hillary, just to clarify on the CAPEX guide, I think you said 70 billion in CAPEX,
+[42:07] but that was excluding, I think, 25 billion from some of these prepaid deals.
+[42:13] So could you just, I guess, talk about this dynamic as it relates to Sir Your CAPEX outlook? Thanks.
+
+[CLAY MAGOUYRK - CEO, Oracle]:
+[42:19] Yeah, so I'll start in an head to Hillary. Look, I mean, I would like to tell you that we have,
+[42:26] we know all of us, how things are going to change in the future.
+[42:29] I can't say that today. The reality is that what's driving, I think, the mix change is an evolving business model.
+[42:38] Right? You have a lot of different types of accelerators. You have a lot of different customers.
+[42:42] You have a lot of different business and arrangements. And so, you know, ultimately,
+[42:49] one of the things that Oracle can provide to our customers is that we can go out and put up front capital
+[42:55] and then depreciate that over a period of time and help finance the customer reduces to that.
+[43:00] But that's not the only thing we provide and for a lot of customers,
+[43:04] it's not even the most important thing to provide.
+[43:06] What they contract with us for is the ability to go out and get these data centers constructed,
+[43:11] design them properly, secure them, design networks that go inside of them, install a cloud,
+[43:17] give the complimentary set of services around the specific hardware because it turns out that
+[43:22] instead of the accelerators on their own is not functioning cloud. You need general purpose compute,
+[43:28] general purpose storage, you need load balancers, you need security functions, you need identity.
+[43:32] You need all of that to actually make this stuff usable and Oracle provides all of that.
+[43:36] And then anyone that thinks that these things are easy to operate is very confused.
+[43:41] You're not just buying a single rack and putting it into your data hall.
+[43:45] These are extremely complex clusters that require constant care and feeding,
+[43:49] constant maintenance across the network and the hardware itself.
+[43:53] And so when you add all that together, I think that what you're seeing is that you've got different entrance in the market
+[43:59] around accelerators that are helping customers find ways to procure their accelerators.
+[44:04] And you've got different customers, you have different ways of thinking about that.
+[44:07] And so I can't tell you exactly the mixture of when we do bring your own hardware versus when we do pre-pay versus when we bring the capital.
+[44:15] But what I can say is that I think you'll continue to see innovation and evolution in this model,
+[44:22] given the rapid changes that are happening across this entire ecosystem.
+
+[HILARY MAXSON - CFO, Oracle]:
+[44:27] So let me just start.
+[44:30] We said on the call a couple of times that we also see the margins in those structures,
+[44:35] either at or better than the prior contracts that we have.
+[44:39] So that's good news in terms of economics.
+[44:42] We did introduce this quarter, this net cash outlay for capital expenditures,
+[44:48] which I think is pretty important to understand our funding requirements.
+[44:53] So indeed, for 2027 fiscal year 2027, we expect around 70 billion in net cash outlay for capital expenditures.
+[45:04] That does exclude the 20 to 25 billion in repayment that we will collect,
+[45:11] or there's some timing difference in there, but it's just associated with third-party manufacturers,
+[45:16] not vendor financing, just third-party manufacturers.
+[45:19] So 20 to 25 billion, the sum of those is our reported capex.
+[45:24] But from a funding standpoint, what's happening here is that these structures are enabling us to have a lower cash capex
+[45:33] requirement when we look at how we plan our business.
+[45:38] And also from an economic standpoint, of course, because we're collecting money up front.
+[45:44] So in normal cases, we would put out the capex amount and then later we would collect money from customers.
+[45:50] Here we collect money from customers up front and actually, so that doesn't come out of our funding to pay for the capex or not 100% of it.
+[46:00] Therefore, the return on capital is going to be a bit better as well.
+
+[KIRK MATERNE - Analyst, Evercore ISI]:
+[46:04] Thank you, Hillary.
+
+[KEN BOND - SVP, Investor Relations, Oracle]:
+[46:08] Thank you all.
+[46:09] Thank you, Hillary.
+[46:11] So for next quarter, this is a new for everybody.
+[46:14] We expect our Q1 fiscal year 27 earnings results will be announced on September 10th.
+[46:21] Any changes in the date will be publicly announced.
+[46:24] Also, as a reminder, Hillary brought this up earlier, but our investor day will be held on October 28th in Las Vegas.
+[46:33] We look to see you all there as part of a world.
+[46:36] A telephonic replay of this conference call will be available for 24 hours on our investor relations website.
+[46:42] And as a reminder, the slides that you saw today will be posted up to the website shortly.
+[46:48] Thank you for joining us today with that. I'll turn the call back to Lisa for closing.
+
+[OPERATOR - Lisa]:
+[46:53] And once again, ladies and gentlemen, that does conclude today's conference.
+[46:56] We would like to thank you all for your participation today. You may now disconnect.
+[47:23] Thank you.

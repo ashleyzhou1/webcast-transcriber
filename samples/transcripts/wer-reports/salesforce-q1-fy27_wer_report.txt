@@ -1,0 +1,2106 @@
+WER: 14.7%
+Quality: Acceptable (10-20%)
+Official word count: 12202
+Whisper word count: 12655
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+page one of twentyfour salesforce inc q1 fy27 earnings conference call wednesday
+may twentyseven two thousand and twentysix video plays operator at this time i
+would like to welcome you to the salesforce first quarter fiscal two thousand
+and twentyseven conference call this conference is being recorded and all lines
+have been placed on mute to prevent any background noise after the speakers
+prepared remarks there will be a question and answer session at this time i
+would like to turn the call over to mike spencer executive vice president of
+finance sir you may begin mike spencer good afternoon and thanks for joining us
+today on our fiscal two thousand and twentyseven first quarter results
+conference call our press release sec filings and a replay of todays call can be
+found on our website joining me on the call today is marc benioff chair and ceo
+robin washington chief operating and finance officer we also have patrick stokes
+president and chief marketing officer miguel milano presiden
+
+WHISPER (first 1000 chars):
+you cant do it you cant do it you cant do it you cant do it you cant do it you
+cant do it if you read any industry news you might have heard about the saas
+apocalypse saas apocalypse youre coming to the beginning of the day im in
+disruption for your talk its not the end of software its the end of software
+that makes humans do all the work so whats replacing it software that listens
+software that understands software that can actually do and once you see it
+theres no going back were going to this incredible new world the adgentic
+enterprise salesforce reports im seeing celerated revenue robust top and bottom
+line beat were doing more cashflow gym than walmart its all about the adgentic
+enterprise the best companies in the world are doing this right now data is
+everything for an adgentic enterprise the foundation layer is always data we
+have to get the data right data three hundred and sixty is at the heart of our
+infrastructure we can activate that data to make sure that theyre getting
+
+ALIGNED DIFFERENCES (all 566, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: page
+  WHISPER:  you cant do it you cant do it you cant do it you cant do it you cant
+  do it you cant do it if you read any industry news you might have heard about
+  the saas apocalypse saas apocalypse youre coming to the beginning of the day
+  im in disruption for your talk its not the end of software its the end of
+  software that makes humans do all the work so whats replacing it software that
+  listens software that understands software that can actually do and once you
+  see it theres no going back were going to this incredible new world the
+  adgentic enterprise salesforce reports im seeing celerated revenue robust top
+  and bottom line beat were doing more cashflow gym than walmart its all about
+  the adgentic enterprise the best companies in the world are doing this right
+  now data is everything for an adgentic enterprise the foundation layer is
+  always data we have to get the data right data three hundred and sixty is at
+  the heart of our infrastructure we can activate that data to make sure that
+  theyre getting the care that they need salesforce service be marketing engine
+  salesforce was the
+
+[2]
+  WHISPER:  company that had all the tools in the toolbox and with agent force
+  it takes us to that next level our agents now have encyclopedic knowledge it
+  was in that moment that we knew agent force was the answer and all
+
+[3]
+  OFFICIAL: twentyfour
+  WHISPER:  this is being frontended by slack having agent force data three
+  hundred and sixty tableau integrative and slack all of a sudden you know its a
+  supercharged business its the power of all of the technologies working
+  together this is the adgentic enterprise big companies are using agent force
+  agent force is now an eight hundred million business customers arent going to
+  deploy just one agent theres going to be many agents
+
+[4]
+  OFFICIAL: inc q1 fy27 earnings conference call wednesday may twentyseven
+  WHISPER:  headless three hundred and sixty changes the way that your company
+  works everything in salesforce is now exposed as an api mcp or cli command
+  headless three hundred and sixty is the biggest growth opportunity that any of
+  us will see in our lifetime you can see the velocity agents are participated
+  in a quarter of a million consumer engagements agent force well be a game
+  changer agent force give me more information about the job the subject of
+  these fourday and the cost savings is just unbelievable twelve days we
+  launched our first agent saved us
+
+[5]
+  WHISPER:  million since we launched it penfret was able to save thirty
+
+[6]
+  WHISPER:  minutes per day by being able to bring our salesforce data into
+  slack ive seen our time in the dildec stages go down by up to sixty slackbot
+  truly is the ultimate teammate weve saved
+
+[7]
+  OFFICIAL: twentysix video plays operator
+  WHISPER:  made at least four point five million just because of how were using
+  slack slack is our operating system weve run our full business in slack the
+  salesforce platform has allowed our providers to see forty more patients every
+  day could do that without the agent to get a price for about thirty billion
+  today we can be a sixty billion firm on the salesforce platform its driving
+  down costs and in the end just having a better service experience csat goes up
+  costs to deliver go down customers are happier were getting them answers
+  faster this is an incredible opportunity for all these businesses we run on
+  salesforce today youre not sip you dont i think were a new era of agents
+  enabling you thats really where the magic is human being agent doing this is
+  the agent to get a price
+
+[8]
+  OFFICIAL: mike spencer
+
+[9]
+  OFFICIAL: sec
+  WHISPER:  scc
+
+[10]
+  OFFICIAL: marc
+  WHISPER:  mark
+
+[11]
+  OFFICIAL: and
+
+[12]
+  OFFICIAL: srinivas tallapragada
+  WHISPER:  shrinney talapargada
+
+[13]
+  OFFICIAL: financial
+  WHISPER:  finance
+
+[14]
+  OFFICIAL: sec
+  WHISPER:  scc
+
+[15]
+  OFFICIAL: tenk tenq
+  WHISPER:  10k 10q
+
+[16]
+  OFFICIAL: sec
+  WHISPER:  scc
+
+[17]
+  OFFICIAL: except as
+  WHISPER:  acceptors
+
+[18]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[19]
+  OFFICIAL: reconciliations
+  WHISPER:  reconciliation
+
+[20]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[21]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[22]
+  OFFICIAL: marc marc benioff
+  WHISPER:  mark
+
+[23]
+  OFFICIAL: and
+
+[24]
+  OFFICIAL: gorgeous
+  WHISPER:  quarters
+
+[25]
+  OFFICIAL: page two of twentyfour
+
+[26]
+  OFFICIAL: cashflow
+  WHISPER:  cash flow
+
+[27]
+  WHISPER:  and
+
+[28]
+  WHISPER:  also
+
+[29]
+  WHISPER:  percent
+
+[30]
+  OFFICIAL: recorder
+  WHISPER:  quarter
+
+[31]
+  OFFICIAL: yearoveryear
+  WHISPER:  percent year of a year
+
+[32]
+  WHISPER:  percent
+
+[33]
+  OFFICIAL: crpo thirtythree
+  WHISPER:  crp zero
+
+[34]
+  OFFICIAL: six
+  WHISPER:  three threesix
+
+[35]
+  WHISPER:  percent
+
+[36]
+  WHISPER:  percent
+
+[37]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[38]
+  WHISPER:  percent
+
+[39]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[40]
+  WHISPER:  percent
+
+[41]
+  OFFICIAL: cashflow
+  WHISPER:  cash flow
+
+[42]
+  OFFICIAL: enterprises
+  WHISPER:  enterprise
+
+[43]
+  OFFICIAL: anthropic
+  WHISPER:  and thropic
+
+[44]
+  OFFICIAL: a
+  WHISPER:  one
+
+[45]
+  OFFICIAL: dollars
+
+[46]
+  OFFICIAL: a
+  WHISPER:  one
+
+[47]
+  OFFICIAL: dollars
+
+[48]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[49]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter of a quarter
+
+[50]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter and the
+
+[51]
+  OFFICIAL: of
+
+[52]
+  OFFICIAL: uclahealthorg
+  WHISPER:  ucellahealthorg
+
+[53]
+  OFFICIAL: page three of twentyfour
+
+[54]
+  OFFICIAL: helpsalesforcecom
+  WHISPER:  helpsillsforcecom
+
+[55]
+  OFFICIAL: oneeight hundrednosoftware
+  WHISPER:  one thousand eight hundred no software
+
+[56]
+  WHISPER:  kind of
+
+[57]
+  OFFICIAL: autonomously
+  WHISPER:  autonymously
+
+[58]
+  OFFICIAL: servicenow
+  WHISPER:  service now
+
+[59]
+  OFFICIAL: of
+
+[60]
+  WHISPER:  the
+
+[61]
+  OFFICIAL: businesshour
+  WHISPER:  business hour
+
+[62]
+  OFFICIAL: afterhour
+  WHISPER:  after hour
+
+[63]
+  OFFICIAL: life cycle
+  WHISPER:  lifecycle
+
+[64]
+  OFFICIAL: salesforce has
+  WHISPER:  sales sales forces
+
+[65]
+  WHISPER:  dollars
+
+[66]
+  OFFICIAL: fortinet
+  WHISPER:  ford and net
+
+[67]
+  OFFICIAL: agibank
+  WHISPER:  agarbank
+
+[68]
+  WHISPER:  okay
+
+[69]
+  OFFICIAL: of
+  WHISPER:  the
+
+[70]
+  OFFICIAL: into
+  WHISPER:  in the
+
+[71]
+  OFFICIAL: turns
+  WHISPER:  turned
+
+[72]
+  OFFICIAL: it
+  WHISPER:  kind of
+
+[73]
+  OFFICIAL: and erp
+  WHISPER:  in the rp
+
+[74]
+  OFFICIAL: chairing
+  WHISPER:  cheering
+
+[75]
+  OFFICIAL: apis
+  WHISPER:  api
+
+[76]
+  OFFICIAL: page four of twentyfour speed
+  WHISPER:  lead
+
+[77]
+  OFFICIAL: and a half
+  WHISPER:  point five
+
+[78]
+  OFFICIAL: we
+  WHISPER:  weve
+
+[79]
+  OFFICIAL: just eat takeaway
+  WHISPER:  justie take away
+
+[80]
+  OFFICIAL: had
+  WHISPER:  have
+
+[81]
+  OFFICIAL: openai
+  WHISPER:  open ai
+
+[82]
+  OFFICIAL: agentic
+  WHISPER:  a gentic
+
+[83]
+  OFFICIAL: millionplus
+  WHISPER:  million plus
+
+[84]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[85]
+  OFFICIAL: as
+
+[86]
+  WHISPER:  and
+
+[87]
+  OFFICIAL: calls
+  WHISPER:  call
+
+[88]
+  OFFICIAL: slackbot
+  WHISPER:  slack bot
+
+[89]
+  OFFICIAL: quarteroverquarter
+  WHISPER:  quarter over quarter
+
+[90]
+  OFFICIAL: informatica
+  WHISPER:  and formatica
+
+[91]
+  OFFICIAL: it
+  WHISPER:  and
+
+[92]
+  OFFICIAL: agentic
+  WHISPER:  agentix
+
+[93]
+  OFFICIAL: agentic
+  WHISPER:  agentix
+
+[94]
+  WHISPER:  okay
+
+[95]
+  OFFICIAL: headless
+  WHISPER:  slacklist
+
+[96]
+  WHISPER:  great
+
+[97]
+  OFFICIAL: james schenck thanks for having me marc benioff
+
+[98]
+  OFFICIAL: you
+
+[99]
+  OFFICIAL: schenck sure im james schenck
+  WHISPER:  scank
+
+[100]
+  OFFICIAL: tysons
+  WHISPER:  tyson
+
+[101]
+  OFFICIAL: page five of twentyfour marc benioff
+
+[102]
+  OFFICIAL: james schenck been
+  WHISPER:  in
+
+[103]
+  OFFICIAL: meeting with salesforce marc benioff
+
+[104]
+  WHISPER:  you know
+
+[105]
+  OFFICIAL: a
+  WHISPER:  for so
+
+[106]
+  OFFICIAL: agentic
+  WHISPER:  agentix
+
+[107]
+  WHISPER:  you know
+
+[108]
+  OFFICIAL: our news
+  WHISPER:  earnings
+
+[109]
+  OFFICIAL: james schenck
+
+[110]
+  OFFICIAL: there was eight im sorry
+  WHISPER:  theres
+
+[111]
+  OFFICIAL: and
+  WHISPER:  in
+
+[112]
+  WHISPER:  so youre a
+
+[113]
+  OFFICIAL: marc benioff amazing james schenck
+
+[114]
+  OFFICIAL: marc benioff
+
+[115]
+  OFFICIAL: james schenck
+
+[116]
+  OFFICIAL: marc benioff
+
+[117]
+  OFFICIAL: you are
+  WHISPER:  youre
+
+[118]
+  OFFICIAL: james schenck
+
+[119]
+  OFFICIAL: marc benioff yeah james schenck you
+  WHISPER:  youve
+
+[120]
+  OFFICIAL: marc benioff yeah page six of twentyfour james schenck
+
+[121]
+  OFFICIAL: marc benioff
+
+[122]
+  OFFICIAL: james schenck so
+  WHISPER:  well
+
+[123]
+  OFFICIAL: hyperpersonalization
+  WHISPER:  hyper personalization
+
+[124]
+  OFFICIAL: realtime
+  WHISPER:  real time
+
+[125]
+  OFFICIAL: went from
+  WHISPER:  have
+
+[126]
+  OFFICIAL: its
+  WHISPER:  is
+
+[127]
+  OFFICIAL: its
+  WHISPER:  is
+
+[128]
+  OFFICIAL: james schenck
+
+[129]
+  OFFICIAL: industrialized
+  WHISPER:  industrialize
+
+[130]
+  OFFICIAL: marc benioff
+
+[131]
+  WHISPER:  you know
+
+[132]
+  OFFICIAL: saaspocalypse
+  WHISPER:  saas apocalypse
+
+[133]
+  WHISPER:  you know
+
+[134]
+  OFFICIAL: james schenck
+
+[135]
+  OFFICIAL: when
+
+[136]
+  OFFICIAL: ceo
+  WHISPER:  co
+
+[137]
+  OFFICIAL: does
+  WHISPER:  is
+
+[138]
+  WHISPER:  it
+
+[139]
+  OFFICIAL: so
+
+[140]
+  WHISPER:  still
+
+[141]
+  OFFICIAL: and
+  WHISPER:  on
+
+[142]
+  OFFICIAL: sheet
+  WHISPER:  ship
+
+[143]
+  OFFICIAL: page seven of twentyfour
+
+[144]
+  OFFICIAL: remember
+  WHISPER:  been a member
+
+[145]
+  OFFICIAL: penfed
+  WHISPER:  penfett
+
+[146]
+  OFFICIAL: the
+  WHISPER:  a
+
+[147]
+  OFFICIAL: humans
+  WHISPER:  human
+
+[148]
+  OFFICIAL: personalized
+  WHISPER:  personalize
+
+[149]
+  OFFICIAL: i
+  WHISPER:  they
+
+[150]
+  OFFICIAL: marc benioff
+
+[151]
+  OFFICIAL: james schenck
+
+[152]
+  OFFICIAL: marc benioff
+
+[153]
+  OFFICIAL: james schenck
+
+[154]
+  OFFICIAL: where
+
+[155]
+  OFFICIAL: what
+
+[156]
+  OFFICIAL: marc benioff
+
+[157]
+  OFFICIAL: james schenck
+
+[158]
+  OFFICIAL: marc marc benioff page eight of twentyfour
+  WHISPER:  mark
+
+[159]
+  OFFICIAL: james schenck yeah thank you marc benioff
+
+[160]
+  OFFICIAL: james schenck
+  WHISPER:  country
+
+[161]
+  OFFICIAL: for having me marc benioff country and
+
+[162]
+  OFFICIAL: james schenck thank you marc benioff
+
+[163]
+  OFFICIAL: james schenck
+
+[164]
+  OFFICIAL: marc benioff
+
+[165]
+  OFFICIAL: well
+
+[166]
+  OFFICIAL: and
+
+[167]
+  OFFICIAL: to have
+  WHISPER:  half of
+
+[168]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[169]
+  OFFICIAL: pallavi
+  WHISPER:  we have a great group of visitors here today theyve been working on
+  an incredible highway theyve been working on a lot of other things
+
+[170]
+  OFFICIAL: also michael so guys welcome and thanks for coming
+  WHISPER:  weve been working
+
+[171]
+  OFFICIAL: show
+  WHISPER:  other things we are so happy that weve been working on the other
+  things were so glad that we all have the opportunity to have you
+
+[172]
+  OFFICIAL: with us
+  WHISPER:  thank you thanks
+
+[173]
+  OFFICIAL: spencer thanks marc pallavi mynampati
+
+[174]
+  OFFICIAL: marc benioff
+
+[175]
+  OFFICIAL: you
+
+[176]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[177]
+  OFFICIAL: mike spencer page nine of twentyfour
+
+[178]
+  OFFICIAL: so weve been working with salesforce for quite a few years but most
+  recently weve consolidated into
+
+[179]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[180]
+  OFFICIAL: customer facing
+  WHISPER:  customerfacing
+
+[181]
+  WHISPER:  its
+
+[182]
+  OFFICIAL: find a
+  WHISPER:  minda
+
+[183]
+  OFFICIAL: marc benioff
+
+[184]
+  OFFICIAL: going to launching
+  WHISPER:  gonna launch
+
+[185]
+  OFFICIAL: want to
+  WHISPER:  wanna
+
+[186]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[187]
+  OFFICIAL: mike spencer
+
+[188]
+  OFFICIAL: backend
+  WHISPER:  back end
+
+[189]
+  OFFICIAL: marc benioff
+
+[190]
+  OFFICIAL: pallavi
+  WHISPER:  paul
+
+[191]
+  OFFICIAL: know how
+  WHISPER:  knowhow
+
+[192]
+  WHISPER:  its
+
+[193]
+  OFFICIAL: saaspocalypse
+  WHISPER:  saas apocalypse
+
+[194]
+  OFFICIAL: saaspocalypse
+  WHISPER:  saas apocalypse
+
+[195]
+  OFFICIAL: pallavi mynampati
+
+[196]
+  WHISPER:  to
+
+[197]
+  OFFICIAL: marc benioff
+
+[198]
+  OFFICIAL: pallavi
+  WHISPER:  paul
+
+[199]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[200]
+  OFFICIAL: page ten of twentyfour
+
+[201]
+  WHISPER:  you know
+
+[202]
+  OFFICIAL: just
+
+[203]
+  OFFICIAL: pallavi mynampati
+
+[204]
+  OFFICIAL: debt
+
+[205]
+  OFFICIAL: agent use
+  WHISPER:  stateatuse
+
+[206]
+  OFFICIAL: led
+  WHISPER:  ludd
+
+[207]
+  OFFICIAL: marc benioff
+
+[208]
+  WHISPER:  you know
+
+[209]
+  OFFICIAL: mike spencer
+
+[210]
+  OFFICIAL: agentforce has
+  WHISPER:  asian forces
+
+[211]
+  OFFICIAL: agentforce
+  WHISPER:  asian force
+
+[212]
+  OFFICIAL: mychart
+  WHISPER:  my chart
+
+[213]
+  WHISPER:  you know
+
+[214]
+  WHISPER:  of
+
+[215]
+  OFFICIAL: marc benioff
+
+[216]
+  OFFICIAL: want
+  WHISPER:  wanted
+
+[217]
+  OFFICIAL: just
+
+[218]
+  OFFICIAL: it
+
+[219]
+  OFFICIAL: robin washington
+
+[220]
+  OFFICIAL: marc
+  WHISPER:  mark
+
+[221]
+  OFFICIAL: marc
+  WHISPER:  mark
+
+[222]
+  OFFICIAL: longterm
+  WHISPER:  long term
+
+[223]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[224]
+  OFFICIAL: agentforce
+  WHISPER:  a agent force
+
+[225]
+  OFFICIAL: surpassed
+  WHISPER:  surprised the past
+
+[226]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[227]
+  OFFICIAL: our page eleven of twentyfour
+  WHISPER:  are
+
+[228]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[229]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[230]
+  OFFICIAL: q1 awu
+  WHISPER:  q1aw
+
+[231]
+  OFFICIAL: salesforce
+  WHISPER:  sales force
+
+[232]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[233]
+  OFFICIAL: in
+  WHISPER:  and
+
+[234]
+  OFFICIAL: agentic
+  WHISPER:  agent to
+
+[235]
+  OFFICIAL: codes
+  WHISPER:  code
+
+[236]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[237]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[238]
+  OFFICIAL: aov
+  WHISPER:  alv
+
+[239]
+  OFFICIAL: aov
+  WHISPER:  alv
+
+[240]
+  OFFICIAL: page twelve of twentyfour
+
+[241]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[242]
+  OFFICIAL: onprem
+  WHISPER:  onprint
+
+[243]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[244]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[245]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[246]
+  OFFICIAL: cashflow
+  WHISPER:  cash flow
+
+[247]
+  OFFICIAL: yearoveryear
+  WHISPER:  percent year over year
+
+[248]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[249]
+  OFFICIAL: balanced
+  WHISPER:  balance
+
+[250]
+  OFFICIAL: marc
+  WHISPER:  mark
+
+[251]
+  OFFICIAL: mike spencer
+
+[252]
+  OFFICIAL: i would
+  WHISPER:  wed
+
+[253]
+  OFFICIAL: and
+  WHISPER:  in
+
+[254]
+  OFFICIAL: will
+  WHISPER:  well
+
+[255]
+  OFFICIAL: operator
+
+[256]
+  OFFICIAL: a
+  WHISPER:  the
+
+[257]
+  OFFICIAL: brent thill
+  WHISPER:  brentville
+
+[258]
+  OFFICIAL: jefferies
+  WHISPER:  jeffries
+
+[259]
+  OFFICIAL: brent thill hi
+
+[260]
+  OFFICIAL: marc
+  WHISPER:  mark
+
+[261]
+  OFFICIAL: on
+  WHISPER:  and
+
+[262]
+  OFFICIAL: that agentforce
+  WHISPER:  the agent force
+
+[263]
+  OFFICIAL: brent thill
+
+[264]
+  OFFICIAL: marc benioff page thirteen of twentyfour
+
+[265]
+  WHISPER:  you know
+
+[266]
+  WHISPER:  are
+
+[267]
+  WHISPER:  and
+
+[268]
+  WHISPER:  you know
+
+[269]
+  OFFICIAL: ourself
+  WHISPER:  ourselves
+
+[270]
+  WHISPER:  you know
+
+[271]
+  WHISPER:  you know
+
+[272]
+  OFFICIAL: hundrednosoftware
+  WHISPER:  hundredno software
+
+[273]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[274]
+  OFFICIAL: if
+
+[275]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[276]
+  OFFICIAL: help
+
+[277]
+  WHISPER:  like
+
+[278]
+  WHISPER:  you know
+
+[279]
+  OFFICIAL: slackbot
+  WHISPER:  slack bot
+
+[280]
+  WHISPER:  with my
+
+[281]
+  OFFICIAL: penfed is
+  WHISPER:  fedfed its
+
+[282]
+  OFFICIAL: agentforce is
+  WHISPER:  agent forces
+
+[283]
+  OFFICIAL: in
+  WHISPER:  and
+
+[284]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[285]
+  OFFICIAL: it
+  WHISPER:  you know at
+
+[286]
+  OFFICIAL: speaker thirtysix
+
+[287]
+  OFFICIAL: keith page fourteen of twentyfour
+
+[288]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[289]
+  WHISPER:  are
+
+[290]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[291]
+  OFFICIAL: robin washington
+
+[292]
+  OFFICIAL: and
+
+[293]
+  OFFICIAL: guides
+  WHISPER:  guide
+
+[294]
+  OFFICIAL: reacceleration
+  WHISPER:  re acceleration
+
+[295]
+  OFFICIAL: ask
+  WHISPER:  asked
+
+[296]
+  OFFICIAL: drives
+  WHISPER:  dries
+
+[297]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[298]
+  OFFICIAL: data360
+  WHISPER:  data three hundred and sixty
+
+[299]
+  OFFICIAL: reacceleration
+  WHISPER:  re acceleration
+
+[300]
+  OFFICIAL: miguel yeah
+  WHISPER:  maybe
+
+[301]
+  OFFICIAL: on
+  WHISPER:  under
+
+[302]
+  OFFICIAL: reacceleration
+  WHISPER:  re acceleration
+
+[303]
+  OFFICIAL: reaccelerated
+  WHISPER:  re accelerated
+
+[304]
+  OFFICIAL: key
+  WHISPER:  king
+
+[305]
+  OFFICIAL: daughters
+  WHISPER:  daughter
+
+[306]
+  OFFICIAL: says
+
+[307]
+  WHISPER:  the
+
+[308]
+  OFFICIAL: on prem renewals
+  WHISPER:  onprem renewables
+
+[309]
+  OFFICIAL: approximately
+  WHISPER:  a personally
+
+[310]
+  WHISPER:  dollars
+
+[311]
+  OFFICIAL: seats
+
+[312]
+  OFFICIAL: page fifteen of twentyfour robin washington thats right miguel
+
+[313]
+  WHISPER:  that
+
+[314]
+  WHISPER:  use as
+
+[315]
+  OFFICIAL: unlimitedly
+  WHISPER:  unlimited
+
+[316]
+  OFFICIAL: and
+
+[317]
+  WHISPER:  cells of
+
+[318]
+  OFFICIAL: sales
+  WHISPER:  cells
+
+[319]
+  OFFICIAL: sales
+  WHISPER:  cells
+
+[320]
+  OFFICIAL: its
+  WHISPER:  is
+
+[321]
+  OFFICIAL: i mean
+
+[322]
+  OFFICIAL: agentic bdr
+  WHISPER:  a gen2bdr
+
+[323]
+  OFFICIAL: sales
+  WHISPER:  cells
+
+[324]
+  OFFICIAL: i mean
+
+[325]
+  OFFICIAL: sales
+  WHISPER:  cells
+
+[326]
+  OFFICIAL: sales
+  WHISPER:  cells
+
+[327]
+  OFFICIAL: so
+
+[328]
+  OFFICIAL: customer facing
+  WHISPER:  customerfacing
+
+[329]
+  OFFICIAL: elas
+  WHISPER:  ilas
+
+[330]
+  OFFICIAL: flex
+  WHISPER:  flexed
+
+[331]
+  OFFICIAL: reacceleration
+  WHISPER:  recs duration
+
+[332]
+  OFFICIAL: were very
+  WHISPER:  we have an
+
+[333]
+  OFFICIAL: robin washington and
+
+[334]
+  OFFICIAL: and
+  WHISPER:  in
+
+[335]
+  OFFICIAL: miguel because thats not necessarily robin washington
+  WHISPER:  so i think we
+
+[336]
+  OFFICIAL: miguel
+
+[337]
+  OFFICIAL: sales
+  WHISPER:  circle
+
+[338]
+  OFFICIAL: robin washington yes miguel
+
+[339]
+  WHISPER:  a
+
+[340]
+  WHISPER:  authentic
+
+[341]
+  OFFICIAL: agentic
+  WHISPER:  agent to
+
+[342]
+  OFFICIAL: page sixteen of twentyfour
+
+[343]
+  WHISPER:  to in a fairly
+
+[344]
+  OFFICIAL: users that
+  WHISPER:  uses
+
+[345]
+  OFFICIAL: robin washington
+
+[346]
+  WHISPER:  right
+
+[347]
+  OFFICIAL: reacceleration
+  WHISPER:  re acceleration
+
+[348]
+  OFFICIAL: fy27 speaker thirtysix
+  WHISPER:  fy twentyseven
+
+[349]
+  OFFICIAL: gabrielle
+
+[350]
+  OFFICIAL: teed
+  WHISPER:  take
+
+[351]
+  OFFICIAL: now
+
+[352]
+  OFFICIAL: salesforce
+  WHISPER:  sales first
+
+[353]
+  OFFICIAL: salesforce
+  WHISPER:  sales first
+
+[354]
+  WHISPER:  how do
+
+[355]
+  OFFICIAL: marc benioff well
+  WHISPER:  so
+
+[356]
+  OFFICIAL: patrick stokes
+
+[357]
+  OFFICIAL: earnings
+  WHISPER:  roundings
+
+[358]
+  OFFICIAL: a
+  WHISPER:  at
+
+[359]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[360]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[361]
+  OFFICIAL: srinivas tallapragada life sciences patrick stokes page seventeen of
+  twentyfour
+
+[362]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[363]
+  OFFICIAL: chatgpt
+  WHISPER:  chatch ept
+
+[364]
+  OFFICIAL: srinivas tallapragada
+
+[365]
+  OFFICIAL: historically
+  WHISPER:  historical
+
+[366]
+  WHISPER:  a
+
+[367]
+  OFFICIAL: our
+  WHISPER:  are
+
+[368]
+  OFFICIAL: offsites
+  WHISPER:  of sites
+
+[369]
+  OFFICIAL: mcps
+  WHISPER:  mcp server
+
+[370]
+  WHISPER:  thirty million
+
+[371]
+  OFFICIAL: the
+  WHISPER:  that
+
+[372]
+  OFFICIAL: to
+
+[373]
+  WHISPER:  use
+
+[374]
+  WHISPER:  and like
+
+[375]
+  OFFICIAL: marc benioff
+
+[376]
+  WHISPER:  head
+
+[377]
+  WHISPER:  we used it and
+
+[378]
+  OFFICIAL: with
+
+[379]
+  OFFICIAL: lobbed
+  WHISPER:  got
+
+[380]
+  OFFICIAL: its a
+  WHISPER:  to
+
+[381]
+  OFFICIAL: page eighteen of twentyfour
+
+[382]
+  OFFICIAL: patrick stokes
+
+[383]
+  OFFICIAL: that comes from a
+
+[384]
+  WHISPER:  in this case
+
+[385]
+  OFFICIAL: yeah
+  WHISPER:  yes
+
+[386]
+  OFFICIAL: marc benioff people
+  WHISPER:  if you
+
+[387]
+  OFFICIAL: will
+
+[388]
+  OFFICIAL: got
+  WHISPER:  wont cut
+
+[389]
+  OFFICIAL: into
+  WHISPER:  to
+
+[390]
+  OFFICIAL: patrick stokes
+
+[391]
+  OFFICIAL: patrick stokes think
+
+[392]
+  OFFICIAL: miguel
+
+[393]
+  WHISPER:  and
+
+[394]
+  OFFICIAL: patrick stokes page nineteen of twentyfour its more about how you
+  work miguel
+
+[395]
+  OFFICIAL: ive
+  WHISPER:  i
+
+[396]
+  OFFICIAL: one
+  WHISPER:  a
+
+[397]
+  OFFICIAL: facetoface
+  WHISPER:  face to face
+
+[398]
+  WHISPER:  let me
+
+[399]
+  OFFICIAL: at echo
+  WHISPER:  adeiko
+
+[400]
+  OFFICIAL: use
+  WHISPER:  used
+
+[401]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[402]
+  OFFICIAL: analytics walltowall
+  WHISPER:  and all the world
+
+[403]
+  OFFICIAL: theyre
+  WHISPER:  they are
+
+[404]
+  WHISPER:  this is
+
+[405]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[406]
+  OFFICIAL: theres
+  WHISPER:  there is
+
+[407]
+  OFFICIAL: anthropic anthropic
+  WHISPER:  entropic entropic
+
+[408]
+  WHISPER:  i mean
+
+[409]
+  OFFICIAL: theyre
+  WHISPER:  they are
+
+[410]
+  OFFICIAL: this
+
+[411]
+  OFFICIAL: strategy
+  WHISPER:  strategic
+
+[412]
+  OFFICIAL: than ever
+  WHISPER:  and never
+
+[413]
+  OFFICIAL: the
+  WHISPER:  a
+
+[414]
+  OFFICIAL: mike spencer
+  WHISPER:  all right
+
+[415]
+  OFFICIAL: gabriella
+  WHISPER:  gabriela
+
+[416]
+  OFFICIAL: operator
+
+[417]
+  OFFICIAL: zelnick
+  WHISPER:  zellnick
+
+[418]
+  OFFICIAL: brad zelnick
+
+[419]
+  WHISPER:  like
+
+[420]
+  OFFICIAL: agentforce arr
+  WHISPER:  agent for say ror
+
+[421]
+  OFFICIAL: marc benioff
+
+[422]
+  OFFICIAL: talking
+  WHISPER:  i mean you know talk
+
+[423]
+  OFFICIAL: of the
+
+[424]
+  OFFICIAL: agentic
+
+[425]
+  OFFICIAL: salesforce
+  WHISPER:  sales force
+
+[426]
+  OFFICIAL: largescaled
+  WHISPER:  large scaled
+
+[427]
+  OFFICIAL: were
+  WHISPER:  of
+
+[428]
+  WHISPER:  of
+
+[429]
+  OFFICIAL: srini
+  WHISPER:  shrinney
+
+[430]
+  OFFICIAL: srinis
+  WHISPER:  shrinney is
+
+[431]
+  OFFICIAL: he has
+  WHISPER:  hes
+
+[432]
+  WHISPER:  right
+
+[433]
+  OFFICIAL: page twenty of twentyfour
+
+[434]
+  OFFICIAL: capability
+  WHISPER:  capabilities
+
+[435]
+  WHISPER:  okay
+
+[436]
+  WHISPER:  you know
+
+[437]
+  OFFICIAL: even
+  WHISPER:  been
+
+[438]
+  OFFICIAL: agentic
+  WHISPER:  dollar genteq
+
+[439]
+  OFFICIAL: has
+  WHISPER:  is
+
+[440]
+  OFFICIAL: to be able
+
+[441]
+  WHISPER:  you know
+
+[442]
+  OFFICIAL: agentforce
+  WHISPER:  agent force
+
+[443]
+  OFFICIAL: as agentforce
+  WHISPER:  agent force
+
+[444]
+  WHISPER:  were
+
+[445]
+  WHISPER:  you know
+
+[446]
+  OFFICIAL: codex
+  WHISPER:  codecs you know
+
+[447]
+  OFFICIAL: our
+
+[448]
+  OFFICIAL: robin washington
+
+[449]
+  OFFICIAL: and
+
+[450]
+  OFFICIAL: awu
+  WHISPER:  aws
+
+[451]
+  OFFICIAL: customer
+  WHISPER:  customers
+
+[452]
+  WHISPER:  you know
+
+[453]
+  OFFICIAL: platforms marc benioff
+
+[454]
+  OFFICIAL: and
+
+[455]
+  OFFICIAL: attritions page twentyone of twentyfour
+  WHISPER:  attrition is
+
+[456]
+  OFFICIAL: and
+  WHISPER:  in
+
+[457]
+  OFFICIAL: miguel
+  WHISPER:  i mean
+
+[458]
+  OFFICIAL: aov
+  WHISPER:  awu
+
+[459]
+  OFFICIAL: honest with you
+  WHISPER:  able
+
+[460]
+  OFFICIAL: align
+  WHISPER:  aligned
+
+[461]
+  OFFICIAL: aov
+  WHISPER:  awu
+
+[462]
+  OFFICIAL: marc benioff
+
+[463]
+  OFFICIAL: q1
+  WHISPER:  the eu1
+
+[464]
+  OFFICIAL: aov
+  WHISPER:  awu so
+
+[465]
+  WHISPER:  right so what does that transfer
+
+[466]
+  OFFICIAL: miguel
+
+[467]
+  OFFICIAL: has been
+  WHISPER:  is being
+
+[468]
+  OFFICIAL: the
+  WHISPER:  a
+
+[469]
+  WHISPER:  our
+
+[470]
+  OFFICIAL: aov at pace in aov
+  WHISPER:  awu are facing a heavy
+
+[471]
+  OFFICIAL: aov
+  WHISPER:  awu
+
+[472]
+  OFFICIAL: pace in aov
+  WHISPER:  facing a heavy
+
+[473]
+  WHISPER:  both
+
+[474]
+  WHISPER:  are
+
+[475]
+  OFFICIAL: product
+  WHISPER:  products
+
+[476]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[477]
+  OFFICIAL: aov
+  WHISPER:  uv
+
+[478]
+  OFFICIAL: aov
+  WHISPER:  a uv
+
+[479]
+  OFFICIAL: reacceleration
+  WHISPER:  re acceleration
+
+[480]
+  WHISPER:  we didnt i mean
+
+[481]
+  OFFICIAL: were executing as
+  WHISPER:  we actually couldnt ask
+
+[482]
+  OFFICIAL: planned
+  WHISPER:  plan
+
+[483]
+  OFFICIAL: raised the
+  WHISPER:  raise a
+
+[484]
+  OFFICIAL: marc benioff very good robin washington through
+  WHISPER:  do
+
+[485]
+  OFFICIAL: only
+
+[486]
+  OFFICIAL: brad
+  WHISPER:  brought
+
+[487]
+  OFFICIAL: fy30 marc benioff its such a great question right robin washington
+  its great it covers everything marc benioff
+  WHISPER:  our frithirty
+
+[488]
+  OFFICIAL: into
+  WHISPER:  to
+
+[489]
+  OFFICIAL: page twentytwo of twentyfour robin washington
+
+[490]
+  WHISPER:  you know
+
+[491]
+  OFFICIAL: march
+  WHISPER:  marched
+
+[492]
+  OFFICIAL: fy30
+  WHISPER:  fy thirty
+
+[493]
+  WHISPER:  right
+
+[494]
+  OFFICIAL: as miguel said
+  WHISPER:  is mcgouse that
+
+[495]
+  OFFICIAL: marc benioff
+
+[496]
+  OFFICIAL: mike spencer
+
+[497]
+  OFFICIAL: operator
+
+[498]
+  OFFICIAL: materne
+  WHISPER:  baterne
+
+[499]
+  OFFICIAL: kirk materne
+
+[500]
+  OFFICIAL: wanted
+  WHISPER:  want
+
+[501]
+  OFFICIAL: had
+
+[502]
+  OFFICIAL: wanted
+  WHISPER:  want
+
+[503]
+  OFFICIAL: expect it
+  WHISPER:  expected
+
+[504]
+  OFFICIAL: half of the year thanks marc benioff
+  WHISPER:  after
+
+[505]
+  OFFICIAL: miguel
+
+[506]
+  WHISPER:  a
+
+[507]
+  OFFICIAL: very
+
+[508]
+  OFFICIAL: its
+  WHISPER:  is
+
+[509]
+  OFFICIAL: its
+  WHISPER:  is
+
+[510]
+  OFFICIAL: the
+
+[511]
+  OFFICIAL: ai
+  WHISPER:  a
+
+[512]
+  OFFICIAL: net new aov
+  WHISPER:  nenuv
+
+[513]
+  WHISPER:  you know
+
+[514]
+  OFFICIAL: ncp
+  WHISPER:  ncb
+
+[515]
+  WHISPER:  aov
+
+[516]
+  OFFICIAL: net new aov
+  WHISPER:  nenuv
+
+[517]
+  OFFICIAL: page twentythree of twentyfour srinivas tallapragada
+
+[518]
+  WHISPER:  on the
+
+[519]
+  OFFICIAL: inaudible onesixeighteen
+  WHISPER:  man
+
+[520]
+  WHISPER:  you know
+
+[521]
+  OFFICIAL: especially i see it
+  WHISPER:  special ics
+
+[522]
+  OFFICIAL: picking
+  WHISPER:  speaking
+
+[523]
+  OFFICIAL: slackbot
+  WHISPER:  slack bot
+
+[524]
+  WHISPER:  why
+
+[525]
+  OFFICIAL: and
+  WHISPER:  in
+
+[526]
+  WHISPER:  and
+
+[527]
+  OFFICIAL: oh this
+
+[528]
+  OFFICIAL: all is
+  WHISPER:  always
+
+[529]
+  OFFICIAL: marc benioff
+
+[530]
+  OFFICIAL: patrick stokes
+
+[531]
+  WHISPER:  i mean
+
+[532]
+  WHISPER:  that
+
+[533]
+  WHISPER:  you know
+
+[534]
+  WHISPER:  you know
+
+[535]
+  OFFICIAL: srinivas tallapragada and even the deals right even the deals of
+  WHISPER:  these are
+
+[536]
+  OFFICIAL: patrick stokes
+
+[537]
+  OFFICIAL: srinivas tallapragada
+
+[538]
+  WHISPER:  with
+
+[539]
+  OFFICIAL: driving this as well marc benioff i think
+  WHISPER:  trying to say
+
+[540]
+  WHISPER:  you know
+
+[541]
+  OFFICIAL: in
+  WHISPER:  a
+
+[542]
+  OFFICIAL: page twentyfour of twentyfour
+
+[543]
+  WHISPER:  you know
+
+[544]
+  OFFICIAL: yearoveryear
+  WHISPER:  year of year
+
+[545]
+  WHISPER:  you know
+
+[546]
+  WHISPER:  more
+
+[547]
+  WHISPER:  you
+
+[548]
+  WHISPER:  you know
+
+[549]
+  OFFICIAL: miguel yeah
+
+[550]
+  OFFICIAL: built
+  WHISPER:  build
+
+[551]
+  OFFICIAL: on
+  WHISPER:  and
+
+[552]
+  WHISPER:  i mean
+
+[553]
+  OFFICIAL: thirdparty
+  WHISPER:  third party
+
+[554]
+  OFFICIAL: on
+  WHISPER:  and
+
+[555]
+  OFFICIAL: eightfold yearonyear
+  WHISPER:  eight fold year and year
+
+[556]
+  OFFICIAL: marc benioff
+
+[557]
+  WHISPER:  through
+
+[558]
+  WHISPER:  dollar
+
+[559]
+  WHISPER:  dollar
+
+[560]
+  WHISPER:  dollar
+
+[561]
+  WHISPER:  dollar
+
+[562]
+  OFFICIAL: mike spencer
+
+[563]
+  OFFICIAL: on
+  WHISPER:  in
+
+[564]
+  OFFICIAL: and
+
+[565]
+  OFFICIAL: slackbot
+  WHISPER:  slack bot
+
+[566]
+  OFFICIAL: operator

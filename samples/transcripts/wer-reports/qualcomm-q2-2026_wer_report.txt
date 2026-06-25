@@ -1,0 +1,1660 @@
+WER: 27.5%
+Quality: Poor (> 20%) -- may indicate audio quality issues or heavy jargon
+Official word count: 8348
+Whisper word count: 6970
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+lseg streetevents edited transcript qcomoq q2 two thousand and twentysix
+qualcomm inc earnings call event datetime april twentynine two thousand and
+twentysix eight45pm gmt overview company summary lseg streetevents wwwlsegcom
+contact us ©two thousand and twentysix lseg all rights reserved republication or
+redistribution of lseg content including by framing or similar means is
+prohibited without the prior written consent of lseg lseg and the lseg logo are
+registered trademarks of lseg and its affiliated companies corporate
+participants brett simpson qualcomm inc senior vice president of investor
+relations cristiano amon qualcomm inc president and chief executive officer
+akash palkhiwala qualcomm inc chief financial officer and chief operating
+officer conference call participants joshua buchalter cowen and company llc
+analyst samik chatterjee jpmorgan chase co analyst chris caso wolfe research llc
+analyst stacy rasgon sanford c bernstein co llc analyst timothy arcuri ubs ag
+analyst jose
+
+WHISPER (first 1000 chars):
+ladies and gentlemen thank you for standing by welcome to the qualcomm second
+quarter fiscal twentytwentysix earnings conference call at this time all
+participants are in listen only mode later well conduct a question and answer
+session if youd like to ask a question during this time press star then the
+number one on your telephone keypad to withdraw your question press star then
+the number two if youre using a speaker phone please pick up your handset before
+pressing the numbers please enter your questions to one question and one
+followup as your reminder this conference is being recorded april 29th two
+thousand and twentysix playback number for todays call is eight hundred and
+seventysevensix hundred and sixtysix thousand eight hundred and fiftythree
+international callers please dial two hundred and onesix hundred and twelveseven
+thousand four hundred and fifteen playback reservation number is one hundred and
+thirtysevenfiftyninefive hundred and fiftyone i would now lets turn the cal
+
+ALIGNED DIFFERENCES (all 397, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: lseg streetevents edited transcript qcomoq q2 two thousand and
+  twentysix qualcomm inc earnings call event datetime april twentynine two
+  thousand and twentysix eight45pm gmt overview company summary lseg
+  streetevents wwwlsegcom contact us ©two thousand and twentysix lseg all rights
+  reserved republication or redistribution of lseg content including by framing
+  or similar means is prohibited without the prior written consent of lseg lseg
+  and the lseg logo are registered trademarks of lseg and its affiliated
+  companies corporate participants brett simpson qualcomm inc senior vice
+  president of investor relations cristiano amon qualcomm inc president and
+  chief executive officer akash palkhiwala qualcomm inc chief financial officer
+  and chief operating officer conference call participants joshua buchalter
+  cowen and company llc analyst samik chatterjee jpmorgan chase co analyst chris
+  caso wolfe research llc analyst stacy rasgon sanford c bernstein co llc
+  analyst timothy arcuri ubs ag analyst joseph moore morgan stanley co ltd
+  analyst ross seymore deutsche bank securities inc analyst vivek arya bofa
+  merrill lynch asset holdings inc analyst presentation operator
+
+[2]
+  OFFICIAL: secondquarter
+  WHISPER:  second quarter
+
+[3]
+  OFFICIAL: two thousand and twentysix
+  WHISPER:  twentytwentysix
+
+[4]
+  OFFICIAL: operator instructions
+  WHISPER:  at this time all participants are in listen only mode later well
+  conduct a question and answer session if youd like to ask a question during
+  this time press star then the number one on your telephone keypad to withdraw
+  your question press star then the number two if youre using a speaker phone
+  please pick up your handset before pressing the numbers please enter your
+  questions to one question and one followup
+
+[5]
+  OFFICIAL: a
+  WHISPER:  your
+
+[6]
+  OFFICIAL: twentynine
+  WHISPER:  29th
+
+[7]
+  OFFICIAL: seventyseven six
+  WHISPER:  seventysevensix
+
+[8]
+  OFFICIAL: one six
+  WHISPER:  onesix
+
+[9]
+  OFFICIAL: thirteen million seven
+  WHISPER:  one
+
+[10]
+  OFFICIAL: fiftynine thousand five
+  WHISPER:  thirtysevenfiftyninefive
+
+[11]
+  OFFICIAL: like to
+  WHISPER:  lets
+
+[12]
+  OFFICIAL: brett simpson qualcomm inc senior vice president of investor
+  relations
+
+[13]
+  OFFICIAL: amon
+  WHISPER:  amón
+
+[14]
+  OFFICIAL: palkhiwala
+  WHISPER:  palkwala
+
+[15]
+  OFFICIAL: questionandanswer
+  WHISPER:  question and answer
+
+[16]
+  WHISPER:  will
+
+[17]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[18]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[19]
+  OFFICIAL: tenq
+  WHISPER:  10q
+
+[20]
+  OFFICIAL: amon two lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  cristiano amon qualcomm inc president and chief executive officer
+  WHISPER:  amón
+
+[21]
+  OFFICIAL: and nongaap
+  WHISPER:  in nongap
+
+[22]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[23]
+  OFFICIAL: workload
+  WHISPER:  workloads
+
+[24]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[25]
+  OFFICIAL: fuel
+  WHISPER:  few
+
+[26]
+  OFFICIAL: installed
+  WHISPER:  install
+
+[27]
+  OFFICIAL: worlds bestperforming
+  WHISPER:  words best performing
+
+[28]
+  OFFICIAL: auto
+  WHISPER:  iot
+
+[29]
+  OFFICIAL: empower
+  WHISPER:  and power
+
+[30]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[31]
+  OFFICIAL: stepfunction
+  WHISPER:  step function
+
+[32]
+  OFFICIAL: fiscal
+  WHISPER:  cisco
+
+[33]
+  OFFICIAL: assistance
+  WHISPER:  assistant
+
+[34]
+  OFFICIAL: adas and autonomy
+  WHISPER:  adassen economy
+
+[35]
+  OFFICIAL: fifthgeneration
+  WHISPER:  fifth generation
+
+[36]
+  OFFICIAL: adas were
+  WHISPER:  adass where
+
+[37]
+  OFFICIAL: with
+  WHISPER:  of
+
+[38]
+  OFFICIAL: announcement
+  WHISPER:  announcements
+
+[39]
+  OFFICIAL: wayve
+  WHISPER:  wave
+
+[40]
+  OFFICIAL: and
+  WHISPER:  in
+
+[41]
+  OFFICIAL: adas
+  WHISPER:  adass
+
+[42]
+  OFFICIAL: edge ai
+  WHISPER:  adjai
+
+[43]
+  OFFICIAL: qualcomm’s
+  WHISPER:  qualcomms
+
+[44]
+  OFFICIAL: new smart
+  WHISPER:  newest more
+
+[45]
+  OFFICIAL: the
+  WHISPER:  a
+
+[46]
+  OFFICIAL: x2 pc
+  WHISPER:  x2pc
+
+[47]
+  OFFICIAL: oryon
+  WHISPER:  orion
+
+[48]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[49]
+  OFFICIAL: hermes
+  WHISPER:  airmiss
+
+[50]
+  OFFICIAL: landgraph
+  WHISPER:  land graph
+
+[51]
+  OFFICIAL: humain
+  WHISPER:  humane
+
+[52]
+  OFFICIAL: are
+  WHISPER:  or
+
+[53]
+  OFFICIAL: three lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+
+[54]
+  OFFICIAL: that
+  WHISPER:  the
+
+[55]
+  OFFICIAL: “serious challenger”
+  WHISPER:  serious challenger
+
+[56]
+  OFFICIAL: “the
+  WHISPER:  quote the
+
+[57]
+  OFFICIAL: pace”
+  WHISPER:  pace unquote
+
+[58]
+  OFFICIAL: hexagon
+  WHISPER:  exagon
+
+[59]
+  OFFICIAL: for
+  WHISPER:  four
+
+[60]
+  OFFICIAL: industryleading
+  WHISPER:  industry leading
+
+[61]
+  OFFICIAL: panther
+  WHISPER:  penter
+
+[62]
+  OFFICIAL: dragonwing
+  WHISPER:  dragon wing
+
+[63]
+  OFFICIAL: featuring
+  WHISPER:  feature
+
+[64]
+  OFFICIAL: ondevice
+  WHISPER:  own device
+
+[65]
+  OFFICIAL: and
+  WHISPER:  in
+
+[66]
+  OFFICIAL: neura
+  WHISPER:  nura
+
+[67]
+  OFFICIAL: worldclass
+  WHISPER:  wordclass
+
+[68]
+  OFFICIAL: key
+  WHISPER:  k
+
+[69]
+  OFFICIAL: purpose built
+  WHISPER:  purposebuilt
+
+[70]
+  OFFICIAL: sovereign
+  WHISPER:  southern
+
+[71]
+  OFFICIAL: highperformance
+  WHISPER:  high performance
+
+[72]
+  OFFICIAL: sellthrough
+  WHISPER:  celltrue
+
+[73]
+  OFFICIAL: agentic smartphone
+  WHISPER:  agent smart phones
+
+[74]
+  OFFICIAL: premium tier
+  WHISPER:  prementeer
+
+[75]
+  OFFICIAL: theme
+  WHISPER:  team
+
+[76]
+  OFFICIAL: bytedancedoubaopowered agentic
+  WHISPER:  bidens dow baopowered agent
+
+[77]
+  WHISPER:  a
+
+[78]
+  OFFICIAL: agenticassist
+  WHISPER:  agent
+
+[79]
+  OFFICIAL: tailwind
+  WHISPER:  day wind
+
+[80]
+  OFFICIAL: –
+
+[81]
+  OFFICIAL: designed
+  WHISPER:  design
+
+[82]
+  OFFICIAL: we
+  WHISPER:  will
+
+[83]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[84]
+  OFFICIAL: see
+  WHISPER:  c
+
+[85]
+  OFFICIAL: ainative
+  WHISPER:  ai native
+
+[86]
+  OFFICIAL: these
+  WHISPER:  this
+
+[87]
+  OFFICIAL: lowaltitude like
+  WHISPER:  low altitude are
+
+[88]
+  OFFICIAL: wins
+  WHISPER:  twins
+
+[89]
+  OFFICIAL: –
+
+[90]
+  OFFICIAL: radio
+  WHISPER:  radar
+
+[91]
+  OFFICIAL: wide area
+  WHISPER:  widearea
+
+[92]
+  OFFICIAL: four lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+
+[93]
+  OFFICIAL: launched
+  WHISPER:  launch
+
+[94]
+  OFFICIAL: spinning
+  WHISPER:  spanning
+
+[95]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer
+
+[96]
+  OFFICIAL: cristiano
+  WHISPER:  kishiano
+
+[97]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[98]
+  OFFICIAL: remain
+  WHISPER:  remained
+
+[99]
+  OFFICIAL: builds
+  WHISPER:  bills
+
+[100]
+  OFFICIAL: adas
+  WHISPER:  8s
+
+[101]
+  OFFICIAL: 4th
+  WHISPER:  fourth
+
+[102]
+  OFFICIAL: year over year
+  WHISPER:  yearoveryear
+
+[103]
+  OFFICIAL: share repurchases
+  WHISPER:  cherry purchases
+
+[104]
+  OFFICIAL: million
+  WHISPER:  billion
+
+[105]
+  OFFICIAL: gaap
+  WHISPER:  gap
+
+[106]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[107]
+  OFFICIAL: and
+  WHISPER:  in
+
+[108]
+  OFFICIAL: handset
+  WHISPER:  handsout
+
+[109]
+  OFFICIAL: and
+
+[110]
+  OFFICIAL: handset
+  WHISPER:  handsout
+
+[111]
+  OFFICIAL: endconsumer handset
+  WHISPER:  end consumer handsout
+
+[112]
+  OFFICIAL: handset
+  WHISPER:  handsout
+
+[113]
+  OFFICIAL: billion
+
+[114]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[115]
+  OFFICIAL: billion
+
+[116]
+  WHISPER:  percent
+
+[117]
+  OFFICIAL: handset
+  WHISPER:  handsout
+
+[118]
+  OFFICIAL: billion
+
+[119]
+  WHISPER:  percent
+
+[120]
+  OFFICIAL: handset
+  WHISPER:  handsout
+
+[121]
+  OFFICIAL: highsingle
+  WHISPER:  high single
+
+[122]
+  OFFICIAL: five lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+
+[123]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[124]
+  WHISPER:  percent
+
+[125]
+  OFFICIAL: nongaap
+  WHISPER:  nongap
+
+[126]
+  OFFICIAL: were
+  WHISPER:  we are
+
+[127]
+  OFFICIAL: agentic
+  WHISPER:  agentec
+
+[128]
+  OFFICIAL: and iot
+  WHISPER:  minority
+
+[129]
+  OFFICIAL: –
+
+[130]
+  OFFICIAL: our
+  WHISPER:  a
+
+[131]
+  OFFICIAL: twentyfour
+  WHISPER:  24th
+
+[132]
+  OFFICIAL: brett brett simpson qualcomm inc senior vice president of investor
+  relations
+  WHISPER:  brad
+
+[133]
+  OFFICIAL: operator
+  WHISPER:  all prior
+
+[134]
+  WHISPER:  thank you to queue a question press star then the number one to
+  destroy your question press star then number two if you speak your phone
+  please pick up your handset before pressing the numbers well know in place for
+  the first question our first question comes from the line of joshua buckhulter
+  with td cowan please just see your three
+
+[135]
+  OFFICIAL: and answers operator operator instructions joshua buchalter td cowen
+  joshua buchalter cowen and company llc analyst
+
+[136]
+  OFFICIAL: or
+  WHISPER:  on our
+
+[137]
+  OFFICIAL: just
+
+[138]
+  OFFICIAL: prepared
+  WHISPER:  prepare
+
+[139]
+  WHISPER:  it
+
+[140]
+  OFFICIAL: as
+  WHISPER:  if
+
+[141]
+  OFFICIAL: dig in
+  WHISPER:  begin
+
+[142]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[143]
+  OFFICIAL: is cristiano thanks
+  WHISPER:  question i think its
+
+[144]
+  OFFICIAL: the
+  WHISPER:  a
+
+[145]
+  OFFICIAL: front run
+  WHISPER:  frontrun
+
+[146]
+  OFFICIAL: the
+
+[147]
+  OFFICIAL: and weve been
+  WHISPER:  in the
+
+[148]
+  OFFICIAL: our
+  WHISPER:  or
+
+[149]
+  OFFICIAL: we have accelerator
+
+[150]
+  OFFICIAL: we’ve talked
+  WHISPER:  we talk
+
+[151]
+  OFFICIAL: an
+
+[152]
+  OFFICIAL: pleased
+  WHISPER:  please
+
+[153]
+  OFFICIAL: and
+
+[154]
+  OFFICIAL: given
+  WHISPER:  giving
+
+[155]
+  OFFICIAL: so
+
+[156]
+  OFFICIAL: and
+
+[157]
+  OFFICIAL: six lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  joshua buchalter cowen and company llc analyst okay
+
+[158]
+  OFFICIAL: for
+  WHISPER:  to
+
+[159]
+  OFFICIAL: you were
+  WHISPER:  youre
+
+[160]
+  OFFICIAL: youre
+  WHISPER:  are
+
+[161]
+  OFFICIAL: i mean thats typically
+
+[162]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer
+
+[163]
+  OFFICIAL: akash so
+  WHISPER:  a cash
+
+[164]
+  OFFICIAL: and
+
+[165]
+  OFFICIAL: we have
+  WHISPER:  weve
+
+[166]
+  OFFICIAL: mid low
+  WHISPER:  midlow
+
+[167]
+  OFFICIAL: but
+
+[168]
+  OFFICIAL: builds
+  WHISPER:  bills
+
+[169]
+  OFFICIAL: so
+
+[170]
+  OFFICIAL: drawdown
+  WHISPER:  drawnon
+
+[171]
+  OFFICIAL: drawdown
+  WHISPER:  drawnon
+
+[172]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[173]
+  OFFICIAL: cristiano
+  WHISPER:  christian
+
+[174]
+  OFFICIAL: sellthrough we know
+
+[175]
+  OFFICIAL: with
+  WHISPER:  when
+
+[176]
+  OFFICIAL: prices
+  WHISPER:  price
+
+[177]
+  OFFICIAL: gave
+  WHISPER:  gives
+
+[178]
+  OFFICIAL: outlined
+  WHISPER:  outline
+
+[179]
+  WHISPER:  kind of
+
+[180]
+  OFFICIAL: operator samik chatterjee jpmorgan samik chatterjee jpmorgan chase
+  co analyst
+  WHISPER:  our next question comes from the line of to make strategy with jp
+  morgan please just use your questions
+
+[181]
+  OFFICIAL: cristiano
+  WHISPER:  christian
+
+[182]
+  WHISPER:  sort of
+
+[183]
+  OFFICIAL: arm
+
+[184]
+  WHISPER:  an
+
+[185]
+  OFFICIAL: announce
+  WHISPER:  announced
+
+[186]
+  OFFICIAL: inferencing
+  WHISPER:  influencing
+
+[187]
+  OFFICIAL: related to
+  WHISPER:  rated
+
+[188]
+  WHISPER:  sort of
+
+[189]
+  WHISPER:  on
+
+[190]
+  OFFICIAL: seven lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  cristiano amon qualcomm inc president and chief executive officer
+  WHISPER:  great
+
+[191]
+  WHISPER:  it
+
+[192]
+  WHISPER:  kind of
+
+[193]
+  OFFICIAL: gpucentric
+  WHISPER:  gpucentered
+
+[194]
+  OFFICIAL: infra started gain scale
+  WHISPER:  infr
+
+[195]
+  OFFICIAL: gain
+  WHISPER:  game
+
+[196]
+  OFFICIAL: we
+  WHISPER:  you
+
+[197]
+  OFFICIAL: bound
+  WHISPER:  bounds
+
+[198]
+  OFFICIAL: from
+  WHISPER:  for
+
+[199]
+  OFFICIAL: bound
+  WHISPER:  bounds
+
+[200]
+  OFFICIAL: i will
+  WHISPER:  ill
+
+[201]
+  OFFICIAL: is
+
+[202]
+  OFFICIAL: inferencegenerating
+  WHISPER:  inference generating
+
+[203]
+  OFFICIAL: they
+  WHISPER:  that
+
+[204]
+  OFFICIAL: at
+  WHISPER:  of
+
+[205]
+  OFFICIAL: in
+  WHISPER:  and
+
+[206]
+  OFFICIAL: could
+  WHISPER:  can
+
+[207]
+  OFFICIAL: are
+  WHISPER:  were
+
+[208]
+  OFFICIAL: weve
+  WHISPER:  we
+
+[209]
+  OFFICIAL: with
+  WHISPER:  we have
+
+[210]
+  OFFICIAL: it performs
+  WHISPER:  perform
+
+[211]
+  OFFICIAL: highperformance
+  WHISPER:  high performance
+
+[212]
+  OFFICIAL: yields
+  WHISPER:  yield
+
+[213]
+  OFFICIAL: its
+  WHISPER:  it is
+
+[214]
+  WHISPER:  the
+
+[215]
+  OFFICIAL: groq
+  WHISPER:  grok
+
+[216]
+  OFFICIAL: cerebras
+  WHISPER:  cibribros
+
+[217]
+  OFFICIAL: would
+  WHISPER:  will
+
+[218]
+  OFFICIAL: openclaw
+  WHISPER:  open claw
+
+[219]
+  OFFICIAL: highperformance
+  WHISPER:  high performance
+
+[220]
+  OFFICIAL: investors will
+  WHISPER:  if after well
+
+[221]
+  OFFICIAL: samik chatterjee jpmorgan chase co analyst yeah
+  WHISPER:  yes
+
+[222]
+  OFFICIAL: day
+  WHISPER:  today
+
+[223]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[224]
+  WHISPER:  sort of
+
+[225]
+  OFFICIAL: the stepdown in
+  WHISPER:  those step down and
+
+[226]
+  WHISPER:  sort of
+
+[227]
+  OFFICIAL: or
+
+[228]
+  WHISPER:  sort of
+
+[229]
+  OFFICIAL: eight lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  cristiano amon qualcomm inc president and chief executive officer
+
+[230]
+  OFFICIAL: the
+  WHISPER:  this
+
+[231]
+  WHISPER:  a
+
+[232]
+  OFFICIAL: we
+  WHISPER:  well
+
+[233]
+  OFFICIAL: that
+
+[234]
+  OFFICIAL: relationship
+  WHISPER:  relationships
+
+[235]
+  OFFICIAL: of
+  WHISPER:  on
+
+[236]
+  OFFICIAL: operator
+  WHISPER:  our next question is from the line of
+
+[237]
+  OFFICIAL: caso wolfe
+  WHISPER:  k so with well
+
+[238]
+  OFFICIAL: chris caso wolfe research llc analyst
+  WHISPER:  please receive three questions
+
+[239]
+  OFFICIAL: hi
+  WHISPER:  i
+
+[240]
+  OFFICIAL: is
+  WHISPER:  if
+
+[241]
+  OFFICIAL: hyperscale
+  WHISPER:  hyperscaler
+
+[242]
+  OFFICIAL: cpu
+  WHISPER:  ctu
+
+[243]
+  OFFICIAL: your
+  WHISPER:  youre
+
+[244]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[245]
+  OFFICIAL: were working
+  WHISPER:  we work in
+
+[246]
+  OFFICIAL: chris caso wolfe research llc analyst
+
+[247]
+  WHISPER:  you know
+
+[248]
+  WHISPER:  kind of
+
+[249]
+  OFFICIAL: in
+  WHISPER:  on
+
+[250]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer yes
+  WHISPER:  yeah
+
+[251]
+  OFFICIAL: its akash
+  WHISPER:  thats a cash
+
+[252]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[253]
+  WHISPER:  then
+
+[254]
+  WHISPER:  kind of
+
+[255]
+  OFFICIAL: mid low
+  WHISPER:  midlow
+
+[256]
+  OFFICIAL: a
+  WHISPER:  our
+
+[257]
+  OFFICIAL: operator
+  WHISPER:  the next question is from the line of
+
+[258]
+  OFFICIAL: rasgon
+  WHISPER:  raskin with
+
+[259]
+  OFFICIAL: nine lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo
+  WHISPER:  lets see if there
+
+[260]
+  OFFICIAL: registered trademarks of lseg and its affiliated companies april
+  twentynine two thousand and twentysix eight45pm qcomoq q2 two thousand and
+  twentysix qualcomm inc earnings call stacy rasgon sanford c bernstein co llc
+  analyst
+  WHISPER:  questions
+
+[261]
+  OFFICIAL: that
+  WHISPER:  thats
+
+[262]
+  OFFICIAL: in the
+  WHISPER:  into
+
+[263]
+  WHISPER:  kind of
+
+[264]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer
+
+[265]
+  WHISPER:  of kind
+
+[266]
+  OFFICIAL: the
+  WHISPER:  they
+
+[267]
+  OFFICIAL: stacy rasgon sanford c bernstein co llc analyst i mean
+  WHISPER:  do you think
+
+[268]
+  OFFICIAL: growing
+  WHISPER:  grow
+
+[269]
+  OFFICIAL: factors akash palkhiwala qualcomm inc chief financial officer and
+  chief operating officer
+  WHISPER:  things
+
+[270]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[271]
+  OFFICIAL: stacy rasgon sanford c bernstein co llc analyst
+
+[272]
+  OFFICIAL: by
+  WHISPER:  but theyre
+
+[273]
+  OFFICIAL: a headwind do
+  WHISPER:  when
+
+[274]
+  OFFICIAL: memory
+  WHISPER:  memories
+
+[275]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[276]
+  WHISPER:  i think
+
+[277]
+  OFFICIAL: demand
+  WHISPER:  demands
+
+[278]
+  OFFICIAL: and
+
+[279]
+  OFFICIAL: in
+  WHISPER:  and
+
+[280]
+  OFFICIAL: and
+  WHISPER:  in
+
+[281]
+  OFFICIAL: starting to
+  WHISPER:  start into
+
+[282]
+  OFFICIAL: which is
+  WHISPER:  with just
+
+[283]
+  OFFICIAL: they
+  WHISPER:  that
+
+[284]
+  OFFICIAL: and
+
+[285]
+  OFFICIAL: operator
+  WHISPER:  the next question is from the line of
+
+[286]
+  OFFICIAL: arcuri
+  WHISPER:  a curie with
+
+[287]
+  OFFICIAL: ten lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  timothy arcuri ubs ag analyst
+  WHISPER:  please just see your questions
+
+[288]
+  OFFICIAL: wanted
+  WHISPER:  want
+
+[289]
+  WHISPER:  sort of
+
+[290]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[291]
+  OFFICIAL: i have
+
+[292]
+  OFFICIAL: past
+  WHISPER:  best
+
+[293]
+  OFFICIAL: alphawave
+  WHISPER:  a wave
+
+[294]
+  OFFICIAL: our
+  WHISPER:  or
+
+[295]
+  OFFICIAL: a
+
+[296]
+  OFFICIAL: agreements
+  WHISPER:  agreement
+
+[297]
+  OFFICIAL: customer wins
+  WHISPER:  customers win
+
+[298]
+  OFFICIAL: timothy arcuri ubs ag analyst
+  WHISPER:  thanks a lot
+
+[299]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[300]
+  OFFICIAL: in
+  WHISPER:  at
+
+[301]
+  OFFICIAL: there are
+  WHISPER:  theres
+
+[302]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer yes
+  WHISPER:  thanks yeah
+
+[303]
+  OFFICIAL: tim
+
+[304]
+  OFFICIAL: said
+  WHISPER:  set
+
+[305]
+  OFFICIAL: sellside
+  WHISPER:  sell side
+
+[306]
+  WHISPER:  dollars
+
+[307]
+  OFFICIAL: operator
+  WHISPER:  very nice question sir from the line of
+
+[308]
+  WHISPER:  it was
+
+[309]
+  OFFICIAL: joseph moore morgan stanley co ltd analyst
+  WHISPER:  please see their question yeah
+
+[310]
+  OFFICIAL: you
+  WHISPER:  youre
+
+[311]
+  OFFICIAL: as
+  WHISPER:  is
+
+[312]
+  OFFICIAL: is that
+  WHISPER:  and you know its not
+
+[313]
+  WHISPER:  sort of
+
+[314]
+  WHISPER:  sort of
+
+[315]
+  WHISPER:  sort of
+
+[316]
+  OFFICIAL: high tier
+  WHISPER:  heart here
+
+[317]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer
+
+[318]
+  OFFICIAL: sits
+  WHISPER:  sets
+
+[319]
+  OFFICIAL: eleven lseg streetevents wwwlsegcom contact us ©two thousand
+  WHISPER:  okay
+
+[320]
+  OFFICIAL: twentysix lseg all rights reserved republication or redistribution
+  of lseg content including by framing or similar means is prohibited without
+  the prior written consent of lseg lseg and the lseg logo are registered
+  trademarks of lseg and its affiliated companies april twentynine two thousand
+  and twentysix eight45pm qcomoq q2 two thousand and twentysix qualcomm inc
+  earnings call joseph moore morgan stanley co ltd analyst okay
+  WHISPER:  thank you
+
+[321]
+  OFFICIAL: 6g in
+  WHISPER:  6p and
+
+[322]
+  OFFICIAL: time frame
+  WHISPER:  timeframe
+
+[323]
+  WHISPER:  sort of
+
+[324]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[325]
+  OFFICIAL: g’s
+  WHISPER:  gs
+
+[326]
+  OFFICIAL: sovereign
+  WHISPER:  southern
+
+[327]
+  OFFICIAL: prototype base
+  WHISPER:  prototypebased
+
+[328]
+  WHISPER:  two thousand and
+
+[329]
+  OFFICIAL: scale
+  WHISPER:  scaled
+
+[330]
+  OFFICIAL: operator ross seymore
+  WHISPER:  great thank you our next question is from the line of russ seymour
+  with
+
+[331]
+  OFFICIAL: ross seymore deutsche bank securities inc analyst
+  WHISPER:  please just hear your questions
+
+[332]
+  OFFICIAL: letting
+  WHISPER:  let
+
+[333]
+  OFFICIAL: undershipping
+  WHISPER:  under shipping
+
+[334]
+  OFFICIAL: fears akash palkhiwala qualcomm inc chief financial officer and
+  chief operating officer yes ross
+  WHISPER:  fairs yeah russ
+
+[335]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[336]
+  OFFICIAL: the
+
+[337]
+  OFFICIAL: midlow tiers
+  WHISPER:  midload years
+
+[338]
+  OFFICIAL: drawdown
+  WHISPER:  draw down
+
+[339]
+  OFFICIAL: ross seymore deutsche bank securities inc analyst
+
+[340]
+  OFFICIAL: so
+
+[341]
+  OFFICIAL: the
+  WHISPER:  this
+
+[342]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[343]
+  OFFICIAL: it accelerates
+  WHISPER:  adas celebrates
+
+[344]
+  OFFICIAL: if you and
+  WHISPER:  in
+
+[345]
+  OFFICIAL: is
+  WHISPER:  its
+
+[346]
+  WHISPER:  i think
+
+[347]
+  OFFICIAL: twelve lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+
+[348]
+  OFFICIAL: its
+  WHISPER:  is
+
+[349]
+  OFFICIAL: in
+  WHISPER:  of
+
+[350]
+  OFFICIAL: start
+  WHISPER:  started
+
+[351]
+  OFFICIAL: in
+  WHISPER:  and
+
+[352]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer and
+
+[353]
+  OFFICIAL: id
+  WHISPER:  the
+
+[354]
+  OFFICIAL: maybe
+  WHISPER:  may be
+
+[355]
+  OFFICIAL: were
+
+[356]
+  OFFICIAL: chipset
+  WHISPER:  chip set
+
+[357]
+  OFFICIAL: netnet
+  WHISPER:  net net
+
+[358]
+  OFFICIAL: outlined operator
+  WHISPER:  are aligned thank you our last question this is from the line of
+
+[359]
+  OFFICIAL: arya
+  WHISPER:  aria with
+
+[360]
+  OFFICIAL: vivek arya bofa merrill lynch asset holdings inc analyst
+  WHISPER:  please just see your questions
+
+[361]
+  OFFICIAL: akash
+  WHISPER:  i guess
+
+[362]
+  OFFICIAL: product sales
+  WHISPER:  products is
+
+[363]
+  WHISPER:  kind of you know
+
+[364]
+  OFFICIAL: negotiating
+  WHISPER:  renegotiating
+
+[365]
+  OFFICIAL: akash palkhiwala qualcomm inc chief financial officer and chief
+  operating officer yes
+  WHISPER:  yeah
+
+[366]
+  OFFICIAL: pending
+  WHISPER:  bending
+
+[367]
+  OFFICIAL: vivek arya bofa merrill lynch asset holdings inc analyst
+  WHISPER:  okay
+
+[368]
+  OFFICIAL: for
+  WHISPER:  from
+
+[369]
+  OFFICIAL: followup
+  WHISPER:  follow up
+
+[370]
+  OFFICIAL: the
+  WHISPER:  this
+
+[371]
+  WHISPER:  you know
+
+[372]
+  OFFICIAL: headon
+  WHISPER:  head on
+
+[373]
+  WHISPER:  kind of
+
+[374]
+  WHISPER:  you know
+
+[375]
+  WHISPER:  kind of
+
+[376]
+  OFFICIAL: gotomarket
+  WHISPER:  go to market
+
+[377]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[378]
+  OFFICIAL: that
+
+[379]
+  OFFICIAL: is
+  WHISPER:  its
+
+[380]
+  WHISPER:  had
+
+[381]
+  OFFICIAL: a
+
+[382]
+  OFFICIAL: of
+  WHISPER:  on
+
+[383]
+  OFFICIAL: thirteen lseg streetevents wwwlsegcom contact us ©two thousand and
+  twentysix lseg all rights reserved republication or redistribution of lseg
+  content including by framing or similar means is prohibited without the prior
+  written consent of lseg lseg and the lseg logo are registered trademarks of
+  lseg and its affiliated companies april twentynine two thousand and twentysix
+  eight45pm qcomoq q2 two thousand and twentysix qualcomm inc earnings call
+  akash palkhiwala qualcomm inc chief financial officer and chief operating
+  officer
+
+[384]
+  OFFICIAL: your
+  WHISPER:  a
+
+[385]
+  OFFICIAL: accretive
+  WHISPER:  a creative
+
+[386]
+  OFFICIAL: operator
+
+[387]
+  OFFICIAL: questionandanswer
+  WHISPER:  question answer
+
+[388]
+  OFFICIAL: amon
+  WHISPER:  ramon
+
+[389]
+  OFFICIAL: a before adjourning
+  WHISPER:  add for joining
+
+[390]
+  OFFICIAL: cristiano amon qualcomm inc president and chief executive officer
+
+[391]
+  OFFICIAL: twentyfour
+  WHISPER:  24th
+
+[392]
+  OFFICIAL: experience exactly
+  WHISPER:  experiences actually
+
+[393]
+  OFFICIAL: a broad
+  WHISPER:  brought
+
+[394]
+  OFFICIAL: im looking
+  WHISPER:  i look
+
+[395]
+  WHISPER:  thank
+
+[396]
+  OFFICIAL: operator
+
+[397]
+  OFFICIAL: disclaimer lseg reserves the right to make changes to documents
+  content or other information on this web site without obligation to notify any
+  person of such changes in the conference calls upon which event transcripts
+  are based companies may make projections or other forwardlooking statements
+  regarding a variety of items such forwardlooking statements are based upon
+  current expectations and involve risks and uncertainties actual results may
+  differ materially from those stated in any forwardlooking statement based on a
+  number of important factors and risks which are more specifically identified
+  in the companies most recent sec filings although the companies may indicate
+  and believe that the assumptions underlying the forwardlooking statements are
+  reasonable any of the assumptions could prove inaccurate or incorrect and
+  therefore there can be no assurance that the results contemplated in the
+  forwardlooking statements will be realized the information contained in event
+  transcripts is a textual representation of the applicable companys conference
+  call and while efforts are made to provide an accurate transcription there may
+  be material errors omissions or inaccuracies in the reporting of the substance
+  of the conference calls in no way does lseg or the applicable company assume
+  any responsibility for any investment or other decisions made based upon the
+  information provided on this web site or in any event transcript users are
+  advised to review the applicable companys conference call itself and the
+  applicable companys sec filings before making any investment or other
+  decisions ©two thousand and twentysix lseg all rights reserved sixteen million
+  seven hundred and twelve thousand and thirtyseventwo thousand and
+  twentysixfive01t01twentyonezero point nine five three fourteen lseg
+  streetevents wwwlsegcom contact us ©two thousand and twentysix lseg all rights
+  reserved republication or redistribution of lseg content including by framing
+  or similar means is prohibited without the prior written consent of lseg lseg
+  and the lseg logo are registered trademarks of lseg and its affiliated
+  companies april twentynine two thousand and twentysix eight45pm qcomoq q2 two
+  thousand and twentysix qualcomm inc earnings call

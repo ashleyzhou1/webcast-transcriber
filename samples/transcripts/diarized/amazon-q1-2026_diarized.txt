@@ -1,0 +1,790 @@
+I now have all the information needed to annotate the transcript. Here is a summary of confirmed speakers:
+
+- **OPERATOR** – opens the call, conducts Q&A transitions
+- **Dave Fildes** – VP, Investor Relations (Whisper transcribed as "Dave Files" — corrected in label only)
+- **Andy Jassy** – CEO (Andrew R. Jassy)
+- **Brian Olsavsky** – CFO (Whisper transcribed as "Brian Osofsky" — corrected in label only)
+- **Eric Sheridan** – Analyst, Goldman Sachs
+- **Brian Nowak** – Analyst, Morgan Stanley
+- **Justin Post** – Analyst, Bank of America
+- **Rob Sanderson** – Analyst, Loop Capital Markets (Whisper transcribed as "Luke Capital Markets" — corrected in label only)
+- **Shweta Khajuria** – Analyst, Wolfe Research (Whisper transcribed as "Schweta, Kajuria with Wolf Research" — corrected in label only)
+- **Colin Sebastian** – Analyst, Baird
+
+---
+
+[OPERATOR]:
+[00:00] Thank you for standing by.
+[00:01] Good day, everyone, and welcome to the Amazon.com first quarter
+[00:05] 2026 Financial Results teleconference.
+[00:08] At this time, all participants are in a listen-only mode.
+[00:11] After the presentation, we will conduct a question and answer session.
+[00:15] Today's call is being recorded.
+
+[00:17] And for opening remarks, I will be turning the call over to the Vice President of
+[00:20] Investor Relations, Mr. Dave Files.
+[00:23] Thank you, sir. Please go ahead.
+
+[DAVE FILDES - VP, INVESTOR RELATIONS]:
+[00:26] Hello, and welcome to our Q1 2026 Financial Results Conference Call.
+[00:31] Joining us today to answer your questions is Andy Jassy, our CEO, and Brian
+[00:35] Osofsky, our CFO.
+
+[00:37] As you listen to today's conference call, we encourage you to have our press
+[00:40] release in front of you, which includes our financial results, as well as metrics
+[00:43] and commentary on the quarter.
+[00:45] Please note, unless otherwise stated, all comparisons in this call will be
+[00:48] against our results for the comparable period of 2025.
+[00:52] Our comments and responses to your questions reflect management views as of
+
+[00:55] today, April 29, 2026 only, and will include forward-looking statements.
+[01:01] Actual results made differ materially.
+[01:04] Additional information about factors that could potentially impact our
+[01:07] financial results is included in today's press release and our filings with the
+[01:10] SEC, including our most recent annual report on Form 10K and subsequent filings.
+[01:16] During this call, we may discuss certain non-gap financial measures.
+
+[01:19] In our press release, slides accompanying this webcast and our filings with the SEC,
+[01:23] each of which is posted on our IR website.
+[01:26] You will find additional disclosures regarding these non-gap measures,
+[01:29] including reconciliations of these measures with comparable gap measures.
+[01:33] Our guidance incorporates the order trends that we've seen today and what we
+[01:36] believe today to be appropriate assumptions.
+
+[01:39] Our results are inherently unpredictable and may be materially affected by many
+[01:42] factors, including fluctuations in foreign exchange rates and energy prices,
+[01:47] changes in global economic and geopolitical conditions, tariff and trade policies,
+[01:52] resource and supply volatility, including for memory chips, and customer demand and
+[01:56] spending, including the impact of recessionary fears.
+[01:59] Inflation, interest rates, regional labor market constraints, world events,
+
+[02:03] the rate of growth of the internet, online commerce, cloud services, and new and
+[02:07] emerging technologies, and the various factors detailed in our filings with the SEC.
+[02:12] Our guidance assumes, among other things, that we don't conclude any additional
+[02:15] business acquisitions, restructurings, or legal settlements.
+[02:19] It's not possible to accurately predict demand for our goods and services,
+[02:22] and therefore our actual results could differ materially from our guidance.
+
+[02:26] And now I'll turn the call over to Andy.
+
+[ANDY JASSY - CEO]:
+[02:28] Thanks, Dave.
+[02:29] We're reporting $101.5 billion in revenue up 17% year over year,
+[02:35] excluding the $2.9 billion favorable impact from foreign exchange net sales
+[02:39] increased 15%.
+[02:41] Operating income was $23.9 billion.
+
+[02:45] Q1 was a strong quarter for Amazon.
+[02:48] Starting with AWS, growth continued to accelerate up 28% year over year,
+[02:53] the fastest growth rate in 15 quarters, up $2 billion quarter over quarter,
+[02:58] the largest Q4 to Q1 AWS revenue increase ever.
+[03:03] AWS is now a $150 billion annualized revenue run rate business.
+[03:08] It's very unusual for a business to grow this fast and I've based this
+
+[03:11] large.
+[03:12] And the last time we saw growth at this clip, AWS was roughly half the size.
+[03:18] We've never seen a technology grow as rapidly as AI.
+[03:22] Amazon is already a leader and companies continue to choose AWS for AI.
+[03:27] To put our growth in perspective, three years after AWS launched,
+[03:31] it had a $58 million revenue run rate.
+
+[03:34] In the first three years of this AI wave, AWS's AI revenue run rate is
+[03:39] over $15 billion, nearly 260 times larger.
+[03:44] There are several reasons customers are choosing AWS for AI.
+[03:47] First, we've built broader capabilities than others.
+[03:51] That includes model building with SageMaker, which reduces training time by up to 40%.
+[03:56] High performance inference with the leading selection of frontier models in
+
+[04:00] bedrock, which saw 170% growth in customer spend quarter over quarter,
+[04:05] processed more tokens in Q1 than all prior years combined.
+[04:09] We're excited to make open AI's models available in bedrock.
+[04:13] Yesterday, we added open AI's GPT 5.4 model with 5.5 coming soon.
+[04:19] Yesterday, we also started the preview of Amazon bedrock managed agents powered by
+[04:24] OpenAI, the stateful runtime environment that enables any organization to build
+
+[04:29] generative AI applications in agents at production scale.
+[04:33] We believe that modern agentic applications will be stateful, and
+[04:37] this new technology will rapidly accelerate agentic AI adoption.
+[04:41] OpenAI has said they're already seeing unprecedented demand for
+[04:45] this new product and we're seeing heavy customer interest as well.
+[04:48] Most of the value companies derived from AI will be through agents.
+
+[04:52] And AWS customers can build agents with their proprietary data in strands,
+[04:57] which has been downloaded more than 25 million times and
+[05:00] saw three X more downloads quarter over quarter.
+[05:03] Customers can deploy agents with enterprise scale security and
+[05:06] reliability with agent core, which is being used to deploy an agent as frequently as
+[05:11] every 10 seconds.
+
+[05:13] We also offer turnkey agents for coding, software migrations,
+[05:18] business operations and knowledge workers in Kiro, transform, connect and
+[05:22] quick, and they continue to resonate with customers.
+[05:25] The number of developers using Kiro more than doubled quarter over quarter,
+[05:29] and enterprise customer usage increased nearly 10 X.
+[05:33] Customers have used transform to save over 1.56 million hours of manual effort
+
+[05:38] when migrating and modernizing their workloads.
+[05:41] The number of new customers using quick has grown more than four times quarter over
+[05:45] quarter, and we just announced V1 of our quick desktop app yesterday.
+[05:50] It's very compelling as it can query your email, calendar, slack,
+[05:54] local files and several other applications you use every day to flag
+[05:58] important communications or tree, even summarize information, make recommendations,
+
+[06:03] compose and send communications to others and create agents that highlight or
+[06:08] automatically do work that you used to have to do yourself.
+[06:11] You can easily keep refining your preferences and
+[06:14] Quakes advanced knowledge graph enables this AI agents to automatically
+[06:18] learn from your interactions to become more personalized over time.
+[06:22] Whatever enterprise customers just told us, quick isn't just improving how we work,
+
+[06:27] it's letting us reimagine it.
+[06:29] Second, and another reason customers continue choosing AWS is that as they
+[06:34] expand their use of AI, they want their inference to reside near their other
+[06:38] applications and data, and much more of it resides in AWS than any place else.
+[06:44] Third, as customers expand their AI usage, they also want to consume additional
+[06:49] non AI services and they're choosing AWS because we've built the broadest and
+
+[06:53] most capable core offerings by a wide margin.
+[06:56] We offer thousands of features across compute, storage, databases, analytics,
+[07:02] security and more, and Gardener consistently recognizes AWS's leadership
+[07:06] across their major cloud evaluation areas.
+[07:09] Fourth, AWS is the strongest security and
+[07:13] operational performance of any AI and infrastructure provider and startups,
+
+[07:17] enterprises and governments continue to choose AWS as the foundation for
+[07:21] their most critical workloads.
+[07:23] These are some of the reasons even more customers are choosing AWS.
+[07:27] And just since last quarter's call, we've announced new agreements with Open AI
+[07:31] and Thoropic, Meta, NVIDIA, Uber, US Bank, Fox, Southwest Airlines, US
+[07:38] Army, Bloomberg, cerebras, AT&T, Nokia, fundamental, the National Geographic
+
+[07:45] Society, PGA, Tor and many more.
+[07:50] Our chips business continues to grow rapidly and is larger than what a lot of
+[07:53] folks thought.
+[07:54] We saw nearly 40% quarter over quarter growth in Q1 and our annual revenue
+[07:59] run rate is now over $20 billion and growing triple digit percentages year over
+[08:03] year.
+
+[08:05] But this somewhat masks the size.
+[08:07] If our chips business was a standalone business and sold chips produced this year
+[08:11] to AWS and other third parties as other leading chip companies do,
+[08:16] our annual revenue run rate would be $50 billion.
+[08:19] As best as we can tell, our custom silicon business is now one of the top three data
+[08:24] center chip businesses in the world.
+
+[08:26] And the speed at which we've gotten here is extraordinary.
+[08:29] And we have momentum.
+[08:31] For our custom AI silicon, we've recently shared very large multi-year multi-gigaward
+[08:36] training commitments from the two leading AI labs in the world in anthropic and
+[08:39] open eye, as well as an increasing number of companies like Uber betting on
+[08:44] Trainium.
+
+[08:45] And we now have over $225 billion in revenue commitments for Trainium.
+[08:50] Our Trainium 2 chip has about 30% better price performance than comparable GPUs and
+[08:55] is largely sold out.
+[08:57] Trainium 3, which just started shipping at the start of 2026 and is 30 to 40% more
+[09:02] price performance than Trainium 2, is nearly fully subscribed.
+[09:07] And much of Trainium 4, which is still about 18 months from broad availability,
+
+[09:11] has already been reserved.
+[09:13] Amazon Bedrock, which is used expansively by over 125,000 customers,
+[09:18] runs most of its inference on Trainium.
+[09:20] And almost 80% of the Fortune 100 companies are using Bedrock.
+[09:25] We also just announced that meta is committed to using tens of millions of
+[09:29] Graviton cores.
+
+[09:30] Gravitoners are industry leading CPU chip, which allows meta to run the CPU
+[09:35] intensive workloads behind agentic AI with the performance and efficiency they
+[09:39] need at their scale.
+[09:41] AI is commonly seen as a GPU story, but the rise of agentic workloads,
+[09:47] real time reasoning, co-generation, reinforcement learning and
+[09:50] multi step task orchestration is driving massive CPU demand as well.
+
+[09:56] As AI systems shift from answering questions to taking actions and
+[10:00] as post-training and inference scale up, the compute required pulls heavily on CPUs.
+[10:06] That's why meta chose Graviton, which delivers up to 40% better price performance
+[10:11] than any other x86 processors and now used by 98% of the top 1000 EC2 customers.
+[10:19] Nobody has a better set of chips across AI and CPU workloads than AWS with Trainium and Graviton.
+[10:26] And we're unusually well positioned for this AI inflection,
+
+[10:28] and we're in the early stages of experiencing.
+[10:32] While the largest number of AI chips we're bringing in our Trainium,
+[10:35] we continue to have a deep partnership with NVIDIA.
+[10:38] We have immense respect for them, continue to order substantial quantities,
+[10:42] will be partners for as long as I can foresee and will always have customers
+[10:45] who want to run NVIDIA on AWS.
+
+[10:48] And we will also have a very large chips business ourselves.
+[10:52] Customers always want choice.
+[10:54] It's always been true and always will be true.
+[10:57] Different companies will offer different benefits for customers
+[11:00] and the uniquely strong price performance that Trainium offers
+[11:03] is compelling to our external and internal customers.
+
+[11:07] For perspective, it's scale.
+[11:09] We expect Trainium will save us tens of billions of dollars of CapEx each year
+[11:14] and provide several hundred basis points of operating margin advantage
+[11:17] versus relying on others' chips for inference.
+[11:21] Finally, we continue to be confident in the long-term CapEx investments we're making.
+[11:26] Of the AWS CapEx we intend to spend in 2026,
+
+[11:30] much of which will be installed in future years.
+[11:33] We have high confidence this will be monetized well
+[11:36] as we already have customer commitments for a substantial portion of it
+[11:40] and that it will yield compelling operating margins in ROIC.
+[11:44] As we've been sharing, the faster AWS grows,
+[11:48] the more short-term CapEx will spend.
+
+[11:50] AWS is to lay out cash for land, power, buildings, chips, servers,
+[11:55] and networking gear in advance of when we can monetize it,
+[11:57] typically six to 24 months before we start building customers,
+[12:01] depending on the component.
+[12:03] However, these CapEx investments fund assets with many year useful lives,
+[12:08] 30 plus years for data centers,
+
+[12:10] five to six years for chips, servers, and networking gear.
+[12:13] The free cash flow in ROIC for these investments are cumulatively quite attractive
+[12:18] a couple of years after being in service.
+[12:20] However, in times of very high growth like now,
+[12:23] where the CapEx growth meaningfully outpaces the revenue growth,
+[12:27] the early years free cash flow is challenged until these initial tranches of capacity
+
+[12:31] are being monetized in revenue growth outpaces CapEx growth.
+[12:35] We've been through this cycle with the first big AWS growth wave and like the results.
+[12:40] We expect to feel similarly about this next wave
+[12:43] with much larger potential downstream revenue and free cash flow.
+[12:47] On the alternative stores, units grew 15% year over year,
+[12:51] the highest we've seen since the tail end of COVID lockdowns.
+
+[12:55] We continued expanding selection,
+[12:57] including more than 600 new notable brands.
+[13:01] Our grocery business continues to grow quickly across both perishables and non-perishable
+[13:06] and with more than $150 billion in growth sales in 2025,
+[13:10] we're now the second largest grocer in the US.
+[13:14] We offer perishables delivered same day alongside millions of other items
+
+[13:18] in more than 2,300 cities and towns across the US with more to come.
+[13:22] Prime members are loving the convenience of getting fresh groceries
+[13:25] alongside other products they're buying on Amazon.
+[13:28] And perishables sales have grown over 40 times year over year
+[13:32] and make up nine of the top 10 most ordered items for same day delivery
+[13:35] where the service is available.
+
+[13:37] Customers shopping same day perishables build larger baskets,
+[13:41] adding nearly three times as many items to their order
+[13:44] and spend over 80% more than customers who don't.
+[13:47] Whole Foods Market also continues to accelerate with over 550 stores today
+[13:53] and 100 more coming in the next few years.
+[13:55] We remain committed to meeting or beating other retailers on price
+
+[13:59] and in Q1, the average prices of products offered on Amazon.com
+[14:03] decreased compared to the same period last year.
+[14:06] Prime Day will take place in most countries in June,
+[14:08] which will bring prime members even more savings across every category.
+[14:13] We continue to find new ways to speed up delivery for customers
+[14:16] in both cities and rural areas.
+
+[14:18] We offer millions of items available for same day delivery with Prime
+[14:22] up to 40 times the selection of a typical big box retail store
+[14:26] and we've delivered more than one billion items same day overnight so far this year.
+[14:31] We're also making delivery even faster,
+[14:34] recently announcing one in three hour delivery options on over 90,000 items
+[14:39] with one hour delivery available in hundreds of cities and towns,
+
+[14:43] three hour delivery in 2000 plus cities and towns and more on the way.
+[14:47] And we continue to expand our ultra-fast delivery service Amazon Now,
+[14:52] which offers delivery in 30 minutes or less on thousands of items.
+[14:56] It started last year in India where orders are increasing 25%
+[15:01] month over month with prime members tripling their shopping frequency
+[15:04] once they start using it.
+
+[15:06] The service is now available to tens of millions of customers
+[15:09] across nine countries with more to come as well.
+[15:12] The store's team also continues to innovate and deliver for customers with AI.
+[15:17] We launched Health AI, a 24 by 7 AI powered personal health agent
+[15:21] backed by one medical clinicians that gives US customers instant clinical guidance
+[15:26] and takes action with their permission from booking appointments to managing prescriptions
+
+[15:31] to facilitating medical treatment with a real one medical provider.
+[15:35] Rufus our agentic AI shopping assistant continues to resonate with customers.
+[15:40] Rufus can research products, track prices and auto buy products in our store when they reach
+[15:45] a set price. Monthly active users are up over a hundred fifteen percent and engagement is up
+[15:51] nearly four hundred percent year over year. And we recently introduced a new AI experience for
+[15:56] sellers and seller central that dynamically generates a custom personalized visualization of
+
+[16:02] data key insights and scenarios tailored to the seller's goals. It's early, but the initial
+[16:07] response and feedback are very strong. Moving on to Amazon ads. We continue working to be the
+[16:14] best place for brands of all sizes to grow their businesses and we're pleased with the
+[16:18] continued strong growth across our full funnel offerings generating seventeen point two billion
+[16:24] dollars of revenue in the quarter and up twenty two percent year over year. For us to
+[16:29] recently recognize Amazon ads as a leader in omnichannel advertising platforms with unmatched
+
+[16:35] supply and insights for connected TV and commerce media. We deepened our Netflix partnership with
+[16:40] Amazon audiences which enables advertisers to apply Amazon's exclusive signals from shopping,
+[16:46] browsing and streaming to Netflix's highly engaged viewers to reach the right audiences and drive
+[16:52] even stronger performance. We also partner with Comcast advertising to expand local advertising
+[16:58] to thousands of brands and expanded interactive video ad capabilities to partners starting with
+[17:04] Samsung TVs. Our ads team also continues to invent and deliver for advertisers with AI.
+
+[17:11] For example, we expanded creative agent and agent partner that plans and executes the entire ad
+[17:17] creative process to Canada, France, Germany, India, Italy, Spain and the UK. And we recently
+[17:23] introduced sponsored product and brand prompts and rufus that help brands showcase products
+[17:29] and customers make more informed buying decisions. It's early when we're seeing nearly 20 percent
+[17:35] of shoppers who interact with a brand prompt and rufus continue the conversation about that brand.
+[17:41] We're also continuing to invent and see momentum in several other areas. Now mention a few.
+
+[17:47] Starting with entertainment, moviegoers have flocked a project Hail Mary with nearly six hundred
+[17:53] fifteen million dollars in global box office to date. Its opening weekend was the second biggest for
+[17:59] any non-sequel non-franchise film in the last decade. We also surpassed a hundred million
+[18:05] viewers globally for the culpables movie trilogy with all three films reaching number one in more
+[18:10] than a hundred seventy countries at launch. In live sports, we offered exclusive coverage of the
+[18:15] NBA so-fi play internment with total viewership up 18 percent compared to last year on cable.
+
+[18:22] Alexa Plus early access expanded to millions more prime members in Mexico, the UK, Italy and Spain.
+[18:28] Customers are loving Alexa Plus talking to Alexa twice as much and for longer durations across
+[18:34] a wider breadth of topics, completing purchases on devices three times more, streaming music 25
+[18:41] percent more, and using smart home functionality 50 percent more than Alexa Classic. Zooks has now
+[18:48] driven nearly two million miles and carried more than 350,000 riders is available to the public in
+[18:54] Las Vegas and San Francisco and is testing in eight other cities. We recently announced that
+
+[18:59] Zooks will be available through the Uber app in Las Vegas and in Los Angeles in the future.
+[19:04] And finally, Amazon Leo continues gaining momentum with commercial service on track to
+[19:10] launch in a few months. We already have meaningful revenue commitments from enterprises and governments,
+[19:15] including Delta Airlines, JetBlue, AT&T, Vodafone, DirectTV Latin America, Australia's National
+[19:23] Broadband Network, DP World Tour, NASA and others. We also announced that we plan to acquire Global
+[19:29] Star, which will expand Leo's satellite network with direct device capabilities. And we enter an
+
+[19:35] agreement with Apple for Amazon Leo to power satellite services for iPhones and Apple watches.
+[19:41] We're in the middle of some of the biggest inflections of our lifetime. And Amazon has the
+[19:45] culture, the know-how and the resources to make so many customers lives better and easier,
+[19:50] and to build multiple new long-term businesses with substantial return on invested capital and
+[19:55] free cash flow. We will continue investing and inventing to make it so. With that, I'll turn it
+[20:00] over to Brian.
+
+[BRIAN OLSAVSKY - CFO]:
+[20:00] Thanks, Andy. Let's start with our top line financial results. World Wide
+
+[20:07] Revenue is $181.5 billion, a 15% increase year over year, excluding the 180 basis point favorable
+[20:15] impact of foreign exchange. World Wide Operating Income was $23.9 billion, with an operating margin
+[20:21] of 13.1% our highest operating margin ever. Across all segments, we continue to innovate for customers
+[20:29] while operating more efficiently. In the North America segment, first quarter revenue was $104.1
+[20:35] billion, an increase of 12% year over year. International segment revenue was $39.8 billion,
+[20:43] an increase of 11% year over year, excluding the impact of foreign exchange. Our seasonal
+
+[20:49] shopping events performed well in Q1, including our big spring sale. We also saw particularly strong
+[20:55] performance with third-party sellers, for important contributors to our broad selection and competitive
+[21:01] pricing. Our sellers saw strong sales growth in Q1, particularly in the US, as well as in Europe and
+[21:08] Brazil, where we recently lowered seller fees. We're seeing our investments in the seller experience
+[21:14] resonate and in turn grow our business. Prime continues to fuel our growth and reflects the
+[21:20] value members received from the program. Prime Video is a key pillar of the prime value proposition
+
+[21:27] and important driver of new member acquisition. Our investments in original and exclusive content
+[21:34] and live sports, combined with our third-party partner titles, offer the best selection of premium
+[21:40] video content. In addition to delivering compelling value to prime members, advertisers, and partners,
+[21:47] prime video is now large and profitable business in its own right. Now let's shift to segment
+[21:54] profitability. North America segment operating income was $8.3 billion with an operating margin
+[22:00] of 7.9%. International segment operating income was $1.4 billion with an operating margin of 3.6%.
+
+[22:10] We are pleased with the fulfillment network performance in Q1. The team has worked hard to optimize our network.
+[22:17] Overall, the unique growth of 15% continues to outpace our cost to operate the fulfillment network,
+[22:23] as outbound shipping cost grew 12% year over year and fulfillment expense grew 9% year over year,
+[22:29] both on an FX neutral basis. As our network efficiency improves, we're able to deliver items faster
+[22:36] and improve the customer experience while at the same time lowering our cost to serve.
+[22:41] Looking ahead, we see meaningful opportunities to further enhance productivity across our global
+
+[22:46] fulfillment network. All we'll continue to raise the bar and deliver is speed. We will keep optimizing
+[22:52] inventory placement to shorten distance traveled, reduce touches per package, and improve consolidation
+[22:58] rates. Alongside these efforts, we deploy robotics and automation, which have been integral to our
+[23:04] operations for decades. Our latest generation technologies offer a step change in efficiency,
+[23:10] which are deploying in both new and existing facilities. All of our U.S. large format
+[23:16] fulfillment center launches in 2026 will have this latest generation technology. We're seeing
+
+[23:22] early positive results with improved site safety, higher productivity, and lower cost to serve.
+[23:28] Moving to our AWS segment, revenue is $37.6 billion and growth accelerated 480 basis points to 28%
+[23:38] year over year, driven by both core and AI services. We continue to see customers increase cloud
+[23:45] migrations and scale their use of AWS core services. Customers seeking the full benefit of AI are
+[23:53] accelerating their transition to the cloud. We also see a strong correlation between AI spend
+[23:59] and core growth. As customers spend more on AI, we see a corresponding demand increase in core.
+
+[24:07] We expect this to increase over time as customers move more AI workloads into production,
+[24:12] strengthening demand for our core services. Our AI revenue is growing triple digits
+[24:17] year to year. We're bringing more capacity online to meet high customer demand while also
+[24:22] driving meaningful efficiency gains across our installed base. Our AI offerings continue to
+[24:28] gain traction with customers and bedrock has been a significant growth driver. In 2025,
+[24:34] we delivered four X improvements in tranium 2's token throughput. Consistent majority of bedrock's
+
+[24:41] workloads run on tranium, these efficiency gains directly translate into more capacity to serve
+[24:47] customers. AWS operating income was $14.2 billion and reflects our strong growth coupled with our
+[24:53] focus on driving efficiencies across the business. Now, turning to total company capital expenditures,
+[25:00] our cash cap X is $43.2 billion in Q1. It primarily relates to AWS and generative AI
+[25:07] as we invest the support strong customer demand. We will continue to make significant investments,
+[25:14] especially in AI, as we believe it to be a massive opportunity with the potential to drive long-term
+
+[25:20] revenue and free cash flow. I'll finish with our financial guidance for Q2. The following guidance
+[25:26] assumes that Prime Day occurs in the second quarter in most of our largest geographies,
+[25:30] including the US, and that Prime Day occurs in the third quarter in Australia, Brazil, India, and Japan.
+[25:37] Note that in 2025, Prime Day was in Q3 for all countries. Q2 net sales are expected to be between
+[25:43] $194 billion and $199 billion. We estimate the year-to-year impact of changes in foreign exchange
+[25:51] rates based on current rates, which we expect to be a headwind of approximately 10 basis points in
+
+[25:56] the quarter. Q2 operating income is expected to be between $20 billion and $24 billion. We
+[26:03] continue to see strong sales trends carrying into Q2, and I'll mention a few items on the
+[26:08] operating income guidance. First, this estimate includes the impact of our seasonal step-up in
+[26:14] stock-based compensation expense in Q2, driven by the timing of our annual compensation cycle.
+[26:21] Second, within the North America segment, we do expect a year-over-year cost increase of approximately
+[26:26] $1 billion related Amazon Leo, as we manufacture and launch more satellites in preparation for our
+
+[26:32] service offering. Amazon Leo's commercial service is on track to launch in Q3, and we expect to
+[26:38] begin capitalizing certain costs in Q4, including production and launch costs. Third, our guidance
+[26:45] anticipates higher transportation costs related to fuel inflation, which is partially offset by
+[26:50] the recently implemented fuel and logistics-related FBA surcharge. I'm thankful to our teams across
+[26:57] the company for their hard work and dedication to customers. We remain focused on driving an
+[27:02] even better customer experience, which is the only reliable way to create lasting value for our
+
+[27:07] shareholders. With that, let's move on to your questions.
+
+[OPERATOR]:
+[27:07] Thank you. At this time, we will now
+[27:13] open the call-up for questions. We ask each caller to please limit yourself to one question.
+[27:17] Thank you. If you would like to ask a question, please press star 1 on your keypad. We ask that
+[27:23] when you pose your question, you pick up your handsets to provide optimum sound quality.
+[27:27] Once again, to initiate a question, please press star 1 on your touch-tone telephone at this time.
+[27:34] Please hold what we pull for questions. And the first question comes from the line of
+
+[27:39] Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+[ERIC SHERIDAN - ANALYST, GOLDMAN SACHS]:
+[27:44] Thanks so much for taking the question. Andy, across an array of announcements you've made recently
+[27:49] with AWS and reflecting upon what you wrote in the shareholder letter, can you talk a little bit
+[27:54] about the needed level of investment over the next couple of years to scale compute and capacity
+[28:00] to meet your current state of revenue backlog and how we should be thinking about your unique
+[28:05] approach to custom-silicon and AI infrastructure that may be positioned to you competitively to
+
+[28:11] build that scale. Thanks so much.
+
+[ANDY JASSY - CEO]:
+[28:11] To your point, Eric, we've made a lot of announcements over the
+[28:17] last several months. We're really pleased with the growth that we're seeing in AWS right now,
+[28:23] 28% year over year, fastest growth rate in 15 quarters for us, haven't grown at this pace since
+[28:29] we were about half the size. And growing 28% on a $150 billion annual run rate basis is not simple
+[28:37] to do. And I think there's a few things around it. First is just we continue to see people choosing
+[28:44] AWS for AI, in part because of our really broad full-stack functionality, in part because people
+
+[28:51] want their inferences, they scale it to be close to their data and their applications, so much more
+[28:56] of it lives in AWS and elsewhere. And in part because we have the strongest security and
+[29:02] operational performance. And that's just you can see it in our numbers, it's leading to very
+[29:06] substantial AI growth. And then at the same time, we're seeing very significant growth in our core
+[29:12] business. And some of that are the migrations that have picked up from enterprises, from on-premises
+[29:20] to the cloud. But a lot of that is also as AI growth is exploding, it turns out that it leads
+
+[29:27] to a lot of core growth as well. All the post-training, all the reinforcement learning, all the
+[29:33] agentic actions and tool usage that these agents are using. And it fits with what you're asking about
+[29:40] on the chip side, which is because we have an unusual collection of chips, we have the leading
+[29:47] CPU chip and Graviton, and we have the leading price performance, silicon, AI chip and Tranium.
+[29:56] It means that we're really unusually well positioned for the inflection that we're seeing and the type
+[30:01] of growth that we're experiencing. And so, you know, I don't have an update on a new update on capital,
+
+[30:07] our plan is largely the same, but we do view this as truly a once-in-a-lifetime opportunity,
+[30:14] where every application that we know of is going to be reinvented. And there are so many new
+[30:20] applications that none of us have ever imagined or dreamed we could build that are starting to be
+[30:24] built and will be built. And all that is going to be built on top of AI with a lot of consumption
+[30:30] of CPUs and core as well. So, I think I expect that we will invest a significant amount of capital
+[30:37] over the coming years to pursue that opportunity, and that our customers, our shareholders,
+
+[30:43] and Amazon in general are going to be much better off down the road because we did so.
+
+[OPERATOR]:
+[30:48] And the next question comes from the line of Brian Novak with Morgan Stanley. Please proceed
+[30:53] with your question.
+
+[BRIAN NOWAK - ANALYST, MORGAN STANLEY]:
+[30:53] Great. Thanks for taking my questions. I have two. One is on the accounting side.
+[30:59] I probably get it in the queue, but can you just give us an update on what the AWS backlog looks
+[31:04] like and serve any visibility on the breadth of that backlog beyond the big labs? That's the first
+[31:10] one. And then the second one, you sort of think about milestones for Rufus and Agentec Commerce
+
+[31:17] for you in 2026. What are you most focused on making sure you accomplish on the Agentec side
+[31:23] this year just to make sure you stay at the nice edge of a Agentec Commerce offerings. Thanks.
+
+[ANDY JASSY - CEO]:
+[31:29] Yeah, on the backlog, the backlog for Q1 is $364 billion. That does not include the recent deal
+[31:37] that we announced with the anthropic for over $100 billion. There's reasonable breadth in that
+[31:43] as well. It's not just one customer or two customers. On the Agentec Commerce milestone question,
+[31:50] we are very bullish on what Agentec Commerce will look like. I think it's going to be very good
+
+[31:56] for customers in the long term. I think it'll be good for us too. And you can see some of that
+[32:01] focus from us in what we're building with Rufus. If you haven't checked out Rufus in a while,
+[32:07] it's really substantially improved over the last year. And we have a lot of customers using it.
+[32:12] As I mentioned earlier, you see the monthly active users up over 115% in Rufus and the
+[32:20] engagement up over 400% year-over-year. And I think while I think there will do a lot of work with
+[32:29] third party horizontal agents to try and make that customer experience better. And by the way,
+
+[32:35] I do think today, it reminds me in some ways the stage we're in of what we saw in the early days
+[32:41] of search engines and they're trying to refer business to e-commerce. It's never been a giant
+[32:48] part of the referrals to our e-commerce business. But over the years, the experience got better.
+[32:55] And what you see with Agentec Commerce is it's a small fraction of what we see with the search
+[33:01] engine referrals. But the experience just hasn't gotten great with these third party horizontal
+[33:05] agents yet. They're not often able to get the pricing right or the product information right.
+
+[33:11] They don't have any personalization data or any shopping history. And so we do want to see that
+[33:17] get better with third party horizontal agents. We're having conversations with all those folks
+[33:22] to try and make that better and find something that works for customers and all the companies.
+[33:27] And that will be interesting over time, which agents customers choose to use. I happen to think
+[33:34] that if you're going to a particular retailer that you like to do business with and you like to
+[33:40] shop from, if they have a great Agentec shopping assistant, you're going to often start there
+
+[33:47] because it's where you're doing your shopping. It's easier to kind of they have better product
+[33:51] information. They have better information about what other customers like you are buying.
+[33:55] You can make all sorts of changes to how your account and your shipping information is working
+[34:00] there. And so that's what we're aiming to make Ruth this be is we're aiming to have a be the best
+[34:06] shopping assistant anywhere. And I think we're on that path.
+
+[OPERATOR]:
+[34:12] Thank you. The next question comes from the line of Justin Post with Bank of America.
+
+[34:16] Please proceed with the question.
+
+[JUSTIN POST - ANALYST, BANK OF AMERICA]:
+[34:17] Thank you. I'd like to ask two, one on models and then one on premium tips. So on models,
+[34:22] it looks like you might have access to the full suite of open AI models on bedrock.
+[34:28] Just wondering how big of an unlock that is and how focused maybe you are on your own Nova model.
+[34:35] And then second, shareholder letter mentioned you might be able to sell racks of of
+[34:39] trainium. Just wondering, you know, with your capacity, can create how you think about timing
+
+[34:44] of that and how big of an opportunity. Thank you.
+
+[ANDY JASSY - CEO]:
+[34:47] Yeah, on the models question, I think the fact that we're going to have all the open AI models
+[34:53] available in bedrock is a big deal. It's a big deal for customers. And you know, we have,
+[34:59] we obviously have a very large amount of AI being done in bedrock today on the models we have.
+[35:07] And this is anthropic and llama and mestral and, you know, a host of others. But the one thing you
+[35:15] learn over and over again with every technology who's true in databases, was true in analytics,
+
+[35:21] was true in models. It's true in chips too, by the way, is that customers want choice. There is not
+[35:27] one tool to rule the world. And they want choice and each of the models are better at some things
+[35:33] than the other models. And so people for a long time have wanted to consume open AI models in bedrock.
+[35:42] You know, we just enabled yesterday the stateless model, the five dot four model. And we'll enable the
+[35:50] most recent five dot five model in the next couple weeks. And you know, most of the model work and
+[35:57] most of the AI has been done in these stateless models, you know, kind of tokens in and tokens out.
+
+[36:02] And while I think there will continue to be lots of work done that way, I think the future of
+[36:08] using these models is a stateful model, a stateful API. And that's because when you're building
+[36:14] agent to building AI applications, you don't want to start a new every time you interact with a model,
+[36:21] you want to store state, you want to store, you know, you want to store identity, you want to store
+[36:26] what the conversation or the actions have been, you want to reach out and do a little bit of compute
+[36:31] here, you want to have the tools be able to reach, you know, the models reach out to the different
+
+[36:35] tools to accomplish different tasks. And it only happens if you're able to store state. And so
+[36:41] the bedrock managed agents that we collaborated with and invented with open AI, that we just now
+[36:49] should preview of yesterday is also I think that's the future of how these agents are going to be
+[36:55] built. It's something that nobody else has. And I think it's very exciting to our customers. And
+[37:00] of course, we'll have, you know, other models like codecs and things like that as well. So I
+[37:04] think it's a big deal for customers. And I think it's going to be good for our business as well.
+
+[37:08] On the question about training and the notion of our selling racks over time, I do think that's
+[37:15] very much a possibility. You know, always we have to balance, we have such demand right now for
+[37:23] training. And we have such demand from from various companies who will consume as much as we make
+[37:30] that we have to decide how much we're going to allocate to the existing demand and customers,
+[37:35] how much we're going to save to sell as racks. And for existing customers that we sell training
+[37:40] to how many will be training and plus running on our cloud infrastructure versus just the
+
+[37:46] chips themselves. But I expect over time there's a good chance we're going to sell racks over the
+[37:50] next couple of years.
+
+[OPERATOR]:
+[37:50] And the next question comes from the line of Rob Sanderson with
+[37:55] Luke Capital Markets. Please proceed with your question.
+
+[ROB SANDERSON - ANALYST, LOOP CAPITAL MARKETS]:
+[37:59] Yeah, thank you. Good afternoon. Thanks for taking the question. I wanted to ask a little bit about
+[38:03] Amazon Leo. Can you maybe help to mention some of the revenue opportunity in the consumer
+[38:09] and in the enterprise space over the next few years? What are the governors on the ramp?
+
+[38:14] Could you talk about types of new services that you will be able to develop with the global
+[38:19] star infrastructure and the spectrum that maybe you couldn't address before or we take you and
+[38:24] you can get to go more quickly now? And then how expansive is the longer term vision?
+[38:29] I know you're just beginning to launch commercial services, but over the long term,
+[38:33] do you expect to include non-communication services like orbital data centers or things
+[38:38] like that as this becomes feasible in the decade ahead?
+
+[ANDY JASSY - CEO]:
+[38:43] Yeah, I'll try and address as many of those questions as I can. I am very bullish about
+[38:50] Amazon Leo and the opportunity there. There are billions of people around the world who do not
+[38:55] have access to broadband connectivity. And there are many thousands of businesses and government
+[39:03] assets that people don't have visibility to because they don't have the right connectivity.
+[39:08] And it means that those entities can't do a lot of the things that we all take for granted today,
+[39:15] including education online, business online, shopping or entertainment online,
+
+[39:20] having constant visibility and digital twists. There's all these things that they can't do today.
+[39:25] And so we think that Amazon Leo is going to help solve that problem. I think when we launch our
+[39:32] service commercially, and we've got, we just said another launch this week, so we have over 250
+[39:37] satellites in space. When we launch that service commercially, it will be one of two offerings that
+[39:45] are on the current technology edge. And I think that we will have a meaningful advantage in performance.
+[39:54] I think we'll be about two times better on the downlink than existing alternatives,
+
+[39:59] about six times better on the uplink performance than existing alternatives.
+[40:04] I think we'll have a cost advantage for customers. And then for the governments and the enterprises,
+[40:10] and we talked to a lot of them, and we have already signed agreements with many of them,
+[40:14] even though we haven't launched the service commercially, the latest of which was Delta Airlines
+[40:20] committing at least half of their fleet starting in 2028. When you talk to them,
+[40:25] another really big part of what matters them is they're going to want to take this data off of
+
+[40:29] the satellite constellation, and they're going to want to store it in the cloud,
+[40:33] and they're going to want to do analytics on it, and they're going to want to do AI on it.
+[40:36] And just the combination of Leo with the leading cloud in the world in AWS is very compelling to
+[40:43] enterprises and to governments. So, I think today, if you ask what stops us from growing the business,
+[40:51] we have to get the constellation into space. We have over 20 launches planned. This year,
+[40:57] we have over 30 launches planned in 2027. But I think the business has a chance to be a very large,
+
+[41:05] many billion dollar revenue business. And I think it has some characteristics that are
+[41:09] reminiscent of AWS in that it's capital intensive upfront, where you're committing a lot of capital
+[41:17] and cash in the early years for assets that you get to leverage over a long period of time.
+[41:22] And so, I like the free cash flow and return on invested capital characteristics of that business
+[41:28] in the medium to long term. And the last thing I'll say about it is your question about global
+[41:34] star. Increasingly, what we're finding with consumers and enterprise and governments is that they
+
+[41:42] don't like to have any periods where they don't have connectivity. It just upsets whatever customer
+[41:48] experience they're going through. Even in metropolitan areas, we all hit certain parts of the highway
+[41:54] where, you know, or certain roads where you can't get connectivity or you're hiking, you're skiing.
+[41:58] And so, increasingly, we see very large demand for consumers to have directed device. And that
+[42:07] was really the impetus for our acquisition of global star. They have unusual and scarce global
+[42:13] spectrum that's required to provide directed device. We also really like the satellite know-how
+
+[42:18] that we'll get as part of that merger with global star. And then it also afforded us the opportunity
+[42:25] to build a deep relationship with Apple, who's going to use our direct device for their iPhones
+[42:31] and for their watches. So, very optimistic about the business.
+
+[OPERATOR]:
+[42:36] And the next question comes from the line of Schweta, Kajuria with Wolf Research. Please
+[42:41] proceed with your question.
+
+[SHWETA KHAJURIA - ANALYST, WOLFE RESEARCH]:
+[42:41] Okay, thanks a lot for taking my questions.
+[42:46] Wonder, Andy, if you could please talk about, you know, how you're thinking about the increase in price
+
+[42:52] or memory and storage and just the supply chain and place we're seeing and the impact it could have
+[42:57] and gap backs this year and potentially next year as well. And then on agenda commerce,
+[43:03] if you could talk about how you view the opportunity with advertising, I have no doubt that Hoofus could
+[43:09] be the best shopping assistant available over time. But for advertising opportunity,
+[43:14] how do you view that if agents would be the ones taking action to shop? Thanks a lot.
+
+[ANDY JASSY - CEO]:
+[43:21] So on memory and storage and the supply chain, I think everybody knows that the cost of
+
+[43:29] these components, particularly memory, is skyrocketed. And we're just in a stage where
+[43:34] there's just not enough capacity for the amount of demand. We have worked very closely with our
+[43:40] strategic partners. We saw this trend happening early, you know, in the kind of the middle of
+[43:45] the latter part of last year. And we've worked with our strategic suppliers here to get, you know,
+[43:52] a significant amount of supply. And so we're working very closely with them. I think the team's been
+[43:57] very scrappy. I think we've done a good job in making sure that we're not capacity constrained
+
+[44:02] there. But we watch that very closely. You know, one of the interesting things that we see right now
+[44:09] with the change in price and in supply on things like memory is that it is a further impetus
+[44:20] pushing companies who have on premises infrastructure into the cloud. And it's because
+[44:25] a meaningful part, these suppliers are prioritizing their very largest customers,
+[44:31] which cloud providers are. And so we have seen a number of conversations we've been having with
+[44:37] enterprises for many months where it's just been slower in getting the transformation plan to
+
+[44:44] move to the cloud accelerate rapidly, just because we have a lot more supply than what others have.
+[44:49] So it'd be interesting to see how that evolves over time. It could have, you know, we're doing
+[44:54] our best to kind of to have the supply we need and keep the cost in the right spot.
+[45:01] But we'll see how that continues to evolve. And I think on the agentic commerce and how that impacts
+[45:08] advertising, you know, I actually believe that we're going to we're going to like this for advertising.
+[45:15] I think it's going to be good for customers. It's going to be good for our business. And I
+
+[45:19] think first of all, the first thing to remember is the way that our ads team has built tools and
+[45:28] agents themselves is making it so much easier to do advertising. You know, if you look at small
+[45:35] medium sized businesses that had to take weeks and months to do creative and to pick the right
+[45:42] audience, all that is just it's so much faster and so much easier because of our advertising
+[45:48] agentic tools. And you no longer have to take as much time or spend as much money building the
+[45:53] creative. So I think they're going to be a lot more advertising advertisers with the rise of what's
+
+[45:59] happening in AI. And then if you look at the agentic commerce experiences and you look at any of
+[46:05] these agentic experiences, they tend to be multi turn conversations where you're not interacting
+[46:11] with one search and getting an answer. You tend to find that you're asking questions,
+[46:17] you're narrowing questions, it's asking you questions on what you want. And in that process of having
+[46:24] multi turns, there are multiple opportunities to surface relevant products to customers,
+[46:30] many of which will be organic and some of which will be sponsored. And it also gives rise to
+
+[46:36] opportunities like sponsored prompts. And so one of the interesting things that has been very
+[46:41] successful for customers in our store has been when they ask certain questions, we give them a
+[46:47] number of suggestions that are all created through AI. And we've gotten pretty good at also
+[46:56] having sponsored prompts in that mix of questions and prompts that make it easy for people to keep
+[47:02] digging deeper into what they're interested in. So I actually believe that that advertising will do
+[47:07] well in a world of agentic commerce.
+
+[OPERATOR]:
+[47:07] Thank you. And our final question comes from the line of
+
+[47:14] Colin Sebastian with Baird. Please proceed with your question.
+
+[COLIN SEBASTIAN - ANALYST, BAIRD]:
+[47:20] Thanks very much. Good afternoon.
+[47:20] Maybe a two part or if I could, any first off, just wondering what you're seeing in terms of the
+[47:25] trend between incremental AI demand from earlier adopters and larger AWS customers versus maybe
+[47:33] how the demand curve is shaping up across the broader enterprise base. And then at a high level,
+[47:41] if you think about the youth of AI internally across Amazon's businesses, presumably the business
+[47:46] overall like very different in three or four years, maybe, maybe any if you could
+
+[47:50] contextualize where you see the most opportunity for the technology internally, both in terms of
+[47:56] product as well as maybe driving more operating efficiency, I think that would be helpful. Thank you.
+
+[ANDY JASSY - CEO]:
+[48:02] Yeah. So on the, what we see in the incremental AI demand from early adopters versus broader
+[48:10] enterprise base, there's, I think it's no secret that you've got, you know, the AI labs are spending
+[48:20] an incredible amount of money on compute at this point. And it can compute both on the AI side
+[48:28] as well as on the core side. And the models that they're building and the companies that have
+
+[48:35] successful generative AI applications are certainly spending a lot. And there's several of those
+[48:42] labs, but we also see quite a bit of enterprise adoption and usage of AI. As I've said before,
+[48:51] the gorgeous absolutes place that we see enterprises having success is in projects that are, you know,
+[48:59] around cost avoidance and productivity. These are things like automating customer service
+[49:04] or business process automation or fraud or things of that sort. But the number of projects that
+[49:10] we're working with across enterprises and that we're now starting to see to come to production
+
+[49:16] around brand new experiences, trying to figure out how to reinvent their current experiences,
+[49:22] but using inference and AI to be smarter, also very significant. So we're seeing the adoption
+[49:29] of both of those segments. On the use of AI internally, you know, and for our current businesses,
+[49:38] I think that, you know, the shortest first summary I could give you a call on is that I do not see
+[49:44] a place in any of our businesses or any of the ways that we do work where we're not going to have
+[49:51] giant impact on what we do. You know, I think, you know, I've long had this belief that while you
+
+[50:00] can add incrementally to a lot of your existing customer experiences, different agent and AI
+[50:08] experiences, I really believe that, you know, in the fullness of time, and I don't know if that's
+[50:13] three years from now or five years from now or it could be sooner or two, that all of these customer
+[50:19] experiences we knew we know are going to be completely reinvented. And they're going to have
+[50:24] different interfaces. They're going to have different ways that people interact with them.
+[50:28] They're going to people are going to want to have dialogue with them. And so I think it means that
+
+[50:33] you have to look, you know, it's tricky for if you have an existing business that's doing well,
+[50:38] but you have to look at every single one of your customer experiences. And you have to be able
+[50:43] to carve off resource for that team to think anew about what would the future customer experience
+[50:49] look like if you started from scratch day. And if you had all the technologies like AI available
+[50:56] to you when you start it. And that is what we're doing in every single one of our experiences.
+[51:00] And if I, you know, I have a chance to be involved with some of those and
+
+[51:05] they're it's really exciting. And you know, their experiences that may take a while to
+[51:10] for customers to get used to and to use over time, you might find different segments like those AI
+[51:16] forward experiences more than others early on. But if you're not actually working on inventing
+[51:21] those right now, I think it's going to be very hard to have the business and the experience
+[51:26] leadership that we want over a long period of time. So every single one of our consumer businesses,
+[51:31] every single one of our businesses general is working on that. And then I would say internally,
+
+[51:37] I also think that it's going to radically change how we work. It already is. I mean,
+[51:41] just look at look at how coding, agent to coding is changing how we're all building products.
+[51:49] I think it's going to have a comparable impact on how we do DevOps and how we do customer service,
+[51:57] how we do research, how we do analytics, you know, how sales is conducted. I think every single one
+[52:05] of these functions that we all do at work are going to very significantly change. And that's
+[52:11] another area of real focus for us. And you know, we have this experience I mentioned in my letter,
+
+[52:17] but you know, if you look at one of our services, we swapped out the engine of the service while we
+[52:23] are, you know, also running the service full tilt. And normally that would have taken 40 or 50 people
+[52:29] about a year to do. And we took five really smart people, AI forward thinking people building
+[52:36] on agent coding tools. And those five people rebuilt it in 65 days like that. That is a very
+[52:43] different world of operating. And that's the world I think we're heading to over the next few years.
+
+[DAVE FILDES - VP, INVESTOR RELATIONS]:
+[52:49] Thanks for joining us on the call today and for your questions. A replay will be available on
+
+[52:53] our investor relations website for at least three months. We appreciate your interest in Amazon and
+[52:57] look forward to talking with you again next quarter.

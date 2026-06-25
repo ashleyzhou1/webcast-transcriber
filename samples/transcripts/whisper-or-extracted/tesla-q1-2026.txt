@@ -1,0 +1,593 @@
+[01:00] So
+[01:30] So
+[02:00] So
+[02:30] So
+[03:00] So
+[03:30] So
+
+[04:00] So
+[04:30] So
+[05:00] So
+[05:30] So
+[06:00] So
+[06:30] So
+
+[07:00] So
+[07:02] I'm
+[07:17] Yeah.
+[07:18] Okay.
+[07:19] So
+[07:20] So
+
+[07:22] So
+[07:23] So
+[07:24] So
+[07:25] So
+[07:26] These comments are based on our predictions and expectations as of today.
+[07:30] Actual events or results could differ materially due to a number of risks and uncertainties,
+
+[07:36] including those mentioned in our most recent filings with the SEC.
+[07:40] During the question and answer portion of today's call, please limit yourself to one question and one follow-up.
+[07:46] Please use the raise hand button to join the question queue.
+[07:49] Before we jump into Q&A, Elon has some opening remarks.
+[07:53] Thank you, Elon.
+[07:54] Thank you.
+
+[07:55] So, I think we've got a very exciting year ahead of us with 2026.
+[08:00] We're going to be substantially increasing our investments in the future, so you should expect to see significant increase in capital expenditures,
+[08:12] but I think well justified for a substantially increased future revenue stream.
+[08:20] And obviously, Tesla is not alone in this.
+[08:22] I think you've seen most, if not all, certainly the major technology companies substantially increasing their capital investments.
+[08:31] And we're going to be doing the same.
+
+[08:37] I think it's going to pay off in a very big way.
+[08:42] So, we're investing in and improving our core technologies, battery powertrain, AI software, AI training, chip design, manufacturing,
+[08:53] you know, laying the groundwork for significantly increased manufacturing production.
+[08:59] We are also strengthening our supply chain across the board, batteries, energy, AI silicon, everything.
+[09:11] And laying the groundwork, like I said, for what we expect to be a significant increase in vehicle production in the future.
+[09:17] And of course, a very significant increase, well, actually releasing optimus, but increasing our internal production for testing.
+
+[09:28] And then probably being able to have optimus be useful outside of Tesla sometime next year.
+[09:37] As you've heard me say a few times, I think optimus will be our biggest product, not just Tesla's biggest product ever, but probably the biggest product ever.
+[09:49] And I remain convinced of that conclusion.
+[09:55] So, on the R.P.E.C. side, it's always, I think, worth noting that
+[10:05] Tesla car is incredibly incredible value for money.
+[10:09] And they're all autonomy ready, depending on what part of the world you're in.
+
+[10:16] The supervised, full self driving is getting extremely good.
+[10:22] We have just started production of CyberCab and will begin production of our semi truck soon.
+[10:30] Now I should say whenever you have a new product with a completely new supply chain, new everything, it's always a stretched out S-curve.
+[10:41] So you should expect that initial production of CyberCab and semi will be very slow, but then ramping up and going kind of exponential towards the end of the year and certainly next year.
+[10:54] And in fact, we'll be ramping up production of all vehicles and all factories to the best of our ability through the balance of this year.
+[11:04] On the energy front, the United States and the whole world will need a lot of energy storage to meet growing electricity demand.
+
+[11:14] Demand for our mega pack is very strong.
+[11:17] And we're excited to begin production of mega pack three later this year in our new world class factory outside Houston.
+[11:24] For full self driving in robo taxi version 14.3 was a major architectural update.
+[11:35] And we have a whole pipeline of major improvements to full self driving that we believe will lead to unsupervised full self driving being available anywhere in the world that it is legal to do so.
+[11:55] And then, and then there's a version 15.
+[12:00] Hopefully later this will be by the end of this year, but certainly by early next year.
+
+[12:05] And that will be a complete overhaul of the software software architecture and we'll run on air for.
+[12:15] That's a and that that point we're really just.
+[12:22] Increasing the safety level of FSD.
+[12:27] Above human safety level even more meaning.
+[12:31] I think even within version 14.
+[12:34] We're significantly safer than than human, but we'll take that to another level.
+
+[12:42] We've expanded robo taxi to Dallas and Houston using the same software source and the Bay Area.
+[12:49] And the limiting factor for expansion is really.
+[12:53] A rigorous validation, making sure things are completely safe.
+[12:57] We don't want to have a single.
+[13:00] Accidental injury with the expansion of robo taxi and we have.
+[13:05] To the credit of the team, not had a single one to date.
+
+[13:10] And then optimists were preparing Fremont for.
+[13:17] Start of production later this year with with optimists again, totally new supply chain totally new technology.
+[13:23] So therefore.
+[13:24] The production S curve is always very slow in the beginning, but we'll ramp up to significant numbers next year.
+[13:34] And we're constructing second, optimist factory in at our gigatexis location.
+[13:39] And that will probably start production around summer next year.
+
+[13:47] The V3 Optimus design is almost ready to.
+[13:51] Demonstrate, I think we want to just make sure it's like.
+[13:55] Published.
+[13:56] Like it works functionally, but there's some aesthetic elements that need to be finalized.
+[14:03] And.
+[14:05] I think probably.
+
+[14:07] Middle of this year, we should be able to.
+[14:09] Show it off.
+[14:11] We're also a little hesitant to show V3 off because we find out competitors do a frame by frame analysis whenever we release something and copy everything they possibly can.
+[14:23] So I think this some value to.
+[14:26] You know, not showing new technology until it's close to production.
+[14:35] The congratulations to again to the Tesla AI chip team for taping out.
+
+[14:41] I five.
+[14:42] That's going to be a great show.
+[14:44] I think.
+[14:45] Probably the best at AI.
+[14:49] Inference chip for edge compute that exists.
+[14:52] And certainly I think unequivocally the best value for money.
+
+[14:57] Team did a great job and we're already have a lot of momentum for designing a six.
+[15:04] And we've begun to discuss.
+[15:06] Ideas for dojo three.
+[15:09] So this is all very exciting.
+[15:13] We've we've also.
+[15:17] Finalized plans for the.
+
+[15:20] Chip.
+[15:22] Fab the research chip fab on the gigatex is campus and will start construction of that this year.
+[15:30] In conclusion, Tesla is working on a lot of large ambitious projects that are all very challenging, but I think they're going to be revolutionary.
+[15:42] And this is what the team does best solve the hardest problems and build amazing products.
+[15:47] And I'd like to thank the Tesla team for all the hard work and thank you to all of our supporters.
+[15:52] Great. Thank you very much, Elon and Web of also has some opening remarks.
+
+[15:59] Thanks, Travis.
+[16:01] So 2026 has been has had an interesting start, not just for us, but I think the world in general.
+[16:09] On the auto business, we have seen a resurgence and demand in a Mia and certain countries like France and Germany showing over 150% quarter quarter growth and deliveries.
+[16:20] In a pack we witnessed growth in South Korea and Japan again in terms of deliveries, even out here in the US, we've seen a slight growth in terms of quarter quarter deliveries.
+[16:33] On the order backlog front, we ended the quarter with the highest Q1 order backlog in over two years.
+[16:39] Whilst the recent increase in gas prices has had a positive impact on the order rate, this improvement started before the uptrend in gas prices.
+
+[16:49] This is due to the work done by the Tesla team in bringing more compelling and affordable vehicles to market.
+[16:56] Ten years back when we launched model three in the US with the promise of 35,000 starting price, which if you adjust today for inflation, translates to about $48,000 in today's dollar terms.
+[17:10] The starting price of model three today is way less than that, while the product is way more compelling from where it started.
+[17:17] Given the setup were focused on increasing our overall production volume, something that we already started in Q1.
+[17:25] This volume increases evidence by the giga-birlin reaching a record output of over 61,000 units in Q1.
+[17:33] We plan to keep growing volumes for the not just in Berlin, but across all our factories.
+
+[17:39] Our biggest limiter continues to be our battery pack capacity and we are actively working on resolving that.
+[17:48] Auto margins excluding credits improve sequentially from 17.9 to 19.2%.
+[17:56] Note that we have had certain one-time benefits from warranty two-downs around 230 million and some relief on tariffs.
+[18:04] We have not realized any benefit from the recent Supreme Court ruling on IPAR tariffs as there is still a lot of uncertainty around the final outcome.
+[18:14] Both tariffs and sustained high interest rates continue to add to our automotive cost.
+[18:20] Interest rates and some venture costs are recognized upfront.
+
+[18:24] If interest rates continue to rise, our cost of subvention will continue to impact auto margins.
+[18:31] On the FSD adoption front, we continue to see improvement, reaching nearly 1.3 million paid customers globally.
+[18:40] The bulk of the growth came from subscriptions, while upfront purchases only increase 7% as we remove the purchase option in some markets in Q1.
+[18:49] We recently received approvals for FSD in Netherlands.
+[18:53] This sets up as well for EU-wide approval later in Q2 and we are just getting by how the regulators go about it.
+[19:05] Additionally, we have also received approvals in China.
+
+[19:10] The broader approval is still not there, but we are working with the regulators in the country and we are hoping that we can get approval by Q3.
+[19:20] With these approvals coming through, we expect the broader adoption of the software in the existing fleet and incremental demand for our vehicles.
+[19:28] With all this in mind, we have evolved our vehicle sales strategy, where we now emphasize FSD as a product and vehicle as only the delivery mechanism.
+[19:39] As we have noted previously, the energy storage business is inherently lumpy, tied to customer deployment timelines.
+[19:49] In Q1, we deployed 8.8 GW R of energy storage, a 38% sequential decline.
+[19:57] However, we still expect 2026 deployments to be higher than 2025.
+
+[20:03] We set yet another record with gross margins in this business over 39.5% due to some one-time benefits from certain tariff recognitions of more than 250 million from certain tariffs which we paid in prior quarters.
+[20:18] On a normalized basis, we continue to expect energy compression from here with increasing competition and tariff impacts.
+[20:27] As previously discussed, tariffs in this business can have outsized impacts as most of the battery sales are procured from China.
+[20:36] Our order backlog for this business is robust, and we're doing our best to build not just based on existing demand, but also on expected demand.
+[20:47] Services and others improve sequentially from 8.8% to 9.2%.
+[20:53] This includes a collection of efforts meant to support our customers like service centers, use cars, paid supercharging, part sales, insurance, and even our robot access business.
+
+[21:03] We're making deliberate investments in the infrastructure to help the robot access in the future.
+[21:09] We grew the robot access fleet quarter over quarter, and we expect to keep ramping the fleet as we accelerate and get into other geographies.
+[21:18] On operating expenses side, we did increase sequentially from a full quarter stock-based compensation expense for the 2025's CA compensation plan
+[21:30] for which one milestone is still deemed probable.
+[21:34] Additionally, our spend on air-related initiatives, including expense on development of our own AI file trip and new products like CyberCab, Semi, Optimus, and Mega Block, etc.
+[21:46] continue to be at elevated levels, and we expect this trend to continue for the full year 2026.
+
+[21:55] Net income was impacted from market charges on Bitcoin holdings, which appreciated 22% as compared to the last quarter, and the unfavourable impact of FX primarily from our large inter-company poorings.
+[22:11] On free cash flow, we ended the quarter with just over 1.4 billion.
+[22:16] As Elon mentioned, we are in a very big capital investment phase, which is going to start now and would last a couple of years.
+[22:25] So, based on that, our current expectations were 2025.
+[22:29] 2026 is over 25 billion of CAPEX.
+[22:35] And, you know, just to remind you, we are paying for six factories, which we're going to go into operation.
+
+[22:41] Some have already started, some would go into operation later part of this year.
+[22:45] We're further increasing our investment in AI-related initiatives, including the AI infrastructure to support Robodaxi and the launch of Optimus.
+[22:54] We've already started basing orders for the research semiconductor fab in Austin and for solar manufacturing equipment.
+[23:02] While this may seem a lot, and we will have the impact of negative free cash flow for the rest of the year, we believe this is the right strategy to position the company for the next era.
+[23:13] We'll make such investments in a very capital efficient manner.
+[23:17] We're actively working on a mission of building a future of amazing abundance.
+
+[23:23] However, that requires not just a lot of investment, but an immense amount of execution.
+[23:30] The future is going to be great, and the whole Tesla team is rising to the occasion to make this a reality.
+[23:36] I would like to end by thanking the Tesla team, our customers, investors and vendors for having confidence in us on this journey. Thanks.
+[23:46] Thank you very much, Devov.
+[23:49] Now we're going to go to investor questions, starting with questions from say.com.
+[23:54] The first question is, when will we have the Optimus three reveal, which we already touched on?
+
+[24:01] But the rest of the question is, when will Optimus production start?
+[24:04] Since we ended the Model X and S production early this then mid year, and then what's the expected Optimus production rate exiting this year and what are the initial targeted skills?
+[24:17] Well, as I was saying, what we found is that when we've unveiled first Optimus versions, we've found out how competitors literally do a frame-by-frame analysis and copy everything we're doing.
+[24:29] So I think we want to push the Optimus three unveil maybe closer to production.
+[24:38] The sort of production is, we're assuming is somewhere on the late July, August timeframe.
+[24:52] And I mean, just to just inject some reality into these questions, these questions are not, you know, the square root of those questions is not fully understand what happens with the production line.
+
+[25:05] The last SX production will be in early May, but you have to look at the entire upstream portion of the production line.
+[25:16] So you start with, you know, sales, battery packs, you know, motor production, all the parts production.
+[25:23] And so we've been dismantling the SX production line, you know, from the, you know, more base level parts,
+[25:32] the more basic level parts to, as you get to more larger sub-assemblies, you start dismantling the line from the small parts first, not from the final assembly first.
+[25:42] So the final assembly line will, that'll be dismantled next month and after the last of the SX pickles done.
+[25:56] Now you can't dismantle some gigantic production line like overnight.
+
+[26:00] It takes at least a few months to do so.
+[26:04] And then you've got to install a new production line and you've got to provide all of the wiring and communication, you know, test out the machines of the new production line for Optimus.
+[26:20] So that also takes several months.
+[26:22] So frankly, if we were able to go from stopping production on one line, dismantling that entire line, reinstalling a whole new line and turning that on in a matter of four months, that is an insanely fast speed.
+[26:41] I don't think any other company on Earth has ever done that before.
+[26:45] Just to put things into perspective and inject some reality into the situation here.
+
+[26:53] I don't know what the production rate of Optimus will be this year.
+[26:59] It is impossible to predict these things.
+[27:04] When you have a brand new product and an entirely new production line and you have 10,000 unique items, all of which have to go right into RAM production, it'll move as fast as the least lucky, slowest, dumbest part in the entire 10,000.
+[27:26] And this is an Optimus is a completely new product with a completely new production line.
+[27:34] So it's just literally impossible to predict.
+[27:44] Except that I think it will be quite slow to us.
+
+[27:49] As we are now the 10,000 plus unique items that have to be sold for Optimus to reach fine production.
+[27:59] Initial skills will be obviously we're going to start with with simple skills in the factory and then build up from there.
+[28:12] Great. Thank you, the next question is, what milestones are you targeting for unsupervised FSD and ribotax the expansion beyond Austin this year and how will that drive recurring revenue.
+[28:33] Well, we certainly hope to be have.
+[28:42] Unsupervised FSD or slash over taxi.
+[28:47] Operating, you know, and I don't know.
+
+[28:53] It does more so states by the end of this year.
+[29:00] Initially, you know, we're taking it very.
+[29:05] We're taking a very cautious approach to the rollout here like we haven't had any injuries and certainly no fatalities today with the on to advice on to advice FSD and over taxi expansion.
+[29:18] We want to keep it that way.
+[29:20] And so.
+[29:24] I don't I think probably.
+
+[29:30] Unsupervised FSD or robertax the revenue will not be super material this year, but I do think it will be material.
+[29:38] It'll be material probably in a significant way next year.
+[29:46] Great. Thank you very much. The next question is, when do you expect FSD unsupervised to reach customer cars?
+[29:56] I'm just guessing here probably in the fourth quarter.
+[30:10] It's it's difficult to release this like to everyone everywhere all at once because we do want to make sure that they're not unique situations in a city that, you know, particularly complex intersection or actually they tend to be places where where people get into accidents a lot.
+[30:27] Because because they're just, you know, perhaps there's an un like said, unsafe intersection or bad road markings or, you know, a lot of weather challenges.
+
+[30:39] So, so I think we would release unto advised gradually to the customer fleet, but you know, as we feel like a particular geography is confirmed to be safe.
+[30:56] Great. And the next question is, how will hardware three cars reach unsupervised FSD?
+[31:05] Unfortunately, hardware three, I wish you were otherwise, but hardware three simply does not have the capability to achieve unto advised FSD.
+[31:18] You know, we did think at one point, it would have that, but relative to hardware four, it has only one eighth of the memory bandwidth of hardware full.
+[31:30] And memory bandwidth is one of the key elements needed for unsupervised FSD.
+[31:39] It's just generally a thing that's needed for for AI for if you're doing an order aggressive transformer memory bandwidth is the true point.
+
+[31:48] So, you know, for customers that have bought FSD, what we're offering is essentially a trade in like a discounted trade in for cars that have
+[32:03] AI for hardware.
+[32:05] And, and, and we'll also be offering the ability to upgrade the car to replace the computer and you also need to replace the cameras, unfortunately, to go to hardware full.
+[32:19] So, to do this efficiently, we're going to have to set up like kind of micro factories or small factories in major.
+[32:32] And we're going to do, um, metropolitan areas in order to do it efficiently. If it's, because if it's done just at the service center, it's, it is extremely slow to do so inefficient.
+[32:45] So we basically need like many production lines to make the change.
+
+[32:52] And I do think over time, it's going to make sense for us to convert all hardware three cars to hardware four, because that's what enables them to enter the robot taxi fleet and have answered by a step.
+[33:06] And for what it's worth in the meantime, we're going to also release a V 14 version for hardware three.
+[33:16] This will be a distill version on the same V 14 software that we release for hardware for.
+[33:20] And people should be able to start the drive from park state and basically have all the features that V 14 for hardware four has.
+[33:29] And that's expected to come end of June.
+[33:35] Great. Thank you very much.
+
+[33:37] So the next question is, what enabled you to finish the AI five tape out early and were there any changes to the original vision.
+[33:44] Last week, Elon said AI five will go into optimus and the supercomputer, but one month ago said it would go into the robot taxi has AI five been dropped from the vehicle roadmap.
+[33:55] Well, the reason I have to finish early was because the team worked incredibly hard to make it happen.
+[34:04] And just over time, we got a lot of momentum.
+[34:09] But we did have to work every weekend for six months straight, including every holiday.
+[34:16] So it was a lot of sacrifice by team and I was there, of course, myself every weekend.
+
+[34:23] And, you know, unfortunately, we didn't encounter any major.
+[34:29] We didn't make any major mistakes that were at least that we're aware of that required pushing out the tape out.
+[34:38] The team just got a great job and worked incredibly hard is the reason.
+[34:46] Yeah, I do expect that a five will go into optimus and into the data center.
+[34:52] Because it's looking like we'll be able to achieve.
+[35:00] On two fires, self driving with a full that is far greater than human safety levels.
+
+[35:08] So.
+[35:11] Which means it's it's not silly and not immediately needed in the car.
+[35:18] At some point, I think it will make sense for us to switch to a five in the car, but that's it.
+[35:25] But there's not a pressing issue to do so.
+[35:31] So, but at some point the AI for hardware is going to get like so old that it's like, okay, you know,
+[35:37] the only reason to keep in the factory open is for a full.
+
+[35:41] We are planning an AI for.
+[35:44] Upgrade to use.
+[35:48] New generation RAM.
+[35:50] So it'll go from.
+[35:52] 16 gigabytes to I think.
+[35:55] 32 gigabytes per SOC.
+
+[35:59] So total of 64 gigabytes.
+[36:01] And.
+[36:03] Probably 10% increase in.
+[36:05] Compute in and sort of into trillions of operations per second and in memory bandwidth.
+[36:13] So that's a full point one, a full plus probably.
+[36:20] Goes into production.
+
+[36:23] The next year, I think, depends.
+[36:25] It's it's depends on on.
+[36:29] Sam's doing the modifications for us, so it sort of depends on when they're able to finish that.
+[36:34] Finish those modifications and bring it to production.
+[36:38] Great.
+[36:39] The next question is now that FSD has been approved in the Netherlands and is expected to launch across Europe this summer.
+
+[36:46] Can you discuss your ribotaxy strategy for the region?
+[36:52] Well, we're probably jumping in gun here on.
+[36:56] Robotaxy in Europe since it is took us an immense amount of time just to get supervised self driving approved in Europe.
+[37:05] And you know these.
+[37:08] We don't control the regulators, you know, it's.
+[37:12] We push as hard as we can, but that's.
+
+[37:15] It's ultimately up to the.
+[37:17] Government in Europe and the EU to decide what.
+[37:23] What to do.
+[37:24] So.
+[37:25] Yeah, as it is, we've only been approved in the Netherlands.
+[37:30] We expect to be improved approved in a lot of other countries.
+
+[37:33] And I think the supervised FSD goes to.
+[37:37] Russell's for EU review.
+[37:40] And may.
+[37:42] Yeah.
+[37:43] So.
+[37:45] And obviously then the next thing beyond that is to.
+
+[37:53] And for unto a biased self driving or over taxi.
+[37:58] In Europe.
+[37:59] I actually don't know what the timeframe for that is.
+[38:02] And would be somewhat at the most of the regulators as to when that approval would take place.
+[38:08] And from a technology standpoint.
+[38:12] What we deployed in the Netherlands and Europe is the same exact architecture and the training
+
+[38:17] procedure and so on, except that more Europe data and suspect that same thing will be true for
+[38:22] unsupervised FSD as well.
+[38:24] Whatever we used to solve in the US will work in other places in the rest of the world to.
+[38:29] Proverted we were able to add the data from the local regions.
+[38:35] Great.
+[38:36] The next question is given the recent NHTSA incident filings.
+
+[38:40] Can you update us on the robot taxi safety data?
+[38:43] If safety validation remains the primary bottleneck, why not deploy thousands of vehicles to accelerate
+[38:48] removal of the safety driver.
+[38:50] Yeah, short do you want to take that?
+[38:52] Yeah, we are increasing the amount of our QA fleet, but we also want to use the customer
+[38:59] fleet to give us the useful metrics back so that we can scale it safely.
+
+[39:04] Like you don't mentioned, we are absolutely focused on safety.
+[39:07] And so far we have zero incidents and that's what the NHTSA filing also shows.
+[39:12] In addition to safety, we are also solving some of these so-called scaling issues.
+[39:18] For example, you do not want the robot taxi to be stuck blocking intersections or don't
+[39:23] want to be dropping people off at slightly incorrect locations and so on.
+[39:27] So we are simultaneously solving the long tail of safety by monitoring the metrics across
+
+[39:32] the entire PESTA customer vehicle fleet, which is close to driving 10 billion miles on FSD
+[39:39] in the next few weeks and also scaling up the amount of QA fleet that we have across
+[39:45] the entire US to accelerate our safety validation while also scaling the rest of the factors
+[39:52] that can throttle the increase of unsupervised vehicles.
+[39:59] All right, the next question is, is V14.3 still the last piece of the puzzle to enable large-scale
+[40:09] unsupervised FSD and robot taxi, or do we have to wait until V15?
+
+[40:16] Well, I think 14.3 is last piece of the puzzle for unsupervised vehicles.
+[40:27] The question is like, degrees of safety.
+[40:32] Like how?
+[40:34] Safety and convenience, I suppose.
+[40:38] We have a lot of known improvements, like major architectural improvements that we know
+[40:46] would improve the probability of safety significantly.
+
+[40:50] So I think it's not going to make sense for us to deploy, you know, unsupervised FSD
+[40:58] or robot taxi at large scale when we know that there are major architectural improvements
+[41:04] to the software that can improve safety.
+[41:07] So I think we're going to want to finish writing that software, validate it, and release it
+[41:15] before going to large-scale unsupervised FSD, depending on what large-scale means.
+[41:22] I mean, we are, of course, as I mentioned earlier, doing unsupervised FSD in three cities
+
+[41:28] and will expand.
+[41:30] And it, like I said, probably a dozen states or more later this year.
+[41:35] So it kind of depends on where your definition of large-scale is.
+[41:43] But I do think it wouldn't be right for us to go to a very large scale and to a biased FSD
+[41:51] when we know that there are software improvements in the pipeline that would improve safety.
+[41:57] Yep, and I'd like to note that the version of robot taxi that's running in Austin, Dallas,
+
+[42:03] Houston, et cetera, those are essentially 14.3 variants.
+[42:09] And it's obviously safe that that's why we're able to launch in those cities,
+[42:13] and we continue to expand based on the V13 for a V14.3 base for a while until V15 lands.
+[42:21] And V15 is going to be a major upgrade.
+[42:24] Yeah.
+[42:27] Great, thank you.
+
+[42:28] The next two questions we've already answered about robot taxi rollout
+[42:34] and the data that we're observing.
+[42:36] So we will end on the last question, which is what is Tesla doing to scale the energy generation
+[42:42] business with solar?
+[42:44] Residential roof deployments have stalled.
+[42:46] Will Tesla move to regional solar and battery farms, perhaps coupled to superchargers?
+
+[42:51] Will we deploy solar through utilities?
+[42:56] Yeah, the overall U.S. residential solar market is going through a bit of a correction
+[43:01] after the loss of the homeowner tax credit last year, but we still see strong demand
+[43:05] shaping up for the second half of the year.
+[43:07] Tesla introduced a lease product this year that allows us to capture the tax credit ourselves
+[43:12] and offer competitive pricing for homeowners.
+
+[43:14] We've also debuted our own solar panel with superior performance and aesthetics,
+[43:19] as well as our own best in class mounting system that gives us a fully integrated home energy ecosystem.
+[43:28] We strongly believe that solar and storage markets globally will continue to grow at both
+[43:32] residential and utility scale, and we will continue to invest in that growth.
+[43:37] Thank you, Mike.
+[43:40] So now we're going to move on to analyst questions.
+
+[43:43] The first question is going to come from Will Stein at truest.
+[43:48] Will, please feel free to unmute yourself when you're ready.
+[43:55] Thank you.
+[43:56] Can you hear me?
+[43:57] Yes, yes, we can.
+[43:58] Great.
+
+[43:59] Great. Thanks for taking my question.
+[44:01] Considering the various parties involved in the tariff fab project,
+[44:06] I'm hoping you can provide some details for investors about which party is going to take
+[44:11] responsibility for each aspect of that project, funding it, designing it,
+[44:16] building it, operating, taking production, and the like.
+[44:21] We'd love to hear some more details.
+
+[44:25] Yeah, so we're still working out the details of the tariff fab deployment.
+[44:37] In the near term, Tesla will be building the research fab on our gigataxes campus.
+[44:50] This is something we expect to be probably, you know, a three billion dollar ish initiative
+[44:59] and capable of maybe a few thousand waifas per month.
+[45:04] But it's really intended to try out ideas, research fab.
+[45:11] Both in terms of maybe we have some ideas for improving the fundamental technology of how chiffs are made.
+
+[45:19] And some of the, there's some new physics we'd like to test out.
+[45:24] But we also want to test out the ability to see if something is working in production.
+[45:31] So you need kind of like a few thousand waifas per month to make sure that a production process is sound.
+[45:40] And then, and then SpaceX is, didn't take care of like the initial phase of the scaled up tariff fab.
+[45:53] And that's what we've figured out thus far.
+[46:00] You know, any kind of intra company thing has to be approved by both the SpaceX and Tesla board of directors.
+
+[46:09] Because it's got to go through a conflict resolution.
+[46:12] It's kind of a lot of, unfortunately, a lot of complexity because we got to make sure Tesla shareholders are served and SpaceX shareholders are served and strike the right balance there.
+[46:23] So it takes a while to work through the kind of independent director reviews on this.
+[46:32] So that's basically what we've figured out thus far is Tesla's doing the research fab, SpaceX doing the initial part of the large scale tariff fab.
+[46:42] And then we're going to figure out the rest.
+[46:47] And what about Intel's involvement?
+
+[46:51] Yeah, so Intel is excited to partner with us on some of the core manufacturing technologies.
+[47:02] So we plan to use Intel's 14 a process, which is state of the arc and in fact not get totally complete.
+[47:16] So, but given that by the time to tariff fab scales up, 14 a will be probably fairly mature or ready for prime time.
+[47:28] 14 a seems like the right move.
+[47:31] And we have a great relationship with Intel.
+[47:35] A lot of respect for the CEO, the CTO and the new team there.
+
+[47:41] So we think it's going to be a great partnership.
+[47:46] And the other thing on the research fab, I think we've said it before, we plan to do memory logic everything in the same place, including masks, because we want to have a quick iteration loop so that we can see and basically scale the technologies which we're trying to bring up.
+[48:05] Yeah, I think this will be unique in the world, or at least I'm not aware of any place where you'd have the lithography mask creation, the logic memory and packaging in under one roof in one building.
+[48:24] That's about the fastest I could possibly imagine doing recursive research and development and being able to try out some pretty radical ideas, some of which have, you know, you know, it's kind of long shot stuff, but if these some of these long shots pan out would be radical improvements in the way
+[48:47] checks work.
+[48:50] Great. The next question is going to come from Pierre at new street Pierre, please feel free to unmute yourself.
+
+[48:58] Hey, thanks a lot for taking my question.
+[49:01] A quick one first on the FSD adoption so you have 180,000 new users paying users this quarter.
+[49:10] And I compare that to your overall install base it might be 15%, but then if I shrink that to the US to North America where most of them are it's probably more like 30, 35%.
+[49:23] And I'm trying to, and I compare that to you probably sold about 100,000 cars in North America in the quarter so you're winning twice more FSD users and you're selling cars.
+[49:38] And then if I add to that picture, the fact that I guess it's mostly hardware for owners who subscribe to FSD, it sounds like most drivers in North America who have hardware for will already be using FSD.
+[49:55] Is that the right way to think about it and the kind of like success FSD is meeting today that is that is that the right way to think about it.
+
+[50:04] Yeah, I think you're thinking about it the right way Pierre and the other thing which I'll share is that, you know, you can't just look at one quarter versus the other quarter in terms of churn, but we are actually seeing churn of subscribers also coming down,
+[50:21] which again is the reflection of the product is getting better.
+[50:26] And obviously if subscriptions are going up that is a good metric. The other thing also to note is that we are seeing customers actually drive longer, which again you could correlate it.
+[50:39] That's why you have lesser churn because people are liking the product.
+[50:44] And if I mean, I've said this before, if I just use my own personal behavior, right, I literally get in the car, I press the button and it just goes and earlier I used to park.
+[50:57] Now I don't even have to park. And that is the experience which we want everybody to get.
+
+[51:03] And that's why you're starting seeing it in the numbers come through.
+[51:10] And if I made maybe a quick follow completely different it's more on the optimus architecture.
+[51:16] And you talked about the partnership with XAI and and Greg and I was wondering if you can share with us anything about how the system to.
+[51:28] Intelligence is going to be implemented is going to be on board on ships inside optimus or if we should think about like your fleet of like a million of them as being produced a year.
+[51:42] Actually driving very significant inference demand in data centers as well for system to thinking.
+[51:53] We think we can put a lot of intelligence locally in the robot and and certainly needs to be enough intelligence that the robot gets disconnected like if it's a bad cellular signal.
+
+[52:04] There isn't Wi-Fi, you know, optimus can't just get stuck.
+[52:09] It needs to have enough local intelligence that it can still do useful things.
+[52:16] Even if it loses connection kind of like the car, the car does not need any cellular Wi-Fi connection to be able to drive safely.
+[52:26] Now I guess you can think of like optimus needs kind of a manager to tell what to do at the broadly speaking like if you know otherwise it's going to keep doing the same thing it did before.
+[52:38] So, you know, I think you need kind of an orchestration AI, which, you know, GARC would be good for orchestration.
+[52:48] And then for, you know, for optimus's voice, you know, having a low latency intelligent voice AI, GARC is actually very good for that.
+
+[53:06] So if you want to talk to optimus and have kind of a, you know, a GARC level conversation, you kind of need to connect to a GARC level AI for that.
+[53:19] But, but I would expect the amount of interaction apart from like, you know, the voice, voice stuff and asking complicated questions of the robot that necessarily needs a large AI model to answer.
+[53:33] The, you know, GARC would probably have about as much interaction with optimus as a manager would have with the people on their team.
+[53:44] So meaning, meaning optimus could probably work for several hours without any management oversight.
+[53:54] Great. The next question is going to come from Dan at Barclays. Dan, please feel free to unmute yourself.
+[54:03] Great. Good evening. Thank you for taking questions.
+
+[54:09] Elon, your chip suppliers generally generate pretty good economics on the chip they sell.
+[54:16] Your approach has historically been on vertical integration. Part of that has been to get better economics.
+[54:22] So I know the longer term goal of TerraFAB is to get the supply you need, but how much of TerraFAB is also motivated to get better economics on your own?
+[54:32] Mid term chip purchases and how long is it going to take to ramp to get to a yield that achieves that type of economic parity?
+[54:43] No, I mean, TerraFAB is not some sort of mechanism to generate leverage over our chip suppliers.
+[54:51] It's just literally we don't see a path to having enough.
+
+[54:55] The efficient quantity of AI chips down the road as we scale production to high levels.
+[55:03] Just the rate at which the industry is growing in logic, but even more so in memory, it just doesn't, you know, we just anticipate hitting the wall if we don't make chips ourselves.
+[55:21] So that's the reason for the TerraFAB. I think that we do have some ideas for how to make maybe radically better AI chips.
+[55:34] And these are kind of research ideas there, you know, which means like long shot, but if long shot pays off, it's maybe a giant improvement.
+[55:47] And it's just easier to do that if we have our own research lab and our developing our own production technologies.
+[55:57] So, and if you look sort of long term at, you know, say having AI satellites making chips for those, there's just no way in hell the existing industry can keep up with that.
+
+[56:12] It's impossible.
+[56:16] All right. And our next question is going to come from Mark at Goldman Sachs. Mark, please feel free to unmute yourself.
+[56:25] Yes, good afternoon. Thank you very much for taking my question.
+[56:29] Recognizing the importance of FSD and that FSD can help to drive vehicle sales and nice to see some of the improvements in the FSD technology more recently with version 14.
+[56:39] However, I'm also hoping to understand if the company's view on new vehicle models has evolved and ask, given that you posted on axe recently that Tesla could develop a family vehicle.
+[56:49] There's also been some past discussion about a compact vehicle.
+
+[56:54] Well, I mean, cyber cap is the compact vehicle. It's actually, I mean, it's very roomy, but it's a two person vehicle.
+[57:02] And we do think probably most of our production long term will be cyber cap because 90% of miles driven are with two of one or two people.
+[57:11] So it would mean that, you know, you'd want a vast majority of your production to be cyber cap.
+[57:19] Then over time, it's going to make sense for our whole lineup to be autonomous vehicles of different sizes.
+[57:28] And I did talk a bit about this when we did the AI day in LA at Warner Brothers and showed like, this is our current lineup.
+[57:39] And this is what, you know, some idea of what our future lineup will be, which is that it's going to be almost entirely autonomous.
+
+[57:45] In fact, long term, the only manually driven car will be the new Tesla Roadster.
+[57:53] Speaking of which, we may be able to debut that in a month or so.
+[58:01] It requires a lot of testing and validation before we can actually have a demo and not have something go wrong with a demo.
+[58:11] But I think it will be one of the most exciting product on bales ever.
+[58:17] I'm not sure. I don't think it moves the needle massively from a revenue standpoint.
+[58:22] But it is very cool.
+
+[58:26] I think it might be one of the most spectacular demos ever.
+[58:32] All right, Mark, did you have a follow up question?
+[58:35] Yeah, thanks Travis.
+[58:37] My other question was on batteries and the company mentioned batteries as a constraint on its growth.
+[58:43] Can you speak more to how Tesla expects to resolve this and to what extent that might come from ramping up your own LFP and 4680 battery cell manufacturing?
+[58:51] Or is it something that you'd expect to resolve primarily with increased sourcing from suppliers? Thank you.
+
+[58:57] Yeah, so at the moment, I think the limiter is not the cells itself.
+[59:03] It's the battery pack capacity.
+[59:05] And you know, like I said in my opening remarks, we're actively working on resolving this.
+[59:11] There's more capacity being added as we speak and I'll let Lars add a few more thanks to it.
+[59:17] Thanks, very well.
+[59:19] As you guys may have seen in Berlin, we started launching a Model Y battery pack with our in-house 4680 cells
+
+[59:26] ago and that is ramping up nicely adding to Berlin's output and helping with the demand surge that we've seen in Europe.
+[59:33] As well, we're adding additional capacity in our Reno facility sort of retooling it as it's been building packs now for almost 10 years.
+[59:42] And in order to put in some more efficient lines and get additional output out there.
+[59:47] And then we continue to have growth in China as well, ramping in-house LFP module production and battery packs associated with that.
+[59:56] So all of those things are happening now and in the next months and that's really plans we laid out a few months back to increase that output with the growing demand.
+[60:09] All right, thank you guys.
+
+[60:11] And our next analyst is going to be Colin from Wells Fargo.
+[60:16] Colin, please feel free to unmute yourself.
+[60:19] Oh, great. Thanks for taking my questions.
+[60:22] You moved to the safety driver in Austin and you're now expanding into Allison Houston.
+[60:27] What are the key safety metrics that you're tracking that gives you confidence that robo taxi is safe in us to expand as it sort of miles per intervention, miles per accident per fatality and where do you stand on that now?
+[60:43] Sure.
+
+[60:44] Yeah.
+[60:45] We track basically all the metrics that you mentioned. We have a pretty large QA fleet spread across all of the United States.
+[60:52] And then we look at any intervention that could happen and then sort of simulate both in practice and also in our simulators that are very, very good nowadays using neural networks as what would have happened.
+[61:06] And then based on all these analysis in the end, make the call to expand.
+[61:10] And so far, all of the expansions have gone according to our expectations.
+[61:16] Yeah, a lot of the limiting, a lot of what limits wider deployment of robo taxi are actually not safety issues, but convenience issues or the car basically gets paranoid and get stuck.
+
+[61:30] Like sometimes it gets, because it's program for maximum safety. So the problem is that then it sometimes just gets scared to do things.
+[61:40] So like sometimes gets scared to cross railroads, for example, or it'll get stuck at a light where the light never changes from red or, I mean, there was one kind of amusing situation where a whole bunch of
+[62:00] robo taxis got stuck in the left turn lane in Austin because a kid did not, a way more had crashed into a bus.
+[62:08] And so they could not turn left because the way more crashed into the bus. And so you had this like long line of like, I don't know, it does no more.
+[62:17] It tells the robo taxis that we're waiting for the bus to move, but the bus was never going to move because the way more is crashed into the bus.
+[62:26] So that obviously drives people crazy if there's a whole bunch of robo taxis blocking the whole road.
+
+[62:33] So it's a ton of things like that. That's the single biggest thing is just the car being scared to move or getting kind of stuck in situations like that.
+[62:43] We've also had literal infinite loops where the car might want to make a turn into a road, but there's construction.
+[62:53] And then it goes around the block tries to turn into the road to construction goes around the block tries to turn the road.
+[63:01] And so you have to stop the infinite looping, the literal infinite looping.
+[63:07] So those are actually, those are by far the issues that we have to resolve as opposed to direct safety issues.
+[63:17] I'm not a great and then did you follow up?
+
+[63:20] Yeah, just last year I asked about, you know, FSD and camera and the issues with sung layer and you noted that there was a breakthrough with direct photon counting that address this issue.
+[63:31] But a month ago, there was a nits of filing saying that they haven't received an update when the solution was deployed and the number of vehicles.
+[63:38] Is this to, did it require a retrofit of the camera? Is this fully deployed? I guess we're just curious since the filing mentioned it.
+[63:47] Yeah, first I want to say we did a change in cameras some months ago and those are out and the nits of flying is referring to like older vehicles.
+[63:56] We always work directly with nits on all of the issues that they raised with us and there's, they're asking for quite a bit of information and, you know, we're complying with that.
+[64:05] And it is timely manner as possible. And so we expect to resolve that and any of the other investigations in short order.
+
+[64:13] Yeah, and we have also implemented shifter measures for the, um, the visibility of the camera.
+[64:19] So in recent softribbles, if the camera is not able to see things clearly because of, you know, residue, build up or what have you, then the FSD won't be available for those cars.
+[64:30] It just needs to have to clean the inside of the windscreen.
+[64:35] Great. That unfortunately is all the time we have today. We appreciate everyone's questions and we look forward to talking to you next quarter. Thank you very much and goodbye.
+[65:05] We'll see you next time.

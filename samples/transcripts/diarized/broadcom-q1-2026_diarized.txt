@@ -1,0 +1,722 @@
+I'll search for Broadcom's executive team and earnings call participants to properly label the speakers.
+I now have all the information I need. Let me compile the key details:
+
+**Executives:**
+- **Ji Yoo** – Head of Investor Relations (Whisper heard as "GU" / "Jay")
+- **Hock Tan** – President & CEO (Whisper heard as "HOC-10" / "Hochen" / "Hoc" / "Hawk")
+- **Kirsten Spears** – CFO (Whisper heard as "Kiazza" / "Kristin" / "Kirsten")
+- **Amie Thuener** – Incoming CFO (Whisper heard as "Amy Teener")
+- **Charlie Kawwas** – President, Semiconductor Solutions Group (Whisper heard as "Charlie Kowaz")
+- **Ram Velaga** – President, Infrastructure Software Group (Whisper heard as "ROM, Volaga")
+
+**Analysts (Q&A):**
+- Harlan Sur – JPMorgan
+- Blayne Curtis – Jefferies (Whisper: "Blaine Curtis")
+- Ross Seymore – Deutsche Bank
+- Benjamin Reitzes – Melius Research (Whisper: "Ben Reitz's")
+- Timothy Arcuri – UBS (Whisper: "Timothy our Curie")
+- Stacy Rasgon – Bernstein Research (Whisper: "stacy rascal")
+- James Schneider – Goldman Sachs (Whisper: "Jim Schneider")
+- Thomas O'Malley – Barclays (Whisper: "tom o mally with barkly as")
+- Christopher Muse – Cantor Fitzgerald (Whisper: "CJ Muse with canter fits Gerald")
+- Atif Malik – Citi (Whisper: "ATF Malik which city")
+- Edward Snyder – Charter Equity Research (Whisper: "edwarksnighter with charter equity researcher")
+- Joseph Moore – Morgan Stanley (Whisper: "joe more with morgan's family")
+- Joshua Buchalter – TD Cowen (Whisper: "Joshua Buckhalter with td cow and")
+
+Now I'll identify the CFO's prepared remarks section. The transcript says "let me turn the call over to Kiazza" (Kirsten) and she begins "Thank you, Hawk." — this is Kirsten Spears presenting the CFO section. The closing remarks are clearly Ji Yoo.
+
+For the Q&A, I need to track who speaks when. The key transitions are:
+- Hock Tan answers most questions
+- After Ross Seymore's gross margin question, Kirsten Spears responds first, then Hock Tan adds color
+- The "I'm in Ross as Kirsten said..." line is Hock Tan interjecting
+
+Here is the fully annotated transcript:
+
+---
+
+[OPERATOR]:
+[00:00] Welcome to Broadcom Inc. 2nd Quarter fiscal year,
+[00:03] 2026 Financial Results Conference Call.
+[00:07] At this time for opening remarks and introductions,
+[00:10] I would like to turn the call over to GU,
+[00:12] head of Investor Relations of Broadcom Inc.
+
+[JI YOO - HEAD OF INVESTOR RELATIONS]:
+[00:16] Thank you, operator, and good afternoon, everyone.
+
+[00:19] Joining me on today's call are HOC-10, President and CEO,
+[00:24] Charlie Kowaz, President, Semiconlector Solutions Group,
+[00:28] and ROM, Volaga, President, Infrastructure, Software Group.
+[00:33] Also joining is Kirsten Spears, Chief Financial Officer.
+[00:38] As we announced, Kirsten will be retiring June 12th,
+[00:43] and today we have joining us our incoming Chief Financial Officer,
+
+[00:47] Amy Teener. Thank you, Kirsten, for your leadership
+[00:51] over the past 12 years. Broadcom distributed a press release
+[00:57] and financial tables after the market closed,
+[00:59] describing our financial performance for the second quarter fiscal year,
+[01:03] 2026. If you did not receive a copy,
+[01:07] you may obtain the information from the Investor section of Broadcom's
+
+[01:12] website at Broadcom.com.
+[01:16] This conference call is being webcast live,
+[01:19] and an audio replay of the call can be accessed for one year
+[01:22] through the Investor section of Broadcom's website.
+[01:26] During the prepared comments, Hochen Kirsten will be providing details of our
+[01:29] second quarter fiscal year 2026 results, guidance for our third quarter fiscal
+
+[01:35] year 2026, as well as commentary regarding the business
+[01:38] environment. We'll take questions after the end
+[01:41] of our prepared comments. Please refer to our press release today
+[01:47] and our recent filings with the SEC for information on risk factors that could
+[01:52] cause our actual results to differ materially from the forward-looking
+[01:57] statements made on this call. In addition to U.S. gap reporting,
+
+[02:02] Broadcom reports certain financial measures on a non-gap basis.
+[02:07] A reconciliation between gap and non-gap measures to the extent possible
+[02:12] is included in the tables attached to today's press release.
+[02:16] Comments made during today's call will primarily refer to our non-gap
+[02:21] financial results. I will now turn the call over to Hoc.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[02:26] Thank you, Jay. Thank you, everyone, for attending and joining today.
+
+[02:31] In our fiscal Q2 2026 total revenue reach a
+[02:36] record 22.2 billion dollars. Up 48 percent year on year,
+[02:41] above our guidance on strength in AI semiconductors.
+[02:45] Q2 operating margin was a record 67 percent and adjusted
+[02:51] EBITDA was a record 69 percent of revenue, which was above our guidance.
+[02:57] Even as our revenue scales are massively driven by AI,
+
+[03:03] our operating and EBITDA margins remain strong and stable.
+[03:09] Turning to semiconductors Q2 revenue was a record 15 billion.
+[03:15] As I said before, as we grew 79 percent year on year.
+[03:20] Driving this growth was AI semiconductor revenue at a record 10.8
+[03:26] billion, up 143 percent year on year and above our outlook.
+[03:34] Networking represented almost 40 percent of our Q2 AI revenue.
+
+[03:42] Demand for XPUs and networking is simply insatiable.
+[03:51] During the quarter, bookings for AI semiconductors
+[03:56] were over 30 billion dollars against the 10.8 billion
+[04:02] dollars we shipped. In the second half of 2026,
+[04:08] we expect AI semiconductor revenue to double from the first half we shipped
+[04:15] last from the ship this year. Consistent with this trend in Q3,
+
+[04:22] we expect AI semiconductor revenue to accelerate to 16 billion dollars
+[04:29] up over 22 up over 200 percent year on year.
+[04:36] For the full year 2026, we expect to achieve a two-achieve AI semiconductor
+[04:42] revenue of 56 billion dollars up approximately 180 percent
+[04:50] from fiscal 2025. Now we expect this momentum to continue
+[04:57] into fiscal year 2027 and reiterate our AI semiconductor revenue guidance
+
+[05:04] to be in excess of 100 billion dollars.
+[05:09] We expect AI semiconductor revenue growth to continue
+[05:14] in fiscal 2028 based on the following initiatives we have with our six
+[05:21] core customers.
+[05:24] As you are aware, we've Google, we announced in April that we entered into a long-term
+[05:30] agreement to develop and supply multiple generations of TPUs
+
+[05:35] and AI networking. Our relationship continues to be strategic
+[05:41] and very substantial as we continue to deliver
+[05:46] vastly superior technology and execution compared to other alternatives.
+[05:54] This ability to provide differentiated value to Google ensures that our
+[05:59] business will sustain and grow for the foreseeable future.
+[06:06] For Entropic, as you know for 2026, we are providing access to
+
+[06:12] Broadcom TPU base compute of over one gigawatts.
+[06:18] In April, we entered into an agreement to enable Entropic to access
+[06:23] another five gigawatts of next-generation TPU base compute
+[06:28] beginning in 2027.
+[06:33] For OpenAI, we have delivered silicon and we are on
+[06:37] train for production late 2026. We have a contractual commitment to deploy
+
+[06:45] 1.3 gigawatts in 2027 as part of the larger 10 gigawatts
+[06:53] that by 2029 agreement we announced last year.
+[06:58] For method in April, we announced a partnership to deliver multiple
+[07:04] generations of MTIA XPUs and under this agreement
+[07:11] we expect to deploy three gigawatts through the end of
+[07:16] 2028. The initial order for one gigawatt which includes
+
+[07:22] XPUs and our networking has been received and will start delivery
+[07:29] in the second half of 2027. For our other two customers,
+[07:36] we expect shipments to begin late 2026 and accelerate into 2027.
+[07:44] To date, we have received purchase orders totaling $6 billion.
+[07:52] While we have significant IP and execution leadership in XPUs,
+[07:58] networking is key to building scalable XPU and GPU clusters.
+
+[08:04] And here in networking, we have at least one generation of technology
+[08:10] and product leadership. For scale-up within RACS, we enable
+[08:15] direct attach copper based on an industry leading 200G
+[08:20] and 400 gig cities, driving called package copper
+[08:26] with internet and PCX press switches. For scale-out between RACS,
+[08:33] we have been shipping the industry only 100 terabit
+
+[08:38] internet switch, the TAMON 6, for over a year. We will now be
+[08:45] tapping out our next generation 200 terabit switch
+[08:50] this quarter and in CPOs, which is called package optics,
+[08:56] 1.6 terabit DSPs, CW and EML lasers, we are the de facto
+[09:05] standard in the industry. To extend AI clusters across data centers,
+[09:13] we remain the industry leader with our Jericho 3 and Jericho 4 fabric solutions
+
+[09:21] and enabling the world's largest deployments of multiple hyperscalers.
+[09:30] Our strategic vision is to bring together Broadcom's leading technology
+[09:38] and investor partners with the strongest balance sheets to deliver at scale
+[09:46] sufficient compute capacity at the lowest cost and power for the leading
+[09:53] AI frontier labs, including entropic and open AI. To deliver this vision,
+[10:04] we are creating the AI XTV platform with Apollo and Blackstone and other leading investors
+
+[10:14] to deploy more than 20 gigawatts of compute capacity through 2028.
+[10:24] The first trench of this platform, valued at $35 billion, is in fact currently been launched by
+[10:33] Apollo. Now turning to non-AI semiconductors, Q2 revenue of $4.2 billion was up 6% year on year.
+[10:46] Bookings during the same period exceeded $6 billion, which is a clear indication way on the path
+[10:53] towards a full cyclical recovery. Broadband, service storage and enterprise net working together
+[11:01] were up partially offset by a seasonal decline in wireless. Consistent with this trend in Q3,
+
+[11:11] we forecast non-AI semiconductor revenue to be approximately $4.5 billion, up 12% from a year ago.
+[11:22] In summary, we expect Q3 semiconductor revenue to be $20.5 billion, up 124% year on year.
+[11:40] Let me turn to infrastructure software segment. Q2 software revenue of $7.2 billion was up 9%
+[11:50] year on year, in line with our guidance. Bookings continue to be strong as we sustain ARR growth
+[11:58] of 17% year over year. For Q3, we forecast software revenue to be approximately $8.9 billion, up 31%
+[12:13] year on year. We just released VMware Cloud Foundation 9.1, focused on improving infrastructure
+
+[12:21] efficiency, security and support for enterprise AI inferencing workloads. With strong server-demand
+[12:31] globally, the deployment of VCF 9.1 for on-prem cloud computing is extremely strong, driving
+[12:39] robust revenue growth. This release adds heterogeneous compute support across GPUs
+[12:47] and CPU architectures, including AMD Intel and NVIDIA platforms, enabling customers, enterprise
+[12:55] customers to run AI, Kubernetes and traditional virtualized workloads on a common private cloud
+[13:04] environment. To sum it up, for Q3, 2026, we expect our consolidated revenue to grow to 29.4 billion,
+
+[13:16] up 84% year on year. We expect operating margin to be stable at approximately 67% of revenue
+[13:25] and adjusted EBITDA to be at approximately 68% of revenue.
+[13:33] And we then let me turn the call over to Kiazza.
+
+[KIRSTEN SPEARS - CFO]:
+[13:37] Thank you, Hawk. Let me now provide additional detail on our Q2 financial performance.
+[13:43] Consolidated revenue with a record 22.2 billion for the quarter, up 48% from a year ago.
+[13:50] Gross margin was 77.1% of revenue in the quarter, down 230 basis points year on year,
+
+[13:58] a semiconductor became a larger proportion of our product mix.
+[14:03] Consolidated operating expenses were 2.2 billion, of which 1.6 billion was R&D. Q2 operating income
+[14:12] was a record 14.9 billion, up 52% from a year ago. Note that even with the decline in gross margin,
+[14:19] operating margin increased 200 basis points year over year to 67.3% as operating expenses
+[14:27] remained relatively flat. Adjusted EBITDA, a 15.2 billion or 69% of revenue was above our guidance of 68%.
+[14:37] Now a review of the P&L for our two segments, starting with semiconductors.
+
+[14:42] Revenue for our semiconductor solution segment was a record 15 billion, with growth accelerating
+[14:48] to 79% year on year driven by AI. Semiconductor revenue represented 68% of total revenue in the
+[14:56] quarter, and AI semiconductor revenue represented 49% of total revenue. Gross margin for our semiconductor
+[15:04] solution segment was approximately 70%. Operating expenses of 1.2 billion reflected increased
+[15:11] investment in R&D for leading edge AI semiconductors and represented 8% of revenue. Semiconductor
+[15:18] operating margin of 62% was up 460 basis points year on year reflecting our strong operating
+
+[15:26] leverage. Now moving on to infrastructure software. Revenue for infrastructure software of 7.2 billion
+[15:33] was up 9% year on year and represented 32% of revenue. Gross margin for infrastructure software
+[15:40] was 93% in the quarter and operating expenses were 1 billion in the quarter. Q2 software operating
+[15:47] margin was up 310 basis points year on year to approximately 79%.
+[15:54] Moving on to cash flow. Free cash flow in the quarter was a record 10.3 billion and represented
+[16:01] 46% of revenue. We spent 231 million on capital expenditures. We ended the second quarter with 19.6
+
+[16:10] billion of cash compared to 14.2 billion in the prior quarter. We ended the second quarter with
+[16:18] inventory of 4.3 billion as we continued to secure supply to support strong AI demand. Our days of
+[16:25] inventory on hand were 86 days in Q2 compared to 68 days in Q1 in anticipation of accelerating
+[16:32] AI semiconductor growth in the second half of the year. Turning to capital allocation. In Q2 we paid
+[16:39] stockholders 3.1 billion of cash dividends based on a quarterly common stock cash dividend of 65
+[16:46] cents per share. Now moving to guidance. Our guidance for Q3 is for consolidated revenue of 29.4
+
+[16:55] billion up 84% year on year. We forecast semiconductor revenue of approximately 20.5 billion up 124%
+[17:06] year on year. Within this we expect Q3 AI semiconductor revenue of 16 billion up over 200% year on year.
+[17:16] We expect Q3 infrastructure software revenue of approximately 8.9 billion up 31% year on year.
+[17:25] Moving on to margins. As the proportion of AI revenue significantly grows in Q3 we expect Q3
+[17:35] consolidated gross margin to be down to approximately 74%. This decline in gross margin does not
+[17:44] represent a structural change in semiconductor margin rather it reflects product mix between
+
+[17:50] semiconductors and infrastructure software. Regardless of the impact to gross margin we expect Q3
+[17:57] operating margin to be 67% which is flat quarter on quarter demonstrating our strong operating leverage.
+[18:04] We highly recommend that investors model semiconductor and infrastructure software margins
+[18:10] separately to properly reflect the impact of changes in total revenue mix going forward.
+[18:17] We expect the non-gap tax rate for Q3 in fiscal year 2026 to be approximately 16%
+[18:24] due to the impact of the global minimum tax and the geographic mix of income compared to that
+
+[18:29] of fiscal year 25. In Q3 we expect the non-gap diluted share count to be approximately 4.94 billion
+[18:37] shares excluding the impact of potential share repurchases. That concludes my prepared remarks.
+[18:44] Operator please open up the call for questions.
+
+[OPERATOR]:
+[18:47] Thank you. To ask a question you will need to press star 1-1 on your telephone. To withdraw
+[18:53] your question press star 1-1 again. Due to time restraints we ask that you please limit
+[18:58] yourself to one question. Please stand by while we compile the Q&A roster.
+
+[19:09] And our first question will come from the line of Harlan Sir with JP Morgan. Your line is open.
+
+[HARLAN SUR - ANALYST, JPMORGAN]:
+[19:15] Yeah good afternoon thank you for taking my question. Thanks for all your support Kristin and
+[19:20] welcome to the team. First just a quick housekeeping item on this fiscal year
+[19:27] AI sort of 2x growth second half of our first half. That would put AI revenues over 60 billion
+[19:33] with sequential growth in fiscal Q4 but you gave us this $56 billion number which is
+[19:40] only like one and a half x you know half over half growth with 4Q AI actually beating down
+
+[19:47] sequentially. So if you just help us kind of square the numbers there and then for my real
+[19:52] question you know back in December of last year you talked about in the AI backlog next 18 months
+[19:58] 73 billion dollars. Market sort of took that number spread that linearly over six quarters
+[20:04] but we know that the backlog is always more front loaded over the first four quarters right.
+[20:09] And sure enough like you're going to deliver around 80% or more of that backlog in the
+[20:17] in this fiscal year or first four quarters. Just given the strength of all your programs the
+
+[20:22] broadening of the customer base accelerating your year trends and your AI shipments all the
+[20:28] multi-giggle up partnerships that you just articulated today which is most of it which is set to start
+[20:35] to fire next year. Is it fair to assume that you're 18 months AI backlog second half of this year
+[20:41] to first up to all of fiscal 27 sits at 200 billion dollars or better?
+
+[HOCK TAN - PRESIDENT & CEO]:
+[20:51] That's a very complicated set of number questions to begin with. Let's start with 26.
+[20:59] If you're doing a math basically two x or two x the first half we ship we ship about in total
+
+[21:07] AI revenue something in the range of 19 billion you're going to be precise. So if you and if you do
+[21:16] what I indicate and two x that in a second half you get to pretty much in the range of what we're
+[21:22] talking about which is around 56 billion. So that number is still very very dust-eye up very
+[21:35] well. Now the only big question on the second half which is we're going to have a very detailed
+[21:41] analysis of this. Yeah we've equipped a momentum going as we expect to see in 2027 what we will see
+[21:52] in 2027 is continued growth of the level we're talking about and if you drive on that basis of
+
+[22:05] what we're seeing here almost two x what two thousand in the range of two x what 2026 will be
+[22:14] I think you will easily see that 2027 will exceed very easily 100 billion dollars in 2027
+[22:23] which is pretty much what we indicated last quarter and we are continuing to say that
+[22:30] it will be over 100 billion in 2027. So in that sense if anything else it might be based on what
+[22:40] we're doing very much on track if not stronger but we're not trying to guide you every quarter
+[22:47] what 27 would be like. So we basically say we continue to be in excess of 100 billion in 2027
+
+[22:54] but it's on the same trajectory as we are seeing in the back half of 26.
+
+[HARLAN SUR - ANALYST, JPMORGAN]:
+[23:05] Got it. Okay thank you Hawk.
+
+[OPERATOR]:
+[23:05] One moment for our next question and that will come from the line of Blaine Curtis with
+[23:13] Jeffries your line is open.
+
+[BLAYNE CURTIS - ANALYST, JEFFERIES]:
+[23:18] Hey good afternoon thanks for my question Hawk I wanted to ask you
+[23:18] in quarter you had that 8k with the the long-term agreement with Google I think obviously you're
+[23:24] probably like I tell me what the total value is there but I think there's a lot of concern about
+[23:29] share within that customer I was just kind of curious your now that you have this agreement
+
+[23:33] maybe you could speak to a little bit more in terms of your confidence and if there's
+[23:38] up there that customer you know is it a fixed amount or is there shares? Is there any way you
+[23:43] can kind of add some color to that agreement that came out?
+
+[HOCK TAN - PRESIDENT & CEO]:
+[23:43] Oh well you know it's a very very strong
+[23:53] agreement and it basically reflects the strength of the partnership we have simply because of the
+[24:01] products we do the multi-general products and then any intellectual property we deploy into this
+[24:08] whole program. To answer your question specifically it's a commitment that is very substantial in
+
+[24:19] dolls very very substantial amount of dolls. Now we also accept the fact that while we like
+[24:27] to win every design in that program we also accept the fact that given the growth of consumption of
+[24:41] and development and consumption of AI compute even by our partner Google that we fully expect that
+[24:50] there will be some diversity of sources for them but our commitment from them is a very substantial
+[25:01] dollar mark.
+
+[BLAYNE CURTIS - ANALYST, JEFFERIES]:
+[25:01] Thank you.
+
+[OPERATOR]:
+[25:01] One moment for our next question.
+[25:11] And that will come from the line of Ross Seymour with Deutsche Bank your line is open.
+
+[ROSS SEYMORE - ANALYST, DEUTSCHE BANK]:
+[25:16] Hi thanks for the ask question and congrats to both Kirsten and Amy. Question on the
+[25:21] gross margin side of things. I know Kirsten you talked about it going down due to the mixed dynamics
+[25:27] within the semis versus the software side but given the strength on the software side in the
+[25:30] quarter it seems like the gross margin falling a little bit harder. So behind the scenes can you
+[25:36] just talk a little bit about what the drivers within semis are. Is that the XPU versus the
+[25:42] networking side of things and is that trend likely to continue next year. Are there
+
+[25:46] rack scale versus chip scale all those sorts of dynamics any color you could give on that would
+[25:50] be helpful.
+
+[KIRSTEN SPEARS - CFO]:
+[25:50] Yes certainly as our semiconductor business grows just to reiterate on a consolidated
+[25:56] basis relative to our software business you're going to have a decline in margins right a bit
+[26:00] right you'll have compression but remember that where it's a creative because we have strong
+[26:05] operating leverage right so our operating margins will stand up a bit over time to that.
+[26:10] Within semiconductors we've always said our ASICs the TPUs some of the wireless business has lower
+
+[26:15] margins so as the TPUs continue to accelerate there there'll be pressure overall on margins but
+[26:22] the connectivity side the AI networking side of the business has very rich margins so it'll offset
+[26:28] it somewhat as we go.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[26:28] I'm in Ross as Kirsten said in her remarks structurally the semiconductor
+[26:38] margins remains very stable and very solid it's the mix particularly the mix between
+[26:49] software and non-AI to the very very highly rapidly growing AI semiconductor that is just
+[27:00] a diluting rose module.
+
+[ROSS SEYMORE - ANALYST, DEUTSCHE BANK]:
+[27:00] In the rack versus chip side of things is that all clarified now?
+
+[HOCK TAN - PRESIDENT & CEO]:
+[27:07] No no no no no no no no no no no no no no no we only chips only chips.
+
+[ROSS SEYMORE - ANALYST, DEUTSCHE BANK]:
+[27:16] Perfect thank you.
+
+[OPERATOR]:
+[27:16] One moment for our next question and that will come from the line of Ben Reitz's with
+[27:24] Melius your line is open.
+
+[BENJAMIN REITZES - ANALYST, MELIUS RESEARCH]:
+[27:24] Yeah hey guys thanks appreciate it. I wanted to ask about 2027
+[27:32] Hock with regard to you know previously you've talked about the TAM being and it's kind of a
+[27:41] longer term question actually. You've talked about the TAM being 10 to 20 and whatnot it seems
+[27:47] that one of your competitors talked recently about the you know the TAM per gigawatt going up a lot
+
+[27:53] you know as in both throughout the decade and it seems you know wasn't just due to infrastructure
+[27:59] it was due to the compute and networking components and other things perhaps you're familiar with
+[28:05] the comment that Jensen made where the overall infrastructure is going from something around
+[28:10] 50 something towards 100 and the compute content going way up. Are you are you seeing the same
+[28:16] thing as you go throughout the long term as that potentially being an accelerator you know what
+[28:21] you've already outlined in terms of your TAM per gigawatt and how are you thinking about that?
+[28:27] Thanks a lot.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[28:27] Sure well I think the accelerating part or if you talk about power
+[28:38] Realize one thing is the dollars per gigawatt the content dollars are regs per gigawatt
+[28:48] it's not accelerating that much because you are creating chips that each individual chips are
+[28:57] driving higher and higher power so you're driving less chips though the price of each chip is going
+[29:05] up in price so dollars per gigawatt billions of dollars per gigawatt is relatively stable
+[29:14] but the number of gigawatts will keep go as will accelerate as I think some are remarks indicate
+
+[29:21] and and that's what we are saying that the amount of gigawatts required to measure you know compute
+[29:31] capacity as measured by number of gigawatt is growing very fast and and we're seeing that
+[29:41] and we are seeing that particularly to the point where for even two of our customers
+[29:50] we're talking about which is entropic and open AI which we're creating this platform
+[29:58] to enable them to run sufficient compute power we're talking about
+[30:04] capacity as measured by gigawatt power then our way ahead of what we fully what we have expected
+
+[30:13] say six months ago and that's just this guys we'll not talk about the consumption beyond the
+[30:21] platform expv platform we are talking we have announced here from our other customers which is
+[30:31] Google own internal workloads matters workloads and any other customer and the other two customers
+[30:38] we have so fold that in and you're talking about gigawatts in totality if you ask about
+[30:44] 27 or 28 that will continue to grow we expect in fact 28 to be a substantial growth from what we
+[30:56] are expecting in 27
+
+[BENJAMIN REITZES - ANALYST, MELIUS RESEARCH]:
+[30:56] we thank you
+
+[OPERATOR]:
+[30:56] for one moment for our next question
+
+[31:06] and that will come from the line of Timothy our Curie with UBS your line is open
+
+[TIMOTHY ARCURI - ANALYST, UBS]:
+[31:16] thanks a lot haka I wanted to ask you about support supply and and kind of your ability to get
+[31:21] incremental volume of wafers and hbms as I look at some of your competitors I mean they're kind of
+[31:27] able to drop you know 20 billion dollars out of thin air and get incremental you know wafer
+[31:32] supply so I'm wondering do you feel pretty good about like if a customer comes to you are you able
+[31:36] to get upside in terms of wafers and hbm and and and are you beginning to consider maybe using
+
+[31:42] other boundaries to add more optionality to your to your to your supply thanks a lot
+
+[HOCK TAN - PRESIDENT & CEO]:
+[31:49] getting supplies not just about dropping money in the team though that does well
+[31:53] no we are very comfortable that we have been able to secure supply of the type you mentioned about
+[32:02] four needs 26 27 working on 28 and 29 right now
+
+[TIMOTHY ARCURI - ANALYST, UBS]:
+[32:13] right but if a customer comes to you and wants incremental supply are you able to go to your
+[32:17] suppliers and get it the way that it seems like some of your competitors are all customer
+
+[HOCK TAN - PRESIDENT & CEO]:
+[32:21] customers have been coming to us incrementally over the last few months expect that to continue
+[32:31] and buy and launch yes
+
+[TIMOTHY ARCURI - ANALYST, UBS]:
+[32:37] okay thank you
+
+[OPERATOR]:
+[32:39] one moment for our next question
+[32:44] and that will come from the line of stacy rascal with bernstein research your line is open
+
+[STACY RASGON - ANALYST, BERNSTEIN RESEARCH]:
+[32:50] hi guys thanks for taking my question um hbm you gave some digiwatt shipment targets
+
+[32:56] for next year um for your various customers i just want to know are those any different do they
+[33:02] complex do they contemplate any change from what you said last quarter right i think you said that
+[33:07] was like close to 10 gigawatts you'd be shipping in 27 and can you just sort of help us shape the
+[33:12] year it sounded to me like you expected that to be more back half loaded in 27 uh given given the
+[33:18] shape of the of the ramps but but most importantly is there any change that is it more gigawatts or
+[33:24] less gigawatts um or the same gigawatts versus what you were suggesting last quarter
+
+[HOCK TAN - PRESIDENT & CEO]:
+[33:30] well you thought good question uh yeah for 27 we indicated about 10 gigawatts
+[33:37] uh shipment in 27 there's still very much intact they will be shipping 10 gig and we're planning
+[33:45] to ship 10 gigawatts in 27 and that nothing has changed back half loaded do that accent
+
+[33:54] yes and which really provides an interesting trajectory into 28 with this back half trajectory
+[34:03] so 28 we expect a lot more gigawatts
+
+[STACY RASGON - ANALYST, BERNSTEIN RESEARCH]:
+[34:09] yeah that's helpful thank you
+
+[OPERATOR]:
+[34:09] one moment for our next question
+
+[34:15] and that will come from the line of Jim Schneider with Goldman Sachs your line is open
+
+[JAMES SCHNEIDER - ANALYST, GOLDMAN SACHS]:
+[34:20] good afternoon thanks for taking my question i was wondering if you could comment a little bit on
+[34:25] the profile of your networking business talk as we head through uh fiscal 26 and 27 about 40 percent
+[34:33] of a revenue this quarter will you expect that to sort of fall back down as some of these custom ramps
+[34:39] ramp into the end of the year into early next year or would you sort of expect to stay at the upper
+[34:46] and that range and maybe talk about when you see um some of the optical and CTO uh revenue becoming
+
+[34:54] meaningful thank you
+
+[HOCK TAN - PRESIDENT & CEO]:
+[34:54] that's a hell of a great question Jim it's just very difficult to answer
+[35:02] because of how do we predict that because there are quite a few moving parts there one of which is
+[35:09] to start with is as more as a volume as more and more of a customers turn to XPUs obviously
+[35:19] XPUs uses very much our net more a lot of our networking components across the board so that's
+[35:26] great for us and that in that drives increase in consumption but it also means that we have been
+[35:35] able to sell networking to non-XPU uh footprints uh so that part of it would dilute the growth rate
+
+[35:46] and and this 40 percent i call i consider as a very well uh almost a situation where it starts
+[35:56] aligned when we are shipping a lot of networking over networking to non-XPU while the growth of
+[36:04] XPU are obviously allowing us to grow this networking business to our XPUs and we get to 40 percent
+[36:11] but i see that as probably uh as high as that percentage of total air revenue would go not the
+[36:19] first time i indicated that the more expected percentage as a share or our uh total air revenue
+[36:28] for networking would be closer to around 30 30 percent.
+
+[OPERATOR]:
+[36:28] One moment for our next question
+
+[36:42] that will come from the line of tom o mally with barkly as your line is open
+
+[THOMAS O'MALLEY - ANALYST, BARCLAYS]:
+[36:46] Hey hock thanks for taking the question so i noticed with the most recent deal with entropic
+[36:52] that you guys are using broad-come chips as a backstop for the deal do you expect more deals
+[36:56] to come like this in the future and then as you start to see the AI environment is there any way
+[37:01] you're thinking about financing in the future you're going to continue to do it with chips or uh
+[37:06] anything that you can offer on that thank you.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[37:06] Can you repeat that question especially at a front
+
+[37:12] i didn't quite get what you're saying yeah i don't want to answer the wrong way.
+
+[THOMAS O'MALLEY - ANALYST, BARCLAYS]:
+[37:17] Sorry hock
+[37:17] uh essentially most recent deal with entropic is being backstop by broad-com chips do you think
+[37:24] that in the future you will see more deals done this way and then any comments on the future
+[37:29] financing of deals with the large uh the large AI models thank you.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[37:29] Oh i i have to correct you on that
+[37:38] i would deal with entropic and that we talk basically talk about basically release
+[37:49] this close in our 8k recently as the deal we did with entropic is we use our TPU chips that we
+
+[38:00] developed to provide the compute capacity to entropic uh we we want that it wasn't backstop
+[38:10] in that sense we want the ones providing the chips to entropic we want the ones providing the
+[38:16] compute capacity in tropic.
+
+[OPERATOR]:
+[38:16] Thank you one moment for our next question
+[38:26] that will come from the line of CJ Muse with canter fits Gerald your line is open.
+
+[CHRISTOPHER MUSE - ANALYST, CANTOR FITZGERALD]:
+[38:33] Yeah good afternoon thanks for taking the question uh i guess hockey you know in recent years you've
+[38:38] talked about really focusing your efforts on very large uh XPU platforms and i'm just curious we
+
+[38:45] we're seeing many kind of XPU attached derivatives you know across interconnects storage other
+[38:51] and i'm wondering if there's any sort of programs there uh you that are more niche that are that
+[38:56] are wetting your appetite.
+
+[HOCK TAN - PRESIDENT & CEO]:
+[38:56] Uh well not i don't think so i think our business model is actually
+[39:05] very very straightforward which is we are developing uh XPUs custom AI accelerators
+[39:15] for for use buying our customers who are pretty much all LLM developers whether it's for training
+[39:25] or inference we are also creating a portfolio of critical components to enable this XPUs
+
+[39:38] and even GPUs to be clustered and form better performance and that continues to be the model
+[39:49] we do which is we provide chips uh technology in the form of chips whether they be AI computer
+[39:58] accelerators we call XPUs or networking chips that cluster them together be it uh switches
+[40:08] PCX press connectors uh DSPs lasers nakes and routers and that's very much still the model we
+[40:20] employ in semiconductors and we still as you can see our financial model and our our the program
+[40:27] we go we drive towards a chip versus model through the technologies we provide uh what we are doing
+
+[40:36] to enable some of these LLM players to be able to get uh to get access to the volume of compute
+[40:46] capacity the large gigawatt of computer capacity they need to scale up their models is we are as
+[40:54] I announce here today creating in partnership with uh guys with the best balance sheets around
+[41:03] uh vehicle to basically have these chips funded for these LLM players who otherwise might have
+[41:13] difficulty getting access to our technology which provides them with the lowest power and the lowest cost
+
+[OPERATOR]:
+[41:22] one moment for our next question that will come from the line of ATF Malik which city your line is open
+
+[ATIF MALIK - ANALYST, CITI]:
+[41:34] hi thank you for taking my question I have a question on um infrastructure software business
+[41:41] are you guys seeing any impact of AI, agentic AI on your software growth and renewals and if you
+[41:48] can talk about some sort of long term growth for that business?
+
+[HOCK TAN - PRESIDENT & CEO]:
+[41:55] uh well we're we're not seeing it if anything else as I reported the the high volume of core
+[42:04] count of CPUs selling together with GPUs it's driving uh some accelerated growth of our VMware
+[42:17] business and as you can see in Q3 we're seeing an accelerated growth and we expected to continue
+
+[42:26] I guess for the next multiple quarters as this demand picks up long term given the kind of products
+[42:35] we do in infrastructure software very very close to literally the hardware the same uh the uh
+[42:45] as basically the hypervisor uh which is where we our products are we do not expect to see any
+[42:54] impact on uh software products
+
+[OPERATOR]:
+[43:02] and one moment for our next question that will come from the line of edwarksnighter with
+[43:09] charter equity researcher line is open
+
+[EDWARD SNYDER - ANALYST, CHARTER EQUITY RESEARCH]:
+[43:16] thanks a lot heart this is very interesting because
+
+[43:16] the gigawatts that you've got laid out for the different customers um it's very clear that the
+[43:22] two that are offering kind of csp I'm going to see if see but consumer versions of AI and
+[43:27] topics and open AI have very large gigawatt commitments in the out years I know part of
+[43:33] that's catch up because they've just started late when your your um all these customers are
+[43:37] doing these for quite some time but even part of google's is offering cloud services to other
+[43:42] folks too so are we seeing a shift here I know that initially a lot of the exp use in the AI uh
+
+[43:48] uh um services were through the hyperscalers with their own customer clothes we've talked
+[43:52] about that ad nauseam and now you're seeing AI finally hit the enterprises and you see cloud
+[43:57] take off with uh with the programming which is sweeping everybody can we expect then that um
+[44:03] this is going to be this big second wave of demand that's driven as AI starts seeing enterprises
+[44:10] and it's consumed start getting uh access to it or finding usable tools because the numbers
+[44:15] you're saying here are significantly different for the two classes of customers
+
+[HOCK TAN - PRESIDENT & CEO]:
+[44:22] well that's a very interesting talk here and and you you and you may be very well right that enterprise
+[44:31] consuming AI is still relatively at an early stage of the game but having said that what we
+[44:41] also seeing is a lot of what the enterprise is consuming on tokens they are buying a lot of
+[44:48] these tokens from the platforms the product platform API platform uh API they pull from the
+[44:56] platforms of this same name of customers we talked about which is the entropic open AI germanai
+[45:04] let this on the large guys they're pulling it from and that's where i think a high high
+
+[45:11] substantially most of these tokens consumption are tied to those LLMs and these LLM guys as
+[45:19] they productize their frontier models whether it's be open for the seven chad GPT 5.5 or germanai
+[45:29] 5 comes back to the same end demand on compute compute capacity we provide to all these guys
+[45:38] and so even a growth of enterprise demand that we're now starting to see as enterprise starts to
+[45:45] consume AI AI tokens for their own workloads for their own productivity users as consumers do
+[45:55] they are buying from the same source these same fugas and that's what's driving this very large
+
+[46:05] i call it insatiable growth in compute capacity that we are experiencing and we see that continuing
+[46:14] to happen now to the through 2027 and what we think now through 2028 as well so this is
+[46:25] getting to be quite a sustainable uh and steep steepening trajectory of demand
+
+[EDWARD SNYDER - ANALYST, CHARTER EQUITY RESEARCH]:
+[46:34] so if i could doesn't this change the dynamic what we talked about before and you talked about about
+[46:39] seven seven or so customers for your xpu's but this is actually happening you already see
+[46:44] Google operating cloud services for tpu's um it opens up xpu access to all those smaller companies
+
+[46:52] that don't kind of need the criteria for doing their own asics that you couldn't partner with
+[46:57] to broadcom's technology through these platforms is it why would that not be the case
+
+[HOCK TAN - PRESIDENT & CEO]:
+[46:57] well i guess
+[47:04] the answer to that is it's possible but the reality of the whole issue is this the compute
+[47:12] capacity most of AI generated are provided in the form of sas s models apis are pulled from
+[47:24] the clouds whether they're from bedrock vertex azure or the first party from the
+[47:31] it is still provided in the cloud so most of all the demand at the end of the day in in terms of
+
+[47:39] compute capacity which is what we're doing comes from those few large frontier model developers
+[47:49] and the products they generate to supply to consumer and enterprises globally source of demand
+[47:59] comes from those frontier model labs who are developing the products which consumer
+[48:08] enterprise like you and us and our companies are consuming and what we're doing is providing
+[48:15] that capacity to that demand source as opposed to going to a company or bang and pro trying to
+[48:23] provide them experience and then they having to try to build it run as well create a software
+
+[48:30] stack to then write application and running themselves i'm sure there are few enterprises
+[48:34] doing now but there are not many it's early stage in that whole game right now the true
+[48:42] most of the demand are coming from the frontier model players who are creating products
+[48:51] things as i said like code assistance like you know our engineering uh verticals which are
+[49:01] which are really coming from the same source of guys who are doing all this those few guys doing
+[49:08] the frontier model it's not really coming from a hundred thousand companies directly trying to buy
+
+[49:16] XP use on for that method gpu it's not
+
+[OPERATOR]:
+[49:16] one moment for our next question
+[49:29] and that will come from the line of joe more with morgan's family your line is open
+
+[JOSEPH MOORE - ANALYST, MORGAN STANLEY]:
+[49:35] great thank you um you talked about 30 billion of of ai bookings in the quarter
+[49:40] uh which is a lot i guess relative to this quarter and next quarter shipments can you talk about
+[49:44] the dynamic you know why is there so much backlog now or is there you sort of said you can react
+[49:50] upside with supply just you know why so many bookings this quarter relative to revenue
+
+[HOCK TAN - PRESIDENT & CEO]:
+[49:57] well that's that's a huge demand of compute see a lot of a large this few six customers now
+[50:08] being realized that lead time to get compute you need lead time you need to be thoughtful
+[50:16] and that's not just asking for waivers to get the chips or memory to ensure that hbms are available
+[50:23] or dremms available they're also talking about hey i got to have the power the power shell so all
+[50:31] this is planning ahead and what we are seeing the bookings uh they're coming it's not for immediate
+[50:38] delivery some are hope to have but the reality they all accept is they need to align quite a few
+
+[50:47] other things in place before they can deliver but they are placing their orders early and they're
+[50:55] placing their orders now and they are placing your orders in fairly huge demand which basically
+[51:01] gives us a lot more visibility than we normally otherwise would have in semiconductors
+[51:08] our visibility runs all the way to 2028 right now three months ago i can tell you visibility
+[51:17] run pretty much 27 today it runs to 28 and that's part and that's a big part reason why
+[51:26] we are creating this xpv platform as as really the platform to plan to build up this
+
+[51:35] kebab put in place such capacity for those frontier model customers of ours who are seeing as you
+[51:45] guys are seeing in some of the financials they are telling you and turn any next
+[51:49] experiences you have which is driving huge amount of consumption of tokens from those
+[52:00] compute capacity we are giving them we have the benefit now of a lot of lead time and we're planning
+[52:07] that and it's not because of shortage of our components it's also the other elements that need to
+[52:12] be put in place which particularly relates to power and brought a connection to into an
+
+[52:22] infrastructure globally or through to America at least that enables inference to be distributed
+[52:29] to be distributed through to consumers and enterprises throughout the country so it's we're
+[52:37] getting a lot of lead time
+
+[JOSEPH MOORE - ANALYST, MORGAN STANLEY]:
+[52:37] very helpful thank you
+
+[OPERATOR]:
+[52:37] thank you we do have time for one final question
+[52:47] and that will come from the line of Joshua Buckhalter with td cow and your line is open
+
+[JOSHUA BUCHALTER - ANALYST, TD COWEN]:
+[52:53] thank you for taking my question um in the past you've talked about sort of 15 20 billion dollars
+[52:58] per gigawatt of compute and you know given the 10 that you implicit implied is is what you'll
+
+[53:06] be doing next year it implies a much larger number than a hundred billion um you know you've also
+[53:10] mentioned that the value per gigawatt does vary per project so i guess how should we think about
+[53:16] the evolution of your revenue per gigawatt over time as i would expect on one hand den to den
+[53:21] pricing to increase on programs already shipping but also there are other projects that are
+[53:25] entering the model thank you
+
+[HOCK TAN - PRESIDENT & CEO]:
+[53:25] that's our revenue our content by giving what will increase
+[53:38] but it's simply our content from the fact that our compute chip wall a xp will go up in price
+
+[53:47] very dramatically particularly when you not only put s rams into it a sparse cost you start
+[53:55] putting a lot you start putting embedding cpu cores into the same xp use and making those chips
+[54:04] basically multi die with lots of hvm so that the trajectory of content increases increase
+[54:13] will go up just as it goes up every month every six months or every quarter but it will follow
+[54:21] one generation to the next that the content will grow per gigawatt
+
+[JOSHUA BUCHALTER - ANALYST, TD COWEN]:
+[54:21] thank you
+
+[OPERATOR]:
+[54:21] thank you i would
+[54:33] now like to turn the call over to gu head of investor relations for closing remarks
+
+[JI YOO - HEAD OF INVESTOR RELATIONS]:
+[54:39] thank you
+[54:39] operator broadcom currently plans to report its earnings for the third quarter of fiscal year
+[54:45] 2026 after close of market on wednesday september second 2026 a public webcast of broadcom's earnings
+[54:53] conference call will follow at 2 p.m. pacific time that will conclude our earnings call today
+[54:59] thank you all for joining shari you may end the call
+
+[OPERATOR]:
+[54:59] this concludes today's program thank you all
+[55:05] for participating you may now disconnect

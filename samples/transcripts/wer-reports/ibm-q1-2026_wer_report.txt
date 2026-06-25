@@ -1,0 +1,1749 @@
+WER: 10.1%
+Quality: Acceptable (10-20%)
+Official word count: 9643
+Whisper word count: 9532
+
+NORMALIZED TEXT USED FOR WER COMPARISON
+============================================================
+OFFICIAL (first 1000 chars):
+ibm 1q26 earnings transcript ibm 1q two thousand and twentysix earnings
+conference call transcript ibm participants olympia mcnerney – global head of
+investor relations arvind krishna – chairman president and chief executive
+officer james kavanaugh – svp and chief financial officer april twentytwo two
+thousand and twentysix fivezero pm et ibm 1q26 earnings transcript management
+discussion operator welcome and thank you for standing by at this time all
+participants are in a listenonly mode todays conference is being recorded if you
+have any objections you may disconnect at this time now i will turn the meeting
+over to olympia mcnerney ibms global head of investor relations olympia you may
+begin olympia mcnerney ibm thank you id like to welcome you to ibms first
+quarter two thousand and twentysix earnings presentation im olympia mcnerney and
+im here today with arvind krishna ibms chairman president and chief executive
+officer and jim kavanaugh ibms senior vice president and chief financi
+
+WHISPER (first 1000 chars):
+welcome and thank you for standing by at this time all participants are in a
+listen only mode todays conference is being recorded if you have any objections
+you may disconnect at this time now i will turn the meeting over to olympia
+mcnerney ibms global head of investor relations olympia you may begin thank you
+id like to welcome you to ibms first quarter two thousand and twentysix earnings
+presentation im olympia mcnerney and im here today with arvin krishna ibms
+chairman president and chief executive officer and jim kavanaugh ibm senior vice
+president and chief financial officer well post todays prepared remarks and a
+replay of todays webcast on the ibm investor website within a couple hours the
+earnings presentation is already available to provide additional information to
+our investors our presentation includes certain nongat measures for example all
+of our references to revenue and signings growth are a constant currency we
+provided reconciliation charts for these and other nongat
+
+ALIGNED DIFFERENCES (all 450, via difflib sequence matching):
+============================================================
+
+[1]
+  OFFICIAL: ibm 1q26 earnings transcript ibm 1q two thousand and twentysix
+  earnings conference call transcript ibm participants olympia mcnerney – global
+  head of investor relations arvind krishna – chairman president and chief
+  executive officer james kavanaugh – svp and chief financial officer april
+  twentytwo two thousand and twentysix fivezero pm et ibm 1q26 earnings
+  transcript management discussion operator
+
+[2]
+  OFFICIAL: listenonly
+  WHISPER:  listen only
+
+[3]
+  OFFICIAL: olympia mcnerney ibm
+
+[4]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[5]
+  OFFICIAL: ibms
+  WHISPER:  ibm
+
+[6]
+  OFFICIAL: of
+
+[7]
+  OFFICIAL: nongaap
+  WHISPER:  nongat
+
+[8]
+  OFFICIAL: at
+  WHISPER:  a
+
+[9]
+  OFFICIAL: nongaap
+  WHISPER:  nongat
+
+[10]
+  OFFICIAL: forwardlooking
+  WHISPER:  forward looking
+
+[11]
+  OFFICIAL: arvind arvind krishna ibm
+  WHISPER:  arvin
+
+[12]
+  OFFICIAL: drove
+  WHISPER:  grew of
+
+[13]
+  OFFICIAL: missioncritical
+  WHISPER:  mission critical
+
+[14]
+  OFFICIAL: but our
+  WHISPER:  what are
+
+[15]
+  OFFICIAL: conversations
+  WHISPER:  promissations
+
+[16]
+  OFFICIAL: theyre
+  WHISPER:  they are
+
+[17]
+  OFFICIAL: theyre
+  WHISPER:  they are
+
+[18]
+  OFFICIAL: workloads
+  WHISPER:  workload
+
+[19]
+  OFFICIAL: ibms
+  WHISPER:  ibm
+
+[20]
+  OFFICIAL: softwareled
+  WHISPER:  software led
+
+[21]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[22]
+  OFFICIAL: doubledigits infrastructure
+  WHISPER:  double digits software
+
+[23]
+  WHISPER:  the
+
+[24]
+  OFFICIAL: premises
+  WHISPER:  premise
+
+[25]
+  OFFICIAL: opensource
+  WHISPER:  open source
+
+[26]
+  OFFICIAL: their
+  WHISPER:  the
+
+[27]
+  OFFICIAL: –
+
+[28]
+  OFFICIAL: onpremises
+  WHISPER:  on premise
+
+[29]
+  OFFICIAL: –
+
+[30]
+  OFFICIAL: our
+  WHISPER:  but
+
+[31]
+  OFFICIAL: in
+  WHISPER:  and
+
+[32]
+  OFFICIAL: agents
+  WHISPER:  institutions
+
+[33]
+  OFFICIAL: that sprawl
+  WHISPER:  thats role
+
+[34]
+  OFFICIAL: cost
+  WHISPER:  costs
+
+[35]
+  OFFICIAL: aidriven
+  WHISPER:  air driven
+
+[36]
+  OFFICIAL: real time
+  WHISPER:  realtime
+
+[37]
+  OFFICIAL: closed
+  WHISPER:  close
+
+[38]
+  OFFICIAL: watsonx
+  WHISPER:  watson x
+
+[39]
+  OFFICIAL: a watsonx
+  WHISPER:  our watson x
+
+[40]
+  OFFICIAL: agentic
+  WHISPER:  agent
+
+[41]
+  OFFICIAL: ibmgrade
+  WHISPER:  ibm grade
+
+[42]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[43]
+  OFFICIAL: spyre
+  WHISPER:  spire
+
+[44]
+  OFFICIAL: watsonx assistants
+  WHISPER:  whatsappx assistance
+
+[45]
+  OFFICIAL: help
+  WHISPER:  helped
+
+[46]
+  OFFICIAL: watsonx
+  WHISPER:  whatsappx
+
+[47]
+  OFFICIAL: assistant
+  WHISPER:  assistance
+
+[48]
+  OFFICIAL: this
+  WHISPER:  the
+
+[49]
+  OFFICIAL: sitting
+  WHISPER:  setting
+
+[50]
+  OFFICIAL: demand
+  WHISPER:  a man
+
+[51]
+  OFFICIAL: watsonx
+  WHISPER:  whatsappx
+
+[52]
+  OFFICIAL: code
+  WHISPER:  core
+
+[53]
+  OFFICIAL: nestlé
+  WHISPER:  nestle
+
+[54]
+  OFFICIAL: watsonxdata
+  WHISPER:  whatsappx data
+
+[55]
+  OFFICIAL: order to cash
+  WHISPER:  ordertocache
+
+[56]
+  OFFICIAL: nestlés
+  WHISPER:  nestles
+
+[57]
+  OFFICIAL: nestlé
+  WHISPER:  nestle
+
+[58]
+  OFFICIAL: watsonx
+  WHISPER:  whatsappx
+
+[59]
+  OFFICIAL: watsonx code
+  WHISPER:  whatsappx core
+
+[60]
+  OFFICIAL: life cycle
+  WHISPER:  lifecycle
+
+[61]
+  OFFICIAL: multimodal
+  WHISPER:  multimodel
+
+[62]
+  OFFICIAL: introduced
+  WHISPER:  introduce
+
+[63]
+  OFFICIAL: we see
+  WHISPER:  pc
+
+[64]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[65]
+  WHISPER:  the
+
+[66]
+  OFFICIAL: gpunative
+  WHISPER:  gpu native
+
+[67]
+  OFFICIAL: their
+  WHISPER:  the
+
+[68]
+  OFFICIAL: fault tolerant
+  WHISPER:  faultoriented
+
+[69]
+  OFFICIAL: another
+  WHISPER:  as a
+
+[70]
+  OFFICIAL: todate
+  WHISPER:  to date
+
+[71]
+  OFFICIAL: quantumcentric
+  WHISPER:  quantum centric
+
+[72]
+  OFFICIAL: fiveplus
+  WHISPER:  five plus
+
+[73]
+  OFFICIAL: james kavanaugh ibm
+
+[74]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[75]
+  OFFICIAL: ebitda
+  WHISPER:  a bit of
+
+[76]
+  OFFICIAL: yeartoyear
+  WHISPER:  year to year
+
+[77]
+  OFFICIAL: genai
+  WHISPER:  genii
+
+[78]
+  OFFICIAL: data
+  WHISPER:  china
+
+[79]
+  OFFICIAL: genai
+  WHISPER:  genii
+
+[80]
+  OFFICIAL: strengthen
+  WHISPER:  strengthened
+
+[81]
+  OFFICIAL: datastax
+  WHISPER:  data stack
+
+[82]
+  OFFICIAL: hat
+  WHISPER:  heck
+
+[83]
+  OFFICIAL: openshift
+  WHISPER:  engine shift
+
+[84]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[85]
+  OFFICIAL: contracts
+  WHISPER:  contract
+
+[86]
+  WHISPER:  at
+
+[87]
+  OFFICIAL: clients
+  WHISPER:  governments
+
+[88]
+  OFFICIAL: doubledigits
+  WHISPER:  double digits
+
+[89]
+  OFFICIAL: power
+  WHISPER:  software
+
+[90]
+  OFFICIAL: power11
+  WHISPER:  power eleven
+
+[91]
+  OFFICIAL: revenue
+  WHISPER:  energy
+
+[92]
+  OFFICIAL: speedtovalue
+  WHISPER:  speed to value
+
+[93]
+  OFFICIAL: costs
+  WHISPER:  cost
+
+[94]
+  OFFICIAL: disciplined
+  WHISPER:  discipline
+
+[95]
+  OFFICIAL: since
+  WHISPER:  thats
+
+[96]
+  OFFICIAL: advantage as
+  WHISPER:  advantages
+
+[97]
+  OFFICIAL: ebitda
+  WHISPER:  even a
+
+[98]
+  OFFICIAL: segment
+  WHISPER:  content
+
+[99]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[100]
+  OFFICIAL: improving
+  WHISPER:  approving
+
+[101]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[102]
+  OFFICIAL: ebitda
+  WHISPER:  even up
+
+[103]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[104]
+  OFFICIAL: capex
+  WHISPER:  capx
+
+[105]
+  OFFICIAL: investmentgrade
+  WHISPER:  investment grade
+
+[106]
+  OFFICIAL: investmentgrade
+  WHISPER:  investment grade
+
+[107]
+  OFFICIAL: fivepluspercent
+  WHISPER:  five
+
+[108]
+  OFFICIAL: yearoveryear
+  WHISPER:  year over year
+
+[109]
+  OFFICIAL: focused
+  WHISPER:  focus
+
+[110]
+  OFFICIAL: tenpluspercent
+  WHISPER:  ten plus percent
+
+[111]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[112]
+  OFFICIAL: midsingledigits
+  WHISPER:  midsingle digits
+
+[113]
+  OFFICIAL: lowsingledigits
+  WHISPER:  low single digits
+
+[114]
+  OFFICIAL: zero point five
+  WHISPER:  a half a
+
+[115]
+  OFFICIAL: driven
+  WHISPER:  over
+
+[116]
+  OFFICIAL: one
+  WHISPER:  a
+
+[117]
+  OFFICIAL: in
+  WHISPER:  and
+
+[118]
+  OFFICIAL: capex
+  WHISPER:  capx
+
+[119]
+  OFFICIAL: looking
+  WHISPER:  according
+
+[120]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[121]
+  OFFICIAL: sustained
+  WHISPER:  sustain
+
+[122]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[123]
+  OFFICIAL: olympia mcnerney ibm
+
+[124]
+  OFFICIAL: question and answer operator
+
+[125]
+  OFFICIAL: questionandanswer
+  WHISPER:  question and answer
+
+[126]
+  OFFICIAL: operator instructions
+  WHISPER:  if you would like to ask a question please press star one on your
+  telephone keypad a confirmation tone will indicate that your line is in the
+  question queue you may press star two if you would like to remove your
+  question from the queue for participants using speaker equipment it may be
+  necessary to pick up your handset before pressing the star keys
+
+[127]
+  OFFICIAL: daryanani
+  WHISPER:  darganani
+
+[128]
+  OFFICIAL: amit daryanani evercore isi good
+
+[129]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[130]
+  OFFICIAL: software acceleration
+  WHISPER:  soft fix iteration
+
+[131]
+  OFFICIAL: id love
+  WHISPER:  i want
+
+[132]
+  OFFICIAL: adoption really
+  WHISPER:  adopts you with these
+
+[133]
+  OFFICIAL: where
+  WHISPER:  there
+
+[134]
+  OFFICIAL: accruing
+  WHISPER:  occurring
+
+[135]
+  OFFICIAL: the
+  WHISPER:  that
+
+[136]
+  OFFICIAL: a ai centric
+  WHISPER:  an aicentric
+
+[137]
+  OFFICIAL: arvind krishna ibm
+  WHISPER:  ah
+
+[138]
+  WHISPER:  is
+
+[139]
+  WHISPER:  it
+
+[140]
+  OFFICIAL: maximo
+  WHISPER:  maximal
+
+[141]
+  OFFICIAL: container based
+  WHISPER:  containerbased
+
+[142]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[143]
+  OFFICIAL: databases
+  WHISPER:  data basis
+
+[144]
+  OFFICIAL: nonrelational
+  WHISPER:  nonredational
+
+[145]
+  OFFICIAL: aienabling – by
+  WHISPER:  ai enabling but
+
+[146]
+  OFFICIAL: its
+  WHISPER:  is
+
+[147]
+  OFFICIAL: the watsonx portfolio
+  WHISPER:  whats an export folio
+
+[148]
+  OFFICIAL: turbonomic
+  WHISPER:  a bonomic
+
+[149]
+  OFFICIAL: apptio
+  WHISPER:  aptio
+
+[150]
+  OFFICIAL: i would
+  WHISPER:  ill
+
+[151]
+  OFFICIAL: well
+  WHISPER:  we
+
+[152]
+  OFFICIAL: right
+
+[153]
+  OFFICIAL: offthemainframe
+  WHISPER:  off the mainframe
+
+[154]
+  OFFICIAL: onpremise
+  WHISPER:  on premise
+
+[155]
+  OFFICIAL: large
+  WHISPER:  lot of
+
+[156]
+  OFFICIAL: processors
+  WHISPER:  processes
+
+[157]
+  OFFICIAL: as
+  WHISPER:  ask
+
+[158]
+  OFFICIAL: up
+
+[159]
+  OFFICIAL: the way ill
+  WHISPER:  their
+
+[160]
+  OFFICIAL: sort of
+
+[161]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[162]
+  OFFICIAL: it
+
+[163]
+  OFFICIAL: on
+  WHISPER:  are
+
+[164]
+  OFFICIAL: olympia mcnerney ibm okay operator
+  WHISPER:  obrar
+
+[165]
+  OFFICIAL: operator
+
+[166]
+  OFFICIAL: wamsi mohan bank of america
+
+[167]
+  OFFICIAL: confluent
+  WHISPER:  confluence
+
+[168]
+  OFFICIAL: one
+  WHISPER:  a
+
+[169]
+  OFFICIAL: so
+
+[170]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[171]
+  OFFICIAL: now that confluent close is
+  WHISPER:  other confluence closes
+
+[172]
+  OFFICIAL: james kavanaugh ibm
+
+[173]
+  WHISPER:  wamsi
+
+[174]
+  OFFICIAL: wamsi
+  WHISPER:  i
+
+[175]
+  OFFICIAL: overall
+
+[176]
+  OFFICIAL: in
+  WHISPER:  and
+
+[177]
+  OFFICIAL: amits
+  WHISPER:  amets
+
+[178]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[179]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[180]
+  OFFICIAL: to
+  WHISPER:  the
+
+[181]
+  OFFICIAL: end
+  WHISPER:  then
+
+[182]
+  OFFICIAL: –
+
+[183]
+  OFFICIAL: genai
+  WHISPER:  gen ai
+
+[184]
+  OFFICIAL: but
+  WHISPER:  and
+
+[185]
+  OFFICIAL: tenpluspercent
+  WHISPER:  ten plus percent
+
+[186]
+  OFFICIAL: closed
+  WHISPER:  close
+
+[187]
+  OFFICIAL: of
+
+[188]
+  OFFICIAL: closed
+  WHISPER:  close
+
+[189]
+  OFFICIAL: –
+
+[190]
+  OFFICIAL: lowtwentypluspercent
+  WHISPER:  low twenty plus percent
+
+[191]
+  OFFICIAL: genai
+  WHISPER:  gen ai
+
+[192]
+  OFFICIAL: platformcentric
+  WHISPER:  platform centric
+
+[193]
+  WHISPER:  its
+
+[194]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[195]
+  OFFICIAL: point five
+  WHISPER:  and a half
+
+[196]
+  OFFICIAL: wellpositioned
+  WHISPER:  well positioned
+
+[197]
+  OFFICIAL: of
+  WHISPER:  to
+
+[198]
+  OFFICIAL: returned
+  WHISPER:  return
+
+[199]
+  OFFICIAL: rhel rhel
+  WHISPER:  well well
+
+[200]
+  OFFICIAL: automation
+  WHISPER:  formation
+
+[201]
+  OFFICIAL: in
+  WHISPER:  and
+
+[202]
+  OFFICIAL: z17 so
+  WHISPER:  z seventeen
+
+[203]
+  OFFICIAL: arvind krishna ibm
+  WHISPER:  well
+
+[204]
+  OFFICIAL: wamsi
+  WHISPER:  ramsi
+
+[205]
+  OFFICIAL: a
+  WHISPER:  the
+
+[206]
+  OFFICIAL: confluent
+  WHISPER:  confluence
+
+[207]
+  OFFICIAL: a bit of a
+  WHISPER:  the better for
+
+[208]
+  OFFICIAL: confluent
+  WHISPER:  confluence
+
+[209]
+  OFFICIAL: olympia mcnerney ibm
+
+[210]
+  OFFICIAL: operator
+
+[211]
+  OFFICIAL: reitzes
+  WHISPER:  ritesus
+
+[212]
+  OFFICIAL: melius
+  WHISPER:  malias
+
+[213]
+  OFFICIAL: ben reitzes melius research
+
+[214]
+  OFFICIAL: i
+
+[215]
+  OFFICIAL: or do
+  WHISPER:  arvind
+
+[216]
+  OFFICIAL: ibm 1q26 earnings transcript arvind krishna ibm
+
+[217]
+  OFFICIAL: –
+
+[218]
+  OFFICIAL: well
+  WHISPER:  we will
+
+[219]
+  OFFICIAL: its
+  WHISPER:  it is
+
+[220]
+  WHISPER:  we
+
+[221]
+  OFFICIAL: jim james kavanaugh ibm
+
+[222]
+  OFFICIAL: and ive
+  WHISPER:  i have
+
+[223]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[224]
+  OFFICIAL: dont
+  WHISPER:  do not
+
+[225]
+  OFFICIAL: weve
+  WHISPER:  we have
+
+[226]
+  OFFICIAL: a
+  WHISPER:  the
+
+[227]
+  OFFICIAL: lets
+  WHISPER:  let us
+
+[228]
+  OFFICIAL: weve
+  WHISPER:  we have
+
+[229]
+  OFFICIAL: weve
+  WHISPER:  we have
+
+[230]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[231]
+  OFFICIAL: macroenvironment
+  WHISPER:  macro environment
+
+[232]
+  OFFICIAL: highvalue
+  WHISPER:  high value
+
+[233]
+  OFFICIAL: see
+  WHISPER:  sees
+
+[234]
+  OFFICIAL: spend
+  WHISPER:  spent
+
+[235]
+  OFFICIAL: midteens ibm 1q26 earnings transcript
+  WHISPER:  mid teens
+
+[236]
+  OFFICIAL: but
+  WHISPER:  well
+
+[237]
+  OFFICIAL: dial
+  WHISPER:  dow
+
+[238]
+  OFFICIAL: arvinds
+  WHISPER:  arvins
+
+[239]
+  OFFICIAL: off
+  WHISPER:  up
+
+[240]
+  OFFICIAL: blew
+  WHISPER:  booed
+
+[241]
+  OFFICIAL: our
+  WHISPER:  are
+
+[242]
+  OFFICIAL: –
+
+[243]
+  OFFICIAL: highvalue
+  WHISPER:  high value
+
+[244]
+  OFFICIAL: and
+  WHISPER:  in
+
+[245]
+  OFFICIAL: longterm
+  WHISPER:  long term
+
+[246]
+  OFFICIAL: and
+  WHISPER:  in
+
+[247]
+  OFFICIAL: olympia mcnerney ibm operator
+  WHISPER:  copper
+
+[248]
+  OFFICIAL: operator
+
+[249]
+  OFFICIAL: boolani
+  WHISPER:  bulani
+
+[250]
+  OFFICIAL: citigroup
+  WHISPER:  city group
+
+[251]
+  OFFICIAL: state
+  WHISPER:  stay
+
+[252]
+  OFFICIAL: fatima boolani citigroup
+
+[253]
+  OFFICIAL: questions arvind
+  WHISPER:  question arvin
+
+[254]
+  OFFICIAL: pull
+  WHISPER:  go
+
+[255]
+  OFFICIAL: mainframe
+  WHISPER:  main frame
+
+[256]
+  OFFICIAL: mainframe
+  WHISPER:  main frame
+
+[257]
+  WHISPER:  you know
+
+[258]
+  WHISPER:  know you
+
+[259]
+  OFFICIAL: mainframe
+  WHISPER:  main frame
+
+[260]
+  OFFICIAL: the
+  WHISPER:  that
+
+[261]
+  OFFICIAL: mips
+  WHISPER:  midst
+
+[262]
+  OFFICIAL: would
+  WHISPER:  we
+
+[263]
+  OFFICIAL: jims
+  WHISPER:  engine
+
+[264]
+  OFFICIAL: arvind krishna ibm
+
+[265]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[266]
+  OFFICIAL: billion
+
+[267]
+  OFFICIAL: basis points
+
+[268]
+  WHISPER:  if
+
+[269]
+  OFFICIAL: james kavanaugh ibm
+
+[270]
+  OFFICIAL: fatima
+  WHISPER:  fenneman
+
+[271]
+  OFFICIAL: arvind
+  WHISPER:  arbon
+
+[272]
+  OFFICIAL: arvind
+  WHISPER:  arbon
+
+[273]
+  OFFICIAL: modernization
+  WHISPER:  monetization
+
+[274]
+  OFFICIAL: at
+  WHISPER:  i have
+
+[275]
+  WHISPER:  of
+
+[276]
+  OFFICIAL: quantumsafe
+  WHISPER:  quantum safe
+
+[277]
+  OFFICIAL: the
+  WHISPER:  a
+
+[278]
+  OFFICIAL: 3x
+  WHISPER:  three
+
+[279]
+  OFFICIAL: of the
+  WHISPER:  to
+
+[280]
+  OFFICIAL: et cetera
+  WHISPER:  etc
+
+[281]
+  OFFICIAL: arvind
+  WHISPER:  arbon
+
+[282]
+  OFFICIAL: 3x
+  WHISPER:  three
+
+[283]
+  OFFICIAL: 4x
+  WHISPER:  four x
+
+[284]
+  OFFICIAL: anniversaried
+  WHISPER:  we just anniversaryed
+
+[285]
+  OFFICIAL: z17
+  WHISPER:  z seventeen
+
+[286]
+  OFFICIAL: z17
+  WHISPER:  z seventeen
+
+[287]
+  OFFICIAL: z16
+  WHISPER:  z sixteen
+
+[288]
+  OFFICIAL: one
+  WHISPER:  a
+
+[289]
+  WHISPER:  dollars
+
+[290]
+  OFFICIAL: one
+
+[291]
+  WHISPER:  dollars
+
+[292]
+  OFFICIAL: 3x
+  WHISPER:  three
+
+[293]
+  OFFICIAL: 4x
+  WHISPER:  four x
+
+[294]
+  OFFICIAL: attached
+  WHISPER:  attach
+
+[295]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[296]
+  OFFICIAL: z17
+  WHISPER:  z seventeen
+
+[297]
+  OFFICIAL: does
+  WHISPER:  is
+
+[298]
+  OFFICIAL: its
+
+[299]
+  OFFICIAL: so
+
+[300]
+  OFFICIAL: olympia mcnerney ibm great
+
+[301]
+  OFFICIAL: operator
+
+[302]
+  OFFICIAL: thill
+  WHISPER:  phil
+
+[303]
+  OFFICIAL: state
+  WHISPER:  get
+
+[304]
+  OFFICIAL: brent thill jefferies
+
+[305]
+  OFFICIAL: in
+  WHISPER:  and
+
+[306]
+  OFFICIAL: –
+  WHISPER:  hundred and
+
+[307]
+  OFFICIAL: in
+  WHISPER:  and
+
+[308]
+  WHISPER:  you know
+
+[309]
+  OFFICIAL: downtick
+  WHISPER:  down tick
+
+[310]
+  OFFICIAL: where
+
+[311]
+  OFFICIAL: signings
+  WHISPER:  signs
+
+[312]
+  OFFICIAL: in
+  WHISPER:  and
+
+[313]
+  OFFICIAL: james kavanaugh ibm yes
+  WHISPER:  yeah
+
+[314]
+  OFFICIAL: a little
+  WHISPER:  blue
+
+[315]
+  OFFICIAL: do
+
+[316]
+  WHISPER:  strong
+
+[317]
+  OFFICIAL: upfront
+  WHISPER:  up front
+
+[318]
+  OFFICIAL: highvalue
+  WHISPER:  high value
+
+[319]
+  OFFICIAL: thirtybillionplus
+  WHISPER:  thirty billion plus
+
+[320]
+  OFFICIAL: highvalue
+  WHISPER:  high value
+
+[321]
+  OFFICIAL: et cetera
+  WHISPER:  etc
+
+[322]
+  OFFICIAL: threepoint
+  WHISPER:  three point
+
+[323]
+  OFFICIAL: quartertoquarter
+  WHISPER:  quarter to quarter
+
+[324]
+  OFFICIAL: the
+  WHISPER:  a
+
+[325]
+  OFFICIAL: the
+  WHISPER:  a
+
+[326]
+  OFFICIAL: thirtypluspercent
+  WHISPER:  thirty plus percent
+
+[327]
+  OFFICIAL: genai portfolio which has got a lot of momentum behind it and our tp
+  monetization and cycle i would tell you coming out of first quarter i feel
+  pretty good about eight growth and it positions us why we said ninety days ago
+  confident in
+  WHISPER:  genn
+
+[328]
+  OFFICIAL: tenplus olympia mcnerney ibm
+  WHISPER:  ten
+
+[329]
+  OFFICIAL: ibm 1q26 earnings transcript operator
+
+[330]
+  OFFICIAL: erik
+  WHISPER:  eric
+
+[331]
+  OFFICIAL: state
+  WHISPER:  get
+
+[332]
+  OFFICIAL: erik woodring morgan stanley
+
+[333]
+  OFFICIAL: andor
+  WHISPER:  and or
+
+[334]
+  OFFICIAL: biz
+  WHISPER:  base
+
+[335]
+  OFFICIAL: how does
+  WHISPER:  has
+
+[336]
+  OFFICIAL: impact
+  WHISPER:  impacted
+
+[337]
+  OFFICIAL: james kavanaugh ibm
+
+[338]
+  OFFICIAL: erik
+  WHISPER:  eric
+
+[339]
+  OFFICIAL: arvinds
+  WHISPER:  the arvins
+
+[340]
+  OFFICIAL: –
+
+[341]
+  OFFICIAL: our
+  WHISPER:  or
+
+[342]
+  OFFICIAL: highvalue innovativebased
+  WHISPER:  high value innovative based
+
+[343]
+  OFFICIAL: categoryleading
+  WHISPER:  category leading
+
+[344]
+  OFFICIAL: that
+  WHISPER:  to
+
+[345]
+  OFFICIAL: divestitures
+  WHISPER:  the vestigures
+
+[346]
+  OFFICIAL: ipbased
+  WHISPER:  ip based
+
+[347]
+  OFFICIAL: thats
+  WHISPER:  that
+
+[348]
+  OFFICIAL: a
+  WHISPER:  its
+
+[349]
+  OFFICIAL: fiftyplus
+  WHISPER:  fifty plus
+
+[350]
+  OFFICIAL: highvalue
+  WHISPER:  high value
+
+[351]
+  OFFICIAL: that
+  WHISPER:  it
+
+[352]
+  OFFICIAL: one hundred and
+
+[353]
+  OFFICIAL: rhel
+  WHISPER:  rail
+
+[354]
+  OFFICIAL: rhel is
+  WHISPER:  rails
+
+[355]
+  OFFICIAL: at
+  WHISPER:  that
+
+[356]
+  OFFICIAL: our
+  WHISPER:  are
+
+[357]
+  OFFICIAL: arvind krishna ibm
+
+[358]
+  OFFICIAL: erik
+  WHISPER:  eric
+
+[359]
+  OFFICIAL: stresstest
+  WHISPER:  stress test
+
+[360]
+  OFFICIAL: highperforming
+  WHISPER:  high performing
+
+[361]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[362]
+  OFFICIAL: newest memory
+  WHISPER:  new smemory
+
+[363]
+  OFFICIAL: olympia mcnerney ibm
+
+[364]
+  OFFICIAL: operator
+
+[365]
+  OFFICIAL: jim schneider goldman sachs
+
+[366]
+  OFFICIAL: – youve given
+
+[367]
+  OFFICIAL: did
+  WHISPER:  do
+
+[368]
+  OFFICIAL: decelerate
+  WHISPER:  do you accelerate
+
+[369]
+  OFFICIAL: then
+
+[370]
+  OFFICIAL: james kavanaugh ibm
+
+[371]
+  WHISPER:  you know
+
+[372]
+  OFFICIAL: the
+  WHISPER:  a
+
+[373]
+  OFFICIAL: vernacular
+  WHISPER:  vanacal
+
+[374]
+  OFFICIAL: of
+
+[375]
+  OFFICIAL: genai
+  WHISPER:  gen ai
+
+[376]
+  OFFICIAL: on
+  WHISPER:  and
+
+[377]
+  OFFICIAL: point five
+  WHISPER:  and a half
+
+[378]
+  WHISPER:  dollar
+
+[379]
+  OFFICIAL: point five
+  WHISPER:  and a half
+
+[380]
+  WHISPER:  dollar
+
+[381]
+  OFFICIAL: – genai
+  WHISPER:  gen ai
+
+[382]
+  WHISPER:  and
+
+[383]
+  OFFICIAL: red hat openshift
+  WHISPER:  redhead open ship
+
+[384]
+  OFFICIAL: hightwenty growth
+  WHISPER:  high twenty wrote
+
+[385]
+  OFFICIAL: arvind
+  WHISPER:  ive been
+
+[386]
+  OFFICIAL: crossplatform
+  WHISPER:  cross platform
+
+[387]
+  OFFICIAL: a
+  WHISPER:  an
+
+[388]
+  WHISPER:  you know
+
+[389]
+  OFFICIAL: twelve months
+  WHISPER:  to a month
+
+[390]
+  OFFICIAL: at
+
+[391]
+  OFFICIAL: assistants
+  WHISPER:  assistance
+
+[392]
+  OFFICIAL: one point five
+  WHISPER:  a
+
+[393]
+  WHISPER:  and a half dollars
+
+[394]
+  OFFICIAL: in
+  WHISPER:  and
+
+[395]
+  OFFICIAL: there ibm 1q26 earnings transcript
+  WHISPER:  error
+
+[396]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[397]
+  OFFICIAL: eclipsed
+  WHISPER:  eclipse
+
+[398]
+  OFFICIAL: servicesasasoftware
+  WHISPER:  services as software
+
+[399]
+  OFFICIAL: in
+  WHISPER:  an
+
+[400]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[401]
+  OFFICIAL: spyre
+  WHISPER:  sphere
+
+[402]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[403]
+  OFFICIAL: watsonx
+  WHISPER:  watson
+
+[404]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[405]
+  OFFICIAL: headroom
+  WHISPER:  ped room
+
+[406]
+  OFFICIAL: at a
+  WHISPER:  to
+
+[407]
+  OFFICIAL: asasoftware
+  WHISPER:  as software
+
+[408]
+  OFFICIAL: industryleading
+  WHISPER:  industry leading
+
+[409]
+  OFFICIAL: well
+  WHISPER:  but
+
+[410]
+  OFFICIAL: returned
+  WHISPER:  return
+
+[411]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[412]
+  OFFICIAL: yeartoyear
+  WHISPER:  year to year
+
+[413]
+  OFFICIAL: overyear
+  WHISPER:  over year
+
+[414]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[415]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[416]
+  OFFICIAL: lowsingledigits
+  WHISPER:  low single digits
+
+[417]
+  WHISPER:  you know
+
+[418]
+  OFFICIAL: olympia mcnerney ibm great
+
+[419]
+  OFFICIAL: operator
+
+[420]
+  OFFICIAL: matt swanson rbc capital markets
+
+[421]
+  OFFICIAL: arvind its
+  WHISPER:  arva is
+
+[422]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[423]
+  OFFICIAL: applications
+  WHISPER:  application
+
+[424]
+  OFFICIAL: at
+  WHISPER:  as
+
+[425]
+  OFFICIAL: genai
+  WHISPER:  gnai
+
+[426]
+  OFFICIAL: arvind krishna ibm
+
+[427]
+  OFFICIAL: you are
+  WHISPER:  he is
+
+[428]
+  OFFICIAL: that genai
+  WHISPER:  the gnai
+
+[429]
+  OFFICIAL: ibm 1q26 earnings transcript
+
+[430]
+  OFFICIAL: where
+  WHISPER:  the
+
+[431]
+  OFFICIAL: –
+
+[432]
+  OFFICIAL: codex
+  WHISPER:  core x
+
+[433]
+  OFFICIAL: –
+
+[434]
+  OFFICIAL: are
+  WHISPER:  all
+
+[435]
+  OFFICIAL: matt
+  WHISPER:  mat
+
+[436]
+  OFFICIAL: we are
+  WHISPER:  were
+
+[437]
+  OFFICIAL: cleareyed
+  WHISPER:  clear right
+
+[438]
+  OFFICIAL: how those
+  WHISPER:  others
+
+[439]
+  OFFICIAL: the eventual
+  WHISPER:  their venture
+
+[440]
+  OFFICIAL: openweight
+  WHISPER:  open weight
+
+[441]
+  OFFICIAL: domain
+  WHISPER:  doing
+
+[442]
+  OFFICIAL: onpremise
+  WHISPER:  on premise
+
+[443]
+  OFFICIAL: onetofour
+  WHISPER:  one to four
+
+[444]
+  OFFICIAL: point five
+  WHISPER:  and a half
+
+[445]
+  WHISPER:  dollars
+
+[446]
+  OFFICIAL: quotetocash
+  WHISPER:  court to cash
+
+[447]
+  OFFICIAL: win
+  WHISPER:  when
+
+[448]
+  OFFICIAL: olympia mcnerney ibm
+
+[449]
+  OFFICIAL: arvind
+  WHISPER:  arvin
+
+[450]
+  OFFICIAL: operator
