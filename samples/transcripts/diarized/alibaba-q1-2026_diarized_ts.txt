@@ -1,0 +1,709 @@
+I'll search for Alibaba's executive team and earnings call participants to properly label the speakers.
+I now have all the information I need. Here is a summary of the confirmed speakers:
+
+- **Operator** (unnamed)
+- **Lydia Lu** – Head of Investor Relations (Whisper transcribed as "Lydia Liu")
+- **Eddie Wu (Yongming Wu)** – CEO (Whisper transcribed as "Adi Wu")
+- **Joe Tsai** – Chairman (Whisper transcribed as "Jyotai Chairman" / "Josef and Ryo")
+- **Toby Xu** – CFO
+- **Jiang Fan** – CEO of Alibaba E-commerce Business Group (Whisper transcribed as "John Fan")
+- **Ronald Keung** – Goldman Sachs (Whisper transcribed as "Ronald Kung")
+- **Kenneth Fong** – UBS (Whisper transcribed as "Kenneth Bong")
+- **Thomas Chong** – Jefferies
+- **Jialong Shi** – Nomura (Whisper transcribed as "Gia Long-Shae")
+- **Ellie Jiang** – Macquarie (Whisper transcribed as "L.A. Yang")
+- **Joyce Ju** – Bank of America
+- **Gary Yu** – Morgan Stanley (Whisper transcribed as "Gary Hu")
+
+Now, reading through the full transcript carefully to identify all speaker transitions, here is the fully annotated transcript:
+
+---
+
+[OPERATOR]:
+[00:00] Good day, ladies and gentlemen.
+[00:03] Thank you for standing by.
+[00:04] Welcome to Alibaba Group's March quarter and full fiscal year 2026 results conference
+[00:11] call.
+[00:12] At this time, all participants are in listen on the mode.
+[00:17] After management's prepared remarks, there will be a Q&A session.
+
+[00:20] I would now like to turn the call over to Lydia Liu, head of investor relations of Alibaba.
+[00:26] Please go ahead.
+
+[LYDIA LU - HEAD OF INVESTOR RELATIONS]:
+[00:28] Good day, everyone.
+[00:29] Thank you for joining Alibaba Group's March quarter and full fiscal year 2026 earnings
+[00:35] call.
+[00:36] On the call with me are Jyotai Chairman, Adi Wu, Chief Executive Officer, Toby Xu, Chief
+
+[00:43] Financial Officer, John Fan, Chief Executive Officer of Alibaba E-commerce business group.
+[00:49] As a reminder, this call is being webcast alive.
+[00:52] A replay of the call will be available on our website later today.
+[00:57] On this call, we may make four looking statements and discuss certain non-gap financial measures.
+[01:03] The four looking statements reflect management's current expectations that are subject risks
+[01:09] and uncertainties.
+
+[01:11] Our gap results and recommendations of gap to non-gap measures is included in today's
+[01:16] earnings press release and investor presentation.
+[01:19] Our comments will be on year-over-year comparisons unless we state otherwise.
+
+[01:25] And with that, let me turn the call over to Adi.
+
+[EDDIE WU - CEO]:
+[01:29] Go ahead, Josef and Ryo.
+[01:37] Welcome to Alibaba Group's fiscal year 2026 fourth quarter earnings call.
+
+[01:42] Over the past quarter, Alibaba's high-intensity investment in our two strategic priorities
+[01:46] of AI plus cloud and consumption is rapidly translating into tangible business results.
+[01:53] With Group revenue growing 11% year-over-year.
+[01:57] This quarter, cloud intelligence groups external revenue growth accelerated to 40% and AI-related
+[02:03] product revenue achieved triple-digit growth for the 11th consecutive quarter.
+[02:08] China E-commerce CMR grew 8% year-over-year on a like-for-like basis and the Quick Commerce
+
+[02:14] market achieved significant unit economics improvement while maintaining market share.
+[02:19] We are at a pivotal inflection point in the evolution from conversational chatbots
+[02:23] to autonomous AI agents, which is directly driving explosive growth across our across
+[02:28] three core workload categories, training inference and agent orchestration.
+[02:34] Against this backdrop, Alibaba's AI has moved beyond the initial investment phase and progressed
+[02:39] commercialization at scale.
+
+[02:42] Next let me walk you through four areas in detail.
+[02:44] The AI commercialization, cloud infrastructure, the AI application ecosystem and our consumption
+[02:50] business.
+[02:51] First, the AI and cloud commercialization inflection point has arrived.
+[02:57] This quarter, cloud intelligence groups annualized AI-related product revenue has surpassed 35.8
+[03:03] billion RMB continuing to maintain triple-digit growth.
+
+[03:07] AI-related product revenue now accounts for 30% of cloud intelligence groups external
+[03:12] revenue.
+[03:13] As we expect in about one year, AI-related product revenue will cross the 50% threshold
+[03:17] becoming the primary engine driving the cloud business's revenue growth.
+[03:21] As a result, cloud intelligence groups external revenue growth is expected to continue accelerating
+[03:26] beyond its current 40% rate over the coming quarters.
+
+[03:30] Given the certainty of long-term AI demand and our full-stack technology advantages,
+[03:34] we expect this trajectory to sustain strong growth over the medium to long-term.
+[03:39] This reflects AI's role in driving a comprehensive upgrade of Alibaba Cloud's entire business
+[03:44] as its growth engine fully pivots from traditional compute and storage to models AI-compute
+[03:50] and agent services.
+[03:53] We're also seeing exponential growth in AI model and application services revenue.
+
+[03:59] A new revenue engine driven jointly by foundation model services and AI-native software.
+[04:06] This past three months, token consumption volumes on our model services platform grew
+[04:10] substantially quarter over quarter as enterprise customers accelerated their shift from simple
+[04:15] tasks to production scale and complex workloads, driving continued growth and demand for model
+[04:20] and application services on the model studio platform.
+[04:24] We expect model and application services annualized recurring revenue, ARR, inclusive of the model
+
+[04:31] studio platform to surpass 10 billion RMB in the June quarter and 30 billion RMB by year
+[04:38] end.
+[04:39] The harm margin profile of this revenue stream is becoming increasingly apparent making it
+[04:43] a source of healthy high quality growth.
+[04:46] Second, our AI infrastructure underpins our full technology stack and constitutes a durable
+[04:54] quote.
+
+[04:55] T-heads proprietary GPU chips achieved scaled mass production with over 60% of compute
+[05:03] capacity already serving external customers across internet, financial services and autonomous
+[05:08] driving verticals.
+[05:11] As the only AI cloud provider in China capable of delivering self-developed AI chips at scale,
+[05:16] we've secured autonomy over our compute supply chain while providing customers with highly
+[05:20] competitive AI inference and training services.
+
+[05:23] In an environment of compute scarcity, this structural advantage is favorable to our revenue
+[05:28] growth and gross margin improvement.
+[05:31] At the same time, our cloud products are accelerating their AI oriented upgrade.
+[05:35] The surge in agent workloads has significantly elevated demand for traditional cloud products
+[05:40] built around CPU storage and containers and we're upgrading these into infrastructure
+[05:45] solutions optimized for the agent era.
+
+[05:48] Third, at the application layer, we've built a complete closed loop spanning
+[05:53] AI native software to a full agent ecosystem.
+[05:57] Alibaba token hub, ATH continues to launch new products connecting consumer and enterprise
+[06:03] environments with breakthrough progress in AI native software and coding agents.
+[06:09] The QN model continues to iterate across reasoning, coding and agent capabilities.
+[06:15] On the enterprise side, we've launched a range of products spanning intelligent workplace
+
+[06:19] tools, AI coding and business operations management, helping enterprises unlock creator
+[06:25] productivity.
+[06:26] On the consumer side, the QN app fully integrated Taobao and T-Malls commerce service capabilities
+[06:33] on May the 7th.
+[06:35] With this QN app is now deeply embedded across the ecosystem, spanning Taobao, Alipay, AMAP
+[06:40] and Fliggy, making it China's first all-in-one personal assistant to seamlessly bridge everyday
+
+[06:45] life productivity and learning.
+[06:46] Fourth, across our consumption business and at the group level, we're prioritizing long-term
+[06:50] value.
+[06:51] Beyond AI, our consumption strategy continues to progress steadily with CMR growth rebounding
+[06:56] significantly.
+[06:58] This quarter, CMR grew 8% year over year on a like-for-like basis as we continue to improve
+
+[07:03] user experience and merchant operating efficiency.
+[07:06] The quick commerce business achieved significant unit economics improvement while maintaining
+[07:11] stable market share, that market scale.
+[07:14] In summary, the return on our investments in AI plus cloud and consumption are increasingly
+[07:18] clear.
+[07:19] AI plus cloud revenue growth is accelerating with improving margins, model and application
+
+[07:25] services, ARR continues to grow at pace and operating efficiency across our consumption
+[07:30] business continues to improve.
+[07:33] Facing the historical opportunity that AI represents Alibaba is a pivotal juncture where our technology
+[07:37] investments are beginning to pay off commercially.
+[07:39] We'll maintain our strategic resolve and leverage our full stack AI capabilities to support
+[07:43] long-term growth.
+
+[07:44] That concludes my prepared remarks.
+[07:46] Next, I'll hand over to Toby to walk you through our financial results.
+[07:48] Thank you.
+
+[TOBY XU - CFO]:
+[07:49] Thank you, Eddie.
+[07:52] Our strategic priorities remain laser focused on AI plus cloud and consumption businesses.
+[08:00] Multiple growth catalysts, including technological advancement and business innovation, are
+
+[08:07] aligning to create strong tailwinds.
+[08:10] On AI plus cloud, our full stack capabilities spend models, cloud infrastructure and applications
+[08:18] with established leadership in every layer, the strong growth of our AI plus cloud businesses
+[08:25] and the clear path to monetization of our mass platform give us confidence to make significant
+[08:33] investments to extend our leadership.
+[08:37] On consumption, we achieved strong CMR growth on a like-for-like basis during the quarter
+
+[08:44] and our quick commerce business continued to improve UE and AOV quarter over quarter.
+[08:51] Now let's look at the financial results for this quarter.
+[08:54] On a consolidated basis, total revenue was R&B 243.4 billion, excluding revenue from
+[09:03] Sunnah and Inan time, revenue on like-for-like basis will have grown by 11%.
+[09:11] Total adjusted in the beta decreased 84% primarily due to our strategic investments
+[09:18] in technology businesses, quick commerce and user experience, partly offset by the
+
+[09:25] improved operating results supported by continued growth in consumer management service and
+[09:33] cloud business and enhanced operating efficiencies across various businesses.
+[09:40] Our gap net income was R&B 23.5 billion and increase of 96% primarily attributable to
+[09:50] the year-over-year increase in net gain from mark-to-mark changes of our equity investments
+[09:57] and disposal losses of Sunnah and Inan time in the same quarter last year, partly offset
+[10:04] by the decrease in adjusted in beta.
+
+[10:10] An increase in cash flow was an inflow of R&B 9.4 billion.
+[10:15] Free cash flow was an outflow of R&B 17.3 billion.
+[10:20] We are reinvesting our operating cash flow to enhance our competitive advantage in AI.
+[10:28] As of March 31, 2026, we held approximately US$38 billion in net cash, excluding debt
+[10:38] with maturity beyond five years.
+[10:41] Our net cash position stands at approximately US$59 billion.
+
+[10:47] This balance sheet strength gives us confidence to invest for growth.
+[10:55] Now let's look at our consumption businesses.
+[10:59] New from China e-commerce group was R&B 122 billion and increase of 6%.
+[11:09] Customer management revenue increased by 1% to help merchants grow their businesses and
+[11:16] increase willingness to spend our platform.
+[11:20] We upgraded our business development program for select merchants during the quarter, under
+
+[11:26] which the level of platform subsidies for these merchants is directly tied to their
+[11:33] marketing span on our platform.
+[11:37] For accounting purposes, such subsidies previously recorded as sales and marketing expenses
+[11:43] are now recorded as a contract revenue item to CMR.
+[11:48] Accordingly, CMR grow 1% year over year during the quarter, excluding the contract revenue
+[11:54] in half from the program on a like-for-like basis, CMR would have grown 8% year over year.
+
+[12:03] Revenue from our quick commerce business increased 57% to R&B 20 billion.
+[12:11] The quick commerce business further improved the UE and increased the AOV quarter over
+[12:17] quarter, primarily driven by order mix optimization.
+[12:23] Alibaba China e-commerce group adjusted a beta was R&B 24 billion, a decrease of 40%
+[12:32] primarily due to the investment in quick commerce, user experience and technology, while there
+[12:39] is positive contribution from customer management service.
+
+[12:44] Excluding loss from our quick commerce business, our Alibaba China e-commerce group beta
+[12:52] would have been stable year over year and will fluctuate quarter over quarter due to significant
+[12:58] investment in merchant retention and user experience.
+[13:06] Revenue from AIDC grew 6% this quarter.
+[13:09] AIDC's adjusted beta loss narrowed significantly year over year, approaching break even, driven
+[13:18] by a combination of logistics optimization and operating efficiency.
+
+[13:24] The uni-gromics of our express choice business continue to improve substantially on sequential
+[13:32] basis.
+[13:34] Next, let's look at the business updates and results of cloud intelligence group.
+[13:40] Our cloud business delivered another quarter of accelerating growth.
+[13:46] Revenue from external customers accelerated to growth 40%.
+[13:51] AI related products continue to lead this momentum.
+
+[13:55] We delivered our 11th consecutive quarter of triple digit growth in AI revenue.
+[14:02] Its share of external cloud revenue continue to increase, now account for 30%.
+[14:10] This quarter's AI revenue is R&B 9 billion and the annual revenue run rate is on the
+[14:17] 36 billion or US dollar 5.3 billion.
+[14:22] This is a clear reflection of the scale and acceleration in our AI business.
+[14:32] The adjusted beta margin remain relatively stable at 9.1%.
+
+[14:39] All other segment revenue decreased by 21% to R&B 65.5 billion, mainly due to the disposal
+[14:47] of sunnah and in-time businesses, as well as the decrease in revenue from Tanya, partly
+[14:54] offset by the increase in revenue from Freshipo and AMAC.
+[14:59] All others, adjusted beta was a loss of R&B 21.2 billion, primarily due to the increase
+[15:07] the investment in technology businesses, including foundation models and the consumer facing
+[15:14] Queen APP.
+
+[15:17] As we close this fiscal year, we remain committed to delivering consistent shareholder returns.
+[15:25] Our board of directors has approved an annual dividend of US dollar 1.05 per ADS.
+[15:34] We will continue to invest decisively in AI and consumption businesses, where we seek
+[15:41] significant long-term growth potential in our competitive advantages of compounding.
+[15:48] We believe these investments to deliver growth and returns over time, ultimately creating
+[15:55] greater value for our shareholders.
+
+[15:59] Thank you.
+
+[LYDIA LU - HEAD OF INVESTOR RELATIONS]:
+[16:00] We will now open for Q&A.
+[16:01] Hi everyone.
+[16:03] You're welcome to ask questions in Chinese or English.
+[16:06] The third-party translator will provide consecutive interpretation.
+[16:11] In the case of any discrepancy, our management statement in the original language will prevail.
+
+[16:17] Thank you.
+
+[OPERATOR]:
+[16:18] Thank you.
+[16:19] If you wish to ask a question, please press star 1 on your telephone and wait for your
+[16:40] name to be announced.
+[16:42] If you wish to cancel your request, please press star 2.
+[16:46] If you are on a speakerphone, please pick up the handset to ask your question.
+
+[16:51] To give people the opportunity to ask questions, please keep yourself to know more than one
+[16:56] question at a time.
+[16:58] Your first question comes from Ronald Kung with Goldman Sachs.
+
+[RONALD KEUNG - ANALYST, GOLDMAN SACHS]:
+[17:04] Thank you, Joe, Eddie, Toby, Fan and Lydia.
+[17:06] And thanks for sharing the very sizable AI, math and applications, ARR scale and the
+[17:12] target for the first time.
+
+[17:13] So I just want to ask how much of that ARR is driven by in-house models like QAN versus
+[17:19] third-party models.
+[17:21] And given the recent token price hikes, what would be the implications to math and also
+[17:26] how cloud margins as a result?
+[17:29] Thank you.
+
+[EDDIE WU - CEO]:
+[19:00] Thank you for that question.
+
+[19:24] This quarter marks the first time that we announced the latest figure for model and
+[19:30] application service revenue.
+[19:32] That really comprises mainly two things.
+[19:36] On the one hand, it includes revenue from API calls on mass on our Bilean platform.
+[19:45] It also includes revenues from our AI software subscriptions.
+[19:54] At present, most of the revenue is coming from the first of those two pieces, but this is
+
+[20:00] an open platform.
+[20:02] So we are providing access both to our proprietary models as well as third-party models, including
+[20:07] open-source models and closed models.
+[20:10] But for the time being, most of that revenue is coming from our own proprietary models
+[20:15] including QAN as well as Tmoar as well as our voice and video generating models.
+
+[JOE TSAI - CHAIRMAN]:
+[22:23] And then we will be able to make sure that the data is available.
+
+[22:32] Your second question was also a really important one because in the past quarter, over the
+[22:38] past few months, we have seen a very large shift in the market where AI is shifting from
+[22:45] functioning as a conversational chatbot to providing agent capabilities.
+[22:50] So these agents are increasingly capable of solving for very complex problems, meaning
+[22:56] that they need to do a lot more inferencing than in the past.
+[23:00] And precisely because these agents can help to solve very complex tasks, customers' acceptance
+
+[23:07] for higher prices and we have increased per token prices is good and the demand continues
+[23:13] to be high and growing.
+[23:16] In fact, our ability to supply this demand is not able to keep up with all the growth
+[23:22] and demand.
+[23:23] We actually have a lot of customers still waiting to access the service.
+[23:28] Inherently, mass will have higher growth margin than I ask.
+
+[EDDIE WU - CEO]:
+[23:34] That's important to know.
+[23:35] And I can also add a few important points on top of that.
+[23:40] The first is that the development of reasoning or inferencing technology still continues to
+[23:48] advance.
+[23:49] So every quarter we're seeing new results in terms of optimization in reasoning and inferencing
+[23:55] with continuous incremental effects in terms of the token capacity of a single server and
+
+[24:00] a single cart.
+[24:01] At the same time as the capabilities of models continue to strengthen and price of the models
+[24:07] continues to increase in the next year or two, we see that this should be a process
+[24:12] of continued price improvement.
+[24:15] So I think from this point of view, the rapid growth in this business over the next few
+[24:18] quarters will result in a very positive impact on our overall gross profit margin.
+
+[OPERATOR]:
+[24:32] Your next question comes from Kenneth Bong with UBS.
+
+[KENNETH FONG - ANALYST, UBS]:
+[24:35] Hi, good evening management.
+[24:40] Thanks for taking my questions and congrats on the very strong focus on the AI.
+[24:44] I have a question regarding the return on investing capital on the AI investment.
+[24:49] So while our AI investment have driven impressive 40% cloud growth, they have also created significant
+[24:57] drag on the group free cash flow as well as our EBITDA.
+
+[25:01] So how should investors assess the return on this investment?
+[25:05] And more so management is going to be for balancing the aggressive AI spending versus
+[25:10] earning stability.
+[25:12] Thank you.
+
+[TOBY XU - CFO]:
+[26:44] Thanks, Kenneth, for that question.
+[26:56] This is Toby and I'm going to start by answering that first question because I think it's important
+
+[27:00] and of interest to everybody.
+[27:03] The question is the reason for the negative free cash flow and how we are managing that.
+[27:11] So starting there, the answer is that the negative free cash flow is primarily due to
+[27:16] the very significant investments we've been making in AI over the past year.
+[27:22] And we've been extremely resolute in making those investments precisely because we've
+[27:26] seen the historic opportunity of AI.
+
+[28:33] So we've been very resolute in making those investments over the past year.
+[28:49] And looking forward to the next two years, we intend to be equally resolute in continuing
+[28:53] these investments.
+[28:54] Again, because we see this as a critical window of opportunity that will be open for
+[29:00] that period for the next couple of years.
+[29:03] Additionally, there's really been no big change in the way that we look at cash flow.
+
+[29:11] First of all, the major contributor of operating cash flow for the group is Taobao and Timal
+[29:19] and that cash flow is very stable.
+[29:22] I'm looking ahead over the next two years in terms of quick commerce.
+[29:27] The losses will narrow very substantially at the same time AIDC will develop from making
+[29:33] a loss to being profitable.
+[29:35] So we see these developments over the next two years as being highly positive for our
+
+[29:39] net cash flow.
+
+[JOE TSAI - CHAIRMAN]:
+[30:40] Another important point to be added is that our ongoing investments in cloud infrastructure
+[31:09] will increase the revenues that we can achieve from our AI and cloud offerings.
+[31:16] At the same time, we will increase gross margins in those very same offerings.
+[31:23] So in those ways, we expect that we can achieve higher net cash flow from our cloud and AI
+[31:30] business and that cash flow can in terms be used to support the development of the relevant
+
+[31:36] infrastructure.
+[31:38] An additional point is that we have a very strong balance sheet.
+[31:44] As of March 31, 2026, we held approximately 38 billion US dollars in net cash.
+[31:51] And if you exclude debt with maturity, beyond five years, our net cash position stands at
+[31:56] approximately 58 billion US dollars.
+[32:00] So that balance sheet strength also gives us confidence to reinvest for growth.
+
+[32:07] And beyond that, I would also add that we have a very strong capacity for pursuing
+[32:14] financing in capital markets.
+[32:16] And we have the capability to raise capital from the markets as we need to support our
+[32:22] development.
+[32:23] So I wanted to open with that in response to your question on cash flows and I'll pause
+[32:27] there to see if Eddie has anything to add.
+
+[EDDIE WU - CEO]:
+[34:02] Thank you.
+[34:06] You asked about our investments in AI and the ROI on those investments going forward.
+[34:12] So on top of what Toby has already said, I'd like to add a few notes regarding where we're
+[34:18] heading.
+[34:19] I think the best analogy is manufacturing.
+[34:24] In other words, in order to be able to manufacture more and sell more in the future and achieve
+
+[34:29] more revenue, what we're doing today is investing capital to build two factories.
+[34:34] If you like, the first we can call the AI training factory, the second we can call the
+[34:39] inferencing factory.
+[34:41] And both of those factories need to be powered by our AI data centers and that requires the
+[34:45] investment of cash flow today.
+[34:48] However, looking to the future, the pathway to achieving a solid return on investment
+
+[34:54] in those factories in those areas is very clear.
+[34:59] On the Toby side, by monetizing our Toby offerings, including our cloud-based IAS as well as
+[35:07] mass, of course, and our AI native apps.
+[35:11] And I can tell you that today there isn't a single card on our servers that is idle.
+[35:18] So we see the ROI on this investment in the next three to five-year period as being extremely
+[35:25] clear.
+
+[35:26] Next question, please.
+
+[OPERATOR]:
+[35:29] Your next question comes from Thomas Chong with Jeffries.
+
+[THOMAS CHONG - ANALYST, JEFFERIES]:
+[35:37] Hi, I could give an thanks management for taking my question.
+[35:43] My question is on QuickCommerce.
+[35:46] We'll talk about the improvement in VG in the prepare.
+[35:51] We must just want to get some more color about the drivers behind in terms of AOV, subsidies
+
+[35:58] ratio, a fulfillment ratio, etc.
+[36:01] And on top of that, I remember last time we talked about the outlook for QuickCommerce
+[36:07] over the next couple of years.
+[36:09] Is there any update or changes in terms of how we think about the landscape or the
+[36:17] UGI in the next three years?
+[36:20] Thank you.
+
+[JIANG FAN - CEO, ALIBABA E-COMMERCE BUSINESS GROUP]:
+[37:53] Well, first, as a result of our strong investments at QuickCommerce, we've achieved very rapid
+[38:11] growth in QuickCommerce over the past year, marking a very fundamental shift in our market
+[38:17] position.
+[38:18] Compared to the same quarter last year, which was, of course, prior to all this large-scale
+[38:23] investment, both our order volume and our market share have increased significantly.
+[38:30] Overall order volume was 2.7 times that of the same quarter last year with non-food orders
+
+[38:38] at three times.
+[38:41] From April onwards, while maintaining order volume, we've continued to drive substantial
+[38:47] improvement in UE through enhanced fulfillment logistics efficiency as well as order mix
+[38:53] optimization.
+[38:54] So we are confident that UE will turn positive by the end of fiscal year 27.
+
+[40:04] While optimizing UE, we will continue to innovate to improve the experience for both consumers
+
+[40:10] and merchants, thereby sustaining our long-term competitiveness in QuickCommerce.
+[40:17] We're confident that our QuickCommerce business will achieve overall profitability in the
+[40:21] future at new scale and market share.
+[40:25] This quarter, QuickCommerce continued to generate synergies with our conventional e-commerce
+[40:30] business as demonstrated in driving customer acquisition, enhancing user engagement, fulfilling
+[40:37] diverse consumer demands, increasing transactions, improving monetization, and supporting logistics
+
+[40:43] infrastructure.
+[40:44] In terms of categories, QuickCommerce continued to drive sales in various categories, especially
+[40:50] food and fresh produce and healthcare, and contributed to fresh abos and T-Mall supermarkets
+[40:56] accelerated growth.
+[40:58] So in our conventional e-commerce business, we saw GMV and CMR demonstrate strong growth
+[41:04] momentum in the March quarter, and QuickCommerce played a vital role in driving that performance.
+
+[41:10] Next question, please.
+
+[OPERATOR]:
+[41:13] Your next question comes from Gia Long-Shae with NoMara.
+
+[JIALONG SHI - ANALYST, NOMURA]:
+[41:48] Good evening, management.
+
+[42:44] I'm wondering when you think we'll see that kind of growth in China in terms of AI coding.
+[42:53] We also know that Chinese customers are less willing than US customers to pay for SaaS.
+[43:01] So do you think that that means that the future commercialization of Chinese AI coding products
+
+[43:08] might have less potential than we see with the US counterparts?
+[44:44] Thank you.
+
+[EDDIE WU - CEO]:
+[45:09] Well, the way we define our mass platform, Bi-Lien Model Studio, is as an open AI-inferencing
+[45:18] platform.
+[45:19] Certainly, at present, the majority of Bi-Lien's revenue is driven by our own proprietary models.
+[45:27] But in contrast to the AI startups in China, I think that we are investing at much higher
+
+[45:37] scale and across a much broader range of different model types.
+[45:42] In contrast, those startups may tend to focus on a very narrow, particular vertical segment,
+[45:50] and they can move rapidly ahead with that kind of focus.
+[45:55] And strictly in terms of our mass business, I think those AI startups really are partners
+[46:03] rather than competitors.
+[46:05] But in Alibaba, we particularly place emphasis on our model capabilities and developing them
+
+[46:12] across all different spaces and all verticals to serve a very broad and diverse set of needs,
+[46:18] including our coding model capabilities, including image-based models, so both ones,
+[46:27] and happy horse, as well as these new world models and of course voice models as well.
+[46:36] So we aim to provide all different kinds of models to meet all different kinds of needs.
+[46:43] And this is different, I think, from those startups.
+[46:46] And at the same time, those startups are our partners.
+
+[48:23] The other part of your question was about when we can see the similar kind of growth in China
+[48:43] as is being witnessed in the US around AI coding.
+[48:47] And I would say in terms of what we're seeing, based on the trends that we are seeing on
+[48:52] by Leanne as well as the experience of some of these AI startups in China who work closely with us,
+[48:58] I would say China is already there.
+[49:03] Most of the growth that we're seeing in utilization from, say, November or December of last year
+
+[49:11] through to May of this year has been driven by capability upgrades in terms of coding.
+[49:20] And these models are not just able to replace software engineers.
+[49:25] Basically, they're able to solve a wide array of very complex tasks beyond just coding per se
+[49:32] in any kind of digitalized productivity scenario.
+[49:40] So we've seen AI coding capabilities improve significantly in both the US and in China.
+[49:48] And these capabilities are capable of supporting much more than just coding per se.
+
+[49:56] It can address a whole wide range of very complex tasks in the workplace in so far as those tasks can be digitalized.
+[50:05] So looking ahead to the next two to three years, we see this is a very, very important growth driver.
+
+[JOE TSAI - CHAIRMAN]:
+[51:40] So we see I think that we are meaning to coach we dance
+[51:46] Today I'm
+[51:48] relying around a beginner system to actively follow for today's
+[52:04] platform'll GO ahead we see what you can do to Papa with a lot more to host for achieve
+
+[52:10] willingness in China to pay for SaaS.
+[52:15] However, I think that is poised to change as the models become increasingly powerful
+[52:21] and are able to truly solve for very complex tasks, very complex problems,
+[52:27] as they are providing truly valuable intelligence.
+[52:32] I think we can expect to see the same demand for that kind of service in China as in the U.S.
+[52:42] In a certain sense, when the value provided by tokens exceeds the cost of those tokens,
+
+[52:52] the demand for tokens will become infinite in a sense.
+[52:57] So we see growth in AI demand as a long-term certainty.
+[53:03] And I can also share some numbers with you in terms of the growth that we're seeing on our own
+[53:09] Bilean platform from November, December, last year through the May of this year.
+[53:15] It's higher than 10 times growth.
+[53:19] In terms of ARR, it's already over 8 billion, and I think this quarter,
+
+[53:27] it's highly certain that we can achieve ARR of over 10 billion.
+
+[OPERATOR]:
+[53:40] Next question, please.
+[53:43] Your next question comes from L.A. Yang with Macquarie.
+
+[ELLIE JIANG - ANALYST, MACQUARIE]:
+[53:49] Good evening, management.
+[53:51] Thank you very much for taking my question.
+[53:53] Just wanted to stay on the topics of that global comparison.
+
+[53:57] So if you look at globally, that the overseas peers seem to have captured the most immediate
+[54:03] ROIs in enterprise, agentic workloads, whereas for the consumer end-emitization, which remain a bit
+[54:09] lag.
+[54:10] So going forward, considering that Alibaba is investing in multi-fronts for infrastructure,
+[54:16] models, cloud, and Q&AAP, how do we evaluate the strategic priority and resources allocation
+[54:22] between 2B and 2C initiatives?
+
+[54:25] If going forward enterprise side continues to gain more traction,
+[54:29] will we consider gradually shift more resources away from Q&AAP to cloud and Mac?
+[54:35] Thank you.
+
+[JOE TSAI - CHAIRMAN]:
+[54:39] Thank you.
+[54:43] Well, there is a lot.
+[54:47] And it's really crucial for bringing in that and how to not even be affected by these
+
+[54:50] issues differences, that are measurable in becoming more relevant and being inclusive.
+[54:57] So I recently found a challenging,...
+[55:00] the short term setting of masks, being more hell- rid of masks.
+[55:34] Thank you.
+[55:43] felan Qa Yen, N Eignson Ha is currently in the Economic Administration Department of
+[55:59] Communications,
+
+[56:04] please do not resistant to privacy by the community centers.
+[56:08] talking about ground water restoration that we will
+[56:17] have help about renewable System Nanjing.
+
+[EDDIE WU - CEO]:
+[57:39] I think that's a good question.
+[57:44] I think fundamentally from the perspective of AI development, it's really all about paradigm
+
+[58:05] shift in computing and it's about leveraging this new technology to help users, whoever
+[58:10] they are, to complete tasks and solve problems.
+[58:13] And that applies equally on the 2C side as well as on the 2B side.
+[58:18] Now certainly at present we see higher willingness to pay on the 2B side because it's easier to
+[58:25] show a business case with compelling ROI for a business.
+[58:30] And at present most of our infrastructure resources are therefore channeled to the 2B side.
+
+[58:36] But at the end of the day, AI ultimately is an invention that's there to be a helper
+[58:42] and assisted to humans, to help humans with a whole range of things spanning their own
+[58:47] daily life, their studies and their work.
+[58:51] And what AI does really is the same across all of those scenarios.
+[58:55] It's about solving problems.
+[58:58] And that's true for 2B and for 2C.
+
+[59:01] So certainly there's less willingness to pay today for 2C.
+[59:07] But we're already seeing a business model where consumers are paying for individual
+[59:12] usage in the US.
+[59:14] And I'm confident that the same will come to be the case in China, especially as the
+[59:19] technology improves, as it's better able to help them solve real problems in their daily
+[59:26] lives.
+
+[59:27] And so we think that ultimately this will be the same business model internationally.
+[59:33] And I think we'll probably get there in China in the next, say, 1 to 2 years.
+[59:42] Next question, please.
+
+[OPERATOR]:
+[59:43] Your next question comes from Joyce.
+[59:47] She is with Bank of America.
+
+[JOYCE JU - ANALYST, BANK OF AMERICA]:
+[59:49] Thanks, M MVwei.
+
+[59:56] I'll go with Sheikan.
+[59:59] Thanks, M cost.
+[60:06] Sorry, at least I said that essentially without burning down yet.
+[60:09] So if it's worth, what would be theclair's focus on the algorithm?
+[60:13] Is that right?
+[60:16] Thanks, management. I have a follow-up question also on the future growth of the cloud business.
+
+[60:23] And I'd just like to understand what your view is on EBITDA margins in the cloud business over the next few quarters.
+[60:29] Do you think as this business accelerates, we can expect to see similar margins as we see in your international peers?
+
+[EDDIE WU - CEO]:
+[64:37] I think when it comes to the deep penetration of AI technology across all different industries, we're still really in the early days of that long process.
+[64:49] But our objective is clear. Our objective is to achieve growth to drive growth, to drive growth in token consumption, and to acquire a larger market share.
+[65:00] We aim to maintain growth that is faster than the market average in order to gain larger market share and firmly cement our absolute market leadership position.
+[65:15] So those are the primary objectives, and margin is still secondary.
+
+[65:22] The other thing to be pointed out is that for the next three or even five years to come, there are physical constraints on production,
+[65:32] production capacity for chips, for memory, for the physical things that are needed to support all this growth in demand.
+[65:40] And the advantage that we have at Alibaba Cloud is the scale of our customer base as well as the scale effect from all of the CAPEX that we've put in over these years.
+[65:51] But in this environment of market scarcity, we're already seeing that the cost for us to deploy one new server this year is double what that same server would have cost a year ago.
+[66:06] The cost inflation has been over 100%. So given that higher replacement cost effect, we have certain pricing power with respect to new customers and also old customers.
+[66:20] So I think in the long term, the asset pricing effect will be positive for our revenues going forward.
+
+[66:28] Secondly, we see very rapid growth in MAS as we reported to you, and inherently as we said, MAS represents a much higher level of gross margin than IAS or traditional types of IT operations.
+[66:45] So as demand for inference continues to grow exponentially, we expect this will be very positive for growth margin.
+[66:55] And due to the optimization of our reasoning technology, the output capacity, the productivity of a single cart will continue to rise.
+[67:08] An additional factor is as we continue to scale up the deployment of the T-head, the T-head chips represent the highest value for money compute power on the cloud platform, and that also will contribute to a better gross margin.
+[67:29] But for several objective reasons that I've outlined, I think overall in the next two to three years, we can expect to see significantly higher gross margin for Alibaba Cloud, and we can expect to start to see that in the next one to two quarters.
+[67:43] Oh, Peter, let's take the last question. Thank you.
+
+[OPERATOR]:
+[67:47] Your last question comes from Gary Hu with Morgan Stanley.
+
+[GARY YU - ANALYST, MORGAN STANLEY]:
+[67:53] Hi.
+[67:57] For the opportunity.
+[67:58] I have a question regarding CAPAC.
+[68:00] So what kind of level of CAPAC's investment is required in order to satisfy the demand from both MAS and also the long term cloud revenue.
+[68:11] And also management mentioned about T-head opportunity.
+
+[68:15] What is the current penetration of T-head being deployed on Arigalao?
+[68:19] And as this penetration increases margin of level, we should expect from our in-house chip. Thank you.
+
+[EDDIE WU - CEO]:
+[69:57] Thank you.
+[70:00] Thank you.
+[70:30] Thank you.
+[71:00] Thank you.
+
+[71:30] Thank you.
+[71:37] Thank you.
+[71:44] Thank you.
+[71:49] Thank you.
+[71:54] Thank you.
+[71:58] Thank you.
+
+[72:04] Thank you.
+[72:14] Thank you.
+[72:19] Thank you.
+[72:25] Thank you.
+[72:35] Thank you.
+[72:40] Thank you.
+
+[72:48] Thank you.
+[72:54] Thank you.
+[73:01] Thank you.
+[73:09] Thank you.
+[73:27] Thank you.
+[73:37] Thank you.
+
+[73:48] Thank you.
+[73:58] Thank you.
+[74:08] Thank you.
+[74:23] Thank you.
+[74:33] Thank you.
+[74:43] Thank you.
+
+[75:13] Thank you.
+[75:28] Thank you.
+[75:43] Thank you.
+[75:58] Thank you.
+[76:13] Thank you.
+[76:28] Thank you.
+
+[76:43] Thank you.
+[77:10] Thank you.
+[77:23] Thank you.
+
+---
+
+**Annotation notes:**
+
+- **"Lydia Liu"** (Whisper) → correct name is **Lydia Lu** (Head of IR)
+- **"Jyotai Chairman, Adi Wu"** (Whisper) → correct names are **Joe Tsai** (Chairman) and **Eddie Wu** (CEO)
+- **"John Fan"** (Whisper) → correct name is **Jiang Fan** (CEO, Alibaba E-commerce Business Group)
+- **"Josef and Ryo"** (Whisper) → this is Whisper's garbled rendering of the Chinese interpreter saying Joe Tsai and Eddie Wu's Chinese names; the speaker transitioning into prepared remarks is **Eddie Wu**
+- **"Ronald Kung"** (Whisper) → correct name is **Ronald Keung** (Goldman Sachs)
+- **"Kenneth Bong"** (Whisper) → correct name is **Kenneth Fong** (UBS)
+- **"Gia Long-Shae"** (Whisper) → correct name is **Jialong Shi** (Nomura)
+- **"L.A. Yang"** (Whisper) → correct name is **Ellie Jiang** (Macquarie)
+- **"Gary Hu"** (Whisper) → correct name is **Gary Yu** (Morgan Stanley)
+- The large block of "Thank you" timestamps at the end (69:57–77:23) represents the Chinese-language response to Gary Yu's question being interpreted/delivered; based on the call structure and the fact that Eddie Wu was last speaking and introduced the final question, this block is attributed to **Eddie Wu** (with interpretation occurring throughout, consistent with the bilingual format of the call)
+- The garbled passage at [51:40]–[52:04] and [54:39]–[56:17] are Whisper artifacts from Chinese-language speech segments; speaker attributions are based on context and call flow

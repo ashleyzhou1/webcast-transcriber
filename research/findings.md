@@ -196,15 +196,58 @@ Diarized transcripts saved as `<company>_diarized.txt` in Google Drive under `tr
 
 All files are in the [project Google Drive](https://drive.google.com/drive/folders/17D9ajhhCqGy4qU3mu6fG-iW5j5QBlE0b?usp=sharing):
 
-```
 webcast-transcriber/
 ├── Audio-Video/               ← all mp3 and mp4 files (19 companies)
 ├── transcripts/
 │   ├── whisper-or-extracted/  ← Whisper-generated .txt and .json files
 │   ├── official-pdfs/         ← company-published PDF transcripts (11 companies)
-│   ├── diarized/              ← speaker-labeled transcript versions
+│   ├── diarized/              ← speaker-labeled transcripts (_diarized.txt = primary; _diarized_ts.txt = timestamped version for web player)
+│   ├── clean/                 ← cleaned transcripts with timestamps and boilerplate removed
 │   └── wer-reports/           ← WER comparison reports for 11 companies
 └── Webcast Audio Coverage     ← project spreadsheet
-```
 
 Audio and video files are not committed to the GitHub repo (too large). All text outputs are in both the repo under `samples/` and in Google Drive.
+
+## June 26 - July 1, 2026
+### 9. Transcript Cleanup
+
+A cleanup script (`src/clean_transcripts.py`) post-processes the diarized transcripts:
+- Strips the Claude API preamble (speaker roster summary generated before the transcript)
+- Removes timestamps
+- Joins fragmented lines into paragraphs (~10 sentences each)
+- Preserves speaker labels in `[SPEAKER NAME - ROLE]:` format
+
+Cleaned transcripts saved to `samples/transcripts/clean/`.
+
+### 10. Timestamped Diarized Transcripts
+
+For companies where the diarized transcript was initially generated from a PDF-extracted source (no timestamps), a second diarized version was generated using the Whisper audio transcript as input instead. These are saved with a `_diarized_ts.txt` suffix in `samples/transcripts/diarized/` to distinguish them from the original `_diarized.txt` versions.
+
+The `_ts` versions are used by the web caption player.
+
+Companies with both versions: alibaba, amd, asml, cisco, ibm, meta, qualcomm, salesforce, ti, tsmc.
+
+### 11. Audio Caption Web Player
+
+Built a browser-based audio player that plays earnings call recordings with real-time captions and speaker labels for all 19 companies.
+
+**How it works:**
+
+Python preprocessing (run once):
+- `src/build_caption_data.py` — converts Whisper JSON files into `{start, end, text, speaker}`
+- `src/add_speakers.py` — merges speaker labels from diarized transcripts into the caption JSONs
+
+Web player (`web/index.html`) is a single HTML/CSS/JavaScript file.
+
+**Features:**
+- Dropdown to select any of the 19 companies
+- Real-time captions synced to audio, with speaker names
+- Playback speed control: 1× / 1.25× / 1.5× / 2×
+
+**To run:**
+```bash
+python src/build_caption_data.py   # one-time setup
+python src/add_speakers.py         # one-time setup
+python -m http.server 8000         # from repo root
+# then open http://localhost:8000/web/ in Chrome
+```

@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Earnings Call Player</title>
+<style>
+  :root {
+    --bg: #0d0f12;
+    --surface: #161920;
+    --border: #252932;
+    --accent: #4ade80;
+    --accent-dim: rgba(74,222,128,0.12);
+    --text-primary: #f0f2f5;
+    --text-secondary: #8b92a0;
+    --text-caption: #c8cdd6;
+    --font-mono: 'IBM Plex Mono', 'Fira Code', monospace;
+    --font-sans: 'Inter', system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 1rem;
+  }
+
+  header {
+    width: 100%;
+    max-width: 820px;
+    margin-bottom: 2.5rem;
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    letter-spacing: -0.02em;
+  }
+
+  .main {
+    width: 100%;
+    max-width: 820px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  /* Company selector */
+  .selector-row {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  select {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    font-size: 0.875rem;
+    padding: 0.625rem 0.875rem;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b92a0' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.875rem center;
+    cursor: pointer;
+  }
+
+  select:focus { outline: none; border-color: var(--accent); }
+
+  /* Player card */
+  .player-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+
+  .company-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1.25rem;
+  }
+
+  .company-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .company-meta {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-secondary);
+  }
+
+  /* Progress bar */
+  .progress-wrap {
+    position: relative;
+    height: 3px;
+    background: var(--border);
+    border-radius: 2px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 2px;
+    width: 0%;
+    transition: width 0.1s linear;
+    pointer-events: none;
+  }
+
+  /* Controls */
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .play-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: opacity 0.15s;
+  }
+
+  .play-btn:hover { opacity: 0.85; }
+  .play-btn svg { width: 16px; height: 16px; fill: #0d0f12; }
+
+  .time-display {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-secondary);
+    white-space: nowrap;
+  }
+
+  .speed-btn {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-secondary);
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 3px 7px;
+    cursor: pointer;
+    margin-left: auto;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .speed-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* Caption area */
+  .caption-area {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.75rem;
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .caption-idle {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+  }
+
+  .caption-text {
+    font-size: 1.125rem;
+    line-height: 1.65;
+    color: var(--text-caption);
+    font-weight: 400;
+  }
+
+  .caption-text .current-word {
+    color: var(--text-primary);
+    font-weight: 500;
+  }
+
+  /* Transcript scroll */
+  .transcript-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .transcript-header {
+    padding: 0.875rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .transcript-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+  }
+
+  .transcript-scroll {
+    height: 280px;
+    overflow-y: auto;
+    padding: 1rem 1.25rem;
+    scroll-behavior: smooth;
+  }
+
+  .transcript-scroll::-webkit-scrollbar { width: 4px; }
+  .transcript-scroll::-webkit-scrollbar-track { background: transparent; }
+  .transcript-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  .seg {
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    font-size: 0.8125rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: background 0.1s, color 0.1s;
+  }
+
+  .seg:hover { background: var(--border); color: var(--text-primary); }
+
+  .seg.active {
+    background: var(--accent-dim);
+    color: var(--text-primary);
+    border-left: 2px solid var(--accent);
+    padding-left: 6px;
+  }
+
+  /* Loading state */
+  .loading {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.8125rem;
+    padding: 2rem;
+    font-family: var(--font-mono);
+  }
+
+  .caption-speaker {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.4rem;
+  }
+
+  .caption-words {
+    font-size: 1.125rem;
+    line-height: 1.65;
+    color: var(--text-caption);
+  }
+
+  .speaker-header {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding: 0.75rem 8px 0.2rem;
+    margin-top: 0.25rem;
+  }
+
+  /* Hidden audio */
+  audio { display: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Big Tech 20 · Earnings Calls</div>
+  <h1>Earnings Call Player</h1>
+</header>
+
+<div class="main">
+
+  <!-- Company selector -->
+  <div class="selector-row">
+    <select id="companySelect">
+      <option value="">Select a company...</option>
+      <option value="amazon|Amazon|AMZN">Amazon · AMZN</option>
+      <option value="adobe|Adobe|ADBE">Adobe · ADBE</option>
+      <option value="alibaba|Alibaba|BABA">Alibaba · BABA</option>
+      <option value="amd|AMD|AMD">AMD · AMD</option>
+      <option value="asml|ASML|ASML">ASML · ASML</option>
+      <option value="broadcom|Broadcom|AVGO">Broadcom · AVGO</option>
+      <option value="cisco|Cisco|CSCO">Cisco · CSCO</option>
+      <option value="google|Alphabet|GOOG">Alphabet · GOOG</option>
+      <option value="ibm|IBM|IBM">IBM · IBM</option>
+      <option value="meta|Meta|META">Meta · META</option>
+      <option value="microsoft|Microsoft|MSFT">Microsoft · MSFT</option>
+      <option value="nvidia|Nvidia|NVDA">Nvidia · NVDA</option>
+      <option value="oracle|Oracle|ORCL">Oracle · ORCL</option>
+      <option value="qualcomm|Qualcomm|QCOM">Qualcomm · QCOM</option>
+      <option value="salesforce|Salesforce|CRM">Salesforce · CRM</option>
+      <option value="sandisk|SanDisk|SNDK">SanDisk · SNDK</option>
+      <option value="tesla|Tesla|TSLA">Tesla · TSLA</option>
+      <option value="ti|Texas Instruments|TXN">Texas Instruments · TXN</option>
+      <option value="tsmc|TSMC|TSM">TSMC · TSM</option>
+    </select>
+  </div>
+
+  <!-- Player card -->
+  <div class="player-card">
+    <div class="company-header">
+      <span class="company-name" id="companyName">—</span>
+      <span class="company-meta" id="companyTicker"></span>
+    </div>
+
+    <div class="progress-wrap" id="progressWrap">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+
+    <div class="controls">
+      <button class="play-btn" id="playBtn" disabled>
+        <svg viewBox="0 0 16 16" id="playIcon"><path d="M4 2l10 6-10 6z"/></svg>
+      </button>
+      <span class="time-display" id="timeDisplay">0:00 / 0:00</span>
+      <button class="speed-btn" id="speedBtn">1×</button>
+    </div>
+  </div>
+
+  <!-- Caption display -->
+  <div class="caption-area" id="captionArea">
+    <div class="caption-idle" id="captionIdle">Select a company and press play to see live captions</div>
+    <div class="caption-text" id="captionText" style="display:none"></div>
+  </div>
+
+  <!-- Transcript scroll -->
+  <div class="transcript-wrap">
+    <div class="transcript-header">
+      <span class="transcript-label">Full transcript</span>
+      <span class="transcript-label" id="segCount"></span>
+    </div>
+    <div class="transcript-scroll" id="transcriptScroll">
+      <div class="loading" id="transcriptLoading">No transcript loaded</div>
+    </div>
+  </div>
+
+</div>
+
+<audio id="audioEl"></audio>
+
+<script>
+  const audio = document.getElementById('audioEl');
+  const playBtn = document.getElementById('playBtn');
+  const playIcon = document.getElementById('playIcon');
+  const progressFill = document.getElementById('progressFill');
+  const progressWrap = document.getElementById('progressWrap');
+  const timeDisplay = document.getElementById('timeDisplay');
+  const speedBtn = document.getElementById('speedBtn');
+  const captionIdle = document.getElementById('captionIdle');
+  const captionText = document.getElementById('captionText');
+  const transcriptScroll = document.getElementById('transcriptScroll');
+  const transcriptLoading = document.getElementById('transcriptLoading');
+  const segCount = document.getElementById('segCount');
+  const companySelect = document.getElementById('companySelect');
+  const companyName = document.getElementById('companyName');
+  const companyTicker = document.getElementById('companyTicker');
+
+  let segments = [];
+  let segEls = [];
+  let activeIdx = -1;
+  const speeds = [1, 1.25, 1.5, 2];
+  let speedIdx = 0;
+
+  function fmt(s) {
+    const m = Math.floor(s / 60);
+    const sec = Math.floor(s % 60).toString().padStart(2, '0');
+    return `${m}:${sec}`;
+  }
+
+  function setActiveSegment(idx) {
+    if (idx === activeIdx) return;
+    if (activeIdx >= 0 && segEls[activeIdx]) segEls[activeIdx].classList.remove('active');
+    activeIdx = idx;
+    if (idx < 0) {
+      captionText.style.display = 'none';
+      captionIdle.style.display = 'block';
+      return;
+    }
+    const seg = segments[idx];
+    captionIdle.style.display = 'none';
+    captionText.style.display = 'block';
+    captionText.textContent = seg.text;
+    if (segEls[idx]) {
+      segEls[idx].classList.add('active');
+      // Scroll transcript to keep active segment visible
+      const el = segEls[idx];
+      const container = transcriptScroll;
+      const elTop = el.offsetTop;
+      const elBottom = elTop + el.offsetHeight;
+      const contTop = container.scrollTop;
+      const contBottom = contTop + container.clientHeight;
+      if (elTop < contTop + 60 || elBottom > contBottom - 60) {
+        container.scrollTop = elTop - container.clientHeight / 2;
+      }
+    }
+  }
+
+  function findSegment(t) {
+    // Binary search for current segment
+    let lo = 0, hi = segments.length - 1, found = -1;
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      if (segments[mid].end < t) { lo = mid + 1; }
+      else if (segments[mid].start > t) { hi = mid - 1; }
+      else { found = mid; break; }
+    }
+    return found;
+  }
+
+  audio.addEventListener('timeupdate', () => {
+    const t = audio.currentTime;
+    const dur = audio.duration || 1;
+    progressFill.style.width = `${(t / dur) * 100}%`;
+    timeDisplay.textContent = `${fmt(t)} / ${fmt(dur)}`;
+    const idx = findSegment(t);
+    setActiveSegment(idx);
+  });
+
+  audio.addEventListener('ended', () => {
+    playIcon.innerHTML = '<path d="M4 2l10 6-10 6z"/>';
+  });
+
+  playBtn.addEventListener('click', () => {
+    if (audio.paused) {
+      audio.play();
+      playIcon.innerHTML = '<rect x="3" y="2" width="4" height="12"/><rect x="9" y="2" width="4" height="12"/>';
+    } else {
+      audio.pause();
+      playIcon.innerHTML = '<path d="M4 2l10 6-10 6z"/>';
+    }
+  });
+
+  progressWrap.addEventListener('click', (e) => {
+    const rect = progressWrap.getBoundingClientRect();
+    const frac = (e.clientX - rect.left) / rect.width;
+    audio.currentTime = frac * (audio.duration || 0);
+  });
+
+  speedBtn.addEventListener('click', () => {
+    speedIdx = (speedIdx + 1) % speeds.length;
+    audio.playbackRate = speeds[speedIdx];
+    speedBtn.textContent = `${speeds[speedIdx]}×`;
+  });
+
+  async function loadCompany(key, name, ticker) {
+    // Reset
+    audio.pause();
+    audio.src = '';
+    playBtn.disabled = true;
+    playIcon.innerHTML = '<path d="M4 2l10 6-10 6z"/>';
+    progressFill.style.width = '0%';
+    timeDisplay.textContent = '0:00 / 0:00';
+    segments = [];
+    segEls = [];
+    activeIdx = -1;
+    captionText.style.display = 'none';
+    captionIdle.style.display = 'block';
+    captionIdle.textContent = 'Loading...';
+    transcriptScroll.innerHTML = '<div class="loading">Loading transcript...</div>';
+    segCount.textContent = '';
+
+    companyName.textContent = name;
+    companyTicker.textContent = ticker;
+
+    // Load caption JSON
+    try {
+      const res = await fetch(`data/${key}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      segments = await res.json();
+    } catch (e) {
+      captionIdle.textContent = `Failed to load captions: ${e.message}`;
+      return;
+    }
+
+    // Build transcript DOM
+    transcriptScroll.innerHTML = '';
+    let lastSpeaker = null;
+    segEls = segments.map((seg, i) => {
+      // Insert speaker header when speaker changes
+      if (seg.speaker && seg.speaker !== lastSpeaker) {
+        const header = document.createElement('div');
+        header.className = 'speaker-header';
+        header.textContent = seg.speaker;
+        transcriptScroll.appendChild(header);
+        lastSpeaker = seg.speaker;
+      }
+      const div = document.createElement('div');
+      div.className = 'seg';
+      div.textContent = seg.text;
+      div.addEventListener('click', () => {
+        audio.currentTime = seg.start;
+        if (audio.paused) audio.play();
+        playIcon.innerHTML = '<rect x="3" y="2" width="4" height="12"/><rect x="9" y="2" width="4" height="12"/>';
+      });
+      transcriptScroll.appendChild(div);
+      return div;
+    });
+    segCount.textContent = `${segments.length} segments`;
+
+    // Hardcoded audio file map
+    const audioMap = {
+      amazon:     '../samples/Audio-Video/Amazon-Quarterly-Earnings-Report-Q1-2026-Full-Call.mp3',
+      adobe:      '../samples/Audio-Video/adobe-q2-fy26.mp3',
+      alibaba:    '../samples/Audio-Video/alibaba-q1-2026-audio.mp3',
+      amd:        '../samples/Audio-Video/amd-q1-2026-audio.mp3',
+      asml:       '../samples/Audio-Video/asml-q1-2026-audio.mp3',
+      broadcom:   '../samples/Audio-Video/broadcom-q1-2026.mp3',
+      cisco:      '../samples/Audio-Video/cisco-q2-2026-video.mp3',
+      google:     '../samples/Audio-Video/google-q1-2026.mp3',
+      ibm:        '../samples/Audio-Video/ibm-q1-2026-video.mp3',
+      meta:       '../samples/Audio-Video/meta-q1-2026-video.mp3',
+      microsoft:  '../samples/Audio-Video/microsoft-q2-2026.mp3',
+      nvidia:     '../samples/Audio-Video/nvidia-q1-fy27.mp3',
+      oracle:     '../samples/Audio-Video/oracle-q4-fy2026.mp3',
+      qualcomm:   '../samples/Audio-Video/qualcomm-q2-2026-video.mp3',
+      salesforce: '../samples/Audio-Video/salesforce-q1-fy27-video.mp3',
+      sandisk:    '../samples/Audio-Video/sandisk-q1-2026.mp3',
+      tesla:      '../samples/Audio-Video/tesla-q1-2026.mp3',
+      ti:         '../samples/Audio-Video/ti-q3-2026-audio.mp3',
+      tsmc:       '../samples/Audio-Video/tsmc-q1-2026-audio.mp3',
+    };
+
+    const audioSrc = audioMap[key];
+    if (!audioSrc) { captionIdle.textContent = 'No audio file found for this company.'; return; }
+
+    audio.src = audioSrc;
+    audio.load();
+    audio.addEventListener('canplay', () => { playBtn.disabled = false; }, { once: true });
+    audio.addEventListener('error', () => {
+      captionIdle.textContent = 'Audio file could not be loaded. Check that the mp3 exists in samples/Audio-Video/.';
+      captionText.style.display = 'none';
+      captionIdle.style.display = 'block';
+    });
+
+    captionIdle.textContent = 'Press play to see live captions';
+  }
+
+  companySelect.addEventListener('change', () => {
+    const val = companySelect.value;
+    if (!val) return;
+    const [key, name, ticker] = val.split('|');
+    loadCompany(key, name, ticker);
+  });
+</script>
+</body>
+</html>

@@ -77,16 +77,15 @@ sections using the same [SPEAKER NAME - ROLE]: format.
 
 
 def load_transcript(company: str):
-    path = TRANSCRIPTS_DIR / f"{company}-q1-2026.txt"
-    if not path.exists():
-        candidates = list(TRANSCRIPTS_DIR.glob(f"{company}*.txt"))
-        candidates = [c for c in candidates if "_diarized" not in c.name and "_wer" not in c.name]
-        if not candidates:
-            raise FileNotFoundError(f"No transcript found for '{company}' in {TRANSCRIPTS_DIR}")
-        path = candidates[0]
-        print(f"  Using: {path.name}")
-    return path.read_text(encoding="utf-8"), path
-
+    # Prefer audio/video Whisper transcripts over PDF-extracted ones
+    for suffix in ["-audio", "-video", ""]:
+        candidates = list(TRANSCRIPTS_DIR.glob(f"{company}*{suffix}.txt"))
+        candidates = [c for c in candidates if "_diarized" not in c.name and "_wer" not in c.name and "_zh" not in c.name and "prepared-remarks" not in c.name]
+        if candidates:
+            path = candidates[0]
+            print(f"  Using: {path.name}")
+            return path.read_text(encoding="utf-8"), path
+    raise FileNotFoundError(f"No transcript found for '{company}' in {TRANSCRIPTS_DIR}")
 
 def build_prompt(company: str, transcript: str) -> str:
     if company.lower() == "tsmc":
@@ -127,7 +126,10 @@ def diarize(company: str, client: anthropic.Anthropic) -> Path:
         raise ValueError(f"No text content returned for {company}")
 
     DIARIZED_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = DIARIZED_DIR / f"{source_path.stem}_diarized.txt"
+    # Use _diarized_ts suffix when input file has timestamps (audio/video source)
+    has_ts = "-audio" in source_path.name or "-video" in source_path.name
+    suffix = "_diarized_ts.txt" if has_ts else "_diarized.txt"
+    output_path = Path("samples/transcripts/diarized") / f"{source_path.stem.split('-audio')[0].split('-video')[0]}{suffix}"
     output_path.write_text(result, encoding="utf-8")
     print(f"  Saved: {output_path}")
 

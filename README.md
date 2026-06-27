@@ -19,8 +19,11 @@ webcast-transcriber/
 │   ├── download_hls_segments.py
 │   ├── compare_transcripts.py
 │   ├── diarize.py
+│   ├── clean_transcripts.py
+│   ├── build_caption_data.py
 │   └── test_all_companies.sh
 ├── research/                     # Findings log and research outputs
+│   ├── mobile-mockup.png         # Mockup for audio player feature  
 │   ├── findings.md
 │   └── 6-17/
 │       ├── llm-search-results/
@@ -30,10 +33,12 @@ webcast-transcriber/
 │   └── transcripts/
 │       ├── whisper-or-extracted/
 │       ├── official-pdfs/
-│       ├── diarized/
+│       ├── diarized/             # _diarized.txt = primary; _diarized_ts.txt = timestamped version for web player
+│       ├── clean/
 │       └── wer-reports/
-├── requirements.txt
-└── README.md
+├── web/                          # Audio caption web player
+│   ├── index.html
+│   └── data/                     # Preprocessed caption JSONs (one per company)
 ```
 
 ---
@@ -105,6 +110,31 @@ python translate.py <text_file> <target_lang_code> [output_dir]
 **`src/scrape_ir_page.py`** — scrape a company IR page for webcast-related links and save results as JSON.
 ```bash
 python scrape_ir_page.py <ir_page_url> <company_name> <ticker> [output_path]
+```
+
+**`src/clean_transcripts.py`** — removes timestamps, boilerplate preamble, and reformats diarized transcripts into readable paragraphs. Saves to `samples/transcripts/clean/`.
+```bash
+python src/clean_transcripts.py --all        # all 19 companies
+python src/clean_transcripts.py amd google   # specific companies
+```
+
+**`src/build_caption_data.py`** — preprocesses Whisper JSON files into lean `{start, end, text}` caption JSONs for the web player. Saves to `web/data/`.
+```bash
+python src/build_caption_data.py   # all 19 companies
+```
+**`src/build_caption_data.py`** — preprocesses Whisper JSON files into lean caption JSONs for the web player. Saves to `web/data/`.
+```bash
+python src/build_caption_data.py
+```
+
+**`src/add_speakers.py`** — merges speaker labels from diarized transcripts into caption JSONs. Uses timestamp alignment or fuzzy text matching depending on available diarized file.
+```bash
+python src/add_speakers.py
+```
+
+**`src/clean_transcripts.py`** — strips timestamps and boilerplate from diarized transcripts and reformats into readable paragraphs. Saves to `samples/transcripts/clean/`.
+```bash
+python src/clean_transcripts.py --all
 ```
 
 > **Note:** scripts default to writing output to `../samples`. Pass an output directory explicitly if running from a different location.
@@ -280,7 +310,40 @@ webcast-transcriber/
 Audio and video files are not committed to GitHub (too large). All text outputs are in both the repo under `samples/` and in Google Drive.
 
 ---
+## Audio Caption Web Player
 
+An in-browser audio player that plays earnings call recordings with real-time captions and speaker labels. Built as a local demo tool.
+
+### How it works
+
+**Python prepares the data (run once):**
+
+`src/build_caption_data.py` converts the Whisper JSON files into lean caption JSONs containing only `{start, end, text}` per segment, saved to `web/data/`.
+
+`src/add_speakers.py` adds a `speaker` field to each segment by cross-referencing the diarized transcripts. Uses timestamp alignment for companies with `_diarized_ts.txt`, fuzzy text matching for the rest. Updates `web/data/` in place.
+
+`web/index.html` is a single self-contained HTML file with CSS (styling) and JavaScript (behavior) that loads the caption JSONs and mp3 files, syncs captions to audio playback in real time, and renders the scrollable transcript panel with speaker headers.
+
+### Setup and run
+
+```bash
+# Step 1: build caption JSONs (only needed once, or after re-running diarization)
+python src/build_caption_data.py
+python src/add_speakers.py
+
+# Step 2: start local server from repo root
+python -m http.server 8000
+
+# Step 3: open in Chrome
+open http://localhost:8000/web/
+```
+
+### Features
+- Dropdown to select any of the 19 companies
+- Real-time captions synced to audio playback
+- Speaker name displayed above each caption
+- Playback speed: 1× / 1.25× / 1.5× / 2×
+  
 ## Findings
 
 See `research/findings.md` for full research notes, pipeline results, company-by-company coverage, transcript quality results, and proposed next steps.

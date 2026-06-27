@@ -1,0 +1,726 @@
+I now have all the information I need. Let me compile the full participant list and annotate the transcript:
+
+**Confirmed participants:**
+- **Operator**: Krista (Whisper transcribed as "Krista" — correct)
+- **IR**: Kenneth Dorell, Director of Investor Relations (Whisper transcribed as "Mr. Rell" — transcription error, correct in label)
+- **CEO**: Mark Zuckerberg
+- **CFO**: Susan Li (Whisper transcribed as "Susan Lee" — transcription error, correct in label)
+- **Analysts**: Brian Nowak (Morgan Stanley), Mark Shmulik (Bernstein), Eric Sheridan (Goldman Sachs), Youssef Squali (Truist Securities), Justin Post (BofA Securities), Ross Sandler (Barclays), Ronald Josey (Citigroup), Douglas Anmuth (JPMorgan), Kenneth Gawrelski (Wells Fargo)
+
+Now I'll annotate the transcript, carefully tracking each speaker transition:
+
+---
+
+[OPERATOR - Krista]:
+[00:00] Good afternoon. My name is Krista and I will be your conference operator today. At this
+[00:06] time, I would like to welcome everyone to Meta's First Quarter, 2026 Earnings Conference
+[00:12] Call. All lines have been placed on mute to prevent any background noise. After the speaker's
+[00:18] remarks, there will be a question and answer session. If you would like to ask a question,
+[00:23] please press star 1 on your telephone keypad. To withdraw your question, again, press star
+[00:30] we ask that you limit yourself to one question and this call will be recorded. Thank you very
+
+[00:35] much. Can Mr. Rell? Meta's Director of Investor Relations, you may begin.
+
+[KENNETH DORELL - Director of Investor Relations]:
+[00:43] Thank you. Good afternoon and welcome to Meta Platform's First Quarter, 2026 Earnings Conference
+[00:49] Call. Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Lee, CFO.
+[00:56] Our remarks today will include forward-looking statements which are based on assumptions as of
+[01:00] today. Actual results may differ materially as a result of various factors, including those set
+[01:06] forth in today's earnings press release and in our annual report on Form 10K filed with the SEC.
+
+[01:13] We undertake new obligation to update any forward-looking statement. During this call,
+[01:17] we will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP
+[01:23] to non-GAAP measures is included in today's earnings press release. The earnings press release
+[01:28] and an accompanying investor presentation are available on our website at investor.atmeta.com
+[01:35] and now I'd like to turn the call over to Mark.
+
+[MARK ZUCKERBERG - CEO]:
+All right. Hey everyone. Thanks for joining today.
+[01:42] We had a strong quarter for our community, our business and our progress towards AI.
+
+[01:48] More than 3.5 billion people use at least one of our apps every day. We saw a small decrease in
+[01:54] total family dailies due to internet outages in Iran and blocks in Russia, but otherwise
+[01:59] trends across our apps are strong. Daily and monthly activities on Instagram and Facebook
+[02:04] continue to grow with video driving all-time high engagement across both apps. What's app
+[02:10] continues to see strong momentum too, including in the US, and threads continues on its trajectory
+[02:16] to be the leading app in its category. Our biggest milestone so far this year has been the
+
+[02:22] release of our Muse family of models and our first model, Muse Spark, along with a significantly
+[02:28] upgraded new version of Meta AI. This was the first release from Meta Superintelligence Labs,
+[02:35] and it shows that our work is on track to build a leading lab. Over the past 10 months, we have
+[02:41] built the strongest research team in the industry and established the scientific and
+[02:46] technical foundations to scale very advanced models. Spark is just one step on that scaling
+[02:52] ladder, and we are already training even more advanced models. But Spark has already made Meta AI
+
+[02:59] a world-class assistant that leads in several areas related to our vision of personal super
+[03:04] intelligence, including visual understanding, health, shopping, social content, local,
+[03:10] creating games, and more. We're hearing very positive feedback on it so far. We've seen large
+[03:16] increases in Meta AI use since releasing the updates, and the Meta AI app has consistently
+[03:22] been near the top of the app stores as well. Now that we have a strong model, we can develop
+[03:28] more novel products as well. Since I first wrote about our vision for personal super intelligence
+
+[03:35] last year, we've been focused on delivering personal and business agents to billions of people
+[03:41] around the world. Our goal is not just to deliver Meta AI as an assistant, but to deliver agents
+[03:47] that can understand your goals and then work day and night to help you achieve them. My view of AI
+[03:55] is very different from many others in the industry. I hear a lot of people out there talk about how
+[04:01] AI is going to replace people. Instead, I think that AI is going to amplify people's ability to
+[04:08] do what you want, whether that's to improve your health, your learning, your relationships,
+
+[04:13] your ability to achieve your personal career goals, and more. My view is that human progress has
+[04:19] always been driven by people pursuing their individual aspirations, and I believe that this
+[04:24] will continue to be true in the future. People will be more important in the future, not less.
+[04:29] Meta believes in empowering individuals, and those are the kinds of products that we're going to
+[04:34] build, and I believe that they're going to be some of the most important and valuable products of all
+[04:38] time. We are building a personal agent focused on helping people achieve the diverse goals in their
+
+[04:45] lives. We're also building a business agent focused on helping entrepreneurs and businesses across
+[04:51] the world use our tools and others to grow their efforts, reach new customers, and serve existing
+[04:56] customers better. These agents will work together to form an ecosystem, and whether you use our
+[05:03] personal or business agents to achieve your goals, I believe that the future will see a massive
+[05:08] increase in entrepreneurship from people creating new things that they've always wanted to exist,
+[05:13] but previously didn't have the tools to bring into the world. We're already testing an early
+
+[05:18] version of business AIs and weekly conversations have grown 10x since the start of this year.
+[05:25] We're also working on using Spark and our upcoming models to improve our recommendation systems and
+[05:30] core business and Facebook, Instagram, and ads. Right now, our apps primarily help people accomplish
+[05:37] three important goals, connecting with people, learning about the world, and entertainment.
+[05:42] But we've always wanted our apps to understand more of people's goals so we can help improve their
+[05:47] lives in all the ways that they want. These new AI models will let us understand this in more detail,
+
+[05:53] so instead of just looking at statistical patterns of what types of people engage with what content,
+[05:59] for the first time in meta's history, we're going to be able to develop a first principles
+[06:04] understanding of what you care about and what each piece of content in our system is about,
+[06:09] so that way we can show you more useful things for what you're trying to accomplish. And we'll
+[06:13] also be able to create personalized content specifically for people to help you achieve your
+[06:18] goals as well. Since our recommendation systems are operating at such large scale,
+
+[06:24] we'll phase in this new research and technology over time. But the trend over the last few years
+[06:29] seems clear that we are seeing an increasing return on the amount that we can improve engagement
+[06:34] for people and value for advertisers. This encourages us to continue investing heavily in what we expect
+[06:40] will provide increasing value over the coming years as well. On that note, we are increasing
+[06:46] our infrastructure CapEx forecast for this year. Most of that is due to higher component costs,
+[06:52] particularly memory pricing. But every sign that we're seeing in our own work and across the industry
+
+[06:58] gives us confidence in this investment. That said, we are very focused on increasing the
+[07:04] efficiency of our investments. And as part of that, we are rolling out more than one gigawatt
+[07:09] of our own custom silicon that we're developing with Broadcom, as well as significant amount of
+[07:14] AMD chips to complement the new NVIDIA systems that we're rolling out as well.
+[07:19] One of the primary goals of our Metacomput initiative is to lead the industry in efficiency
+[07:24] of building compute. And we expect that will be a strategic advantage over time. Talking about
+
+[07:30] building physical goods at scale, our AI glasses continue to perform well with the number of people
+[07:36] using them, daily tripling year over year. This continues to be one of the fastest growing categories
+[07:42] of consumer electronics ever. We released Rayban meta-optics this quarter, designed for all day
+[07:48] where rather than primarily as sunglasses. And building on our release of Oakley last year,
+[07:54] we have some exciting new partnerships and styles that I think are going to have the potential to
+[07:59] reach even more people coming later this year. All of our glasses are designed to easily update,
+
+[08:05] to use our newest AI models and features. I'm also really excited to see the glasses evolve
+[08:10] from being able to answer questions to being able to be a personal agent that's with you all
+[08:15] day long, helping you remember things and achieve your goals. Beyond glasses, I am excited for more
+[08:22] of our metaverse efforts to be powered by the AI models we're training as well. We remain the
+[08:27] biggest investors in the VR space across the industry, but we are focused on making our VR
+[08:32] business sustainable as we invest more in other areas like AI and glasses. Before wrapping,
+
+[08:38] I want to talk for a moment about how AI is transforming our work. We are seeing more and
+[08:44] more examples where one or two people are building something in a week that would have previously
+[08:49] taken dozens of people months. And I want to make sure that meta is the best place in the world for
+[08:54] these types of people to come and make an impact. We're building the next evolution of our company
+[09:00] around these people. And there's a lot that we can do to enable this. Building the best infrastructure
+[09:05] for creating and delivering products at scale, streamlining our teams so they aren't bigger than
+
+[09:10] they need to be, recognizing and rewarding the people who are having outsized impacts,
+[09:14] and setting ourselves up to try many more ideas and take on many new projects in the future.
+[09:21] Of course, we will continue pushing to increase our efficiency as well, but overall, I think the
+[09:26] future is about building many more higher quality things than we've ever built before.
+[09:31] All right, that is what I wanted to cover today. We are living through a historic technological
+[09:36] transformation. We are among the few companies positioned to shape the future, and we are on
+
+[09:42] track to do that. I'm looking forward to delivering personal super intelligence to billions of people.
+[09:47] And as always, I am grateful for the hard work of our teams and to all of you for being on this journey
+[09:52] with us.
+
+[SUSAN LI - CFO]:
+Thanks, Mark. And good afternoon, everyone. Let's begin with our segment results.
+[09:59] All comparisons are on a year-over-year basis unless otherwise noted. We estimate 3.56 billion
+[10:07] people used at least one of our family of apps on a daily basis in March, which declined slightly
+[10:13] from December due to internet disruptions in Iran and the restriction on access to WhatsApp and Russia.
+
+[10:19] Absent these impacts, growth in family daily active people would have been positive quarter over quarter.
+[10:26] Q1 total family of apps revenue was $55.9 billion, up 33% year-over-year. Q1 family of apps add
+[10:35] revenue was $55 billion, up 33% or 29% on a constant currency basis. In Q1, the total number of ad
+[10:45] impressions served across our services increased 19%. Impression growth was healthy across all
+[10:52] regions driven primarily by growth in engagement and users as well as ad load optimizations.
+[10:58] The global average price per ad increased 12% year-over-year in Q1 with broad based growth as we
+
+[11:05] benefited from ad performance improvements, better macro conditions versus Q1 of last year, and currency
+[11:12] tailwinds in international regions. This was partially offset by strong impression growth,
+[11:17] including from lower monetizing regions. Family of apps other revenue was $885 million,
+[11:25] up 74%, driven primarily by WhatsApp paid messaging and subscriptions revenue. Within our reality
+[11:32] lab segment, Q1 revenue was $402 million, down 2% year-over-year due to lower quest headset sales,
+[11:40] which were partially offset by continued strong growth in AI glasses revenue.
+
+[11:45] Moving now to our consolidated results. Q1 total revenue was $56.3 billion, up 33% or 29% on a
+[11:55] constant currency basis. Q1 total expenses were $33.4 billion, up 35% compared to last year.
+[12:03] Year-over-year growth was driven mainly by infrastructure costs and employee compensation.
+[12:08] The growth in infrastructure costs was due to higher depreciation, data center operating costs,
+[12:15] and third-party cloud spend. The growth in employee compensation was driven by technical
+[12:20] hires we've added over the past year, particularly AI talent. We ended Q1 with over 77,900 employees,
+
+[12:30] down 1% from Q4 as the impact of headcount optimization efforts in certain functions was
+[12:36] partially offset by hiring and priority areas of monetization and infrastructure.
+[12:42] First quarter operating income was $22.9 billion, representing a 41% operating margin.
+[12:50] Q1 interest in other income was negative $1.1 billion, driven by unrealized losses on our equity
+[12:57] investments. Our tax rate for the quarter was negative 23%, which was favorably impacted by a
+[13:05] tax benefit of $8.03 billion. This benefit partially relieves the $15.93 billion non-cash
+
+[13:15] tax charge we recorded in the third quarter of 2025, which reflects updated guidance from the
+[13:21] U.S. Treasury issued in February 2026 regarding the tax treatment of previously capitalized R&D
+[13:29] expenditures in the United States. Absent the tax benefit, our Q1 tax rate would have been
+[13:35] 14%. Net income was $26.8 billion or $10.44 per share. Absent the tax benefit, our net income and EPS
+[13:46] would have been $18.7 billion and $7.31 respectively. Capital expenditures, including principal payments
+[13:57] on finance leases, were $19.8 billion, driven by investments in servers, data centers, and network
+
+[14:04] infrastructure. Free cash flow was $12.4 billion. We ended the quarter with $81.2 billion in cash
+[14:13] and marketable securities and $58.7 billion in debt. Turning now to the business performance,
+[14:21] there are two primary factors that drive our revenue performance, our ability to deliver
+[14:26] engaging experiences for our community, and our effectiveness at monetizing that engagement over
+[14:31] time. On the first, we're continuing to see significant gains from our content recommendation
+[14:37] initiatives. On Instagram, the ranking improvements that we made in Q1 drove a 10% lift in real-time
+
+[14:44] spent. On Facebook, total video time increased more than 8% globally in Q1, the largest quarter
+[14:52] over quarter gain in four years. Within the U.S. and Canada, ranking improvements we made
+[14:58] drove a 9% increase in video watch time on Facebook and Q1. These gains are benefiting from
+[15:04] advances we're making across the full stack. Starting with data, we doubled the length of
+[15:10] user interaction sequences we use for training on Instagram and Q1 and increased the richness of
+[15:16] how each user interaction is described, enabling our systems to develop a deeper understanding of
+
+[15:22] user interests. Within our models, we've significantly increased the speed with which our ranking
+[15:28] models index new posts, which is enabling us to recommend them sooner after they are published.
+[15:34] We're also applying more advanced content understanding techniques, which is enabling us to quickly
+[15:40] identify posts that may be interesting to someone, even if they haven't engaged with a lot of similar
+[15:45] content. These and other improvements have enabled us to increase the diversity and
+[15:50] recency of recommended content with same day posts now representing more than 30% of recommended
+
+[15:57] reels on both Instagram and Facebook, more than double the levels one year ago. We're also using
+[16:04] AI to unlock more inventory by auto translating and dubbing videos into a viewer's local language,
+[16:11] enabling us to recommend a more diverse set of content. Over half a billion users on each of
+[16:16] Facebook and Instagram are now watching AI translated videos weekly. Looking forward,
+[16:23] we're making several investments we expect will deliver more valuable recommendations.
+[16:27] This year, we will continue scaling up our models in several dimensions, including their size and
+
+[16:32] complexity, while incorporating LOMs to deepen content understanding across our platform.
+[16:38] This will enable us to better match people to a wider variety of content aligned to their interests.
+[16:45] At the same time, we are executing on our longer term efforts to develop the next generation of
+[16:50] our recommendation systems. This includes building foundation models that power organic content
+[16:56] and adds recommendations, as well as developing LOM based recommender systems. Our focus this
+[17:04] year is validating the model architectures and techniques in these domains before we scale them
+
+[17:09] out in future years. Aside from our recommendations work, we are focused on deploying the models
+[17:16] from meta super intelligence labs to enable a new set of product experiences. We're seeing
+[17:22] encouraging results within meta AI since we began powering responses with the first model from MSL,
+[17:28] Muse Spark. In tests we ran leading up to the launch, we saw meaningful engagement gains that
+[17:34] accelerated week over week with each new iteration of the model. We're seeing similar
+[17:39] gains within meta AI following the broad rollout of our new model with double digit percent increases
+
+[17:46] in meta AI sessions per user. Muse Spark is now powering meta AI in direct chat threads across
+[17:53] our family of apps, as well as the standalone meta AI app and website, giving billions of people
+[18:00] globally access to our latest model. Overall, we're very encouraged by the momentum within our
+[18:05] research and product roadmap and look forward to sharing more detail on what we're building
+[18:10] over the course of the year. Turning to the second driver of our revenue performance,
+[18:15] increasing monetization efficiency. The first part of this work is optimizing the level of
+
+[18:21] ads within organic engagement. Here we continue to enhance our systems to show ads at the optimal
+[18:28] time and location. In Q1, we also expanded availability of ads on our newer surfaces,
+[18:34] including bringing ads on threads to people in more markets. On WhatsApp, we're making good
+[18:40] progress with the rollout of ads and status with hundreds of millions of people now viewing them
+[18:44] daily. Moving to the second part of increasing monetization efficiency, improving performance
+[18:51] for the businesses who use our services. To do so, we're deploying AI more deeply across
+
+[18:58] each layer of our systems and tools. Within our ad systems, we're delivering performance gains
+[19:04] as we deploy more complex and predictive models. In Q1, enhancements we made to lattices modeling
+[19:11] and learning techniques along with advances in our gem model architecture drove a more than 6%
+[19:16] increase in conversion rate for landing page view ads. In addition, we've been investing in
+[19:22] more performant inference models for when we're serving ads. In the second half of last year,
+[19:27] we began rolling out our new adaptive ranking model, which is an LLM scale ads recommender
+
+[19:33] model that we use for inference. This model improves our inference ROI by routing requests to more
+[19:39] compute intensive inference models when it determines there is a higher probability of conversion.
+[19:45] In Q1, we expanded coverage of our adaptive ranking model to support offsite conversions,
+[19:50] which drove a 1.6% increase in conversion rates across the major services on Facebook and Instagram.
+[19:58] We're also leveraging AI to make it easier for businesses to manage their customers,
+[20:03] develop ad creative and engage with customers. The meta AI business assistant has now been fully
+
+[20:10] rolled out to all eligible advertisers on supported meta buying services, providing personalized
+[20:16] recommendations to advertisers, resolving account issues, and servicing campaign insights to help
+[20:22] optimize results. Performance has been strong since we began testing the assistant in Q4,
+[20:28] with common account issues being resolved at a 20% higher rate. This week, we're also introducing
+[20:35] meta ads AI connectors in open beta, providing advertisers the ability to connect their meta
+[20:40] ad account directly to an AI agent. We've always supported advertisers both on our platform and
+
+[20:46] through tools like the marketing API. And now we're extending that to AI so businesses and
+[20:52] agencies can analyze and optimize campaigns with the tools they're already using.
+[20:58] Usage of our ad creative tools is also scaling, with more than 8 million advertisers using at least
+[21:04] one of our gen AI ad creative tools, and particularly strong adoption among small and medium sized
+[21:10] advertisers. These tools are benefiting performance as well, with advertisers using our video generation
+[21:16] feature seeing more than 3% higher conversion rates in tests. We're also seeing good traction
+
+[21:22] in using AI to facilitate customer engagement. In Q1, we expanded business AIs on WhatsApp to SMBs
+[21:29] across Latin America and Indonesia, as well as on messenger in Asia Pacific. We now have more
+[21:36] than 10 million conversations each week being facilitated through business AIs up from 1 million
+[21:43] at the start of the year. We'll further expand access to more countries this quarter while adding
+[21:49] more capabilities to the AIs. We also continue to invest in the value optimization suite,
+[21:55] which helps advertisers maximize their return on ad spend by prioritizing the highest value
+
+[22:00] conversions rather than optimizing solely for the most conversions at the lowest cost. Adoption
+[22:07] by businesses has been strong following performance improvements we've made over the past year,
+[22:12] with the annual revenue run rate of our value optimization suite now over 20 billion dollars,
+[22:17] more than doubling year over year. Last I want to touch on our commerce efforts.
+[22:22] People discover products on our platforms through ads and organic posts with brands
+[22:27] increasingly turning to creators to promote their products. This is contributing to rapid growth in
+
+[22:33] our partnerships ads product with its revenue run rate more than doubling year over year in Q1
+[22:37] to 10 billion dollars. To support the product discovery and purchasing happening through creators,
+[22:43] we're expanding our solutions beyond ads. Last month we rolled out our affiliate partnerships
+[22:48] offering on Facebook to more test partners so creators can tag products from participating
+[22:53] retailers on their posts and earn a commission when someone makes a purchase. We have also started
+[22:59] testing similar experiences on Instagram. We see a real opportunity to help people more easily
+
+[23:05] discover and buy products within our services, particularly as we incorporate AI deeply across
+[23:11] our platforms. Next I would like to discuss our approach to capital allocation. Compute is
+[23:18] becoming increasingly important as it determines the quality of services we can provide, including
+[23:24] powering more capable models and delivering innovative new products. It is also becoming
+[23:30] more critical to how we work at Metah. As we are entering a world where employees are managing
+[23:35] agents to help them generate new ideas, run experiments, execute tasks and build products.
+
+[23:40] We are investing aggressively to meet our infrastructure needs and ensure we maximize our
+[23:46] strategic flexibility over the coming years. This includes substantially expanding our own data
+[23:52] center footprint and striking deals throughout the supply chain to secure necessary components
+[23:57] for future capacity. We're also signing cloud deals that will come online over the course of this year
+[24:04] and 2027, allowing us to scale more quickly. These multi-year cloud deals and our infrastructure
+[24:11] purchase agreements drove a $107 billion step up in our contractual commitments this quarter.
+
+[24:19] Our investments will support our training needs for future models and most importantly provide
+[24:23] us the inference capacity necessary to deliver personal and business agents to billions of people
+[24:28] around the world, along with several other AI product experiences we're developing.
+[24:35] As we grow our infrastructure spend, we remain committed to operating efficiently and we recently
+[24:40] shared internally that we plan to reduce the size of our employee base in May. We believe a
+[24:46] leaner operating model will allow us to move more quickly while also helping to offset the
+
+[24:50] substantial investments we're making. Moving to our financial outlook, we expect second quarter
+[24:57] 2026 total revenue to be in the range of 58 to 61 billion dollars. Our guidance assumes foreign
+[25:04] currency is an approximately 2% tailwind to year over year total revenue growth based on current
+[25:11] exchange rates. Turning to the expense and CAPEX outlooks, we expect full year 2026 total expenses
+[25:19] to be in the range of 162 to 169 billion dollars unchanged from our prior outlook.
+[25:27] We continue to expect to deliver operating income this year that is above 2025 operating income.
+
+[25:35] We anticipate 2026 capital expenditures, including principal payments on finance leases to be in
+[25:43] the range of 125 to 145 billion dollars increased from our prior range of 115 to 135 billion dollars.
+[25:53] This reflects our expectations for higher component pricing this year and to a lesser
+[25:59] extent additional data center costs to support future year capacity.
+[26:04] Apps and any changes to our tax landscape, we expect our tax rate for the remaining quarters
+[26:09] of 2026 to be between 13 and 16%. Finally, we continue to monitor active legal and regulatory
+
+[26:18] matters including headwinds in the EU and the US that could significantly impact our business
+[26:23] and financial results. For example, we continue to see scrutiny on youth related issues and have
+[26:29] additional trials scheduled for this year in the US which may ultimately result in a material loss.
+[26:36] In closing, Q1 was a solid start to the year with strong execution across our core ads and
+[26:43] engagement initiatives. We're also making exciting progress on our AI research and product efforts
+[26:49] and expect to build that momentum over the course of this year. With that, Krista, let's open up
+
+[26:54] the call for questions.
+
+[OPERATOR - Krista]:
+Thank you. We will now open the line for a question and answer session.
+[27:01] To ask a question, please press star 1 on your touchstone phone. To withdraw your question,
+[27:06] again press star 1. Please limit yourself to one question. Please pick up your handset before
+[27:12] asking your question to ensure clarity. If you are streaming today's call, please mute your
+[27:17] computer speakers. And your first question comes from Brian Noah with Morgan Stanley. Please go ahead.
+
+[BRIAN NOWAK - Analyst, Morgan Stanley]:
+[27:25] Thanks for taking my question. Mark, I wanted to ask you just about the level of investment
+
+[27:29] you're making and sort of the signposts you're watching to ensure you're going to generate
+[27:34] ROICN, all these investments behind Muse and the other products. So if you could just sort of
+[27:40] let us know some of the key factors you're watching over the next 12 to 24 months, whether it's
+[27:45] MedAI, Muse advances, core algorithm, what are you sort of watching foremost just to make sure
+[27:51] that you're on the right path to generating healthy ROICN, all this CAPEX and infrastructure spend?
+
+[MARK ZUCKERBERG - CEO]:
+[27:59] That's a very technical question for basically where the things that we're watching are to make
+
+[28:10] sure that we're on track building leading models and leading products. The formula for our company
+[28:16] has always been build experiences that can get to billions of people and focus on monetizing
+[28:23] them once you get to scale. I think that's we're seeing a little bit of that here where basically
+[28:29] we invest in advance to build leading models, then we convert that into leading products and then
+[28:35] we think that these are going to be some of the most important products that get built over the
+[28:43] next decade. So I think just like anything else that we've done over time, the basic milestones that
+
+[28:51] I look at are around first, technically, are we delivering the quality to enable a great product?
+[28:59] Then second, when you have the product, how is it scaling? And then third, you look at the
+[29:04] monetization and then you drive up the efficiency of it towards increasing profitability.
+[29:14] I don't think we have a very precise plan for exactly how each product is going to scale
+[29:26] month over month or anything like that, but I think we have a sense of the shape of where these
+[29:30] things need to be. And I think if you look at the usage of these and the quality of the products
+
+[29:38] and the quality of the models that are out there and the use that other frontier models are getting
+[29:43] and the trajectory of that, I'm quite comfortable that A, the lab that we're building is on track
+[29:51] to be a leading lab in the world. I think Muse Spark was a very high quality model.
+[29:56] It powers meta AI, which I think is now a world-class assistant. We have an ability to be able to grow
+[30:01] that and have a large amount of engagement. And over the coming quarters, we're just going to be
+[30:07] tracking how do our next set of training runs go, how do our product scale, how excited are we about
+
+[30:13] the products in the pipeline? We're right now, we're very excited. And then we'll also ramp up
+[30:17] monetization over that period of time as well. So I think those are the set of things that I look
+[30:22] at. I think for the kind of specific financial questions, I think Susan can jump in if there's
+[30:27] anything more to add.
+
+[OPERATOR - Krista]:
+Your next question comes from the line of Mark Smulik with Bernstein.
+[30:37] Please go ahead.
+
+[MARK SHMULIK - Analyst, Bernstein]:
+Yes, thanks for taking the questions. Mark, you know, I guess now that we've got
+[30:43] Muse Spark out there launched, how do you think about the team's focus here divided onto further
+
+[30:48] model training runs and further specialization in that personal intelligence goal versus product
+[30:55] launches and shipping more products out the door? And Susan, I guess as a follow up to Brian's
+[31:02] question, I know it's too early to discuss 2027 capex, but we've had peers mentioned tonight
+[31:07] a potential significant step up. Any way to think about dimensionalizing how we think about
+[31:12] some of the returns or traction this year and how it might affect 2027 spend? Thanks.
+
+[MARK ZUCKERBERG - CEO]:
+[31:24] I mean, I think the roadmap from the team has been pretty consistent. So we have the research
+
+[31:30] team, which is focused on scaling increasingly intelligent models with capabilities for the
+[31:35] specific things that we're focused on, which are business and personal agents. So we're, you know,
+[31:42] we just released our first model. When I talked about in my comments, how we're climbing this
+[31:46] scaling ladder towards greater capabilities and scale for the models, that work continues. We
+[31:52] have our next set of more advanced models in training now. And that is that work will, I think,
+[31:59] just continue. I mean, that's a loop. I don't think you were going to be done with that anytime soon.
+
+[32:04] We're going to have teams that are just consistently focused on training more intelligent and more
+[32:08] capable models in the ways that we want. Then we have our product team. And that team is now
+[32:16] really unlocked to be able to build things on top of our models, because we now have
+[32:23] very strong models. So before this, you know, we had been prototyping a bunch of things using
+[32:28] other different models, whether it was our previous older models or kind of using the APIs from other
+[32:34] companies. And now we're unlocked to be able to go build things and get them to scale on top of
+
+[32:40] our own models. So I think you will see that over over some period of time. I tried in my opening
+[32:46] remarks to give a bit of a sense of where we're going. But I think that more of the details of
+[32:52] that will become clear over the coming months. And I think that these are just both loops that
+[32:57] we'll iterate on. We'll keep on iterating on the intelligence. We'll keep on working on building new
+[33:02] products and scaling the products. And then as we get to product market fit, we're also going to
+[33:07] increasingly focus on building the businesses around them and decreasing the costs. And this is
+
+[33:12] kind of how we've done everything over the last 20 years of running the company. And that is
+[33:18] basically the plan.
+
+[SUSAN LI - CFO]:
+Mark, on your second question, we aren't providing a specific outlook for 2027
+[33:24] CAPEX. And we are, frankly, undergoing a, you know, very dynamic planning process ourselves as we're
+[33:30] working through what our capacity needs will be over the coming years. Our experience so far has
+[33:36] been that we have continued to underestimate our compute needs, even as we have been wrapping
+[33:41] ramping capacity significantly, as the advances in AI have continued and our teams continue to
+
+[33:48] identify compelling new projects and initiatives. And now too, there are very compelling internal
+[33:53] use cases. So our expectation is that compute will become even more central to the business going
+[33:59] forward. And it will be critical to determining the quality of the models we develop, the types
+[34:04] of products we can introduce, how productive we can be as an organization. So we're going to
+[34:09] continue building out our infrastructure with flexibility in mind. And if we end up not needing
+[34:14] as much as we anticipate, we can choose to bring it online more slowly or reduce our spending in
+
+[34:18] future years as we grow into the capacity that we're building now.
+
+[OPERATOR - Krista]:
+Your next question comes from the
+[34:25] line of Eric Sheridan with Goldman Sachs. Please go ahead.
+
+[ERIC SHERIDAN - Analyst, Goldman Sachs]:
+[34:30] Thanks so much for taking the question. If you can build out on one of the topics that was
+[34:34] discussed in the, in the prepared remarks, but just the opportunity set that sits in front of the
+[34:39] company with respect to putting a, a, a, a, a, a, a compute in front of both consumers and enterprises.
+[34:46] You've long been associated with sort of the consumer landscape. And I am curious about how
+
+[34:51] you're thinking about extensions of the media engagement, parts of your business model and the
+[34:55] commerce parts of the business model would become more a gem take over time. But what do you see
+[34:59] also is the opportunity set that sits in front of you across SMEs and enterprises, where historically
+[35:04] you maybe haven't had as much product velocity. Thanks so much.
+
+[SUSAN LI - CFO]:
+[35:21] Thanks, Eric. So I would say, you know, in the near term, obviously the sort of biggest focuses
+[35:28] are some of the areas that you mentioned around deepening sort of engagement, obviously with our
+
+[35:35] existing, our existing community and user base, making ad experiences, meaningfully more personalized,
+[35:42] more engaging, more valuable, helping SMEs find and engage with customers across our platform.
+[35:49] Those are some of the, I think, most intuitive and adjacent opportunities to the business that we have today.
+[35:55] And then of course, as we are able to build out more agentic capabilities, you know, enabling agents to help people be more productive, but also agents for businesses and enabling frankly those agents to interact with each other.
+[36:07] And, you know, build what we hope will be a thriving commerce ecosystem on our platform. So, you know, I would say some of these are a little bit further out, you know, and I would say,
+[36:16] some of these are a little bit further out, you know, especially in that latter category of things. Again, the focus is on building personal super intelligence,
+
+[36:25] you know, building a consumer agent that can work for you and help you get things done. That right now is a consumer experience that we're focused on, but we think there will be clear monetization opportunities over time.
+[36:36] You can imagine commission structures or premium offering. And on the business side, we're seeing a large opportunity, of course, around agents and scaling our business AI initiatives.
+[36:46] I think I mentioned earlier in my remarks that there are over 10 million weekly conversations between people and business AIs on our messaging platforms.
+[36:53] That's up from 1 million at the start of the year and we're going to continue expanding globally in Q two and business AIs today are currently free for most businesses on our messaging apps.
+[37:04] But as we make more progress, you know, we we expect that we will also work towards establishing a longer term monetization model and we'll also consider other services services that we can offer.
+[37:15] To businesses in the future, but we don't have anything more to share today.
+
+[OPERATOR - Krista]:
+[37:20] Your next question comes from the line of use of Squally with truest securities. Please go ahead.
+
+[YOUSSEF SQUALI - Analyst, Truist Securities]:
+[37:27] Great. Thank you very much for taking questions. Maybe one for Mark and one for Susan Mark.
+[37:32] Ray band Oakley AI glasses continues to perform really well for you guys, but it's a lot of exotic that owns and manages a lot more brands.
+[37:41] What are the gating factors to see the launch of additional glasses under these other brands this year and what would be a successful year for you as you know you look back at 2026 maybe in terms of units sold and then Susan on that 10% riff.
+[37:57] How much of that is due to efficiencies for maybe AI implementations versus just the need to stay fit and as you look at your employee needs over time.
+[38:06] How do you see that growing maybe relative to your overall top line growth. Thank you very much.
+
+[SUSAN LI - CFO]:
+[38:16] I can go ahead and take both of those. I might answer your your second question first, you know,
+[38:26] and I'm just trying to make sure I got all of the parts of the question so
+[38:31] in terms of what these sort of you know, the kind of the the
+[38:35] the optimal size of the company I think over time.
+[38:38] We don't really know what the optimal size of the company will be in the future.
+[38:41] I think there's a lot of change right now with AI capabilities advancing rapidly.
+
+[38:47] We're very focused on leveraging AI tools to substantially increase our productivity and we're seeing that reflected in the accelerating output from our engineers.
+[38:56] And we're generally approaching that we're approaching this with a bias toward wanting to use these tools to build even more products and services than we do.
+[39:05] We would have than we would have before.
+[39:07] At the same time, we're making very significant investments in infrastructure and we are very focused on continuing to operate efficiently.
+[39:17] So I think we will be continuously evaluating how we're structured just to make sure we're best set up to deliver against our priorities over the coming years.
+[39:24] So that is I think your second question. The first question was about was about the AI glasses.
+
+[39:30] We have you know we're continuing to see strong growth in obviously the AI glasses sales over the course of Q one.
+[39:38] Demand for the expanded portfolio lineup has generally been quite strong and we're seeing sales shift now from the prior generation of Ray bed meta's to the latest generation.
+[39:47] Which I think speaks to the value of the improved features like extended battery life and higher you know features like higher higher resolution video.
+[39:56] Higher resolution video capture sorry.
+[39:58] So we're you know pretty excited about you know the the progress we've made with glasses.
+[40:03] We see strong interest now in the meta Ray band displays with the meta neural band.
+
+[40:07] So that's an encouraging sign that there's consumer appetite for display glasses which is kind of the next generation of how this product evolves.
+[40:15] And yeah, so I think this is a this is an area that we will continue to be that we continue to be excited about an understanding of how we can do this.
+[40:24] That we continue to be excited about and are investing in.
+
+[OPERATOR - Krista]:
+[40:28] Your next question comes from the line of Justin Post with Bank of America. Please go ahead.
+
+[JUSTIN POST - Analyst, BofA Securities]:
+[40:34] Great. Thanks for taking my question.
+[40:36] Market in took about 10 months to get you spark out. I think it's a pretty good pace.
+
+[40:41] Just to help us understand what kind of unlock that is for some of the new products you're developing and and how's the product cadence going to be over the next nine months on either consumer or business.
+[40:53] Price products built on top of that model.
+
+[MARK ZUCKERBERG - CEO]:
+[40:59] I mean the field is moving pretty quickly.
+[41:01] So I mean I'm very happy that we're I think the.
+[41:06] Lab that has gone the fastest from standing up the lab to having a very kind of widely.
+[41:13] Accepted is strong model. So I think that that's good.
+
+[41:17] I take that as a very significant validation of the effort that the team is working well together that the infrastructure is working that.
+[41:24] That the effort is on track. I think that that's basically the main thing that we've learned over the last quarter that that I would take away is like where.
+[41:34] And we started what is this pretty big bet and it's on track for our plan.
+[41:41] In terms of what exactly the cadence is going to be.
+[41:47] It's tough for me to say both because I don't really want to share competitively sensitive information and because I think some of the stuff.
+[41:55] We are more focused on quality than hitting a specific date. I mean on the research side this is research right we are trying novel things.
+
+[42:03] You don't exactly know when they're going to land.
+[42:06] And on the product side I think we care a lot about just having.
+[42:10] Yeah, let me put it this way. There's a lot of agents out there right that people are building for different things and.
+[42:17] There aren't that many that I would want to give to my mother.
+[42:21] And I think getting to like that quality bar is something that I care about more than hitting a specific week for launching or something like that.
+[42:30] So, but with that said, you know, I mean this we're in a zone here where.
+
+[42:35] And the teams don't check in with me like once a quarter, you know, we like we make meaningful progress like day over day.
+[42:43] I think that's part of the fun of developing in this world is that people can make very rapid progress.
+[42:49] Small groups of people and teams can make very rapid progress. So I think we're going to see a lot of innovation.
+[42:55] You know the timing of this of this call is it's good in some ways because you know the muse spark release I think was.
+[43:01] Was positive the medai first release I think is positive. I think that that shows that we're on track.
+[43:07] I'm trying to kind of paint a picture of the very high level direction that we're going in.
+
+[43:11] But I think that the picture is going to come into focus a lot more over the subsequent quarters.
+
+[OPERATOR - Krista]:
+[43:17] Your next question comes from the line of Ross Sandler with Barclays. Please go ahead.
+
+[ROSS SANDLER - Analyst, Barclays]:
+[43:25] Yeah, well, just sort of related to that last answer, but there's a lot of new consumer applications kind of cropping up everything from like an open claw to.
+[43:35] Something a little bit more consumer friendly that you that.
+[43:38] Good for your mom, like you said, with like Pope or dreamer, which you recently acquired. So how are these new ideas? I guess.
+[43:46] Changing your view around the direction that the you know core meta AI or dreamer or kind of your overall agentic strategy needs to go.
+
+[43:58] And then.
+[43:59] The second part of it would be do you think the lab will stay in this consumer lane or do you think you need or you want to go down the route that others are going down with.
+[44:09] Curred writing and like the recursive self improvement loop and and that direction kind of in parallel just thoughts on that. Thank you.
+
+[MARK ZUCKERBERG - CEO]:
+[44:17] Yeah, so so look on on the open claw and other agents. I think that they give you a very exciting glimpse.
+[44:24] Of what types of things should be possible now they're pretty rough systems today and.
+[44:30] You know, to set up open claw you need to like install a computer locally and then get into a terminal and.
+
+[44:37] Like configure a bunch of things that again, like there's you know, maybe there's hundreds of thousands of people or small numbers of millions of people who can do that.
+[44:46] But what we're talking about is delivering personal super intelligence for billions of people around the world. So how do you make a version of.
+[44:52] Of that experience that is a lot more polished and dialed.
+[44:56] And easy and that has all the infrastructure basically done for people already.
+[45:02] And that just works and that's kind of what we're focused on on the consumer side and.
+[45:08] And I'm really excited about that. I think if you had something like that.
+
+[45:12] That worked quite a bit better than those systems and was easy enough that people could just get that I think you go from having something that you know, hundreds of thousands or millions of people are going to use.
+[45:21] To something that is going to be addressable to billions of people and that has been our primary focus from day one of the lab is being able to.
+[45:30] Deliver something like that is a product and I think it's just going to be very exciting.
+[45:35] By the way, the same thing is true for businesses, right. I mean, there's the personal version of this, but there's also, you know, a lot of people's goals are.
+[45:42] They want to create things right they want to create websites, they want to create products, they want to grow their products.
+[45:48] These are all things that good agents are going to be able to help people do.
+
+[45:53] Which I think is partially why this is so exciting and you know, in my opening comments, I talked about how today we can handle a few goals for people.
+[46:00] They're big goals, right. We can help people stay connected with people they care about learn about the world. These are big things that people care about, but.
+[46:06] They're not the only things that people care about and one of the things that I would love for our products to be able to do is just understand people's goals specifically.
+[46:15] And then be able to just go work on them for them and check back in and whenever you have questions that you need answered. So whether those are personal goals.
+[46:25] Or you're trying to create a business or do work. I think that this is like this is stuff that I think literally every person in the world is going to want some version of it.
+[46:34] And also I think it is something that.
+
+[46:36] Scales where the more you want to get out of it, I think people are going to also be willing to pay a lot of money to have premium or high compute versions of it. So I think that this is like it's a very exciting area.
+[46:50] But I think what you all should be waiting to see is like whether we can build the version that really like just works and how effective we are at converting people who are using our products into being hundreds of millions and then billions of people in the world.
+[47:06] And then we're using this stuff. And then over time, how can we effectively convert that into something that's increasingly profitable by monetizing it and getting the cost down.
+[47:16] So that's the roadmap of what we need to do.
+[47:18] You asked about.
+[47:21] About whether we're primarily focused on consumers or also recursive self improvement.
+
+[47:27] I think that you know we've talked about two main goals for the team. I mean, one is this kind of agents version vision of what we're doing.
+[47:37] The other is that self improvement is really important because you can't build a leading AI product if you don't have leading models.
+[47:46] So, and you're not going to have leading models in the future if your models can't improve themselves. Right. It's like you're getting to a point where today the models are still able to learn from people.
+[47:58] And then I think at some point the models will have to improve themselves. And that's how how the growth is going to an improvement in the models is going to happen.
+[48:07] And if you don't if we don't have an ability to do that, then we or anyone else I think that the companies that don't do that are not going to be leading labs and they're not going to produce leading product.
+[48:16] So I know that's like that is a table stakes thing that we are focused on.
+
+[48:21] Now does that make us a developer tools company? Not necessarily. I mean, I'm not not against having an API or coding tools or anything like that, but it's not our primary focus.
+[48:32] I actually think people can flate coding with self improvement more than they should. Coding is one ingredient for the model self improving. It's not the only thing.
+[48:41] And we are focused on all of the parts that are going to be necessary for self improvement in service of the personal super intelligent vision that we have for people and businesses.
+
+[OPERATOR - Krista]:
+[48:53] Your next question comes from the line of Ron Josie with city group. Please go ahead.
+
+[RONALD JOSEY - Analyst, Citigroup]:
+[48:59] Great. Thanks for taking the question mark. Maybe a quick follow up to a prior question around personal agents and business agents and with with Spark and using our lives and more models and development. Do you look at the personal agent opportunity, which we talked about earlier on in the in the
+[49:13] call more of a short term medium term long term goal I'm sure it's never ending goal. But when we see a product is the question shorter medium term. And then Susan, I think the ranking recommendation model improvements are are are very impressive to see given the size and scale of both
+
+[49:28] Instagram and Facebook. If you help us understand just how doubling the length of these interaction sequences can drive greater usage. There's a thesis out there that may be some of the ranking recommendation improvements are are long in the two. So it seems as if there's a lot more room to go. So any help any help there be helpful. Thank you.
+
+[MARK ZUCKERBERG - CEO]:
+[49:45] I mean, I think that the agents work. There's going to be short term versions of it. But then I think that there's going to be massive upside for delivering more intelligence and more capabilities in the models.
+[50:02] And you're kind of seeing this across the industry each, you know, month. You know, each generation of models. They just have more capabilities and can do more things and people absorb it and are able to get more superpowers and it's awesome.
+[50:14] It's like the most exciting time in the industry. So I think of the agents as the product vehicle for delivering that capability to people.
+[50:21] And we certainly, you know, I think this year is going to be a, um, a, a key period for establishing that as the vehicle for how people are going to use this. But then the model improvement, I think, is going to be something that's going to go on for a very long time.
+[50:40] So there's a lot to do here in both the short, medium and long term.
+
+[SUSAN LI - CFO]:
+[50:47] And then on your second question, which I think is about the ranking and recommendations improvements that we talked about in our, that I talked about in my earlier remarks.
+[50:57] You know, I think they're, you know, first of all, there is still a lot of room to continue improving recommendations over the rest of the year.
+[51:04] And we expect we'll be able to do that to drive additional engagement on both Facebook and Instagram.
+[51:10] You know, a couple of the things first, we're going to continue to improve our data infrastructure. That's going to allow our models to train on more data.
+[51:17] And we're adding more detail to how we describe the content that users have engaged with in the past and scaling up the complexity of our model architecture to take advantage of those larger data sets,
+[51:28] like using even longer histories of content interactions. And that should all be in service of improving the overall quality of recommendations.
+
+[51:38] You know, we also are focused on making the recommendations even more personalized and more relevant to any given user's interest.
+[51:46] There's work we're doing to redesign our content retrieval system to show more content that matches the full range of a user's interests and to tailor the diversity of the topics we recommend.
+[51:57] To the broadness of someone's interest. So someone with particularly concentrated interest might see relatively more of that content, while people with a broader set of interest might see kind of a greater range in the topics that we show them.
+[52:11] And then finally we're continuing to make improvements to our sort of LLM based to neural algorithm features that allow users to provide more granular natural language feedback on what they want to see more of or less of in their feed.
+[52:24] So the sort of the, the, the kind of the sequence line, which is the thing that you called out is one of really many improvements we made in Q1 and there is a big roadmap of further improvements going forward.
+
+[OPERATOR - Krista]:
+[52:39] Your next question comes from the line of Doug and move with JP Morgan. Please go ahead.
+
+[DOUGLAS ANMUTH - Analyst, JPMorgan]:
+[52:47] Any questions.
+[52:48] Mark, how do you think about the step up as you go from leveraging smaller models in the ad business to use spark and future.
+[52:56] Large language models going forward where some of the key unlocks across engagement and monetization and then.
+[53:04] On Manus, can you just talk at all about the strategic importance and the role in developing a gender products for meta and then just current status around the tech and the deal. Thanks.
+
+[SUSAN LI - CFO]:
+[53:16] I'll take that question on Manus. We're still working through the details. So we don't have an update right now on your first question, which is about sort of the going from leveraging smaller ads businesses smaller models in the ads business to kind of to the ads sort of models growing.
+[53:39] There, there's already a some work underway and I think I alluded to some of this in my earlier remarks, even kind of in the current landscape of the ads roadmap where we're basically trying to advance the architecture here to allow sort of to allow us to leverage the abilities of
+
+[53:58] the larger models.
+[53:59] Historically, we haven't used larger model architectures like gem for inference because their size and complexity would make them to cost prohibitive and the way we drive performance from those models is by using them to transfer knowledge to smaller, more lightweight models that are used at runtime.
+[54:16] The inference models are bound by strict latency requirements since they need to find the right ad within milliseconds and that has again historically prevented us from meaningfully sizing up scaling up their size and complexity.
+[54:28] But in the second half of last year we introduced a new adaptive ranking model which enables us to leverage LLM scale model complexity of a trillion parameters and we made advances in the model architecture.
+[54:41] We designed the system with the underlying silicon so it maintains the sub second speed that is required to serve ads at scale.
+[54:47] We also developed an approach that intelligently routes request more compute intensive inference models if it determines that there is a higher probability of conversion and that lets us drive both better performance and increase and increase.
+
+[55:06] So there's a lot of work being done there before we even sort of incorporate more of the LLM work into our underlying ads ranking models.
+
+[OPERATOR - Krista]:
+[55:15] We have time for one more question.
+[55:19] Ken Gorelsky with Wells Fargo.
+[55:21] Your line is open.
+
+[KENNETH GAWRELSKI - Analyst, Wells Fargo]:
+[55:23] Thank you very much.
+[55:26] If I may.
+
+[55:27] First, if I could, you talked about the music spark launch.
+[55:31] She talked about two categories or two verticals.
+[55:34] You talked about health and wellness and shopping.
+[55:37] Can I have a little bit ask you to add a little deeper into the latter on the shopping and commerce side and maybe if you could.
+[55:44] Were there any learnings in the 2021-22 phase where you pushed deeper into commerce on Instagram and then you're going to be able to do that.
+[55:54] On Instagram and on Facebook any learnings from that period.
+
+[55:57] You might apply is are these are an opportunity for a next year and marketplace type business in commerce.
+[56:04] And then the second please.
+[56:06] Maybe Susan, if you talk a little bit about.
+[56:09] Based on your model improvements and content recommendations.
+[56:16] How much visibility do you think you have to kind of the growth trajectory on the core business.
+[56:23] You continue to grow it.
+
+[56:24] Basically double the pace of the industry despite being a very large share of the industry.
+[56:29] Just can you just talk about a little bit about your your visibility into that continued performance. Thank you.
+
+[MARK ZUCKERBERG - CEO]:
+[56:36] Yeah, so I might give you a somewhat loftier answer to the question.
+[56:48] You're asking about shopping. I think it's sort of an interesting.
+[56:52] Example of the way in which the work that we're doing is different.
+[56:57] Then what I think others are doing out there.
+
+[57:01] You know these products they.
+[57:04] A.I. agents get better when you fully optimize the stack.
+[57:09] That's why we believe that we need to be a company that builds frontier models in addition to building the agents.
+[57:17] And then in order to do that you of course need to build your infrastructure in order to build to do that well.
+[57:21] So we're undertaking this large investment to be able to do that top to bottom.
+[57:26] And I think a lot of the way to think about the investment that we're making.
+
+[57:32] Is a bet that.
+[57:35] The individual things that people care about and that people are going to be more important in the future.
+[57:42] And that's sort of like a and I think it should be a pretty obvious thing to say.
+[57:48] But I think so much of the rhetoric around a I in the industry is around.
+[57:53] Like a company trying to build some kind of centralized thing that like does all the productive work in society in some way or something like that.
+[58:01] And that just is very different from how we see the world.
+
+[58:05] Like our our vision for the future is one where society makes progress by individuals pursuing their own aspirations.
+[58:16] And some people care about big grand things like curing diseases and a lot of people care about personal things like finding the right shirt for my daughter.
+[58:25] And I just think that we want to we're going to build things that help deliver this vision for personal agents for people.
+[58:34] And I think that part of the lane and what is interesting and differentiated about what we're doing is that that's just so different from how I hear everyone else talking about the work that we're doing.
+[58:44] So even though I think some of these ideas they seem like they should be so obvious.
+[58:49] I actually think that our approach of trying to empower individuals and building consumer things is just in the details extremely different from what others are doing.
+
+[59:01] And shopping might be one kind of specific example that I think is going to have interest in commercial implications and I think people consumers are going to like it.
+[59:12] But, you know, I don't hear any other labs out there talking about how they're building an AI that's really good at shopping.
+[59:19] And I think that the reason for that is like not because shopping is the most important thing by itself, but because like empowering people to do the things that matter in their lives, whether that's local or understanding social context, or, or shopping or personal health things or understanding what's going on around them visually,
+[59:38] which is going to be really important on the glasses. These are all elements of the personal super intelligence vision.
+[59:44] And I think like a lot of this and when you're thinking about kind of the investment in meta over time, I think you should think about it as coming down to these set of values around what do we want AI to do in society.
+[59:56] And if what you want it to do is empower individuals and build a world where the AI is in service to individuals goals, then that is what we are going to build and I think it's going to be incredibly valuable.
+
+[SUSAN LI - CFO]:
+[60:09] I almost wish we could end on that answer, but I will answer the second question, which I think kind of as two versions. One is, you know, a version of like, you know, what's the revenue outlook and obviously we gave, you know, the key to guide, which embeds, I think, both a range of kind of macro outcomes, but also the work that we've, you know, the, the ongoing work that we have to continue improving both
+[60:36] the sort of usage and engagement on our family of apps and then, you know, our ability to continue making the ads better and more performant.
+[60:44] You know, I think the second question is maybe more of a, the second version of that question is more of a higher level question about kind of the overall trajectory of the roadmap here.
+[60:56] And one of the things I, you know, we'll say having been working on this for a very long time is I'm always really impressed by the team's ability to to continue to advance the state of the art here.
+[61:09] And our planning process now is I think really fine tune around this so I've mentioned on a couple calls the budgeting process in which we run a very sort of our our live based process to make sure that we are funding all of the ads initiatives that we think will drive
+[61:25] growth in future years. And that's something that is both quite dialed in and I think that, you know, our ability to measure the impact of that has been pretty robust and it's, you know, been a very important driver of, of our ads revenue growth
+
+[61:39] and that continues to be a process that, you know, again, we ran in this past budget and as you, and as far as we can, you know, as we have line of sight we feel good about the investment opportunities ahead of us.
+
+[KENNETH DORELL - Director of Investor Relations]:
+[61:53] Great. Thank you everyone for joining us today. We look forward to speaking with you again soon.
+
+[OPERATOR - Krista]:
+[61:57] This concludes today's conference call. Thank you for joining and you may now disconnect.
