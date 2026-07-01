@@ -1,21 +1,22 @@
-# Python dependencies for the app-webcast-transcriber
+# Python dependencies for webcast-transcriber
 # Install with: pip install -r requirements.txt
 #
 # Also requires ffmpeg (system install, not pip):
 #   Mac:   brew install ffmpeg
 #   Linux: sudo apt install ffmpeg
-#   Windows: https://ffmpeg.org/download.html
 #
-# Also requires a Google Cloud API key for translate.py:
+# API keys required by certain scripts:
 #   export GOOGLE_TRANSLATE_API_KEY="your-key-here"
-#   Get one at: console.cloud.google.com (free tier: 500K chars/month)
+#   export ANTHROPIC_API_KEY="your-key-here"
 
 openai-whisper==20250625
 requests==2.33.1
 beautifulsoup4==4.14.3
 pypdf==5.9.0
 playwright
-yt-dlpanthropic
+yt-dlp
+anthropic
 jiwer
 num2words
 cryptography
+flask

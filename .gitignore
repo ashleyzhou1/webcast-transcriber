@@ -21,6 +21,10 @@ __pycache__/
 *session*.json
 hls_segments_temp/
 
-# API keys and secrets
+# API keys and secrets - never commit
 .env
 .env.*
+web/config.js
+config.js
+*.key
+*.secret

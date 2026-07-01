@@ -251,3 +251,28 @@ python src/add_speakers.py         # one-time setup
 python -m http.server 8000         # from repo root
 # then open http://localhost:8000/web/ in Chrome
 ```
+## July 1–6, 2026
+
+**Tasks:** Implemented Additional Features:
+- Release date and fiscal quarter label under title
+- Full transcript modal with language-aware translation
+- Live captions and audio in selected language
+
+---
+
+### Audio Caption Web Player (Extended)
+
+Built on top of the basic caption player from the previous session. Full feature set:
+
+- **Company info bar** — fiscal quarter and release date displayed under the title when a company is selected
+- **Full transcript modal** — button opens a popup with the complete transcript; translates to selected language
+- **Language dropdown** — 8 languages supported: English, Chinese (Simplified), Spanish, French, Japanese, Korean, Arabic, German
+- **Translated audio (TTS)** — when a non-English language is selected, the original mp3 is replaced by browser Text-to-Speech (`speechSynthesis` Web API). Each segment is spoken as it appears, chained sequentially. Male/female voice selected per segment based on speaker.
+- **Audio seeking** — switched from `python -m http.server` to Flask (`web/serve.py`) because Python's basic server doesn't support HTTP range requests, which are required for the browser to seek within large mp3 files
+- **Skip buttons** — skip ±15 seconds in English mode, ±5 segments in TTS mode
+
+To run:
+```bash
+python web/serve.py
+# open http://127.0.0.1:8000
+```

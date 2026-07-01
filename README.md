@@ -1,6 +1,6 @@
 # webcast-transcriber
 
-A Python pipeline for downloading, transcribing, and extracting text from company earnings call webcasts and press releases.
+A Python pipeline for downloading, transcribing, and extracting text from company earnings call webcasts and press releases, with a browser-based audio player featuring real-time captions, speaker labels, and multi-language support.
 
 ---
 
@@ -21,10 +21,11 @@ webcast-transcriber/
 │   ├── diarize.py
 │   ├── clean_transcripts.py
 │   ├── build_caption_data.py
+│   ├── add_speakers.py
 │   └── test_all_companies.sh
 ├── research/                     # Findings log and research outputs
-│   ├── mobile-mockup.png         # Mockup for audio player feature  
 │   ├── findings.md
+│   ├── mobile-mockup.png
 │   └── 6-17/
 │       ├── llm-search-results/
 │       └── scraper-results/
@@ -37,8 +38,12 @@ webcast-transcriber/
 │       ├── clean/
 │       └── wer-reports/
 ├── web/                          # Audio caption web player
-│   ├── index.html
-│   └── data/                     # Preprocessed caption JSONs (one per company)
+│   ├── index.html                ← single-file player (HTML + CSS + JS)
+│   ├── serve.py                  ← Flask dev server (required for audio seeking)
+│   ├── config.js                 ← API key config (gitignored, create manually)
+│   └── data/                     ← preprocessed caption JSONs (one per company)
+├── requirements.txt
+└── README.md
 ```
 
 ---
@@ -61,16 +66,17 @@ Install ffmpeg (Mac):
 brew install ffmpeg
 ```
 
-`translate.py` additionally requires a Google Cloud API key (free tier:
-500K characters/month):
-```bash
-export GOOGLE_TRANSLATE_API_KEY="your-key-here"
-```
+API keys required by certain scripts:
 
-`diarize.py` requires an Anthropic API key:
 ```bash
+# Google Translate API (translate.py and web player translation features)
+export GOOGLE_TRANSLATE_API_KEY="your-key-here"
+
+# Anthropic API (diarize.py)
 export ANTHROPIC_API_KEY="your-key-here"
 ```
+
+Both keys can be added to `~/.zshrc` to persist across terminal sessions.
 
 ---
 
@@ -78,63 +84,62 @@ export ANTHROPIC_API_KEY="your-key-here"
 
 **`src/download.py`** — download a direct audio, video, or PDF URL locally. Video files are automatically converted to mp3 via ffmpeg.
 ```bash
-python download.py <url> [output_dir]
+python src/download.py <url> [output_dir]
 ```
 
-**`src/transcribe.py`** — transcribe a local audio file using Whisper (runs locally, no API key needed). Use `base.en` for English, `base` for mixed-language calls.
+**`src/transcribe.py`** — transcribe a local audio file using OpenAI Whisper (runs locally, no API key needed). Use `base.en` for English, `base` for mixed-language calls (e.g. TSMC).
 ```bash
-python transcribe.py <audio_path> [model_size] [output_dir]
+python src/transcribe.py <audio_path> [model_size] [output_dir]
+# English: python src/transcribe.py samples/Audio-Video/amd-q1-2026.mp3 base.en samples/transcripts/whisper-or-extracted
+# Mixed:   python src/transcribe.py samples/Audio-Video/tsmc-q1-2026.mp3 base samples/transcripts/whisper-or-extracted
 ```
 
 **`src/extract_pdf.py`** — extract plain text from a local PDF file.
 ```bash
-python extract_pdf.py <pdf_path> [output_dir]
+python src/extract_pdf.py <pdf_path> [output_dir]
 ```
 
-**`src/compare_transcripts.py`** — compare a Whisper transcript against an official PDF using Word Error Rate (WER).
+**`src/compare_transcripts.py`** — compare a Whisper transcript against an official PDF using Word Error Rate (WER). Normalizes both before comparison (strips timestamps, lowercases, converts numbers to words, strips punctuation). Saves a full report to `samples/transcripts/wer-reports/`.
 ```bash
 python src/compare_transcripts.py <whisper_txt> <official_pdf>
+# Example:
+python src/compare_transcripts.py samples/transcripts/whisper-or-extracted/amd-q1-2026.txt samples/transcripts/official-pdfs/amd-q1-2026.pdf
 ```
 
-**`src/diarize.py`** — add speaker labels to a Whisper transcript using the Anthropic API (Claude Sonnet with web search).
+**`src/diarize.py`** — add speaker labels to Whisper transcripts using the Anthropic API (Claude Sonnet with web search). Claude looks up the company's executive roster, identifies speaker transitions from context clues, and inserts labels in the format `[SPEAKER NAME - ROLE]:`. TSMC (mixed Chinese/English) is handled automatically. Output is saved to `samples/transcripts/diarized/`.
 ```bash
 python src/diarize.py <company> [company2] ...
+# Single:  python src/diarize.py amd
+# Batch:   python src/diarize.py amd ibm meta google oracle
 ```
 
-**`src/translate.py`** — translate a transcript into another language using the Google Translate API.
+**`src/clean_transcripts.py`** — strips Claude API preamble, removes timestamps, and reformats diarized transcripts into readable paragraphs (~10 sentences each). Preserves speaker labels. Saves to `samples/transcripts/clean/`.
 ```bash
-python translate.py <text_file> <target_lang_code> [output_dir]
-# Example: python translate.py samples/transcripts/whisper-or-extracted/oracle-q4-fy2026.txt zh samples/transcripts/whisper-or-extracted
-```
-
-**`src/scrape_ir_page.py`** — scrape a company IR page for webcast-related links and save results as JSON.
-```bash
-python scrape_ir_page.py <ir_page_url> <company_name> <ticker> [output_path]
-```
-
-**`src/clean_transcripts.py`** — removes timestamps, boilerplate preamble, and reformats diarized transcripts into readable paragraphs. Saves to `samples/transcripts/clean/`.
-```bash
-python src/clean_transcripts.py --all        # all 19 companies
-python src/clean_transcripts.py amd google   # specific companies
+python src/clean_transcripts.py --all          # all 19 companies
+python src/clean_transcripts.py amd google     # specific companies
 ```
 
 **`src/build_caption_data.py`** — preprocesses Whisper JSON files into lean `{start, end, text}` caption JSONs for the web player. Saves to `web/data/`.
 ```bash
-python src/build_caption_data.py   # all 19 companies
-```
-**`src/build_caption_data.py`** — preprocesses Whisper JSON files into lean caption JSONs for the web player. Saves to `web/data/`.
-```bash
-python src/build_caption_data.py
+python src/build_caption_data.py               # all 19 companies
+python src/build_caption_data.py amd           # single company
 ```
 
-**`src/add_speakers.py`** — merges speaker labels from diarized transcripts into caption JSONs. Uses timestamp alignment or fuzzy text matching depending on available diarized file.
+**`src/add_speakers.py`** — merges speaker labels from diarized transcripts into the caption JSONs in `web/data/`. Uses timestamp alignment for companies with `_diarized_ts.txt`, fuzzy text matching for the rest. Updates JSON files in place.
 ```bash
-python src/add_speakers.py
+python src/add_speakers.py                     # all 19 companies
+python src/add_speakers.py amd                 # single company
 ```
 
-**`src/clean_transcripts.py`** — strips timestamps and boilerplate from diarized transcripts and reformats into readable paragraphs. Saves to `samples/transcripts/clean/`.
+**`src/translate.py`** — translate a transcript file into another language using the Google Translate API. Requires `GOOGLE_TRANSLATE_API_KEY`.
 ```bash
-python src/clean_transcripts.py --all
+python src/translate.py <text_file> <target_lang_code> [output_dir]
+# Example: python src/translate.py samples/transcripts/whisper-or-extracted/oracle-q4-fy2026.txt zh samples/transcripts/whisper-or-extracted
+```
+
+**`src/scrape_ir_page.py`** — scrape a company IR page for webcast-related links and save results as JSON.
+```bash
+python src/scrape_ir_page.py <ir_page_url> <company_name> <ticker> [output_path]
 ```
 
 > **Note:** scripts default to writing output to `../samples`. Pass an output directory explicitly if running from a different location.
@@ -145,58 +150,37 @@ python src/clean_transcripts.py --all
 
 ### find_media_url.py
 
-Given a webcast page URL, automatically finds the downloadable audio/video link by watching the page's network traffic (replaces manual browser DevTools inspection). It looks for one of three patterns, in priority order:
+Given a webcast page URL, automatically finds the downloadable audio/video link by watching the page's network traffic. It looks for one of three patterns, in priority order:
 
 1. **A direct media file** (same file requested multiple times with "206 Partial Content" status) → hands off to `download.py`
-2. **Numbered HLS segments with a signed URL** (e.g. `..._00001.ts`, `..._00002.ts`) → hands off to `download_hls_segments.py` (see Nvidia section below)
+2. **Numbered HLS segments with a signed URL** (e.g. `..._00001.ts`, `..._00002.ts`) → hands off to `download_hls_segments.py`
 3. **A streaming playlist file** (`.m3u8`) → hands off to `ffmpeg`, which fetches and reassembles the full stream directly
 
 ```bash
-python find_media_url.py <webcast_page_url> [session_file.json] [--debug]
+python src/find_media_url.py <webcast_page_url> [session_file.json] [--debug]
 ```
 
-`--debug` is required to allow the user to manually click play.
+`--debug` is required to allow the user to manually click play on the page.
 
 ### Step 1: Save a login session (one-time per platform)
 
-Login once per platform. This login info is saved to a JSON file. Log in manually, then press Enter.
-
 ```bash
-python src/save_login_session.py "<a login page URL on that platform>" "<platform>_session.json"
+python src/save_login_session.py "<login_page_url>" "<platform>_session.json"
 ```
 
-**Important:** If `find_media_url.py` opens to a login screen instead of the webcast, log in again manually in that window (just means the saved session timed out on the browser's end).
+Log in manually in the browser window that opens, then press Enter. Session files are gitignored.
 
-### Batch testing multiple companies (test_all_companies.sh)
+### Batch testing multiple companies
 
-To run the link-finding process across many companies in one sitting, edit the `COMPANIES` list near the top of `src/test_all_companies.sh`:
-
-```bash
-COMPANIES=(
-  "company_name|https://webcast-page-url-here.com"
-  "another_company|https://another-url-here.com"
-)
-```
-
-Run it with:
+Edit the `COMPANIES` list in `src/test_all_companies.sh` then run:
 ```bash
 bash src/test_all_companies.sh
 ```
 
-The script automatically downloads/converts each result to mp3 and saves it to the output folder set at the top of the script.
-
 ### YouTube-hosted webcasts (Tesla, Google/Alphabet, Adobe)
 
-For YouTube-hosted webcasts, use `yt-dlp`:
 ```bash
 pip install yt-dlp
-```
-```bash
-yt-dlp -x --audio-format mp3 -o "samples/Audio-Video/<company>.%(ext)s" "<youtube_watch_url>"
-```
-
-Examples:
-```bash
 yt-dlp -x --audio-format mp3 -o "samples/Audio-Video/tesla-q1-2026.%(ext)s" "https://www.youtube.com/watch?v=qO7T5zgRvXM"
 yt-dlp -x --audio-format mp3 -o "samples/Audio-Video/google-q1-2026.%(ext)s" "https://www.youtube.com/watch?v=LPJoiDiVkTI"
 yt-dlp -x --audio-format mp3 -o "samples/Audio-Video/adobe-q2-fy26.%(ext)s" "https://www.youtube.com/watch?v=hhtVWLMpYic"
@@ -206,95 +190,83 @@ yt-dlp -x --audio-format mp3 -o "samples/Audio-Video/adobe-q2-fy26.%(ext)s" "htt
 
 ## Nvidia (Special Case): Signed HLS Segments
 
-Nvidia's quarterly earnings call is on Q4 Inc (same as Oracle, Meta, Cisco) and downloads as a standard direct mp4. However, Nvidia also appeared at the BofA Global Tech conference hosted on Veracast, which requires a different workaround.
+Nvidia's quarterly earnings call is on Q4 Inc and downloads as a standard direct mp4. However, a separate BofA conference keynote is on Veracast, which breaks the video into numbered chunks each requiring a signed permission token. ffmpeg drops the signature when following the manifest chain, so each chunk must be downloaded manually.
 
-Veracast breaks the video into numbered chunks (e.g. `..._00001.ts` through `..._00175.ts`), each requiring a signed permission token. ffmpeg can read the `.m3u8` manifest but does NOT carry that signature forward when fetching individual chunks — causing 403 errors on every segment. The fix: download each chunk directly with the signature manually re-attached, then stitch them together.
-
-**Process:**
-
-1. Run `find_media_url.py` on the Veracast page — it detects the numbered-segment pattern and prints a ready-to-fill command, missing only the segment count.
-
-2. Find the total segment count:
-```bash
-curl -s "<m3u8_url_with_query_string>" | tail -5
-```
-The last segment filename (e.g. `..._00175.ts`) tells you the total count.
-
-3. Run the download:
+1. Run `find_media_url.py` — it detects the pattern and prints a ready-to-fill command.
+2. Find the total segment count: `curl -s "<m3u8_url>" | tail -5`
+3. Run:
 ```bash
 python src/download_hls_segments.py \
-  "<base_url_from_find_media_url_output>" \
-  "<query_string_from_find_media_url_output>" \
-  <num_segments> \
-  "samples/Audio-Video/nvidia-bofaconf.mp4" \
-  1 <num_digits>
+  "<base_url>" "<query_string>" <num_segments> \
+  "samples/Audio-Video/nvidia-bofaconf.mp4" 1 <num_digits>
 ```
 
 ---
 
-## Transcription
+## Audio Caption Web Player
 
-Use `base.en` for English calls, `base` for mixed-language calls (e.g. TSMC):
+A browser-based player for all 19 earnings call recordings with real-time captions, speaker labels, multi-language support, and translated audio playback.
+
+### Prerequisites
+
+**1. Create `web/config.js` (gitignored — never committed):**
 ```bash
-python src/transcribe.py samples/Audio-Video/amd-q1-2026.mp3 base.en samples/transcripts/whisper-or-extracted
-python src/transcribe.py samples/Audio-Video/tsmc-q1-2026.mp3 base samples/transcripts/whisper-or-extracted
+echo 'const GOOGLE_TRANSLATE_API_KEY = "your-key-here";' > web/config.js
 ```
 
-Outputs a `.txt` (human-readable with timestamps) and `.json` (structured, suitable for database storage).
-
----
-
-## Transcript Quality Comparison
-
-Compares a Whisper transcript against an official PDF using Word Error Rate (WER):
-
+**2. Build caption data (run once, or after re-running diarization):**
 ```bash
-python src/compare_transcripts.py "samples/transcripts/whisper-or-extracted/amd-q1-2026.txt" "samples/transcripts/official-pdfs/amd-q1-2026.pdf"
+python src/build_caption_data.py
+python src/add_speakers.py
 ```
 
-**Normalization applied before comparison:**
-- Timestamps stripped
-- Lowercased
-- Numbers converted to words (`5` → `five`)
-- Punctuation stripped
-- Contractions kept as-is (`don't` ≠ `do not`)
-
-Uses `difflib` sequence alignment to handle cases where the official PDF has extra boilerplate headers not present in the audio. Saves a full report to `samples/transcripts/wer-reports/`.
-
-Requires:
+**3. Install Flask (required for audio seeking support):**
 ```bash
-pip install jiwer num2words cryptography
+pip install flask
 ```
 
----
-
-## Speaker Diarization
-
-Adds speaker labels to Whisper transcripts using the Anthropic API (Claude Sonnet with web search):
+### Running the player
 
 ```bash
-export ANTHROPIC_API_KEY="your-key-here"
-# Single company:
-python src/diarize.py amd
-# Batch:
-python src/diarize.py amd ibm meta google oracle
+python web/serve.py
+# then open http://127.0.0.1:8000 in Chrome
 ```
 
-Input: `samples/transcripts/whisper-or-extracted/<company>*.txt`
-Output: `samples/transcripts/diarized/<company>_diarized.txt`
+### Features
 
-Labels use the format `[SPEAKER NAME - ROLE]:`. Claude uses web search to find the correct executive roster and corrects obvious Whisper name transcription errors in labels. TSMC (mixed Chinese/English) is handled automatically.
+**Playback (English mode)**
+- Company dropdown
+- Real-time captions
+- Speaker name displayed above each caption in the format `[SPEAKER NAME - ROLE]`
+- Playback speed: 1× / 1.25× / 1.5× / 2×
 
-Requires:
-```bash
-pip install anthropic
-```
+**Company info**
+- Fiscal quarter and release date displayed under the title when a company is selected
+- Full transcript button opens a modal with readable transcript
+
+**Multi-language support**
+- Language dropdown: English, Chinese (Simplified), Spanish, French, Japanese, Korean, Arabic, German
+- Selecting a non-English language translates all caption segments
+- Full transcript modal also translates when a non-English language is selected
+
+**Translated audio (TTS mode)**
+- When a non-English language is selected, audio switches from the original mp3 to browser-native Text-to-Speech (`speechSynthesis` Web API)
+- Each caption segment is spoken aloud as it appears, chained via `utterance.onend` callbacks
+- Male/female voice selection based on speaker
+
+### How caption data is built
+
+`build_caption_data.py` reads each company's Whisper JSON (which contains `{id, start, end, text, tokens, ...}` per segment) and strips it down to just `{start, end, text}`, saving to `web/data/<company>.json`.
+
+`add_speakers.py` then adds a `speaker` field to each segment by cross-referencing the diarized transcripts:
+- **Timestamp-based** (10 companies with `_diarized_ts.txt`): parses speaker label + first timestamp from each speaker block, assigns speaker to all Whisper segments within that time range
+- **Fuzzy text matching** (9 companies with text-only `_diarized.txt`): takes the first 60 chars of each speaker block, uses `difflib.SequenceMatcher` to find the closest match in the concatenated Whisper text, maps that character position back to a segment index
 
 ---
 
 ## Google Drive
 
-Audio/video files and all transcripts are stored in the [project Google Drive](https://drive.google.com/drive/folders/17D9ajhhCqGy4qU3mu6fG-iW5j5QBlE0b?usp=sharing), organized as follows:
+All audio/video files and transcripts are in the [project Google Drive](https://drive.google.com/drive/folders/17D9ajhhCqGy4qU3mu6fG-iW5j5QBlE0b?usp=sharing):
 
 ```
 webcast-transcriber/
@@ -303,47 +275,15 @@ webcast-transcriber/
 │   ├── whisper-or-extracted/  ← Whisper .txt and .json outputs
 │   ├── official-pdfs/         ← company-published PDF transcripts (11 companies)
 │   ├── diarized/              ← speaker-labeled transcripts
+│   ├── clean/                 ← cleaned readable transcripts
 │   └── wer-reports/           ← WER comparison reports
 └── Webcast Audio Coverage     ← project spreadsheet (audio coverage + WER results)
 ```
 
-Audio and video files are not committed to GitHub (too large). All text outputs are in both the repo under `samples/` and in Google Drive.
+Audio and video files are not committed to GitHub (too large). All text outputs are in both the repo and Google Drive.
 
 ---
-## Audio Caption Web Player
 
-An in-browser audio player that plays earnings call recordings with real-time captions and speaker labels. Built as a local demo tool.
-
-### How it works
-
-**Python prepares the data (run once):**
-
-`src/build_caption_data.py` converts the Whisper JSON files into lean caption JSONs containing only `{start, end, text}` per segment, saved to `web/data/`.
-
-`src/add_speakers.py` adds a `speaker` field to each segment by cross-referencing the diarized transcripts. Uses timestamp alignment for companies with `_diarized_ts.txt`, fuzzy text matching for the rest. Updates `web/data/` in place.
-
-`web/index.html` is a single self-contained HTML file with CSS (styling) and JavaScript (behavior) that loads the caption JSONs and mp3 files, syncs captions to audio playback in real time, and renders the scrollable transcript panel with speaker headers.
-
-### Setup and run
-
-```bash
-# Step 1: build caption JSONs (only needed once, or after re-running diarization)
-python src/build_caption_data.py
-python src/add_speakers.py
-
-# Step 2: start local server from repo root
-python -m http.server 8000
-
-# Step 3: open in Chrome
-open http://localhost:8000/web/
-```
-
-### Features
-- Dropdown to select any of the 19 companies
-- Real-time captions synced to audio playback
-- Speaker name displayed above each caption
-- Playback speed: 1× / 1.25× / 1.5× / 2×
-  
 ## Findings
 
-See `research/findings.md` for full research notes, pipeline results, company-by-company coverage, transcript quality results, and proposed next steps.
+See `research/findings.md` for full research notes, pipeline results, company-by-company coverage, transcript quality results, and web player implementation details.
